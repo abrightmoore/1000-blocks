@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:droyst_shards_from_droyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:droyst"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:droyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

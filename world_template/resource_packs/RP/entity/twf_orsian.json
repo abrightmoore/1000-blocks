@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_orsian.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_h"
+            }, 
+            "identifier": "twf:orsian", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#9743CD", 
+                "overlay_color": "#C6468B"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_orsian"
+            }
+        }
+    }
+}

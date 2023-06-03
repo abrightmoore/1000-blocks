@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_ndema.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_verivre"
+            }, 
+            "identifier": "twf:ndema", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#FED93F", 
+                "overlay_color": "#BE07A1"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_ndema"
+            }
+        }
+    }
+}

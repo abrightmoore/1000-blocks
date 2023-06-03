@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:agoveian_shards_from_agoveian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:agoveian"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:agoveian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

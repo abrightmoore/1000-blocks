@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:xetchite_from_xetchite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:xetchite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:xetchite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

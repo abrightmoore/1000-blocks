@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:heyst_shards_from_heyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:heyst"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:heyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

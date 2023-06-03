@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:kzondeite_shards_from_kzondeite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:kzondeite"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:kzondeite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

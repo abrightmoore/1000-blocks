@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erthecia_from_erthecia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:erthecia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:erthecia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

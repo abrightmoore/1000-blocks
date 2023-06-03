@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:gonvenyst_from_gonvenyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:gonvenyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:gonvenyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

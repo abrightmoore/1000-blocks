@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nedrevaline_shards_from_nedrevaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:nedrevaline"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:nedrevaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

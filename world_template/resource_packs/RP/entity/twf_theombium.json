@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_theombium.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_maiecpic"
+            }, 
+            "identifier": "twf:theombium", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#B8342C", 
+                "overlay_color": "#F1555D"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_theombium"
+            }
+        }
+    }
+}

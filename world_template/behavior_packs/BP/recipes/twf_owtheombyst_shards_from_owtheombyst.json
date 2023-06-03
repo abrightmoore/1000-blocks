@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:owtheombyst_shards_from_owtheombyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:owtheombyst"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:owtheombyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:axagian_shards_from_axagian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:axagian"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:axagian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

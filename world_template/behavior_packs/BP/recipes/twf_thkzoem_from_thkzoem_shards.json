@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:thkzoem_from_thkzoem_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:thkzoem_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:thkzoem"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:oneraagyst_from_oneraagyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:oneraagyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:oneraagyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

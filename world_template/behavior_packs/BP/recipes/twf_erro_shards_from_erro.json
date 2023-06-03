@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erro_shards_from_erro"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:erro"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:erro_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

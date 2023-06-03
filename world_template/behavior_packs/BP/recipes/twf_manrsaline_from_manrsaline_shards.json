@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:manrsaline_from_manrsaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:manrsaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:manrsaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

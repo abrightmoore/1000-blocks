@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_iezodel.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_lbyst"
+            }, 
+            "identifier": "twf:iezodel", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#169B9C", 
+                "overlay_color": "#03857F"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_iezodel"
+            }
+        }
+    }
+}

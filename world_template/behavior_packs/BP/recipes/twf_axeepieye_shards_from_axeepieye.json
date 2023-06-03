@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:axeepieye_shards_from_axeepieye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:axeepieye"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:axeepieye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

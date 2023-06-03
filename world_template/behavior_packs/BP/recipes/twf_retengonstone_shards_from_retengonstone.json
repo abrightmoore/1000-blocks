@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:retengonstone_shards_from_retengonstone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:retengonstone"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:retengonstone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

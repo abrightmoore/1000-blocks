@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:otemendstone_shards_from_otemendstone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:otemendstone"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:otemendstone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:reeepelia_shards_from_reeepelia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:reeepelia"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:reeepelia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:oteepte_shards_from_oteepte"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:oteepte"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:oteepte_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

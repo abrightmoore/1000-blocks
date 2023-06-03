@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:endgoyst_shards_from_endgoyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:endgoyst"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:endgoyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

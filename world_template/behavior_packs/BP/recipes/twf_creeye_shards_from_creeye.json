@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:creeye_shards_from_creeye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:creeye"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:creeye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

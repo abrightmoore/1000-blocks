@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nedwitrsyx_from_nedwitrsyx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:nedwitrsyx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:nedwitrsyx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

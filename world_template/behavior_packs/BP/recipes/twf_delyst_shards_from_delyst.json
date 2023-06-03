@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:delyst_shards_from_delyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:delyst"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:delyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

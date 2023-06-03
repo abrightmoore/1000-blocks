@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:draomyst_shards_from_draomyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:draomyst"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:draomyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

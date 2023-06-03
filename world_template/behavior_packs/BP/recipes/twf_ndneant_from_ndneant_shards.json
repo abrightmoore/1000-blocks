@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ndneant_from_ndneant_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:ndneant_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ndneant"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_rwepievian.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_ned"
+            }, 
+            "identifier": "twf:rwepievian", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#658624", 
+                "overlay_color": "#B85D4F"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_rwepievian"
+            }
+        }
+    }
+}

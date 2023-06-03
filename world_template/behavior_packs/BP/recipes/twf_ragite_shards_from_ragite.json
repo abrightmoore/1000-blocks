@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ragite_shards_from_ragite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ragite"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:ragite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

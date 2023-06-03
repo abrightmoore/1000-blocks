@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:herian_from_herian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:herian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:herian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:chomanbro_from_chomanbro_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:chomanbro_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:chomanbro"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

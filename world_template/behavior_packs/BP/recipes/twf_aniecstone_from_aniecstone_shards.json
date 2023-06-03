@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:aniecstone_from_aniecstone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:aniecstone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:aniecstone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

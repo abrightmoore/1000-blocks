@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rsonexepeye_shards_from_rsonexepeye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:rsonexepeye"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:rsonexepeye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

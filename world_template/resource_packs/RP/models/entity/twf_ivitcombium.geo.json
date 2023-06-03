@@ -1,0 +1,171 @@
+{
+    "format_version": "1.12.0", 
+    "minecraft:geometry": [
+        {
+            "bones": [
+                {
+                    "cubes": [
+                        {
+                            "name": "cube1", 
+                            "origin": [
+                                -0.6217234993402783, 
+                                0, 
+                                -2.9348696547492668
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                2, 
+                                5
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "cube2", 
+                            "origin": [
+                                -0.6217234993402783, 
+                                2.001, 
+                                -2.9348696547492668
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                2, 
+                                5
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "cube3", 
+                            "origin": [
+                                -0.6217234993402783, 
+                                4.002, 
+                                -2.9348696547492668
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                1, 
+                                2, 
+                                5
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "cube4", 
+                            "origin": [
+                                2.247367391817753, 
+                                0, 
+                                1.9872945947177205
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                10, 
+                                7, 
+                                9
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "cube5", 
+                            "origin": [
+                                2.247367391817753, 
+                                7.001, 
+                                1.9872945947177205
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                10, 
+                                7, 
+                                9
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }
+                    ], 
+                    "name": "root", 
+                    "pivot": [
+                        0, 
+                        0, 
+                        0
+                    ], 
+                    "rotation": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            ], 
+            "description": {
+                "identifier": "geometry.twf_ivitcombium", 
+                "texture_height": 16, 
+                "texture_width": 16, 
+                "visible_bounds_height": 3.5, 
+                "visible_bounds_offset": [
+                    0, 
+                    1.25, 
+                    0
+                ], 
+                "visible_bounds_width": 2
+            }
+        }
+    ]
+}

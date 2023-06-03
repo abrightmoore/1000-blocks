@@ -1,0 +1,3006 @@
+{
+    "resource_pack_name": "1000BlocksRP", 
+    "texture_data": {
+        "twf_spectrumium_item": {
+            "textures": "textures/items/twf_spectrumium_item"
+        },
+        "twf_brightmoore_item": {
+            "textures": "textures/items/twf_brightmoore_item"
+        }, 
+        "twf_agdrive_item": {
+            "textures": "textures/items/twf_agdrive_item"
+        }, 
+        "twf_agian_item": {
+            "textures": "textures/items/twf_agian_item"
+        }, 
+        "twf_agndtchyx_item": {
+            "textures": "textures/items/twf_agndtchyx_item"
+        }, 
+        "twf_agoedreye_item": {
+            "textures": "textures/items/twf_agoedreye_item"
+        }, 
+        "twf_agoidrenaaline_item": {
+            "textures": "textures/items/twf_agoidrenaaline_item"
+        }, 
+        "twf_agoitpicia_item": {
+            "textures": "textures/items/twf_agoitpicia_item"
+        }, 
+        "twf_agostone_item": {
+            "textures": "textures/items/twf_agostone_item"
+        }, 
+        "twf_agoveian_item": {
+            "textures": "textures/items/twf_agoveian_item"
+        }, 
+        "twf_agoyst_item": {
+            "textures": "textures/items/twf_agoyst_item"
+        }, 
+        "twf_agwiivealine_item": {
+            "textures": "textures/items/twf_agwiivealine_item"
+        }, 
+        "twf_agzomeve_item": {
+            "textures": "textures/items/twf_agzomeve_item"
+        }, 
+        "twf_an_item": {
+            "textures": "textures/items/twf_an_item"
+        }, 
+        "twf_analine_item": {
+            "textures": "textures/items/twf_analine_item"
+        }, 
+        "twf_andaline_item": {
+            "textures": "textures/items/twf_andaline_item"
+        }, 
+        "twf_andckzaline_item": {
+            "textures": "textures/items/twf_andckzaline_item"
+        }, 
+        "twf_andemaite_item": {
+            "textures": "textures/items/twf_andemaite_item"
+        }, 
+        "twf_andep_item": {
+            "textures": "textures/items/twf_andep_item"
+        }, 
+        "twf_andeye_item": {
+            "textures": "textures/items/twf_andeye_item"
+        }, 
+        "twf_andyx_item": {
+            "textures": "textures/items/twf_andyx_item"
+        }, 
+        "twf_anhoite_item": {
+            "textures": "textures/items/twf_anhoite_item"
+        }, 
+        "twf_aniecstone_item": {
+            "textures": "textures/items/twf_aniecstone_item"
+        }, 
+        "twf_annanaxeyx_item": {
+            "textures": "textures/items/twf_annanaxeyx_item"
+        }, 
+        "twf_anorivian_item": {
+            "textures": "textures/items/twf_anorivian_item"
+        }, 
+        "twf_anrieriyst_item": {
+            "textures": "textures/items/twf_anrieriyst_item"
+        }, 
+        "twf_anstone_item": {
+            "textures": "textures/items/twf_anstone_item"
+        }, 
+        "twf_ant_item": {
+            "textures": "textures/items/twf_ant_item"
+        }, 
+        "twf_antaline_item": {
+            "textures": "textures/items/twf_antaline_item"
+        }, 
+        "twf_antemarivia_item": {
+            "textures": "textures/items/twf_antemarivia_item"
+        }, 
+        "twf_antium_item": {
+            "textures": "textures/items/twf_antium_item"
+        }, 
+        "twf_antivanteye_item": {
+            "textures": "textures/items/twf_antivanteye_item"
+        }, 
+        "twf_antned_item": {
+            "textures": "textures/items/twf_antned_item"
+        }, 
+        "twf_antoneom_item": {
+            "textures": "textures/items/twf_antoneom_item"
+        }, 
+        "twf_antroaline_item": {
+            "textures": "textures/items/twf_antroaline_item"
+        }, 
+        "twf_ax_item": {
+            "textures": "textures/items/twf_ax_item"
+        }, 
+        "twf_axagian_item": {
+            "textures": "textures/items/twf_axagian_item"
+        }, 
+        "twf_axbroia_item": {
+            "textures": "textures/items/twf_axbroia_item"
+        }, 
+        "twf_axe_item": {
+            "textures": "textures/items/twf_axe_item"
+        }, 
+        "twf_axeaxerotium_item": {
+            "textures": "textures/items/twf_axeaxerotium_item"
+        }, 
+        "twf_axechherian_item": {
+            "textures": "textures/items/twf_axechherian_item"
+        }, 
+        "twf_axeepieye_item": {
+            "textures": "textures/items/twf_axeepieye_item"
+        }, 
+        "twf_axeeveeleye_item": {
+            "textures": "textures/items/twf_axeeveeleye_item"
+        }, 
+        "twf_axeian_item": {
+            "textures": "textures/items/twf_axeian_item"
+        }, 
+        "twf_axeieceye_item": {
+            "textures": "textures/items/twf_axeieceye_item"
+        }, 
+        "twf_axeitaline_item": {
+            "textures": "textures/items/twf_axeitaline_item"
+        }, 
+        "twf_axerigryx_item": {
+            "textures": "textures/items/twf_axerigryx_item"
+        }, 
+        "twf_axgoneye_item": {
+            "textures": "textures/items/twf_axgoneye_item"
+        }, 
+        "twf_axia_item": {
+            "textures": "textures/items/twf_axia_item"
+        }, 
+        "twf_axium_item": {
+            "textures": "textures/items/twf_axium_item"
+        }, 
+        "twf_bi_item": {
+            "textures": "textures/items/twf_bi_item"
+        }, 
+        "twf_biantreeye_item": {
+            "textures": "textures/items/twf_biantreeye_item"
+        }, 
+        "twf_bie_item": {
+            "textures": "textures/items/twf_bie_item"
+        }, 
+        "twf_bieev_item": {
+            "textures": "textures/items/twf_bieev_item"
+        }, 
+        "twf_bieia_item": {
+            "textures": "textures/items/twf_bieia_item"
+        }, 
+        "twf_biepigium_item": {
+            "textures": "textures/items/twf_biepigium_item"
+        }, 
+        "twf_bieten_item": {
+            "textures": "textures/items/twf_bieten_item"
+        }, 
+        "twf_biite_item": {
+            "textures": "textures/items/twf_biite_item"
+        }, 
+        "twf_bistone_item": {
+            "textures": "textures/items/twf_bistone_item"
+        }, 
+        "twf_biveraline_item": {
+            "textures": "textures/items/twf_biveraline_item"
+        }, 
+        "twf_bremaidstone_item": {
+            "textures": "textures/items/twf_bremaidstone_item"
+        }, 
+        "twf_brevite_item": {
+            "textures": "textures/items/twf_brevite_item"
+        }, 
+        "twf_brian_item": {
+            "textures": "textures/items/twf_brian_item"
+        }, 
+        "twf_brium_item": {
+            "textures": "textures/items/twf_brium_item"
+        }, 
+        "twf_brnanium_item": {
+            "textures": "textures/items/twf_brnanium_item"
+        }, 
+        "twf_brndium_item": {
+            "textures": "textures/items/twf_brndium_item"
+        }, 
+        "twf_broeeyst_item": {
+            "textures": "textures/items/twf_broeeyst_item"
+        }, 
+        "twf_broigian_item": {
+            "textures": "textures/items/twf_broigian_item"
+        }, 
+        "twf_broite_item": {
+            "textures": "textures/items/twf_broite_item"
+        }, 
+        "twf_bronacreyst_item": {
+            "textures": "textures/items/twf_bronacreyst_item"
+        }, 
+        "twf_broregr_item": {
+            "textures": "textures/items/twf_broregr_item"
+        }, 
+        "twf_broxeiveian_item": {
+            "textures": "textures/items/twf_broxeiveian_item"
+        }, 
+        "twf_broyx_item": {
+            "textures": "textures/items/twf_broyx_item"
+        }, 
+        "twf_chckneyst_item": {
+            "textures": "textures/items/twf_chckneyst_item"
+        }, 
+        "twf_chelbrivyx_item": {
+            "textures": "textures/items/twf_chelbrivyx_item"
+        }, 
+        "twf_chemaxstone_item": {
+            "textures": "textures/items/twf_chemaxstone_item"
+        }, 
+        "twf_cheye_item": {
+            "textures": "textures/items/twf_cheye_item"
+        }, 
+        "twf_chia_item": {
+            "textures": "textures/items/twf_chia_item"
+        }, 
+        "twf_chieman_item": {
+            "textures": "textures/items/twf_chieman_item"
+        }, 
+        "twf_chite_item": {
+            "textures": "textures/items/twf_chite_item"
+        }, 
+        "twf_chnanyx_item": {
+            "textures": "textures/items/twf_chnanyx_item"
+        }, 
+        "twf_chobieia_item": {
+            "textures": "textures/items/twf_chobieia_item"
+        }, 
+        "twf_choeth_item": {
+            "textures": "textures/items/twf_choeth_item"
+        }, 
+        "twf_choickium_item": {
+            "textures": "textures/items/twf_choickium_item"
+        }, 
+        "twf_chomanbro_item": {
+            "textures": "textures/items/twf_chomanbro_item"
+        }, 
+        "twf_chorekzoaline_item": {
+            "textures": "textures/items/twf_chorekzoaline_item"
+        }, 
+        "twf_chorse_item": {
+            "textures": "textures/items/twf_chorse_item"
+        }, 
+        "twf_choxeitium_item": {
+            "textures": "textures/items/twf_choxeitium_item"
+        }, 
+        "twf_chperaline_item": {
+            "textures": "textures/items/twf_chperaline_item"
+        }, 
+        "twf_ckitcdrian_item": {
+            "textures": "textures/items/twf_ckitcdrian_item"
+        }, 
+        "twf_ckite_item": {
+            "textures": "textures/items/twf_ckite_item"
+        }, 
+        "twf_ckrealine_item": {
+            "textures": "textures/items/twf_ckrealine_item"
+        }, 
+        "twf_ckri_item": {
+            "textures": "textures/items/twf_ckri_item"
+        }, 
+        "twf_ckz_item": {
+            "textures": "textures/items/twf_ckz_item"
+        }, 
+        "twf_ckzeeyst_item": {
+            "textures": "textures/items/twf_ckzeeyst_item"
+        }, 
+        "twf_ckzgoneye_item": {
+            "textures": "textures/items/twf_ckzgoneye_item"
+        }, 
+        "twf_ckzitc_item": {
+            "textures": "textures/items/twf_ckzitc_item"
+        }, 
+        "twf_ckzntrwneyst_item": {
+            "textures": "textures/items/twf_ckzntrwneyst_item"
+        }, 
+        "twf_ckzoneite_item": {
+            "textures": "textures/items/twf_ckzoneite_item"
+        }, 
+        "twf_ckztreowia_item": {
+            "textures": "textures/items/twf_ckztreowia_item"
+        }, 
+        "twf_ckzwittch_item": {
+            "textures": "textures/items/twf_ckzwittch_item"
+        }, 
+        "twf_crckzenaline_item": {
+            "textures": "textures/items/twf_crckzenaline_item"
+        }, 
+        "twf_cre_item": {
+            "textures": "textures/items/twf_cre_item"
+        }, 
+        "twf_creaneristone_item": {
+            "textures": "textures/items/twf_creaneristone_item"
+        }, 
+        "twf_creeye_item": {
+            "textures": "textures/items/twf_creeye_item"
+        }, 
+        "twf_creia_item": {
+            "textures": "textures/items/twf_creia_item"
+        }, 
+        "twf_creian_item": {
+            "textures": "textures/items/twf_creian_item"
+        }, 
+        "twf_creombdroite_item": {
+            "textures": "textures/items/twf_creombdroite_item"
+        }, 
+        "twf_creonewne_item": {
+            "textures": "textures/items/twf_creonewne_item"
+        }, 
+        "twf_creowveeye_item": {
+            "textures": "textures/items/twf_creowveeye_item"
+        }, 
+        "twf_crepeium_item": {
+            "textures": "textures/items/twf_crepeium_item"
+        }, 
+        "twf_crero_item": {
+            "textures": "textures/items/twf_crero_item"
+        }, 
+        "twf_creyx_item": {
+            "textures": "textures/items/twf_creyx_item"
+        }, 
+        "twf_crmaite_item": {
+            "textures": "textures/items/twf_crmaite_item"
+        }, 
+        "twf_crsemherite_item": {
+            "textures": "textures/items/twf_crsemherite_item"
+        }, 
+        "twf_crtrenyx_item": {
+            "textures": "textures/items/twf_crtrenyx_item"
+        }, 
+        "twf_crvernd_item": {
+            "textures": "textures/items/twf_crvernd_item"
+        }, 
+        "twf_crzomaline_item": {
+            "textures": "textures/items/twf_crzomaline_item"
+        }, 
+        "twf_crzomite_item": {
+            "textures": "textures/items/twf_crzomite_item"
+        }, 
+        "twf_de_item": {
+            "textures": "textures/items/twf_de_item"
+        }, 
+        "twf_deeetchite_item": {
+            "textures": "textures/items/twf_deeetchite_item"
+        }, 
+        "twf_deelbian_item": {
+            "textures": "textures/items/twf_deelbian_item"
+        }, 
+        "twf_deian_item": {
+            "textures": "textures/items/twf_deian_item"
+        }, 
+        "twf_del_item": {
+            "textures": "textures/items/twf_del_item"
+        }, 
+        "twf_delaline_item": {
+            "textures": "textures/items/twf_delaline_item"
+        }, 
+        "twf_deldeyst_item": {
+            "textures": "textures/items/twf_deldeyst_item"
+        }, 
+        "twf_deleneep_item": {
+            "textures": "textures/items/twf_deleneep_item"
+        }, 
+        "twf_delerw_item": {
+            "textures": "textures/items/twf_delerw_item"
+        }, 
+        "twf_delgo_item": {
+            "textures": "textures/items/twf_delgo_item"
+        }, 
+        "twf_delperite_item": {
+            "textures": "textures/items/twf_delperite_item"
+        }, 
+        "twf_deltre_item": {
+            "textures": "textures/items/twf_deltre_item"
+        }, 
+        "twf_delverndium_item": {
+            "textures": "textures/items/twf_delverndium_item"
+        }, 
+        "twf_delyst_item": {
+            "textures": "textures/items/twf_delyst_item"
+        }, 
+        "twf_dembia_item": {
+            "textures": "textures/items/twf_dembia_item"
+        }, 
+        "twf_dereembialine_item": {
+            "textures": "textures/items/twf_dereembialine_item"
+        }, 
+        "twf_deyst_item": {
+            "textures": "textures/items/twf_deyst_item"
+        }, 
+        "twf_draagwiium_item": {
+            "textures": "textures/items/twf_draagwiium_item"
+        }, 
+        "twf_drackzbieia_item": {
+            "textures": "textures/items/twf_drackzbieia_item"
+        }, 
+        "twf_draenyst_item": {
+            "textures": "textures/items/twf_draenyst_item"
+        }, 
+        "twf_dramanethium_item": {
+            "textures": "textures/items/twf_dramanethium_item"
+        }, 
+        "twf_draomyst_item": {
+            "textures": "textures/items/twf_draomyst_item"
+        }, 
+        "twf_draow_item": {
+            "textures": "textures/items/twf_draow_item"
+        }, 
+        "twf_drarwiyx_item": {
+            "textures": "textures/items/twf_drarwiyx_item"
+        }, 
+        "twf_drasemaline_item": {
+            "textures": "textures/items/twf_drasemaline_item"
+        }, 
+        "twf_draxeeneye_item": {
+            "textures": "textures/items/twf_draxeeneye_item"
+        }, 
+        "twf_drazomelium_item": {
+            "textures": "textures/items/twf_drazomelium_item"
+        }, 
+        "twf_drchyx_item": {
+            "textures": "textures/items/twf_drchyx_item"
+        }, 
+        "twf_drdr_item": {
+            "textures": "textures/items/twf_drdr_item"
+        }, 
+        "twf_drdrreia_item": {
+            "textures": "textures/items/twf_drdrreia_item"
+        }, 
+        "twf_dreye_item": {
+            "textures": "textures/items/twf_dreye_item"
+        }, 
+        "twf_drigde_item": {
+            "textures": "textures/items/twf_drigde_item"
+        }, 
+        "twf_drinvaline_item": {
+            "textures": "textures/items/twf_drinvaline_item"
+        }, 
+        "twf_drium_item": {
+            "textures": "textures/items/twf_drium_item"
+        }, 
+        "twf_drlb_item": {
+            "textures": "textures/items/twf_drlb_item"
+        }, 
+        "twf_droaline_item": {
+            "textures": "textures/items/twf_droaline_item"
+        }, 
+        "twf_droaxeium_item": {
+            "textures": "textures/items/twf_droaxeium_item"
+        }, 
+        "twf_droia_item": {
+            "textures": "textures/items/twf_droia_item"
+        }, 
+        "twf_droian_item": {
+            "textures": "textures/items/twf_droian_item"
+        }, 
+        "twf_droium_item": {
+            "textures": "textures/items/twf_droium_item"
+        }, 
+        "twf_dromb_item": {
+            "textures": "textures/items/twf_dromb_item"
+        }, 
+        "twf_dropi_item": {
+            "textures": "textures/items/twf_dropi_item"
+        }, 
+        "twf_droyst_item": {
+            "textures": "textures/items/twf_droyst_item"
+        }, 
+        "twf_drrithian_item": {
+            "textures": "textures/items/twf_drrithian_item"
+        }, 
+        "twf_drwiragite_item": {
+            "textures": "textures/items/twf_drwiragite_item"
+        }, 
+        "twf_ec_item": {
+            "textures": "textures/items/twf_ec_item"
+        }, 
+        "twf_ecbietchite_item": {
+            "textures": "textures/items/twf_ecbietchite_item"
+        }, 
+        "twf_ecbiium_item": {
+            "textures": "textures/items/twf_ecbiium_item"
+        }, 
+        "twf_ecelpi_item": {
+            "textures": "textures/items/twf_ecelpi_item"
+        }, 
+        "twf_ecigryst_item": {
+            "textures": "textures/items/twf_ecigryst_item"
+        }, 
+        "twf_ecnareian_item": {
+            "textures": "textures/items/twf_ecnareian_item"
+        }, 
+        "twf_ecrdeenaite_item": {
+            "textures": "textures/items/twf_ecrdeenaite_item"
+        }, 
+        "twf_ecrgrioneeye_item": {
+            "textures": "textures/items/twf_ecrgrioneeye_item"
+        }, 
+        "twf_ecrite_item": {
+            "textures": "textures/items/twf_ecrite_item"
+        }, 
+        "twf_ecronep_item": {
+            "textures": "textures/items/twf_ecronep_item"
+        }, 
+        "twf_ecrseeth_item": {
+            "textures": "textures/items/twf_ecrseeth_item"
+        }, 
+        "twf_ecwitnedaline_item": {
+            "textures": "textures/items/twf_ecwitnedaline_item"
+        }, 
+        "twf_edaline_item": {
+            "textures": "textures/items/twf_edaline_item"
+        }, 
+        "twf_edeeeye_item": {
+            "textures": "textures/items/twf_edeeeye_item"
+        }, 
+        "twf_edemana_item": {
+            "textures": "textures/items/twf_edemana_item"
+        }, 
+        "twf_edevecryx_item": {
+            "textures": "textures/items/twf_edevecryx_item"
+        }, 
+        "twf_editcaline_item": {
+            "textures": "textures/items/twf_editcaline_item"
+        }, 
+        "twf_edium_item": {
+            "textures": "textures/items/twf_edium_item"
+        }, 
+        "twf_edomium_item": {
+            "textures": "textures/items/twf_edomium_item"
+        }, 
+        "twf_edr_item": {
+            "textures": "textures/items/twf_edr_item"
+        }, 
+        "twf_edreeer_item": {
+            "textures": "textures/items/twf_edreeer_item"
+        }, 
+        "twf_edreriite_item": {
+            "textures": "textures/items/twf_edreriite_item"
+        }, 
+        "twf_edrium_item": {
+            "textures": "textures/items/twf_edrium_item"
+        }, 
+        "twf_edrrivaline_item": {
+            "textures": "textures/items/twf_edrrivaline_item"
+        }, 
+        "twf_edrrowyx_item": {
+            "textures": "textures/items/twf_edrrowyx_item"
+        }, 
+        "twf_edrrwistone_item": {
+            "textures": "textures/items/twf_edrrwistone_item"
+        }, 
+        "twf_edrstone_item": {
+            "textures": "textures/items/twf_edrstone_item"
+        }, 
+        "twf_ee_item": {
+            "textures": "textures/items/twf_ee_item"
+        }, 
+        "twf_eealine_item": {
+            "textures": "textures/items/twf_eealine_item"
+        }, 
+        "twf_eedra_item": {
+            "textures": "textures/items/twf_eedra_item"
+        }, 
+        "twf_eeemthyx_item": {
+            "textures": "textures/items/twf_eeemthyx_item"
+        }, 
+        "twf_eeheraline_item": {
+            "textures": "textures/items/twf_eeheraline_item"
+        }, 
+        "twf_eendrealine_item": {
+            "textures": "textures/items/twf_eendrealine_item"
+        }, 
+        "twf_eep_item": {
+            "textures": "textures/items/twf_eep_item"
+        }, 
+        "twf_eepaline_item": {
+            "textures": "textures/items/twf_eepaline_item"
+        }, 
+        "twf_eepeepnanaline_item": {
+            "textures": "textures/items/twf_eepeepnanaline_item"
+        }, 
+        "twf_eepema_item": {
+            "textures": "textures/items/twf_eepema_item"
+        }, 
+        "twf_eepenaline_item": {
+            "textures": "textures/items/twf_eepenaline_item"
+        }, 
+        "twf_eepeye_item": {
+            "textures": "textures/items/twf_eepeye_item"
+        }, 
+        "twf_eepi_item": {
+            "textures": "textures/items/twf_eepi_item"
+        }, 
+        "twf_eepia_item": {
+            "textures": "textures/items/twf_eepia_item"
+        }, 
+        "twf_eepmanmbiium_item": {
+            "textures": "textures/items/twf_eepmanmbiium_item"
+        }, 
+        "twf_eeponeeveyst_item": {
+            "textures": "textures/items/twf_eeponeeveyst_item"
+        }, 
+        "twf_eepstone_item": {
+            "textures": "textures/items/twf_eepstone_item"
+        }, 
+        "twf_eerariv_item": {
+            "textures": "textures/items/twf_eerariv_item"
+        }, 
+        "twf_eerealine_item": {
+            "textures": "textures/items/twf_eerealine_item"
+        }, 
+        "twf_eese_item": {
+            "textures": "textures/items/twf_eese_item"
+        }, 
+        "twf_eetcmaeye_item": {
+            "textures": "textures/items/twf_eetcmaeye_item"
+        }, 
+        "twf_eeyst_item": {
+            "textures": "textures/items/twf_eeyst_item"
+        }, 
+        "twf_el_item": {
+            "textures": "textures/items/twf_el_item"
+        }, 
+        "twf_elb_item": {
+            "textures": "textures/items/twf_elb_item"
+        }, 
+        "twf_elbagaline_item": {
+            "textures": "textures/items/twf_elbagaline_item"
+        }, 
+        "twf_elbagyst_item": {
+            "textures": "textures/items/twf_elbagyst_item"
+        }, 
+        "twf_elbeepchaline_item": {
+            "textures": "textures/items/twf_elbeepchaline_item"
+        }, 
+        "twf_elbherendaline_item": {
+            "textures": "textures/items/twf_elbherendaline_item"
+        }, 
+        "twf_elbickian_item": {
+            "textures": "textures/items/twf_elbickian_item"
+        }, 
+        "twf_elbite_item": {
+            "textures": "textures/items/twf_elbite_item"
+        }, 
+        "twf_elboredeye_item": {
+            "textures": "textures/items/twf_elboredeye_item"
+        }, 
+        "twf_elbxeia_item": {
+            "textures": "textures/items/twf_elbxeia_item"
+        }, 
+        "twf_elemayx_item": {
+            "textures": "textures/items/twf_elemayx_item"
+        }, 
+        "twf_elepnetian_item": {
+            "textures": "textures/items/twf_elepnetian_item"
+        }, 
+        "twf_elereye_item": {
+            "textures": "textures/items/twf_elereye_item"
+        }, 
+        "twf_eleriium_item": {
+            "textures": "textures/items/twf_eleriium_item"
+        }, 
+        "twf_elethyst_item": {
+            "textures": "textures/items/twf_elethyst_item"
+        }, 
+        "twf_eloraline_item": {
+            "textures": "textures/items/twf_eloraline_item"
+        }, 
+        "twf_elyx_item": {
+            "textures": "textures/items/twf_elyx_item"
+        }, 
+        "twf_em_item": {
+            "textures": "textures/items/twf_em_item"
+        }, 
+        "twf_emackzit_item": {
+            "textures": "textures/items/twf_emackzit_item"
+        }, 
+        "twf_emaium_item": {
+            "textures": "textures/items/twf_emaium_item"
+        }, 
+        "twf_emaline_item": {
+            "textures": "textures/items/twf_emaline_item"
+        }, 
+        "twf_emaonote_item": {
+            "textures": "textures/items/twf_emaonote_item"
+        }, 
+        "twf_emaorium_item": {
+            "textures": "textures/items/twf_emaorium_item"
+        }, 
+        "twf_emaorsickaline_item": {
+            "textures": "textures/items/twf_emaorsickaline_item"
+        }, 
+        "twf_emgonet_item": {
+            "textures": "textures/items/twf_emgonet_item"
+        }, 
+        "twf_emgrialine_item": {
+            "textures": "textures/items/twf_emgrialine_item"
+        }, 
+        "twf_emhe_item": {
+            "textures": "textures/items/twf_emhe_item"
+        }, 
+        "twf_emitaline_item": {
+            "textures": "textures/items/twf_emitaline_item"
+        }, 
+        "twf_emium_item": {
+            "textures": "textures/items/twf_emium_item"
+        }, 
+        "twf_emnd_item": {
+            "textures": "textures/items/twf_emnd_item"
+        }, 
+        "twf_emstone_item": {
+            "textures": "textures/items/twf_emstone_item"
+        }, 
+        "twf_emtenepeium_item": {
+            "textures": "textures/items/twf_emtenepeium_item"
+        }, 
+        "twf_enaecredraline_item": {
+            "textures": "textures/items/twf_enaecredraline_item"
+        }, 
+        "twf_enaomhereye_item": {
+            "textures": "textures/items/twf_enaomhereye_item"
+        }, 
+        "twf_enaseyx_item": {
+            "textures": "textures/items/twf_enaseyx_item"
+        }, 
+        "twf_enatchdrostone_item": {
+            "textures": "textures/items/twf_enatchdrostone_item"
+        }, 
+        "twf_encreyst_item": {
+            "textures": "textures/items/twf_encreyst_item"
+        }, 
+        "twf_endgoyst_item": {
+            "textures": "textures/items/twf_endgoyst_item"
+        }, 
+        "twf_endiveian_item": {
+            "textures": "textures/items/twf_endiveian_item"
+        }, 
+        "twf_endpialine_item": {
+            "textures": "textures/items/twf_endpialine_item"
+        }, 
+        "twf_endtccre_item": {
+            "textures": "textures/items/twf_endtccre_item"
+        }, 
+        "twf_endverium_item": {
+            "textures": "textures/items/twf_endverium_item"
+        }, 
+        "twf_endyst_item": {
+            "textures": "textures/items/twf_endyst_item"
+        }, 
+        "twf_enedrre_item": {
+            "textures": "textures/items/twf_enedrre_item"
+        }, 
+        "twf_enepgrian_item": {
+            "textures": "textures/items/twf_enepgrian_item"
+        }, 
+        "twf_enepi_item": {
+            "textures": "textures/items/twf_enepi_item"
+        }, 
+        "twf_enerckzaline_item": {
+            "textures": "textures/items/twf_enerckzaline_item"
+        }, 
+        "twf_eneroteye_item": {
+            "textures": "textures/items/twf_eneroteye_item"
+        }, 
+        "twf_enite_item": {
+            "textures": "textures/items/twf_enite_item"
+        }, 
+        "twf_enium_item": {
+            "textures": "textures/items/twf_enium_item"
+        }, 
+        "twf_enkzoyx_item": {
+            "textures": "textures/items/twf_enkzoyx_item"
+        }, 
+        "twf_enntaline_item": {
+            "textures": "textures/items/twf_enntaline_item"
+        }, 
+        "twf_enragyst_item": {
+            "textures": "textures/items/twf_enragyst_item"
+        }, 
+        "twf_enreeorsstone_item": {
+            "textures": "textures/items/twf_enreeorsstone_item"
+        }, 
+        "twf_enverbiealine_item": {
+            "textures": "textures/items/twf_enverbiealine_item"
+        }, 
+        "twf_ep_item": {
+            "textures": "textures/items/twf_ep_item"
+        }, 
+        "twf_epdedelyst_item": {
+            "textures": "textures/items/twf_epdedelyst_item"
+        }, 
+        "twf_epdr_item": {
+            "textures": "textures/items/twf_epdr_item"
+        }, 
+        "twf_epdroyx_item": {
+            "textures": "textures/items/twf_epdroyx_item"
+        }, 
+        "twf_epealine_item": {
+            "textures": "textures/items/twf_epealine_item"
+        }, 
+        "twf_epeecstone_item": {
+            "textures": "textures/items/twf_epeecstone_item"
+        }, 
+        "twf_epeendnedian_item": {
+            "textures": "textures/items/twf_epeendnedian_item"
+        }, 
+        "twf_epelbeye_item": {
+            "textures": "textures/items/twf_epelbeye_item"
+        }, 
+        "twf_epemanaline_item": {
+            "textures": "textures/items/twf_epemanaline_item"
+        }, 
+        "twf_epemanelbaline_item": {
+            "textures": "textures/items/twf_epemanelbaline_item"
+        }, 
+        "twf_epemyst_item": {
+            "textures": "textures/items/twf_epemyst_item"
+        }, 
+        "twf_ependerealine_item": {
+            "textures": "textures/items/twf_ependerealine_item"
+        }, 
+        "twf_eperagow_item": {
+            "textures": "textures/items/twf_eperagow_item"
+        }, 
+        "twf_eperiitc_item": {
+            "textures": "textures/items/twf_eperiitc_item"
+        }, 
+        "twf_eperwian_item": {
+            "textures": "textures/items/twf_eperwian_item"
+        }, 
+        "twf_epevepic_item": {
+            "textures": "textures/items/twf_epevepic_item"
+        }, 
+        "twf_epexepeye_item": {
+            "textures": "textures/items/twf_epexepeye_item"
+        }, 
+        "twf_epeye_item": {
+            "textures": "textures/items/twf_epeye_item"
+        }, 
+        "twf_epgon_item": {
+            "textures": "textures/items/twf_epgon_item"
+        }, 
+        "twf_epi_item": {
+            "textures": "textures/items/twf_epi_item"
+        }, 
+        "twf_epialine_item": {
+            "textures": "textures/items/twf_epialine_item"
+        }, 
+        "twf_epian_item": {
+            "textures": "textures/items/twf_epian_item"
+        }, 
+        "twf_epiand_item": {
+            "textures": "textures/items/twf_epiand_item"
+        }, 
+        "twf_epiandia_item": {
+            "textures": "textures/items/twf_epiandia_item"
+        }, 
+        "twf_epiax_item": {
+            "textures": "textures/items/twf_epiax_item"
+        }, 
+        "twf_epieriia_item": {
+            "textures": "textures/items/twf_epieriia_item"
+        }, 
+        "twf_epieveown_item": {
+            "textures": "textures/items/twf_epieveown_item"
+        }, 
+        "twf_epigoaline_item": {
+            "textures": "textures/items/twf_epigoaline_item"
+        }, 
+        "twf_epigrium_item": {
+            "textures": "textures/items/twf_epigrium_item"
+        }, 
+        "twf_epiitcev_item": {
+            "textures": "textures/items/twf_epiitcev_item"
+        }, 
+        "twf_epirentaline_item": {
+            "textures": "textures/items/twf_epirentaline_item"
+        }, 
+        "twf_epiteye_item": {
+            "textures": "textures/items/twf_epiteye_item"
+        }, 
+        "twf_epiveyx_item": {
+            "textures": "textures/items/twf_epiveyx_item"
+        }, 
+        "twf_epizomvenaline_item": {
+            "textures": "textures/items/twf_epizomvenaline_item"
+        }, 
+        "twf_epnannd_item": {
+            "textures": "textures/items/twf_epnannd_item"
+        }, 
+        "twf_epndaline_item": {
+            "textures": "textures/items/twf_epndaline_item"
+        }, 
+        "twf_eponyst_item": {
+            "textures": "textures/items/twf_eponyst_item"
+        }, 
+        "twf_eppigaline_item": {
+            "textures": "textures/items/twf_eppigaline_item"
+        }, 
+        "twf_eprideye_item": {
+            "textures": "textures/items/twf_eprideye_item"
+        }, 
+        "twf_epstone_item": {
+            "textures": "textures/items/twf_epstone_item"
+        }, 
+        "twf_epxepium_item": {
+            "textures": "textures/items/twf_epxepium_item"
+        }, 
+        "twf_epyst_item": {
+            "textures": "textures/items/twf_epyst_item"
+        }, 
+        "twf_epzomnanium_item": {
+            "textures": "textures/items/twf_epzomnanium_item"
+        }, 
+        "twf_er_item": {
+            "textures": "textures/items/twf_er_item"
+        }, 
+        "twf_eragombeye_item": {
+            "textures": "textures/items/twf_eragombeye_item"
+        }, 
+        "twf_erdroeye_item": {
+            "textures": "textures/items/twf_erdroeye_item"
+        }, 
+        "twf_ere_item": {
+            "textures": "textures/items/twf_ere_item"
+        }, 
+        "twf_ereidgoyst_item": {
+            "textures": "textures/items/twf_ereidgoyst_item"
+        }, 
+        "twf_ereidors_item": {
+            "textures": "textures/items/twf_ereidors_item"
+        }, 
+        "twf_ereitc_item": {
+            "textures": "textures/items/twf_ereitc_item"
+        }, 
+        "twf_erepi_item": {
+            "textures": "textures/items/twf_erepi_item"
+        }, 
+        "twf_erepiia_item": {
+            "textures": "textures/items/twf_erepiia_item"
+        }, 
+        "twf_erhoremstone_item": {
+            "textures": "textures/items/twf_erhoremstone_item"
+        }, 
+        "twf_eri_item": {
+            "textures": "textures/items/twf_eri_item"
+        }, 
+        "twf_erian_item": {
+            "textures": "textures/items/twf_erian_item"
+        }, 
+        "twf_ericomb_item": {
+            "textures": "textures/items/twf_ericomb_item"
+        }, 
+        "twf_eriecyst_item": {
+            "textures": "textures/items/twf_eriecyst_item"
+        }, 
+        "twf_eriieep_item": {
+            "textures": "textures/items/twf_eriieep_item"
+        }, 
+        "twf_eriium_item": {
+            "textures": "textures/items/twf_eriium_item"
+        }, 
+        "twf_eripeverite_item": {
+            "textures": "textures/items/twf_eripeverite_item"
+        }, 
+        "twf_erirorid_item": {
+            "textures": "textures/items/twf_erirorid_item"
+        }, 
+        "twf_erithestone_item": {
+            "textures": "textures/items/twf_erithestone_item"
+        }, 
+        "twf_erithia_item": {
+            "textures": "textures/items/twf_erithia_item"
+        }, 
+        "twf_eriv_item": {
+            "textures": "textures/items/twf_eriv_item"
+        }, 
+        "twf_ernaeye_item": {
+            "textures": "textures/items/twf_ernaeye_item"
+        }, 
+        "twf_ernd_item": {
+            "textures": "textures/items/twf_ernd_item"
+        }, 
+        "twf_eromoteyst_item": {
+            "textures": "textures/items/twf_eromoteyst_item"
+        }, 
+        "twf_eronve_item": {
+            "textures": "textures/items/twf_eronve_item"
+        }, 
+        "twf_eroronealine_item": {
+            "textures": "textures/items/twf_eroronealine_item"
+        }, 
+        "twf_erpertrite_item": {
+            "textures": "textures/items/twf_erpertrite_item"
+        }, 
+        "twf_errivaline_item": {
+            "textures": "textures/items/twf_errivaline_item"
+        }, 
+        "twf_erro_item": {
+            "textures": "textures/items/twf_erro_item"
+        }, 
+        "twf_erteeye_item": {
+            "textures": "textures/items/twf_erteeye_item"
+        }, 
+        "twf_erthecia_item": {
+            "textures": "textures/items/twf_erthecia_item"
+        }, 
+        "twf_ertreeepite_item": {
+            "textures": "textures/items/twf_ertreeepite_item"
+        }, 
+        "twf_erwaline_item": {
+            "textures": "textures/items/twf_erwaline_item"
+        }, 
+        "twf_erwbinedaline_item": {
+            "textures": "textures/items/twf_erwbinedaline_item"
+        }, 
+        "twf_erwbraline_item": {
+            "textures": "textures/items/twf_erwbraline_item"
+        }, 
+        "twf_erwheago_item": {
+            "textures": "textures/items/twf_erwheago_item"
+        }, 
+        "twf_erwia_item": {
+            "textures": "textures/items/twf_erwia_item"
+        }, 
+        "twf_erwian_item": {
+            "textures": "textures/items/twf_erwian_item"
+        }, 
+        "twf_erwivcheye_item": {
+            "textures": "textures/items/twf_erwivcheye_item"
+        }, 
+        "twf_erwne_item": {
+            "textures": "textures/items/twf_erwne_item"
+        }, 
+        "twf_erwwnia_item": {
+            "textures": "textures/items/twf_erwwnia_item"
+        }, 
+        "twf_erwyx_item": {
+            "textures": "textures/items/twf_erwyx_item"
+        }, 
+        "twf_et_item": {
+            "textures": "textures/items/twf_et_item"
+        }, 
+        "twf_etaline_item": {
+            "textures": "textures/items/twf_etaline_item"
+        }, 
+        "twf_etethnealine_item": {
+            "textures": "textures/items/twf_etethnealine_item"
+        }, 
+        "twf_eth_item": {
+            "textures": "textures/items/twf_eth_item"
+        }, 
+        "twf_ethckzwit_item": {
+            "textures": "textures/items/twf_ethckzwit_item"
+        }, 
+        "twf_ethedrian_item": {
+            "textures": "textures/items/twf_ethedrian_item"
+        }, 
+        "twf_etheealine_item": {
+            "textures": "textures/items/twf_etheealine_item"
+        }, 
+        "twf_ethian_item": {
+            "textures": "textures/items/twf_ethian_item"
+        }, 
+        "twf_ethium_item": {
+            "textures": "textures/items/twf_ethium_item"
+        }, 
+        "twf_ethoraline_item": {
+            "textures": "textures/items/twf_ethoraline_item"
+        }, 
+        "twf_etpicraium_item": {
+            "textures": "textures/items/twf_etpicraium_item"
+        }, 
+        "twf_evaline_item": {
+            "textures": "textures/items/twf_evaline_item"
+        }, 
+        "twf_eveago_item": {
+            "textures": "textures/items/twf_eveago_item"
+        }, 
+        "twf_evego_item": {
+            "textures": "textures/items/twf_evego_item"
+        }, 
+        "twf_eveia_item": {
+            "textures": "textures/items/twf_eveia_item"
+        }, 
+        "twf_eveite_item": {
+            "textures": "textures/items/twf_eveite_item"
+        }, 
+        "twf_eveneepite_item": {
+            "textures": "textures/items/twf_eveneepite_item"
+        }, 
+        "twf_evewitaline_item": {
+            "textures": "textures/items/twf_evewitaline_item"
+        }, 
+        "twf_evia_item": {
+            "textures": "textures/items/twf_evia_item"
+        }, 
+        "twf_evium_item": {
+            "textures": "textures/items/twf_evium_item"
+        }, 
+        "twf_floo_item": {
+            "textures": "textures/items/twf_floo_item"
+        }, 
+        "twf_gloo_item": {
+            "textures": "textures/items/twf_gloo_item"
+        }, 
+        "twf_go_item": {
+            "textures": "textures/items/twf_go_item"
+        }, 
+        "twf_gogon_item": {
+            "textures": "textures/items/twf_gogon_item"
+        }, 
+        "twf_gogryst_item": {
+            "textures": "textures/items/twf_gogryst_item"
+        }, 
+        "twf_gonbiever_item": {
+            "textures": "textures/items/twf_gonbiever_item"
+        }, 
+        "twf_gonenrwaline_item": {
+            "textures": "textures/items/twf_gonenrwaline_item"
+        }, 
+        "twf_gonepialine_item": {
+            "textures": "textures/items/twf_gonepialine_item"
+        }, 
+        "twf_goneye_item": {
+            "textures": "textures/items/twf_goneye_item"
+        }, 
+        "twf_gonhe_item": {
+            "textures": "textures/items/twf_gonhe_item"
+        }, 
+        "twf_gonian_item": {
+            "textures": "textures/items/twf_gonian_item"
+        }, 
+        "twf_gonmaia_item": {
+            "textures": "textures/items/twf_gonmaia_item"
+        }, 
+        "twf_gonpistone_item": {
+            "textures": "textures/items/twf_gonpistone_item"
+        }, 
+        "twf_gonthcreye_item": {
+            "textures": "textures/items/twf_gonthcreye_item"
+        }, 
+        "twf_gonvenyst_item": {
+            "textures": "textures/items/twf_gonvenyst_item"
+        }, 
+        "twf_goriree_item": {
+            "textures": "textures/items/twf_goriree_item"
+        }, 
+        "twf_gorsenealine_item": {
+            "textures": "textures/items/twf_gorsenealine_item"
+        }, 
+        "twf_gr_item": {
+            "textures": "textures/items/twf_gr_item"
+        }, 
+        "twf_grbie_item": {
+            "textures": "textures/items/twf_grbie_item"
+        }, 
+        "twf_gredite_item": {
+            "textures": "textures/items/twf_gredite_item"
+        }, 
+        "twf_greye_item": {
+            "textures": "textures/items/twf_greye_item"
+        }, 
+        "twf_grialine_item": {
+            "textures": "textures/items/twf_grialine_item"
+        }, 
+        "twf_grigrite_item": {
+            "textures": "textures/items/twf_grigrite_item"
+        }, 
+        "twf_griium_item": {
+            "textures": "textures/items/twf_griium_item"
+        }, 
+        "twf_groryst_item": {
+            "textures": "textures/items/twf_groryst_item"
+        }, 
+        "twf_hechia_item": {
+            "textures": "textures/items/twf_hechia_item"
+        }, 
+        "twf_heeeite_item": {
+            "textures": "textures/items/twf_heeeite_item"
+        }, 
+        "twf_heneium_item": {
+            "textures": "textures/items/twf_heneium_item"
+        }, 
+        "twf_henetxepaline_item": {
+            "textures": "textures/items/twf_henetxepaline_item"
+        }, 
+        "twf_heomityx_item": {
+            "textures": "textures/items/twf_heomityx_item"
+        }, 
+        "twf_hereeeye_item": {
+            "textures": "textures/items/twf_hereeeye_item"
+        }, 
+        "twf_hereepec_item": {
+            "textures": "textures/items/twf_hereepec_item"
+        }, 
+        "twf_herian_item": {
+            "textures": "textures/items/twf_herian_item"
+        }, 
+        "twf_herium_item": {
+            "textures": "textures/items/twf_herium_item"
+        }, 
+        "twf_herndxepyst_item": {
+            "textures": "textures/items/twf_herndxepyst_item"
+        }, 
+        "twf_heromb_item": {
+            "textures": "textures/items/twf_heromb_item"
+        }, 
+        "twf_herperere_item": {
+            "textures": "textures/items/twf_herperere_item"
+        }, 
+        "twf_hertcrevyst_item": {
+            "textures": "textures/items/twf_hertcrevyst_item"
+        }, 
+        "twf_hertreeep_item": {
+            "textures": "textures/items/twf_hertreeep_item"
+        }, 
+        "twf_hevego_item": {
+            "textures": "textures/items/twf_hevego_item"
+        }, 
+        "twf_heyst_item": {
+            "textures": "textures/items/twf_heyst_item"
+        }, 
+        "twf_ho_item": {
+            "textures": "textures/items/twf_ho_item"
+        }, 
+        "twf_hoaline_item": {
+            "textures": "textures/items/twf_hoaline_item"
+        }, 
+        "twf_hoeepian_item": {
+            "textures": "textures/items/twf_hoeepian_item"
+        }, 
+        "twf_hogrixepian_item": {
+            "textures": "textures/items/twf_hogrixepian_item"
+        }, 
+        "twf_hoium_item": {
+            "textures": "textures/items/twf_hoium_item"
+        }, 
+        "twf_hona_item": {
+            "textures": "textures/items/twf_hona_item"
+        }, 
+        "twf_hor_item": {
+            "textures": "textures/items/twf_hor_item"
+        }, 
+        "twf_hordroaline_item": {
+            "textures": "textures/items/twf_hordroaline_item"
+        }, 
+        "twf_horere_item": {
+            "textures": "textures/items/twf_horere_item"
+        }, 
+        "twf_horoia_item": {
+            "textures": "textures/items/twf_horoia_item"
+        }, 
+        "twf_horomyx_item": {
+            "textures": "textures/items/twf_horomyx_item"
+        }, 
+        "twf_hortch_item": {
+            "textures": "textures/items/twf_hortch_item"
+        }, 
+        "twf_horvenan_item": {
+            "textures": "textures/items/twf_horvenan_item"
+        }, 
+        "twf_icaline_item": {
+            "textures": "textures/items/twf_icaline_item"
+        }, 
+        "twf_icderwaline_item": {
+            "textures": "textures/items/twf_icderwaline_item"
+        }, 
+        "twf_icel_item": {
+            "textures": "textures/items/twf_icel_item"
+        }, 
+        "twf_icepenedeye_item": {
+            "textures": "textures/items/twf_icepenedeye_item"
+        }, 
+        "twf_icgriyst_item": {
+            "textures": "textures/items/twf_icgriyst_item"
+        }, 
+        "twf_icketdelian_item": {
+            "textures": "textures/items/twf_icketdelian_item"
+        }, 
+        "twf_ickian_item": {
+            "textures": "textures/items/twf_ickian_item"
+        }, 
+        "twf_ickite_item": {
+            "textures": "textures/items/twf_ickite_item"
+        }, 
+        "twf_ickwitian_item": {
+            "textures": "textures/items/twf_ickwitian_item"
+        }, 
+        "twf_icwitreeian_item": {
+            "textures": "textures/items/twf_icwitreeian_item"
+        }, 
+        "twf_id_item": {
+            "textures": "textures/items/twf_id_item"
+        }, 
+        "twf_idageye_item": {
+            "textures": "textures/items/twf_idageye_item"
+        }, 
+        "twf_idetian_item": {
+            "textures": "textures/items/twf_idetian_item"
+        }, 
+        "twf_idnestone_item": {
+            "textures": "textures/items/twf_idnestone_item"
+        }, 
+        "twf_idraxnedian_item": {
+            "textures": "textures/items/twf_idraxnedian_item"
+        }, 
+        "twf_idrtheium_item": {
+            "textures": "textures/items/twf_idrtheium_item"
+        }, 
+        "twf_idrvenian_item": {
+            "textures": "textures/items/twf_idrvenian_item"
+        }, 
+        "twf_idrxepium_item": {
+            "textures": "textures/items/twf_idrxepium_item"
+        }, 
+        "twf_ie_item": {
+            "textures": "textures/items/twf_ie_item"
+        }, 
+        "twf_iecaline_item": {
+            "textures": "textures/items/twf_iecaline_item"
+        }, 
+        "twf_iecchoite_item": {
+            "textures": "textures/items/twf_iecchoite_item"
+        }, 
+        "twf_iecedr_item": {
+            "textures": "textures/items/twf_iecedr_item"
+        }, 
+        "twf_ieceye_item": {
+            "textures": "textures/items/twf_ieceye_item"
+        }, 
+        "twf_ieciecgon_item": {
+            "textures": "textures/items/twf_ieciecgon_item"
+        }, 
+        "twf_iecite_item": {
+            "textures": "textures/items/twf_iecite_item"
+        }, 
+        "twf_iecre_item": {
+            "textures": "textures/items/twf_iecre_item"
+        }, 
+        "twf_iecriyx_item": {
+            "textures": "textures/items/twf_iecriyx_item"
+        }, 
+        "twf_iecyst_item": {
+            "textures": "textures/items/twf_iecyst_item"
+        }, 
+        "twf_ieeri_item": {
+            "textures": "textures/items/twf_ieeri_item"
+        }, 
+        "twf_ieia_item": {
+            "textures": "textures/items/twf_ieia_item"
+        }, 
+        "twf_ietcra_item": {
+            "textures": "textures/items/twf_ietcra_item"
+        }, 
+        "twf_iezodel_item": {
+            "textures": "textures/items/twf_iezodel_item"
+        }, 
+        "twf_ig_item": {
+            "textures": "textures/items/twf_ig_item"
+        }, 
+        "twf_igaline_item": {
+            "textures": "textures/items/twf_igaline_item"
+        }, 
+        "twf_igand_item": {
+            "textures": "textures/items/twf_igand_item"
+        }, 
+        "twf_igrcreveyx_item": {
+            "textures": "textures/items/twf_igrcreveyx_item"
+        }, 
+        "twf_igrdealine_item": {
+            "textures": "textures/items/twf_igrdealine_item"
+        }, 
+        "twf_igrec_item": {
+            "textures": "textures/items/twf_igrec_item"
+        }, 
+        "twf_igremepi_item": {
+            "textures": "textures/items/twf_igremepi_item"
+        }, 
+        "twf_igrite_item": {
+            "textures": "textures/items/twf_igrite_item"
+        }, 
+        "twf_igrium_item": {
+            "textures": "textures/items/twf_igrium_item"
+        }, 
+        "twf_igrtchium_item": {
+            "textures": "textures/items/twf_igrtchium_item"
+        }, 
+        "twf_it_item": {
+            "textures": "textures/items/twf_it_item"
+        }, 
+        "twf_italine_item": {
+            "textures": "textures/items/twf_italine_item"
+        }, 
+        "twf_itcandgristone_item": {
+            "textures": "textures/items/twf_itcandgristone_item"
+        }, 
+        "twf_itcbroriyst_item": {
+            "textures": "textures/items/twf_itcbroriyst_item"
+        }, 
+        "twf_itcch_item": {
+            "textures": "textures/items/twf_itcch_item"
+        }, 
+        "twf_itcedrpigian_item": {
+            "textures": "textures/items/twf_itcedrpigian_item"
+        }, 
+        "twf_itcerstone_item": {
+            "textures": "textures/items/twf_itcerstone_item"
+        }, 
+        "twf_itcite_item": {
+            "textures": "textures/items/twf_itcite_item"
+        }, 
+        "twf_itcwityx_item": {
+            "textures": "textures/items/twf_itcwityx_item"
+        }, 
+        "twf_iterwhor_item": {
+            "textures": "textures/items/twf_iterwhor_item"
+        }, 
+        "twf_itherev_item": {
+            "textures": "textures/items/twf_itherev_item"
+        }, 
+        "twf_ittenridia_item": {
+            "textures": "textures/items/twf_ittenridia_item"
+        }, 
+        "twf_iv_item": {
+            "textures": "textures/items/twf_iv_item"
+        }, 
+        "twf_ivealine_item": {
+            "textures": "textures/items/twf_ivealine_item"
+        }, 
+        "twf_ivean_item": {
+            "textures": "textures/items/twf_ivean_item"
+        }, 
+        "twf_iveepi_item": {
+            "textures": "textures/items/twf_iveepi_item"
+        }, 
+        "twf_iveertenite_item": {
+            "textures": "textures/items/twf_iveertenite_item"
+        }, 
+        "twf_iveheyst_item": {
+            "textures": "textures/items/twf_iveheyst_item"
+        }, 
+        "twf_iveium_item": {
+            "textures": "textures/items/twf_iveium_item"
+        }, 
+        "twf_ivepeyst_item": {
+            "textures": "textures/items/twf_ivepeyst_item"
+        }, 
+        "twf_iveraid_item": {
+            "textures": "textures/items/twf_iveraid_item"
+        }, 
+        "twf_iverowrowium_item": {
+            "textures": "textures/items/twf_iverowrowium_item"
+        }, 
+        "twf_ivheho_item": {
+            "textures": "textures/items/twf_ivheho_item"
+        }, 
+        "twf_ivitcombium_item": {
+            "textures": "textures/items/twf_ivitcombium_item"
+        }, 
+        "twf_ivlbium_item": {
+            "textures": "textures/items/twf_ivlbium_item"
+        }, 
+        "twf_ivow_item": {
+            "textures": "textures/items/twf_ivow_item"
+        }, 
+        "twf_ivstone_item": {
+            "textures": "textures/items/twf_ivstone_item"
+        }, 
+        "twf_kz_item": {
+            "textures": "textures/items/twf_kz_item"
+        }, 
+        "twf_kzaline_item": {
+            "textures": "textures/items/twf_kzaline_item"
+        }, 
+        "twf_kzckztcia_item": {
+            "textures": "textures/items/twf_kzckztcia_item"
+        }, 
+        "twf_kzgriia_item": {
+            "textures": "textures/items/twf_kzgriia_item"
+        }, 
+        "twf_kznedaline_item": {
+            "textures": "textures/items/twf_kznedaline_item"
+        }, 
+        "twf_kzondeite_item": {
+            "textures": "textures/items/twf_kzondeite_item"
+        }, 
+        "twf_kzotcstone_item": {
+            "textures": "textures/items/twf_kzotcstone_item"
+        }, 
+        "twf_kzoveenite_item": {
+            "textures": "textures/items/twf_kzoveenite_item"
+        }, 
+        "twf_kzperite_item": {
+            "textures": "textures/items/twf_kzperite_item"
+        }, 
+        "twf_kzrwiidian_item": {
+            "textures": "textures/items/twf_kzrwiidian_item"
+        }, 
+        "twf_kztenaline_item": {
+            "textures": "textures/items/twf_kztenaline_item"
+        }, 
+        "twf_kztenium_item": {
+            "textures": "textures/items/twf_kztenium_item"
+        }, 
+        "twf_lb_item": {
+            "textures": "textures/items/twf_lb_item"
+        }, 
+        "twf_lbaline_item": {
+            "textures": "textures/items/twf_lbaline_item"
+        }, 
+        "twf_lbbitrstone_item": {
+            "textures": "textures/items/twf_lbbitrstone_item"
+        }, 
+        "twf_lbgrigaline_item": {
+            "textures": "textures/items/twf_lbgrigaline_item"
+        }, 
+        "twf_lbhostone_item": {
+            "textures": "textures/items/twf_lbhostone_item"
+        }, 
+        "twf_lbreeium_item": {
+            "textures": "textures/items/twf_lbreeium_item"
+        }, 
+        "twf_lbreveivium_item": {
+            "textures": "textures/items/twf_lbreveivium_item"
+        }, 
+        "twf_lbrigrhor_item": {
+            "textures": "textures/items/twf_lbrigrhor_item"
+        }, 
+        "twf_lbrium_item": {
+            "textures": "textures/items/twf_lbrium_item"
+        }, 
+        "twf_lbrnetverstone_item": {
+            "textures": "textures/items/twf_lbrnetverstone_item"
+        }, 
+        "twf_lbstone_item": {
+            "textures": "textures/items/twf_lbstone_item"
+        }, 
+        "twf_lbyst_item": {
+            "textures": "textures/items/twf_lbyst_item"
+        }, 
+        "twf_maanite_item": {
+            "textures": "textures/items/twf_maanite_item"
+        }, 
+        "twf_maepealine_item": {
+            "textures": "textures/items/twf_maepealine_item"
+        }, 
+        "twf_maeveite_item": {
+            "textures": "textures/items/twf_maeveite_item"
+        }, 
+        "twf_maicklb_item": {
+            "textures": "textures/items/twf_maicklb_item"
+        }, 
+        "twf_maiecpic_item": {
+            "textures": "textures/items/twf_maiecpic_item"
+        }, 
+        "twf_mamb_item": {
+            "textures": "textures/items/twf_mamb_item"
+        }, 
+        "twf_maneep_item": {
+            "textures": "textures/items/twf_maneep_item"
+        }, 
+        "twf_manereiealine_item": {
+            "textures": "textures/items/twf_manereiealine_item"
+        }, 
+        "twf_manethian_item": {
+            "textures": "textures/items/twf_manethian_item"
+        }, 
+        "twf_manmbpicyx_item": {
+            "textures": "textures/items/twf_manmbpicyx_item"
+        }, 
+        "twf_manntr_item": {
+            "textures": "textures/items/twf_manntr_item"
+        }, 
+        "twf_manrebialine_item": {
+            "textures": "textures/items/twf_manrebialine_item"
+        }, 
+        "twf_manrot_item": {
+            "textures": "textures/items/twf_manrot_item"
+        }, 
+        "twf_manrsaline_item": {
+            "textures": "textures/items/twf_manrsaline_item"
+        }, 
+        "twf_manwne_item": {
+            "textures": "textures/items/twf_manwne_item"
+        }, 
+        "twf_mb_item": {
+            "textures": "textures/items/twf_mb_item"
+        }, 
+        "twf_mbaxexep_item": {
+            "textures": "textures/items/twf_mbaxexep_item"
+        }, 
+        "twf_mbchth_item": {
+            "textures": "textures/items/twf_mbchth_item"
+        }, 
+        "twf_mbema_item": {
+            "textures": "textures/items/twf_mbema_item"
+        }, 
+        "twf_mbepi_item": {
+            "textures": "textures/items/twf_mbepi_item"
+        }, 
+        "twf_mbihor_item": {
+            "textures": "textures/items/twf_mbihor_item"
+        }, 
+        "twf_mbinedia_item": {
+            "textures": "textures/items/twf_mbinedia_item"
+        }, 
+        "twf_mbireeelian_item": {
+            "textures": "textures/items/twf_mbireeelian_item"
+        }, 
+        "twf_mbireri_item": {
+            "textures": "textures/items/twf_mbireri_item"
+        }, 
+        "twf_mbirevyst_item": {
+            "textures": "textures/items/twf_mbirevyst_item"
+        }, 
+        "twf_mbirotre_item": {
+            "textures": "textures/items/twf_mbirotre_item"
+        }, 
+        "twf_mbite_item": {
+            "textures": "textures/items/twf_mbite_item"
+        }, 
+        "twf_mbivagostone_item": {
+            "textures": "textures/items/twf_mbivagostone_item"
+        }, 
+        "twf_mbivvestone_item": {
+            "textures": "textures/items/twf_mbivvestone_item"
+        }, 
+        "twf_mbne_item": {
+            "textures": "textures/items/twf_mbne_item"
+        }, 
+        "twf_mbstone_item": {
+            "textures": "textures/items/twf_mbstone_item"
+        }, 
+        "twf_naeye_item": {
+            "textures": "textures/items/twf_naeye_item"
+        }, 
+        "twf_nagrtre_item": {
+            "textures": "textures/items/twf_nagrtre_item"
+        }, 
+        "twf_nan_item": {
+            "textures": "textures/items/twf_nan_item"
+        }, 
+        "twf_nanagckz_item": {
+            "textures": "textures/items/twf_nanagckz_item"
+        }, 
+        "twf_nanaline_item": {
+            "textures": "textures/items/twf_nanaline_item"
+        }, 
+        "twf_nanemgonaline_item": {
+            "textures": "textures/items/twf_nanemgonaline_item"
+        }, 
+        "twf_nanepieye_item": {
+            "textures": "textures/items/twf_nanepieye_item"
+        }, 
+        "twf_naneye_item": {
+            "textures": "textures/items/twf_naneye_item"
+        }, 
+        "twf_nanium_item": {
+            "textures": "textures/items/twf_nanium_item"
+        }, 
+        "twf_nanmaneye_item": {
+            "textures": "textures/items/twf_nanmaneye_item"
+        }, 
+        "twf_narev_item": {
+            "textures": "textures/items/twf_narev_item"
+        }, 
+        "twf_natrekz_item": {
+            "textures": "textures/items/twf_natrekz_item"
+        }, 
+        "twf_nd_item": {
+            "textures": "textures/items/twf_nd_item"
+        }, 
+        "twf_ndbiemayx_item": {
+            "textures": "textures/items/twf_ndbiemayx_item"
+        }, 
+        "twf_ndecigraline_item": {
+            "textures": "textures/items/twf_ndecigraline_item"
+        }, 
+        "twf_ndehotreeye_item": {
+            "textures": "textures/items/twf_ndehotreeye_item"
+        }, 
+        "twf_ndema_item": {
+            "textures": "textures/items/twf_ndema_item"
+        }, 
+        "twf_ndeoneriyst_item": {
+            "textures": "textures/items/twf_ndeoneriyst_item"
+        }, 
+        "twf_ndepia_item": {
+            "textures": "textures/items/twf_ndepia_item"
+        }, 
+        "twf_nderowtr_item": {
+            "textures": "textures/items/twf_nderowtr_item"
+        }, 
+        "twf_nderoxepia_item": {
+            "textures": "textures/items/twf_nderoxepia_item"
+        }, 
+        "twf_ndeye_item": {
+            "textures": "textures/items/twf_ndeye_item"
+        }, 
+        "twf_ndia_item": {
+            "textures": "textures/items/twf_ndia_item"
+        }, 
+        "twf_ndkzoneian_item": {
+            "textures": "textures/items/twf_ndkzoneian_item"
+        }, 
+        "twf_ndlbidaline_item": {
+            "textures": "textures/items/twf_ndlbidaline_item"
+        }, 
+        "twf_ndneant_item": {
+            "textures": "textures/items/twf_ndneant_item"
+        }, 
+        "twf_ndneepian_item": {
+            "textures": "textures/items/twf_ndneepian_item"
+        }, 
+        "twf_ndperidrian_item": {
+            "textures": "textures/items/twf_ndperidrian_item"
+        }, 
+        "twf_ndstone_item": {
+            "textures": "textures/items/twf_ndstone_item"
+        }, 
+        "twf_ndwitick_item": {
+            "textures": "textures/items/twf_ndwitick_item"
+        }, 
+        "twf_ndyst_item": {
+            "textures": "textures/items/twf_ndyst_item"
+        }, 
+        "twf_ne_item": {
+            "textures": "textures/items/twf_ne_item"
+        }, 
+        "twf_neaxgoneye_item": {
+            "textures": "textures/items/twf_neaxgoneye_item"
+        }, 
+        "twf_nebieemaaline_item": {
+            "textures": "textures/items/twf_nebieemaaline_item"
+        }, 
+        "twf_ned_item": {
+            "textures": "textures/items/twf_ned_item"
+        }, 
+        "twf_nedaline_item": {
+            "textures": "textures/items/twf_nedaline_item"
+        }, 
+        "twf_nedaxeick_item": {
+            "textures": "textures/items/twf_nedaxeick_item"
+        }, 
+        "twf_nedideye_item": {
+            "textures": "textures/items/twf_nedideye_item"
+        }, 
+        "twf_nediecem_item": {
+            "textures": "textures/items/twf_nediecem_item"
+        }, 
+        "twf_nedium_item": {
+            "textures": "textures/items/twf_nedium_item"
+        }, 
+        "twf_nedrevaline_item": {
+            "textures": "textures/items/twf_nedrevaline_item"
+        }, 
+        "twf_nedrwiyst_item": {
+            "textures": "textures/items/twf_nedrwiyst_item"
+        }, 
+        "twf_nedwitrsyx_item": {
+            "textures": "textures/items/twf_nedwitrsyx_item"
+        }, 
+        "twf_neelbstone_item": {
+            "textures": "textures/items/twf_neelbstone_item"
+        }, 
+        "twf_neepeye_item": {
+            "textures": "textures/items/twf_neepeye_item"
+        }, 
+        "twf_neepineteye_item": {
+            "textures": "textures/items/twf_neepineteye_item"
+        }, 
+        "twf_neig_item": {
+            "textures": "textures/items/twf_neig_item"
+        }, 
+        "twf_neium_item": {
+            "textures": "textures/items/twf_neium_item"
+        }, 
+        "twf_neivealine_item": {
+            "textures": "textures/items/twf_neivealine_item"
+        }, 
+        "twf_neneium_item": {
+            "textures": "textures/items/twf_neneium_item"
+        }, 
+        "twf_neotrsium_item": {
+            "textures": "textures/items/twf_neotrsium_item"
+        }, 
+        "twf_nepi_item": {
+            "textures": "textures/items/twf_nepi_item"
+        }, 
+        "twf_nestone_item": {
+            "textures": "textures/items/twf_nestone_item"
+        }, 
+        "twf_net_item": {
+            "textures": "textures/items/twf_net_item"
+        }, 
+        "twf_netaline_item": {
+            "textures": "textures/items/twf_netaline_item"
+        }, 
+        "twf_netch_item": {
+            "textures": "textures/items/twf_netch_item"
+        }, 
+        "twf_neteebrostone_item": {
+            "textures": "textures/items/twf_neteebrostone_item"
+        }, 
+        "twf_netian_item": {
+            "textures": "textures/items/twf_netian_item"
+        }, 
+        "twf_netlbr_item": {
+            "textures": "textures/items/twf_netlbr_item"
+        }, 
+        "twf_netrsehoaline_item": {
+            "textures": "textures/items/twf_netrsehoaline_item"
+        }, 
+        "twf_netteyst_item": {
+            "textures": "textures/items/twf_netteyst_item"
+        }, 
+        "twf_nevereye_item": {
+            "textures": "textures/items/twf_nevereye_item"
+        }, 
+        "twf_nexeyx_item": {
+            "textures": "textures/items/twf_nexeyx_item"
+        }, 
+        "twf_neyst_item": {
+            "textures": "textures/items/twf_neyst_item"
+        }, 
+        "twf_neyx_item": {
+            "textures": "textures/items/twf_neyx_item"
+        }, 
+        "twf_ntbrostone_item": {
+            "textures": "textures/items/twf_ntbrostone_item"
+        }, 
+        "twf_ntdelseian_item": {
+            "textures": "textures/items/twf_ntdelseian_item"
+        }, 
+        "twf_nteep_item": {
+            "textures": "textures/items/twf_nteep_item"
+        }, 
+        "twf_ntneidr_item": {
+            "textures": "textures/items/twf_ntneidr_item"
+        }, 
+        "twf_nton_item": {
+            "textures": "textures/items/twf_nton_item"
+        }, 
+        "twf_ntr_item": {
+            "textures": "textures/items/twf_ntr_item"
+        }, 
+        "twf_ntrkzian_item": {
+            "textures": "textures/items/twf_ntrkzian_item"
+        }, 
+        "twf_ntrsem_item": {
+            "textures": "textures/items/twf_ntrsem_item"
+        }, 
+        "twf_ntrtenorite_item": {
+            "textures": "textures/items/twf_ntrtenorite_item"
+        }, 
+        "twf_ntsem_item": {
+            "textures": "textures/items/twf_ntsem_item"
+        }, 
+        "twf_ntyst_item": {
+            "textures": "textures/items/twf_ntyst_item"
+        }, 
+        "twf_om_item": {
+            "textures": "textures/items/twf_om_item"
+        }, 
+        "twf_omaline_item": {
+            "textures": "textures/items/twf_omaline_item"
+        }, 
+        "twf_omb_item": {
+            "textures": "textures/items/twf_omb_item"
+        }, 
+        "twf_ombgriian_item": {
+            "textures": "textures/items/twf_ombgriian_item"
+        }, 
+        "twf_ombia_item": {
+            "textures": "textures/items/twf_ombia_item"
+        }, 
+        "twf_ombyx_item": {
+            "textures": "textures/items/twf_ombyx_item"
+        }, 
+        "twf_omemagryx_item": {
+            "textures": "textures/items/twf_omemagryx_item"
+        }, 
+        "twf_omenia_item": {
+            "textures": "textures/items/twf_omenia_item"
+        }, 
+        "twf_omeye_item": {
+            "textures": "textures/items/twf_omeye_item"
+        }, 
+        "twf_omian_item": {
+            "textures": "textures/items/twf_omian_item"
+        }, 
+        "twf_omitgri_item": {
+            "textures": "textures/items/twf_omitgri_item"
+        }, 
+        "twf_omkzoite_item": {
+            "textures": "textures/items/twf_omkzoite_item"
+        }, 
+        "twf_omthegoneye_item": {
+            "textures": "textures/items/twf_omthegoneye_item"
+        }, 
+        "twf_omwit_item": {
+            "textures": "textures/items/twf_omwit_item"
+        }, 
+        "twf_onchoaxium_item": {
+            "textures": "textures/items/twf_onchoaxium_item"
+        }, 
+        "twf_oneanium_item": {
+            "textures": "textures/items/twf_oneanium_item"
+        }, 
+        "twf_oneemabieeye_item": {
+            "textures": "textures/items/twf_oneemabieeye_item"
+        }, 
+        "twf_onenia_item": {
+            "textures": "textures/items/twf_onenia_item"
+        }, 
+        "twf_onepiseyst_item": {
+            "textures": "textures/items/twf_onepiseyst_item"
+        }, 
+        "twf_oneraagyst_item": {
+            "textures": "textures/items/twf_oneraagyst_item"
+        }, 
+        "twf_oneridia_item": {
+            "textures": "textures/items/twf_oneridia_item"
+        }, 
+        "twf_oneve_item": {
+            "textures": "textures/items/twf_oneve_item"
+        }, 
+        "twf_onraglbyx_item": {
+            "textures": "textures/items/twf_onraglbyx_item"
+        }, 
+        "twf_onrsyst_item": {
+            "textures": "textures/items/twf_onrsyst_item"
+        }, 
+        "twf_or_item": {
+            "textures": "textures/items/twf_or_item"
+        }, 
+        "twf_oria_item": {
+            "textures": "textures/items/twf_oria_item"
+        }, 
+        "twf_ors_item": {
+            "textures": "textures/items/twf_ors_item"
+        }, 
+        "twf_orsaline_item": {
+            "textures": "textures/items/twf_orsaline_item"
+        }, 
+        "twf_orschown_item": {
+            "textures": "textures/items/twf_orschown_item"
+        }, 
+        "twf_orsian_item": {
+            "textures": "textures/items/twf_orsian_item"
+        }, 
+        "twf_orsyx_item": {
+            "textures": "textures/items/twf_orsyx_item"
+        }, 
+        "twf_oteecrian_item": {
+            "textures": "textures/items/twf_oteecrian_item"
+        }, 
+        "twf_oteednd_item": {
+            "textures": "textures/items/twf_oteednd_item"
+        }, 
+        "twf_oteeep_item": {
+            "textures": "textures/items/twf_oteeep_item"
+        }, 
+        "twf_oteemgoaline_item": {
+            "textures": "textures/items/twf_oteemgoaline_item"
+        }, 
+        "twf_oteepte_item": {
+            "textures": "textures/items/twf_oteepte_item"
+        }, 
+        "twf_otemendstone_item": {
+            "textures": "textures/items/twf_otemendstone_item"
+        }, 
+        "twf_otewityst_item": {
+            "textures": "textures/items/twf_otewityst_item"
+        }, 
+        "twf_otite_item": {
+            "textures": "textures/items/twf_otite_item"
+        }, 
+        "twf_otre_item": {
+            "textures": "textures/items/twf_otre_item"
+        }, 
+        "twf_otrona_item": {
+            "textures": "textures/items/twf_otrona_item"
+        }, 
+        "twf_otyx_item": {
+            "textures": "textures/items/twf_otyx_item"
+        }, 
+        "twf_owaline_item": {
+            "textures": "textures/items/twf_owaline_item"
+        }, 
+        "twf_own_item": {
+            "textures": "textures/items/twf_own_item"
+        }, 
+        "twf_ownagondeeye_item": {
+            "textures": "textures/items/twf_ownagondeeye_item"
+        }, 
+        "twf_ownia_item": {
+            "textures": "textures/items/twf_ownia_item"
+        }, 
+        "twf_ownmbaline_item": {
+            "textures": "textures/items/twf_ownmbaline_item"
+        }, 
+        "twf_ownntraline_item": {
+            "textures": "textures/items/twf_ownntraline_item"
+        }, 
+        "twf_ownteedr_item": {
+            "textures": "textures/items/twf_ownteedr_item"
+        }, 
+        "twf_owtheombyst_item": {
+            "textures": "textures/items/twf_owtheombyst_item"
+        }, 
+        "twf_peagoedyx_item": {
+            "textures": "textures/items/twf_peagoedyx_item"
+        }, 
+        "twf_pealine_item": {
+            "textures": "textures/items/twf_pealine_item"
+        }, 
+        "twf_peeryst_item": {
+            "textures": "textures/items/twf_peeryst_item"
+        }, 
+        "twf_pegriepestone_item": {
+            "textures": "textures/items/twf_pegriepestone_item"
+        }, 
+        "twf_per_item": {
+            "textures": "textures/items/twf_per_item"
+        }, 
+        "twf_peraline_item": {
+            "textures": "textures/items/twf_peraline_item"
+        }, 
+        "twf_peranchaline_item": {
+            "textures": "textures/items/twf_peranchaline_item"
+        }, 
+        "twf_perchoyst_item": {
+            "textures": "textures/items/twf_perchoyst_item"
+        }, 
+        "twf_perckstone_item": {
+            "textures": "textures/items/twf_perckstone_item"
+        }, 
+        "twf_pereepzomeye_item": {
+            "textures": "textures/items/twf_pereepzomeye_item"
+        }, 
+        "twf_permarw_item": {
+            "textures": "textures/items/twf_permarw_item"
+        }, 
+        "twf_peryst_item": {
+            "textures": "textures/items/twf_peryst_item"
+        }, 
+        "twf_pic_item": {
+            "textures": "textures/items/twf_pic_item"
+        }, 
+        "twf_picendaline_item": {
+            "textures": "textures/items/twf_picendaline_item"
+        }, 
+        "twf_pician_item": {
+            "textures": "textures/items/twf_pician_item"
+        }, 
+        "twf_picidite_item": {
+            "textures": "textures/items/twf_picidite_item"
+        }, 
+        "twf_picrotyst_item": {
+            "textures": "textures/items/twf_picrotyst_item"
+        }, 
+        "twf_picstone_item": {
+            "textures": "textures/items/twf_picstone_item"
+        }, 
+        "twf_picwitaline_item": {
+            "textures": "textures/items/twf_picwitaline_item"
+        }, 
+        "twf_picxe_item": {
+            "textures": "textures/items/twf_picxe_item"
+        }, 
+        "twf_piczothyst_item": {
+            "textures": "textures/items/twf_piczothyst_item"
+        }, 
+        "twf_pidelieceye_item": {
+            "textures": "textures/items/twf_pidelieceye_item"
+        }, 
+        "twf_pidrrse_item": {
+            "textures": "textures/items/twf_pidrrse_item"
+        }, 
+        "twf_piemcre_item": {
+            "textures": "textures/items/twf_piemcre_item"
+        }, 
+        "twf_piepevenium_item": {
+            "textures": "textures/items/twf_piepevenium_item"
+        }, 
+        "twf_pig_item": {
+            "textures": "textures/items/twf_pig_item"
+        }, 
+        "twf_pigeepian_item": {
+            "textures": "textures/items/twf_pigeepian_item"
+        }, 
+        "twf_piget_item": {
+            "textures": "textures/items/twf_piget_item"
+        }, 
+        "twf_pigia_item": {
+            "textures": "textures/items/twf_pigia_item"
+        }, 
+        "twf_pignd_item": {
+            "textures": "textures/items/twf_pignd_item"
+        }, 
+        "twf_pigotembite_item": {
+            "textures": "textures/items/twf_pigotembite_item"
+        }, 
+        "twf_pigxeaxian_item": {
+            "textures": "textures/items/twf_pigxeaxian_item"
+        }, 
+        "twf_pigyst_item": {
+            "textures": "textures/items/twf_pigyst_item"
+        }, 
+        "twf_piian_item": {
+            "textures": "textures/items/twf_piian_item"
+        }, 
+        "twf_piivbro_item": {
+            "textures": "textures/items/twf_piivbro_item"
+        }, 
+        "twf_pikzopi_item": {
+            "textures": "textures/items/twf_pikzopi_item"
+        }, 
+        "twf_pineeeyx_item": {
+            "textures": "textures/items/twf_pineeeyx_item"
+        }, 
+        "twf_pirenedia_item": {
+            "textures": "textures/items/twf_pirenedia_item"
+        }, 
+        "twf_piroanyst_item": {
+            "textures": "textures/items/twf_piroanyst_item"
+        }, 
+        "twf_pirotite_item": {
+            "textures": "textures/items/twf_pirotite_item"
+        }, 
+        "twf_pive_item": {
+            "textures": "textures/items/twf_pive_item"
+        }, 
+        "twf_piyst_item": {
+            "textures": "textures/items/twf_piyst_item"
+        }, 
+        "twf_piyx_item": {
+            "textures": "textures/items/twf_piyx_item"
+        }, 
+        "twf_ploo_item": {
+            "textures": "textures/items/twf_ploo_item"
+        }, 
+        "twf_ra_item": {
+            "textures": "textures/items/twf_ra_item"
+        }, 
+        "twf_rael_item": {
+            "textures": "textures/items/twf_rael_item"
+        }, 
+        "twf_rag_item": {
+            "textures": "textures/items/twf_rag_item"
+        }, 
+        "twf_ragemaeye_item": {
+            "textures": "textures/items/twf_ragemaeye_item"
+        }, 
+        "twf_raghor_item": {
+            "textures": "textures/items/twf_raghor_item"
+        }, 
+        "twf_ragite_item": {
+            "textures": "textures/items/twf_ragite_item"
+        }, 
+        "twf_ragium_item": {
+            "textures": "textures/items/twf_ragium_item"
+        }, 
+        "twf_ralbrician_item": {
+            "textures": "textures/items/twf_ralbrician_item"
+        }, 
+        "twf_raridyx_item": {
+            "textures": "textures/items/twf_raridyx_item"
+        }, 
+        "twf_rayx_item": {
+            "textures": "textures/items/twf_rayx_item"
+        }, 
+        "twf_re_item": {
+            "textures": "textures/items/twf_re_item"
+        }, 
+        "twf_realine_item": {
+            "textures": "textures/items/twf_realine_item"
+        }, 
+        "twf_ree_item": {
+            "textures": "textures/items/twf_ree_item"
+        }, 
+        "twf_reeagoyx_item": {
+            "textures": "textures/items/twf_reeagoyx_item"
+        }, 
+        "twf_reeeealine_item": {
+            "textures": "textures/items/twf_reeeealine_item"
+        }, 
+        "twf_reeepelia_item": {
+            "textures": "textures/items/twf_reeepelia_item"
+        }, 
+        "twf_reeeroneye_item": {
+            "textures": "textures/items/twf_reeeroneye_item"
+        }, 
+        "twf_reeeye_item": {
+            "textures": "textures/items/twf_reeeye_item"
+        }, 
+        "twf_reegr_item": {
+            "textures": "textures/items/twf_reegr_item"
+        }, 
+        "twf_reeickon_item": {
+            "textures": "textures/items/twf_reeickon_item"
+        }, 
+        "twf_reelbragian_item": {
+            "textures": "textures/items/twf_reelbragian_item"
+        }, 
+        "twf_reemabro_item": {
+            "textures": "textures/items/twf_reemabro_item"
+        }, 
+        "twf_reembia_item": {
+            "textures": "textures/items/twf_reembia_item"
+        }, 
+        "twf_reendneeye_item": {
+            "textures": "textures/items/twf_reendneeye_item"
+        }, 
+        "twf_reeorepeia_item": {
+            "textures": "textures/items/twf_reeorepeia_item"
+        }, 
+        "twf_reepicite_item": {
+            "textures": "textures/items/twf_reepicite_item"
+        }, 
+        "twf_reerwitc_item": {
+            "textures": "textures/items/twf_reerwitc_item"
+        }, 
+        "twf_reeryst_item": {
+            "textures": "textures/items/twf_reeryst_item"
+        }, 
+        "twf_reeye_item": {
+            "textures": "textures/items/twf_reeye_item"
+        }, 
+        "twf_reeyx_item": {
+            "textures": "textures/items/twf_reeyx_item"
+        }, 
+        "twf_reium_item": {
+            "textures": "textures/items/twf_reium_item"
+        }, 
+        "twf_rembialine_item": {
+            "textures": "textures/items/twf_rembialine_item"
+        }, 
+        "twf_reretheeye_item": {
+            "textures": "textures/items/twf_reretheeye_item"
+        }, 
+        "twf_rerowckz_item": {
+            "textures": "textures/items/twf_rerowckz_item"
+        }, 
+        "twf_retengonstone_item": {
+            "textures": "textures/items/twf_retengonstone_item"
+        }, 
+        "twf_revep_item": {
+            "textures": "textures/items/twf_revep_item"
+        }, 
+        "twf_reveraxeyx_item": {
+            "textures": "textures/items/twf_reveraxeyx_item"
+        }, 
+        "twf_revidraline_item": {
+            "textures": "textures/items/twf_revidraline_item"
+        }, 
+        "twf_revite_item": {
+            "textures": "textures/items/twf_revite_item"
+        }, 
+        "twf_revneite_item": {
+            "textures": "textures/items/twf_revneite_item"
+        }, 
+        "twf_revpi_item": {
+            "textures": "textures/items/twf_revpi_item"
+        }, 
+        "twf_revwiia_item": {
+            "textures": "textures/items/twf_revwiia_item"
+        }, 
+        "twf_rewitite_item": {
+            "textures": "textures/items/twf_rewitite_item"
+        }, 
+        "twf_rexeprotyst_item": {
+            "textures": "textures/items/twf_rexeprotyst_item"
+        }, 
+        "twf_rezohoian_item": {
+            "textures": "textures/items/twf_rezohoian_item"
+        }, 
+        "twf_ri_item": {
+            "textures": "textures/items/twf_ri_item"
+        }, 
+        "twf_riaxe_item": {
+            "textures": "textures/items/twf_riaxe_item"
+        }, 
+        "twf_ricrite_item": {
+            "textures": "textures/items/twf_ricrite_item"
+        }, 
+        "twf_ridcreye_item": {
+            "textures": "textures/items/twf_ridcreye_item"
+        }, 
+        "twf_rideri_item": {
+            "textures": "textures/items/twf_rideri_item"
+        }, 
+        "twf_ridethreyx_item": {
+            "textures": "textures/items/twf_ridethreyx_item"
+        }, 
+        "twf_ridrotbro_item": {
+            "textures": "textures/items/twf_ridrotbro_item"
+        }, 
+        "twf_ridrwi_item": {
+            "textures": "textures/items/twf_ridrwi_item"
+        }, 
+        "twf_ridve_item": {
+            "textures": "textures/items/twf_ridve_item"
+        }, 
+        "twf_riedrium_item": {
+            "textures": "textures/items/twf_riedrium_item"
+        }, 
+        "twf_rielb_item": {
+            "textures": "textures/items/twf_rielb_item"
+        }, 
+        "twf_rienia_item": {
+            "textures": "textures/items/twf_rienia_item"
+        }, 
+        "twf_rierireeeye_item": {
+            "textures": "textures/items/twf_rierireeeye_item"
+        }, 
+        "twf_rihodeleye_item": {
+            "textures": "textures/items/twf_rihodeleye_item"
+        }, 
+        "twf_rilbrreian_item": {
+            "textures": "textures/items/twf_rilbrreian_item"
+        }, 
+        "twf_rioneraline_item": {
+            "textures": "textures/items/twf_rioneraline_item"
+        }, 
+        "twf_ripioneite_item": {
+            "textures": "textures/items/twf_ripioneite_item"
+        }, 
+        "twf_risemia_item": {
+            "textures": "textures/items/twf_risemia_item"
+        }, 
+        "twf_ritcite_item": {
+            "textures": "textures/items/twf_ritcite_item"
+        }, 
+        "twf_rivaline_item": {
+            "textures": "textures/items/twf_rivaline_item"
+        }, 
+        "twf_rivepestone_item": {
+            "textures": "textures/items/twf_rivepestone_item"
+        }, 
+        "twf_rivepiium_item": {
+            "textures": "textures/items/twf_rivepiium_item"
+        }, 
+        "twf_rivereye_item": {
+            "textures": "textures/items/twf_rivereye_item"
+        }, 
+        "twf_rivnastone_item": {
+            "textures": "textures/items/twf_rivnastone_item"
+        }, 
+        "twf_rivnderian_item": {
+            "textures": "textures/items/twf_rivnderian_item"
+        }, 
+        "twf_rivownyx_item": {
+            "textures": "textures/items/twf_rivownyx_item"
+        }, 
+        "twf_rivrot_item": {
+            "textures": "textures/items/twf_rivrot_item"
+        }, 
+        "twf_riwneorium_item": {
+            "textures": "textures/items/twf_riwneorium_item"
+        }, 
+        "twf_rodealine_item": {
+            "textures": "textures/items/twf_rodealine_item"
+        }, 
+        "twf_roeepite_item": {
+            "textures": "textures/items/twf_roeepite_item"
+        }, 
+        "twf_roerite_item": {
+            "textures": "textures/items/twf_roerite_item"
+        }, 
+        "twf_roeye_item": {
+            "textures": "textures/items/twf_roeye_item"
+        }, 
+        "twf_rogrizo_item": {
+            "textures": "textures/items/twf_rogrizo_item"
+        }, 
+        "twf_roicepaline_item": {
+            "textures": "textures/items/twf_roicepaline_item"
+        }, 
+        "twf_roitite_item": {
+            "textures": "textures/items/twf_roitite_item"
+        }, 
+        "twf_roorsaxestone_item": {
+            "textures": "textures/items/twf_roorsaxestone_item"
+        }, 
+        "twf_ropic_item": {
+            "textures": "textures/items/twf_ropic_item"
+        }, 
+        "twf_rostone_item": {
+            "textures": "textures/items/twf_rostone_item"
+        }, 
+        "twf_rot_item": {
+            "textures": "textures/items/twf_rot_item"
+        }, 
+        "twf_rotbromanyx_item": {
+            "textures": "textures/items/twf_rotbromanyx_item"
+        }, 
+        "twf_rotemgrite_item": {
+            "textures": "textures/items/twf_rotemgrite_item"
+        }, 
+        "twf_rotmanpigaline_item": {
+            "textures": "textures/items/twf_rotmanpigaline_item"
+        }, 
+        "twf_rotrotveyst_item": {
+            "textures": "textures/items/twf_rotrotveyst_item"
+        }, 
+        "twf_row_item": {
+            "textures": "textures/items/twf_row_item"
+        }, 
+        "twf_rowenidite_item": {
+            "textures": "textures/items/twf_rowenidite_item"
+        }, 
+        "twf_rowia_item": {
+            "textures": "textures/items/twf_rowia_item"
+        }, 
+        "twf_rowrseiceye_item": {
+            "textures": "textures/items/twf_rowrseiceye_item"
+        }, 
+        "twf_rowrwikzoian_item": {
+            "textures": "textures/items/twf_rowrwikzoian_item"
+        }, 
+        "twf_rowstone_item": {
+            "textures": "textures/items/twf_rowstone_item"
+        }, 
+        "twf_royst_item": {
+            "textures": "textures/items/twf_royst_item"
+        }, 
+        "twf_rsbietchium_item": {
+            "textures": "textures/items/twf_rsbietchium_item"
+        }, 
+        "twf_rse_item": {
+            "textures": "textures/items/twf_rse_item"
+        }, 
+        "twf_rsedroneium_item": {
+            "textures": "textures/items/twf_rsedroneium_item"
+        }, 
+        "twf_rseedr_item": {
+            "textures": "textures/items/twf_rseedr_item"
+        }, 
+        "twf_rseere_item": {
+            "textures": "textures/items/twf_rseere_item"
+        }, 
+        "twf_rseeria_item": {
+            "textures": "textures/items/twf_rseeria_item"
+        }, 
+        "twf_rseeverian_item": {
+            "textures": "textures/items/twf_rseeverian_item"
+        }, 
+        "twf_rseotium_item": {
+            "textures": "textures/items/twf_rseotium_item"
+        }, 
+        "twf_rserotstone_item": {
+            "textures": "textures/items/twf_rserotstone_item"
+        }, 
+        "twf_rsevenmbi_item": {
+            "textures": "textures/items/twf_rsevenmbi_item"
+        }, 
+        "twf_rshor_item": {
+            "textures": "textures/items/twf_rshor_item"
+        }, 
+        "twf_rsian_item": {
+            "textures": "textures/items/twf_rsian_item"
+        }, 
+        "twf_rsig_item": {
+            "textures": "textures/items/twf_rsig_item"
+        }, 
+        "twf_rsnanheite_item": {
+            "textures": "textures/items/twf_rsnanheite_item"
+        }, 
+        "twf_rsonexepeye_item": {
+            "textures": "textures/items/twf_rsonexepeye_item"
+        }, 
+        "twf_rsor_item": {
+            "textures": "textures/items/twf_rsor_item"
+        }, 
+        "twf_rspicyst_item": {
+            "textures": "textures/items/twf_rspicyst_item"
+        }, 
+        "twf_rsrw_item": {
+            "textures": "textures/items/twf_rsrw_item"
+        }, 
+        "twf_rsstone_item": {
+            "textures": "textures/items/twf_rsstone_item"
+        }, 
+        "twf_rsteium_item": {
+            "textures": "textures/items/twf_rsteium_item"
+        }, 
+        "twf_rw_item": {
+            "textures": "textures/items/twf_rw_item"
+        }, 
+        "twf_rwbrokzoia_item": {
+            "textures": "textures/items/twf_rwbrokzoia_item"
+        }, 
+        "twf_rwdraia_item": {
+            "textures": "textures/items/twf_rwdraia_item"
+        }, 
+        "twf_rwepievian_item": {
+            "textures": "textures/items/twf_rwepievian_item"
+        }, 
+        "twf_rwevdryx_item": {
+            "textures": "textures/items/twf_rwevdryx_item"
+        }, 
+        "twf_rwickzereia_item": {
+            "textures": "textures/items/twf_rwickzereia_item"
+        }, 
+        "twf_rwidrgonaline_item": {
+            "textures": "textures/items/twf_rwidrgonaline_item"
+        }, 
+        "twf_rwidroyst_item": {
+            "textures": "textures/items/twf_rwidroyst_item"
+        }, 
+        "twf_rwintpistone_item": {
+            "textures": "textures/items/twf_rwintpistone_item"
+        }, 
+        "twf_rwiomonstone_item": {
+            "textures": "textures/items/twf_rwiomonstone_item"
+        }, 
+        "twf_rwitreomium_item": {
+            "textures": "textures/items/twf_rwitreomium_item"
+        }, 
+        "twf_rwium_item": {
+            "textures": "textures/items/twf_rwium_item"
+        }, 
+        "twf_rwivenyx_item": {
+            "textures": "textures/items/twf_rwivenyx_item"
+        }, 
+        "twf_rwivtenaline_item": {
+            "textures": "textures/items/twf_rwivtenaline_item"
+        }, 
+        "twf_rwoteite_item": {
+            "textures": "textures/items/twf_rwoteite_item"
+        }, 
+        "twf_sebrors_item": {
+            "textures": "textures/items/twf_sebrors_item"
+        }, 
+        "twf_semaline_item": {
+            "textures": "textures/items/twf_semaline_item"
+        }, 
+        "twf_semchdel_item": {
+            "textures": "textures/items/twf_semchdel_item"
+        }, 
+        "twf_semeneth_item": {
+            "textures": "textures/items/twf_semeneth_item"
+        }, 
+        "twf_semethian_item": {
+            "textures": "textures/items/twf_semethian_item"
+        }, 
+        "twf_semgonan_item": {
+            "textures": "textures/items/twf_semgonan_item"
+        }, 
+        "twf_semia_item": {
+            "textures": "textures/items/twf_semia_item"
+        }, 
+        "twf_semickeeia_item": {
+            "textures": "textures/items/twf_semickeeia_item"
+        }, 
+        "twf_sempendeyx_item": {
+            "textures": "textures/items/twf_sempendeyx_item"
+        }, 
+        "twf_semyst_item": {
+            "textures": "textures/items/twf_semyst_item"
+        }, 
+        "twf_seridten_item": {
+            "textures": "textures/items/twf_seridten_item"
+        }, 
+        "twf_sewit_item": {
+            "textures": "textures/items/twf_sewit_item"
+        }, 
+        "twf_sloo_item": {
+            "textures": "textures/items/twf_sloo_item"
+        }, 
+        "twf_tc_item": {
+            "textures": "textures/items/twf_tc_item"
+        }, 
+        "twf_tcanote_item": {
+            "textures": "textures/items/twf_tcanote_item"
+        }, 
+        "twf_tceepeye_item": {
+            "textures": "textures/items/twf_tceepeye_item"
+        }, 
+        "twf_tcepebiian_item": {
+            "textures": "textures/items/twf_tcepebiian_item"
+        }, 
+        "twf_tchmangriite_item": {
+            "textures": "textures/items/twf_tchmangriite_item"
+        }, 
+        "twf_tchseia_item": {
+            "textures": "textures/items/twf_tchseia_item"
+        }, 
+        "twf_tcreeyst_item": {
+            "textures": "textures/items/twf_tcreeyst_item"
+        }, 
+        "twf_tcrivia_item": {
+            "textures": "textures/items/twf_tcrivia_item"
+        }, 
+        "twf_tcyst_item": {
+            "textures": "textures/items/twf_tcyst_item"
+        }, 
+        "twf_te_item": {
+            "textures": "textures/items/twf_te_item"
+        }, 
+        "twf_tedrodra_item": {
+            "textures": "textures/items/twf_tedrodra_item"
+        }, 
+        "twf_teeepanaline_item": {
+            "textures": "textures/items/twf_teeepanaline_item"
+        }, 
+        "twf_teemaonyx_item": {
+            "textures": "textures/items/twf_teemaonyx_item"
+        }, 
+        "twf_teigrnetium_item": {
+            "textures": "textures/items/twf_teigrnetium_item"
+        }, 
+        "twf_tenaline_item": {
+            "textures": "textures/items/twf_tenaline_item"
+        }, 
+        "twf_tenelbaline_item": {
+            "textures": "textures/items/twf_tenelbaline_item"
+        }, 
+        "twf_tengonidaline_item": {
+            "textures": "textures/items/twf_tengonidaline_item"
+        }, 
+        "twf_tenher_item": {
+            "textures": "textures/items/twf_tenher_item"
+        }, 
+        "twf_tenntndeeye_item": {
+            "textures": "textures/items/twf_tenntndeeye_item"
+        }, 
+        "twf_tenorsia_item": {
+            "textures": "textures/items/twf_tenorsia_item"
+        }, 
+        "twf_tenotiveium_item": {
+            "textures": "textures/items/twf_tenotiveium_item"
+        }, 
+        "twf_tenseeye_item": {
+            "textures": "textures/items/twf_tenseeye_item"
+        }, 
+        "twf_tenstone_item": {
+            "textures": "textures/items/twf_tenstone_item"
+        }, 
+        "twf_tenteyx_item": {
+            "textures": "textures/items/twf_tenteyx_item"
+        }, 
+        "twf_tewiyst_item": {
+            "textures": "textures/items/twf_tewiyst_item"
+        }, 
+        "twf_thederi_item": {
+            "textures": "textures/items/twf_thederi_item"
+        }, 
+        "twf_theelbite_item": {
+            "textures": "textures/items/twf_theelbite_item"
+        }, 
+        "twf_theer_item": {
+            "textures": "textures/items/twf_theer_item"
+        }, 
+        "twf_theet_item": {
+            "textures": "textures/items/twf_theet_item"
+        }, 
+        "twf_theia_item": {
+            "textures": "textures/items/twf_theia_item"
+        }, 
+        "twf_theitaline_item": {
+            "textures": "textures/items/twf_theitaline_item"
+        }, 
+        "twf_thentreye_item": {
+            "textures": "textures/items/twf_thentreye_item"
+        }, 
+        "twf_theombium_item": {
+            "textures": "textures/items/twf_theombium_item"
+        }, 
+        "twf_thepeedrite_item": {
+            "textures": "textures/items/twf_thepeedrite_item"
+        }, 
+        "twf_thepium_item": {
+            "textures": "textures/items/twf_thepium_item"
+        }, 
+        "twf_therwxep_item": {
+            "textures": "textures/items/twf_therwxep_item"
+        }, 
+        "twf_theyst_item": {
+            "textures": "textures/items/twf_theyst_item"
+        }, 
+        "twf_thkzoem_item": {
+            "textures": "textures/items/twf_thkzoem_item"
+        }, 
+        "twf_thpiepealine_item": {
+            "textures": "textures/items/twf_thpiepealine_item"
+        }, 
+        "twf_thrangium_item": {
+            "textures": "textures/items/twf_thrangium_item"
+        }, 
+        "twf_thrirev_item": {
+            "textures": "textures/items/twf_thrirev_item"
+        }, 
+        "twf_thtreepialine_item": {
+            "textures": "textures/items/twf_thtreepialine_item"
+        }, 
+        "twf_thzomite_item": {
+            "textures": "textures/items/twf_thzomite_item"
+        }, 
+        "twf_tr_item": {
+            "textures": "textures/items/twf_tr_item"
+        }, 
+        "twf_traline_item": {
+            "textures": "textures/items/twf_traline_item"
+        }, 
+        "twf_trckium_item": {
+            "textures": "textures/items/twf_trckium_item"
+        }, 
+        "twf_trdeium_item": {
+            "textures": "textures/items/twf_trdeium_item"
+        }, 
+        "twf_tre_item": {
+            "textures": "textures/items/twf_tre_item"
+        }, 
+        "twf_tregorevian_item": {
+            "textures": "textures/items/twf_tregorevian_item"
+        }, 
+        "twf_treick_item": {
+            "textures": "textures/items/twf_treick_item"
+        }, 
+        "twf_treium_item": {
+            "textures": "textures/items/twf_treium_item"
+        }, 
+        "twf_trematen_item": {
+            "textures": "textures/items/twf_trematen_item"
+        }, 
+        "twf_trenddreye_item": {
+            "textures": "textures/items/twf_trenddreye_item"
+        }, 
+        "twf_trepistone_item": {
+            "textures": "textures/items/twf_trepistone_item"
+        }, 
+        "twf_trereian_item": {
+            "textures": "textures/items/twf_trereian_item"
+        }, 
+        "twf_trerivhealine_item": {
+            "textures": "textures/items/twf_trerivhealine_item"
+        }, 
+        "twf_trewn_item": {
+            "textures": "textures/items/twf_trewn_item"
+        }, 
+        "twf_trmbistone_item": {
+            "textures": "textures/items/twf_trmbistone_item"
+        }, 
+        "twf_ve_item": {
+            "textures": "textures/items/twf_ve_item"
+        }, 
+        "twf_vealine_item": {
+            "textures": "textures/items/twf_vealine_item"
+        }, 
+        "twf_veandthia_item": {
+            "textures": "textures/items/twf_veandthia_item"
+        }, 
+        "twf_veedraline_item": {
+            "textures": "textures/items/twf_veedraline_item"
+        }, 
+        "twf_veerenastone_item": {
+            "textures": "textures/items/twf_veerenastone_item"
+        }, 
+        "twf_veia_item": {
+            "textures": "textures/items/twf_veia_item"
+        }, 
+        "twf_ven_item": {
+            "textures": "textures/items/twf_ven_item"
+        }, 
+        "twf_vengonian_item": {
+            "textures": "textures/items/twf_vengonian_item"
+        }, 
+        "twf_venre_item": {
+            "textures": "textures/items/twf_venre_item"
+        }, 
+        "twf_venreealine_item": {
+            "textures": "textures/items/twf_venreealine_item"
+        }, 
+        "twf_venth_item": {
+            "textures": "textures/items/twf_venth_item"
+        }, 
+        "twf_venverneeye_item": {
+            "textures": "textures/items/twf_venverneeye_item"
+        }, 
+        "twf_veotekzoeye_item": {
+            "textures": "textures/items/twf_veotekzoeye_item"
+        }, 
+        "twf_veownstone_item": {
+            "textures": "textures/items/twf_veownstone_item"
+        }, 
+        "twf_vepecrium_item": {
+            "textures": "textures/items/twf_vepecrium_item"
+        }, 
+        "twf_veperep_item": {
+            "textures": "textures/items/twf_veperep_item"
+        }, 
+        "twf_ver_item": {
+            "textures": "textures/items/twf_ver_item"
+        }, 
+        "twf_verandaline_item": {
+            "textures": "textures/items/twf_verandaline_item"
+        }, 
+        "twf_verivre_item": {
+            "textures": "textures/items/twf_verivre_item"
+        }, 
+        "twf_verkzone_item": {
+            "textures": "textures/items/twf_verkzone_item"
+        }, 
+        "twf_verrsian_item": {
+            "textures": "textures/items/twf_verrsian_item"
+        }, 
+        "twf_vertredelite_item": {
+            "textures": "textures/items/twf_vertredelite_item"
+        }, 
+        "twf_verventch_item": {
+            "textures": "textures/items/twf_verventch_item"
+        }, 
+        "twf_veyst_item": {
+            "textures": "textures/items/twf_veyst_item"
+        }, 
+        "twf_vezoaline_item": {
+            "textures": "textures/items/twf_vezoaline_item"
+        }, 
+        "twf_wibixeeye_item": {
+            "textures": "textures/items/twf_wibixeeye_item"
+        }, 
+        "twf_wietbr_item": {
+            "textures": "textures/items/twf_wietbr_item"
+        }, 
+        "twf_wieye_item": {
+            "textures": "textures/items/twf_wieye_item"
+        }, 
+        "twf_winanyst_item": {
+            "textures": "textures/items/twf_winanyst_item"
+        }, 
+        "twf_wireened_item": {
+            "textures": "textures/items/twf_wireened_item"
+        }, 
+        "twf_wiridryst_item": {
+            "textures": "textures/items/twf_wiridryst_item"
+        }, 
+        "twf_wit_item": {
+            "textures": "textures/items/twf_wit_item"
+        }, 
+        "twf_witaline_item": {
+            "textures": "textures/items/twf_witaline_item"
+        }, 
+        "twf_witbridr_item": {
+            "textures": "textures/items/twf_witbridr_item"
+        }, 
+        "twf_with_item": {
+            "textures": "textures/items/twf_with_item"
+        }, 
+        "twf_witian_item": {
+            "textures": "textures/items/twf_witian_item"
+        }, 
+        "twf_witown_item": {
+            "textures": "textures/items/twf_witown_item"
+        }, 
+        "twf_wivenlbrite_item": {
+            "textures": "textures/items/twf_wivenlbrite_item"
+        }, 
+        "twf_wneeepbieye_item": {
+            "textures": "textures/items/twf_wneeepbieye_item"
+        }, 
+        "twf_wnemaite_item": {
+            "textures": "textures/items/twf_wnemaite_item"
+        }, 
+        "twf_wnend_item": {
+            "textures": "textures/items/twf_wnend_item"
+        }, 
+        "twf_wneow_item": {
+            "textures": "textures/items/twf_wneow_item"
+        }, 
+        "twf_wnetre_item": {
+            "textures": "textures/items/twf_wnetre_item"
+        }, 
+        "twf_wnevnd_item": {
+            "textures": "textures/items/twf_wnevnd_item"
+        }, 
+        "twf_wnewn_item": {
+            "textures": "textures/items/twf_wnewn_item"
+        }, 
+        "twf_wnewneian_item": {
+            "textures": "textures/items/twf_wnewneian_item"
+        }, 
+        "twf_wneye_item": {
+            "textures": "textures/items/twf_wneye_item"
+        }, 
+        "twf_wngo_item": {
+            "textures": "textures/items/twf_wngo_item"
+        }, 
+        "twf_wnntrdryx_item": {
+            "textures": "textures/items/twf_wnntrdryx_item"
+        }, 
+        "twf_wnreorsstone_item": {
+            "textures": "textures/items/twf_wnreorsstone_item"
+        }, 
+        "twf_wnyx_item": {
+            "textures": "textures/items/twf_wnyx_item"
+        }, 
+        "twf_xeagrot_item": {
+            "textures": "textures/items/twf_xeagrot_item"
+        }, 
+        "twf_xeheryst_item": {
+            "textures": "textures/items/twf_xeheryst_item"
+        }, 
+        "twf_xehor_item": {
+            "textures": "textures/items/twf_xehor_item"
+        }, 
+        "twf_xep_item": {
+            "textures": "textures/items/twf_xep_item"
+        }, 
+        "twf_xepck_item": {
+            "textures": "textures/items/twf_xepck_item"
+        }, 
+        "twf_xepem_item": {
+            "textures": "textures/items/twf_xepem_item"
+        }, 
+        "twf_xepeveyx_item": {
+            "textures": "textures/items/twf_xepeveyx_item"
+        }, 
+        "twf_xepgoaline_item": {
+            "textures": "textures/items/twf_xepgoaline_item"
+        }, 
+        "twf_xepgonia_item": {
+            "textures": "textures/items/twf_xepgonia_item"
+        }, 
+        "twf_xeplbrayst_item": {
+            "textures": "textures/items/twf_xeplbrayst_item"
+        }, 
+        "twf_xepsemian_item": {
+            "textures": "textures/items/twf_xepsemian_item"
+        }, 
+        "twf_xepstone_item": {
+            "textures": "textures/items/twf_xepstone_item"
+        }, 
+        "twf_xepverxepia_item": {
+            "textures": "textures/items/twf_xepverxepia_item"
+        }, 
+        "twf_xerow_item": {
+            "textures": "textures/items/twf_xerow_item"
+        }, 
+        "twf_xetchite_item": {
+            "textures": "textures/items/twf_xetchite_item"
+        }, 
+        "twf_xewnmaneye_item": {
+            "textures": "textures/items/twf_xewnmaneye_item"
+        }, 
+        "twf_zloo_item": {
+            "textures": "textures/items/twf_zloo_item"
+        }, 
+        "twf_zo_item": {
+            "textures": "textures/items/twf_zo_item"
+        }, 
+        "twf_zoendium_item": {
+            "textures": "textures/items/twf_zoendium_item"
+        }, 
+        "twf_zogo_item": {
+            "textures": "textures/items/twf_zogo_item"
+        }, 
+        "twf_zoian_item": {
+            "textures": "textures/items/twf_zoian_item"
+        }, 
+        "twf_zomian_item": {
+            "textures": "textures/items/twf_zomian_item"
+        }, 
+        "twf_zomnddestone_item": {
+            "textures": "textures/items/twf_zomnddestone_item"
+        }, 
+        "twf_zomotite_item": {
+            "textures": "textures/items/twf_zomotite_item"
+        }, 
+        "twf_zooreria_item": {
+            "textures": "textures/items/twf_zooreria_item"
+        }, 
+        "twf_zoridaline_item": {
+            "textures": "textures/items/twf_zoridaline_item"
+        }, 
+        "twf_zoro_item": {
+            "textures": "textures/items/twf_zoro_item"
+        }
+    }, 
+    "texture_name": "atlas.items"
+}

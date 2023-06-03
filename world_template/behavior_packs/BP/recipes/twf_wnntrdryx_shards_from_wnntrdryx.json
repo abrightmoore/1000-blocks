@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:wnntrdryx_shards_from_wnntrdryx"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:wnntrdryx"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:wnntrdryx_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

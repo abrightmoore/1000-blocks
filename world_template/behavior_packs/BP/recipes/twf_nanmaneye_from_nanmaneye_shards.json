@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nanmaneye_from_nanmaneye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:nanmaneye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:nanmaneye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

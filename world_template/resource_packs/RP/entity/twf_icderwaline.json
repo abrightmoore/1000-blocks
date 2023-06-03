@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_icderwaline.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_icderwaline"
+            }, 
+            "identifier": "twf:icderwaline", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#FED93F", 
+                "overlay_color": "#FA89C7"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_icderwaline"
+            }
+        }
+    }
+}

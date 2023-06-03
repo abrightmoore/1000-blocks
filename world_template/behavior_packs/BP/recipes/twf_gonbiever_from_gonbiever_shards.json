@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:gonbiever_from_gonbiever_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:gonbiever_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:gonbiever"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

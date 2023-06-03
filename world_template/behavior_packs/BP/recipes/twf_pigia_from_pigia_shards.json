@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:pigia_from_pigia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:pigia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:pigia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

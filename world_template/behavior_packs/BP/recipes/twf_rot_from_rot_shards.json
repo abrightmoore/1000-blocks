@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rot_from_rot_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:rot_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rot"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

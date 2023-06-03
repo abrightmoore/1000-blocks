@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_nedrevaline.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_d"
+            }, 
+            "identifier": "twf:nedrevaline", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#252529", 
+                "overlay_color": "#C2C0A3"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_nedrevaline"
+            }
+        }
+    }
+}

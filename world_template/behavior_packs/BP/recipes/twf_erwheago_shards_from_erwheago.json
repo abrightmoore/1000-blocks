@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erwheago_shards_from_erwheago"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:erwheago"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:erwheago_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

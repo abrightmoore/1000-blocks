@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:orsian_from_orsian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:orsian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:orsian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

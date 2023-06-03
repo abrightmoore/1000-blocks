@@ -1,0 +1,144 @@
+{
+    "format_version": "1.12.0", 
+    "minecraft:geometry": [
+        {
+            "bones": [
+                {
+                    "cubes": [
+                        {
+                            "name": "cube1", 
+                            "origin": [
+                                -1.3089179841376786, 
+                                0, 
+                                -1.5121949976114046
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                5, 
+                                2, 
+                                5
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "cube2", 
+                            "origin": [
+                                -1.3089179841376786, 
+                                2.001, 
+                                -1.5121949976114046
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                5, 
+                                2, 
+                                5
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "cube3", 
+                            "origin": [
+                                -1.3089179841376786, 
+                                4.002, 
+                                -1.5121949976114046
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                5, 
+                                2, 
+                                5
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "cube4", 
+                            "origin": [
+                                -1.3089179841376786, 
+                                6.003, 
+                                -1.5121949976114046
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                5, 
+                                2, 
+                                5
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }
+                    ], 
+                    "name": "root", 
+                    "pivot": [
+                        0, 
+                        0, 
+                        0
+                    ], 
+                    "rotation": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            ], 
+            "description": {
+                "identifier": "geometry.twf_reeye", 
+                "texture_height": 16, 
+                "texture_width": 16, 
+                "visible_bounds_height": 3.5, 
+                "visible_bounds_offset": [
+                    0, 
+                    1.25, 
+                    0
+                ], 
+                "visible_bounds_width": 2
+            }
+        }
+    ]
+}

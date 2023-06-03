@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:reretheeye_from_reretheeye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:reretheeye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:reretheeye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

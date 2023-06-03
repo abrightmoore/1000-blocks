@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:enium_shards_from_enium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:enium"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:enium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

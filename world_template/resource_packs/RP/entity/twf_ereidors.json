@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_ereidors.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_ereidors"
+            }, 
+            "identifier": "twf:ereidors", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#F9932B", 
+                "overlay_color": "#1F679F"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_ereidors"
+            }
+        }
+    }
+}

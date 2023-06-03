@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_emstone.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_manereiealine"
+            }, 
+            "identifier": "twf:emstone", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#835432", 
+                "overlay_color": "#4CFCDF"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_emstone"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tchmangriite_from_tchmangriite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:tchmangriite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:tchmangriite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_permarw.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_manereiealine"
+            }, 
+            "identifier": "twf:permarw", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#F4B2C9", 
+                "overlay_color": "#86F8EB"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_permarw"
+            }
+        }
+    }
+}

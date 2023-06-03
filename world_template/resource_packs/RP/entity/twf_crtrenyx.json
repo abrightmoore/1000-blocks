@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_crtrenyx.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_f"
+            }, 
+            "identifier": "twf:crtrenyx", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#B8342C", 
+                "overlay_color": "#704554"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_crtrenyx"
+            }
+        }
+    }
+}

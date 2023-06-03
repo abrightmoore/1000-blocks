@@ -1,0 +1,3008 @@
+{
+    "num_mip_levels": 4, 
+    "padding": 8, 
+    "resource_pack_name": "1000BlocksRP", 
+    "texture_data": {
+        "twf_spectrumium": {
+            "textures": "textures/entities/twf_spectrumium"
+        }, 
+        "twf_brightmoore": {
+            "textures": "textures/entities/twf_brightmoore"
+        }, 
+        "twf_agdrive": {
+            "textures": "textures/blocks/twf_agdrive/a"
+        }, 
+        "twf_agian": {
+            "textures": "textures/blocks/twf_agian/a"
+        }, 
+        "twf_agndtchyx": {
+            "textures": "textures/blocks/twf_agndtchyx/a"
+        }, 
+        "twf_agoedreye": {
+            "textures": "textures/blocks/twf_agoedreye/a"
+        }, 
+        "twf_agoidrenaaline": {
+            "textures": "textures/blocks/twf_agoidrenaaline/a"
+        }, 
+        "twf_agoitpicia": {
+            "textures": "textures/blocks/twf_agoitpicia/a"
+        }, 
+        "twf_agostone": {
+            "textures": "textures/blocks/twf_agostone/a"
+        }, 
+        "twf_agoveian": {
+            "textures": "textures/blocks/twf_agoveian/a"
+        }, 
+        "twf_agoyst": {
+            "textures": "textures/blocks/twf_agoyst/a"
+        }, 
+        "twf_agwiivealine": {
+            "textures": "textures/blocks/twf_agwiivealine/a"
+        }, 
+        "twf_agzomeve": {
+            "textures": "textures/blocks/twf_agzomeve/a"
+        }, 
+        "twf_an": {
+            "textures": "textures/blocks/twf_an/a"
+        }, 
+        "twf_analine": {
+            "textures": "textures/blocks/twf_analine/a"
+        }, 
+        "twf_andaline": {
+            "textures": "textures/blocks/twf_andaline/a"
+        }, 
+        "twf_andckzaline": {
+            "textures": "textures/blocks/twf_andckzaline/a"
+        }, 
+        "twf_andemaite": {
+            "textures": "textures/blocks/twf_andemaite/a"
+        }, 
+        "twf_andep": {
+            "textures": "textures/blocks/twf_andep/a"
+        }, 
+        "twf_andeye": {
+            "textures": "textures/blocks/twf_andeye/a"
+        }, 
+        "twf_andyx": {
+            "textures": "textures/blocks/twf_andyx/a"
+        }, 
+        "twf_anhoite": {
+            "textures": "textures/blocks/twf_anhoite/a"
+        }, 
+        "twf_aniecstone": {
+            "textures": "textures/blocks/twf_aniecstone/a"
+        }, 
+        "twf_annanaxeyx": {
+            "textures": "textures/blocks/twf_annanaxeyx/a"
+        }, 
+        "twf_anorivian": {
+            "textures": "textures/blocks/twf_anorivian/a"
+        }, 
+        "twf_anrieriyst": {
+            "textures": "textures/blocks/twf_anrieriyst/a"
+        }, 
+        "twf_anstone": {
+            "textures": "textures/blocks/twf_anstone/a"
+        }, 
+        "twf_ant": {
+            "textures": "textures/blocks/twf_ant/a"
+        }, 
+        "twf_antaline": {
+            "textures": "textures/blocks/twf_antaline/a"
+        }, 
+        "twf_antemarivia": {
+            "textures": "textures/blocks/twf_antemarivia/a"
+        }, 
+        "twf_antium": {
+            "textures": "textures/blocks/twf_antium/a"
+        }, 
+        "twf_antivanteye": {
+            "textures": "textures/blocks/twf_antivanteye/a"
+        }, 
+        "twf_antned": {
+            "textures": "textures/blocks/twf_antned/a"
+        }, 
+        "twf_antoneom": {
+            "textures": "textures/blocks/twf_antoneom/a"
+        }, 
+        "twf_antroaline": {
+            "textures": "textures/blocks/twf_antroaline/a"
+        }, 
+        "twf_ax": {
+            "textures": "textures/blocks/twf_ax/a"
+        }, 
+        "twf_axagian": {
+            "textures": "textures/blocks/twf_axagian/a"
+        }, 
+        "twf_axbroia": {
+            "textures": "textures/blocks/twf_axbroia/a"
+        }, 
+        "twf_axe": {
+            "textures": "textures/blocks/twf_axe/a"
+        }, 
+        "twf_axeaxerotium": {
+            "textures": "textures/blocks/twf_axeaxerotium/a"
+        }, 
+        "twf_axechherian": {
+            "textures": "textures/blocks/twf_axechherian/a"
+        }, 
+        "twf_axeepieye": {
+            "textures": "textures/blocks/twf_axeepieye/a"
+        }, 
+        "twf_axeeveeleye": {
+            "textures": "textures/blocks/twf_axeeveeleye/a"
+        }, 
+        "twf_axeian": {
+            "textures": "textures/blocks/twf_axeian/a"
+        }, 
+        "twf_axeieceye": {
+            "textures": "textures/blocks/twf_axeieceye/a"
+        }, 
+        "twf_axeitaline": {
+            "textures": "textures/blocks/twf_axeitaline/a"
+        }, 
+        "twf_axerigryx": {
+            "textures": "textures/blocks/twf_axerigryx/a"
+        }, 
+        "twf_axgoneye": {
+            "textures": "textures/blocks/twf_axgoneye/a"
+        }, 
+        "twf_axia": {
+            "textures": "textures/blocks/twf_axia/a"
+        }, 
+        "twf_axium": {
+            "textures": "textures/blocks/twf_axium/a"
+        }, 
+        "twf_bi": {
+            "textures": "textures/blocks/twf_bi/a"
+        }, 
+        "twf_biantreeye": {
+            "textures": "textures/blocks/twf_biantreeye/a"
+        }, 
+        "twf_bie": {
+            "textures": "textures/blocks/twf_bie/a"
+        }, 
+        "twf_bieev": {
+            "textures": "textures/blocks/twf_bieev/a"
+        }, 
+        "twf_bieia": {
+            "textures": "textures/blocks/twf_bieia/a"
+        }, 
+        "twf_biepigium": {
+            "textures": "textures/blocks/twf_biepigium/a"
+        }, 
+        "twf_bieten": {
+            "textures": "textures/blocks/twf_bieten/a"
+        }, 
+        "twf_biite": {
+            "textures": "textures/blocks/twf_biite/a"
+        }, 
+        "twf_bistone": {
+            "textures": "textures/blocks/twf_bistone/a"
+        }, 
+        "twf_biveraline": {
+            "textures": "textures/blocks/twf_biveraline/a"
+        }, 
+        "twf_bremaidstone": {
+            "textures": "textures/blocks/twf_bremaidstone/a"
+        }, 
+        "twf_brevite": {
+            "textures": "textures/blocks/twf_brevite/a"
+        }, 
+        "twf_brian": {
+            "textures": "textures/blocks/twf_brian/a"
+        }, 
+        "twf_brium": {
+            "textures": "textures/blocks/twf_brium/a"
+        }, 
+        "twf_brnanium": {
+            "textures": "textures/blocks/twf_brnanium/a"
+        }, 
+        "twf_brndium": {
+            "textures": "textures/blocks/twf_brndium/a"
+        }, 
+        "twf_broeeyst": {
+            "textures": "textures/blocks/twf_broeeyst/a"
+        }, 
+        "twf_broigian": {
+            "textures": "textures/blocks/twf_broigian/a"
+        }, 
+        "twf_broite": {
+            "textures": "textures/blocks/twf_broite/a"
+        }, 
+        "twf_bronacreyst": {
+            "textures": "textures/blocks/twf_bronacreyst/a"
+        }, 
+        "twf_broregr": {
+            "textures": "textures/blocks/twf_broregr/a"
+        }, 
+        "twf_broxeiveian": {
+            "textures": "textures/blocks/twf_broxeiveian/a"
+        }, 
+        "twf_broyx": {
+            "textures": "textures/blocks/twf_broyx/a"
+        }, 
+        "twf_chckneyst": {
+            "textures": "textures/blocks/twf_chckneyst/a"
+        }, 
+        "twf_chelbrivyx": {
+            "textures": "textures/blocks/twf_chelbrivyx/a"
+        }, 
+        "twf_chemaxstone": {
+            "textures": "textures/blocks/twf_chemaxstone/a"
+        }, 
+        "twf_cheye": {
+            "textures": "textures/blocks/twf_cheye/a"
+        }, 
+        "twf_chia": {
+            "textures": "textures/blocks/twf_chia/a"
+        }, 
+        "twf_chieman": {
+            "textures": "textures/blocks/twf_chieman/a"
+        }, 
+        "twf_chite": {
+            "textures": "textures/blocks/twf_chite/a"
+        }, 
+        "twf_chnanyx": {
+            "textures": "textures/blocks/twf_chnanyx/a"
+        }, 
+        "twf_chobieia": {
+            "textures": "textures/blocks/twf_chobieia/a"
+        }, 
+        "twf_choeth": {
+            "textures": "textures/blocks/twf_choeth/a"
+        }, 
+        "twf_choickium": {
+            "textures": "textures/blocks/twf_choickium/a"
+        }, 
+        "twf_chomanbro": {
+            "textures": "textures/blocks/twf_chomanbro/a"
+        }, 
+        "twf_chorekzoaline": {
+            "textures": "textures/blocks/twf_chorekzoaline/a"
+        }, 
+        "twf_chorse": {
+            "textures": "textures/blocks/twf_chorse/a"
+        }, 
+        "twf_choxeitium": {
+            "textures": "textures/blocks/twf_choxeitium/a"
+        }, 
+        "twf_chperaline": {
+            "textures": "textures/blocks/twf_chperaline/a"
+        }, 
+        "twf_ckitcdrian": {
+            "textures": "textures/blocks/twf_ckitcdrian/a"
+        }, 
+        "twf_ckite": {
+            "textures": "textures/blocks/twf_ckite/a"
+        }, 
+        "twf_ckrealine": {
+            "textures": "textures/blocks/twf_ckrealine/a"
+        }, 
+        "twf_ckri": {
+            "textures": "textures/blocks/twf_ckri/a"
+        }, 
+        "twf_ckz": {
+            "textures": "textures/blocks/twf_ckz/a"
+        }, 
+        "twf_ckzeeyst": {
+            "textures": "textures/blocks/twf_ckzeeyst/a"
+        }, 
+        "twf_ckzgoneye": {
+            "textures": "textures/blocks/twf_ckzgoneye/a"
+        }, 
+        "twf_ckzitc": {
+            "textures": "textures/blocks/twf_ckzitc/a"
+        }, 
+        "twf_ckzntrwneyst": {
+            "textures": "textures/blocks/twf_ckzntrwneyst/a"
+        }, 
+        "twf_ckzoneite": {
+            "textures": "textures/blocks/twf_ckzoneite/a"
+        }, 
+        "twf_ckztreowia": {
+            "textures": "textures/blocks/twf_ckztreowia/a"
+        }, 
+        "twf_ckzwittch": {
+            "textures": "textures/blocks/twf_ckzwittch/a"
+        }, 
+        "twf_crckzenaline": {
+            "textures": "textures/blocks/twf_crckzenaline/a"
+        }, 
+        "twf_cre": {
+            "textures": "textures/blocks/twf_cre/a"
+        }, 
+        "twf_creaneristone": {
+            "textures": "textures/blocks/twf_creaneristone/a"
+        }, 
+        "twf_creeye": {
+            "textures": "textures/blocks/twf_creeye/a"
+        }, 
+        "twf_creia": {
+            "textures": "textures/blocks/twf_creia/a"
+        }, 
+        "twf_creian": {
+            "textures": "textures/blocks/twf_creian/a"
+        }, 
+        "twf_creombdroite": {
+            "textures": "textures/blocks/twf_creombdroite/a"
+        }, 
+        "twf_creonewne": {
+            "textures": "textures/blocks/twf_creonewne/a"
+        }, 
+        "twf_creowveeye": {
+            "textures": "textures/blocks/twf_creowveeye/a"
+        }, 
+        "twf_crepeium": {
+            "textures": "textures/blocks/twf_crepeium/a"
+        }, 
+        "twf_crero": {
+            "textures": "textures/blocks/twf_crero/a"
+        }, 
+        "twf_creyx": {
+            "textures": "textures/blocks/twf_creyx/a"
+        }, 
+        "twf_crmaite": {
+            "textures": "textures/blocks/twf_crmaite/a"
+        }, 
+        "twf_crsemherite": {
+            "textures": "textures/blocks/twf_crsemherite/a"
+        }, 
+        "twf_crtrenyx": {
+            "textures": "textures/blocks/twf_crtrenyx/a"
+        }, 
+        "twf_crvernd": {
+            "textures": "textures/blocks/twf_crvernd/a"
+        }, 
+        "twf_crzomaline": {
+            "textures": "textures/blocks/twf_crzomaline/a"
+        }, 
+        "twf_crzomite": {
+            "textures": "textures/blocks/twf_crzomite/a"
+        }, 
+        "twf_de": {
+            "textures": "textures/blocks/twf_de/a"
+        }, 
+        "twf_deeetchite": {
+            "textures": "textures/blocks/twf_deeetchite/a"
+        }, 
+        "twf_deelbian": {
+            "textures": "textures/blocks/twf_deelbian/a"
+        }, 
+        "twf_deian": {
+            "textures": "textures/blocks/twf_deian/a"
+        }, 
+        "twf_del": {
+            "textures": "textures/blocks/twf_del/a"
+        }, 
+        "twf_delaline": {
+            "textures": "textures/blocks/twf_delaline/a"
+        }, 
+        "twf_deldeyst": {
+            "textures": "textures/blocks/twf_deldeyst/a"
+        }, 
+        "twf_deleneep": {
+            "textures": "textures/blocks/twf_deleneep/a"
+        }, 
+        "twf_delerw": {
+            "textures": "textures/blocks/twf_delerw/a"
+        }, 
+        "twf_delgo": {
+            "textures": "textures/blocks/twf_delgo/a"
+        }, 
+        "twf_delperite": {
+            "textures": "textures/blocks/twf_delperite/a"
+        }, 
+        "twf_deltre": {
+            "textures": "textures/blocks/twf_deltre/a"
+        }, 
+        "twf_delverndium": {
+            "textures": "textures/blocks/twf_delverndium/a"
+        }, 
+        "twf_delyst": {
+            "textures": "textures/blocks/twf_delyst/a"
+        }, 
+        "twf_dembia": {
+            "textures": "textures/blocks/twf_dembia/a"
+        }, 
+        "twf_dereembialine": {
+            "textures": "textures/blocks/twf_dereembialine/a"
+        }, 
+        "twf_deyst": {
+            "textures": "textures/blocks/twf_deyst/a"
+        }, 
+        "twf_draagwiium": {
+            "textures": "textures/blocks/twf_draagwiium/a"
+        }, 
+        "twf_drackzbieia": {
+            "textures": "textures/blocks/twf_drackzbieia/a"
+        }, 
+        "twf_draenyst": {
+            "textures": "textures/blocks/twf_draenyst/a"
+        }, 
+        "twf_dramanethium": {
+            "textures": "textures/blocks/twf_dramanethium/a"
+        }, 
+        "twf_draomyst": {
+            "textures": "textures/blocks/twf_draomyst/a"
+        }, 
+        "twf_draow": {
+            "textures": "textures/blocks/twf_draow/a"
+        }, 
+        "twf_drarwiyx": {
+            "textures": "textures/blocks/twf_drarwiyx/a"
+        }, 
+        "twf_drasemaline": {
+            "textures": "textures/blocks/twf_drasemaline/a"
+        }, 
+        "twf_draxeeneye": {
+            "textures": "textures/blocks/twf_draxeeneye/a"
+        }, 
+        "twf_drazomelium": {
+            "textures": "textures/blocks/twf_drazomelium/a"
+        }, 
+        "twf_drchyx": {
+            "textures": "textures/blocks/twf_drchyx/a"
+        }, 
+        "twf_drdr": {
+            "textures": "textures/blocks/twf_drdr/a"
+        }, 
+        "twf_drdrreia": {
+            "textures": "textures/blocks/twf_drdrreia/a"
+        }, 
+        "twf_dreye": {
+            "textures": "textures/blocks/twf_dreye/a"
+        }, 
+        "twf_drigde": {
+            "textures": "textures/blocks/twf_drigde/a"
+        }, 
+        "twf_drinvaline": {
+            "textures": "textures/blocks/twf_drinvaline/a"
+        }, 
+        "twf_drium": {
+            "textures": "textures/blocks/twf_drium/a"
+        }, 
+        "twf_drlb": {
+            "textures": "textures/blocks/twf_drlb/a"
+        }, 
+        "twf_droaline": {
+            "textures": "textures/blocks/twf_droaline/a"
+        }, 
+        "twf_droaxeium": {
+            "textures": "textures/blocks/twf_droaxeium/a"
+        }, 
+        "twf_droia": {
+            "textures": "textures/blocks/twf_droia/a"
+        }, 
+        "twf_droian": {
+            "textures": "textures/blocks/twf_droian/a"
+        }, 
+        "twf_droium": {
+            "textures": "textures/blocks/twf_droium/a"
+        }, 
+        "twf_dromb": {
+            "textures": "textures/blocks/twf_dromb/a"
+        }, 
+        "twf_dropi": {
+            "textures": "textures/blocks/twf_dropi/a"
+        }, 
+        "twf_droyst": {
+            "textures": "textures/blocks/twf_droyst/a"
+        }, 
+        "twf_drrithian": {
+            "textures": "textures/blocks/twf_drrithian/a"
+        }, 
+        "twf_drwiragite": {
+            "textures": "textures/blocks/twf_drwiragite/a"
+        }, 
+        "twf_ec": {
+            "textures": "textures/blocks/twf_ec/a"
+        }, 
+        "twf_ecbietchite": {
+            "textures": "textures/blocks/twf_ecbietchite/a"
+        }, 
+        "twf_ecbiium": {
+            "textures": "textures/blocks/twf_ecbiium/a"
+        }, 
+        "twf_ecelpi": {
+            "textures": "textures/blocks/twf_ecelpi/a"
+        }, 
+        "twf_ecigryst": {
+            "textures": "textures/blocks/twf_ecigryst/a"
+        }, 
+        "twf_ecnareian": {
+            "textures": "textures/blocks/twf_ecnareian/a"
+        }, 
+        "twf_ecrdeenaite": {
+            "textures": "textures/blocks/twf_ecrdeenaite/a"
+        }, 
+        "twf_ecrgrioneeye": {
+            "textures": "textures/blocks/twf_ecrgrioneeye/a"
+        }, 
+        "twf_ecrite": {
+            "textures": "textures/blocks/twf_ecrite/a"
+        }, 
+        "twf_ecronep": {
+            "textures": "textures/blocks/twf_ecronep/a"
+        }, 
+        "twf_ecrseeth": {
+            "textures": "textures/blocks/twf_ecrseeth/a"
+        }, 
+        "twf_ecwitnedaline": {
+            "textures": "textures/blocks/twf_ecwitnedaline/a"
+        }, 
+        "twf_edaline": {
+            "textures": "textures/blocks/twf_edaline/a"
+        }, 
+        "twf_edeeeye": {
+            "textures": "textures/blocks/twf_edeeeye/a"
+        }, 
+        "twf_edemana": {
+            "textures": "textures/blocks/twf_edemana/a"
+        }, 
+        "twf_edevecryx": {
+            "textures": "textures/blocks/twf_edevecryx/a"
+        }, 
+        "twf_editcaline": {
+            "textures": "textures/blocks/twf_editcaline/a"
+        }, 
+        "twf_edium": {
+            "textures": "textures/blocks/twf_edium/a"
+        }, 
+        "twf_edomium": {
+            "textures": "textures/blocks/twf_edomium/a"
+        }, 
+        "twf_edr": {
+            "textures": "textures/blocks/twf_edr/a"
+        }, 
+        "twf_edreeer": {
+            "textures": "textures/blocks/twf_edreeer/a"
+        }, 
+        "twf_edreriite": {
+            "textures": "textures/blocks/twf_edreriite/a"
+        }, 
+        "twf_edrium": {
+            "textures": "textures/blocks/twf_edrium/a"
+        }, 
+        "twf_edrrivaline": {
+            "textures": "textures/blocks/twf_edrrivaline/a"
+        }, 
+        "twf_edrrowyx": {
+            "textures": "textures/blocks/twf_edrrowyx/a"
+        }, 
+        "twf_edrrwistone": {
+            "textures": "textures/blocks/twf_edrrwistone/a"
+        }, 
+        "twf_edrstone": {
+            "textures": "textures/blocks/twf_edrstone/a"
+        }, 
+        "twf_ee": {
+            "textures": "textures/blocks/twf_ee/a"
+        }, 
+        "twf_eealine": {
+            "textures": "textures/blocks/twf_eealine/a"
+        }, 
+        "twf_eedra": {
+            "textures": "textures/blocks/twf_eedra/a"
+        }, 
+        "twf_eeemthyx": {
+            "textures": "textures/blocks/twf_eeemthyx/a"
+        }, 
+        "twf_eeheraline": {
+            "textures": "textures/blocks/twf_eeheraline/a"
+        }, 
+        "twf_eendrealine": {
+            "textures": "textures/blocks/twf_eendrealine/a"
+        }, 
+        "twf_eep": {
+            "textures": "textures/blocks/twf_eep/a"
+        }, 
+        "twf_eepaline": {
+            "textures": "textures/blocks/twf_eepaline/a"
+        }, 
+        "twf_eepeepnanaline": {
+            "textures": "textures/blocks/twf_eepeepnanaline/a"
+        }, 
+        "twf_eepema": {
+            "textures": "textures/blocks/twf_eepema/a"
+        }, 
+        "twf_eepenaline": {
+            "textures": "textures/blocks/twf_eepenaline/a"
+        }, 
+        "twf_eepeye": {
+            "textures": "textures/blocks/twf_eepeye/a"
+        }, 
+        "twf_eepi": {
+            "textures": "textures/blocks/twf_eepi/a"
+        }, 
+        "twf_eepia": {
+            "textures": "textures/blocks/twf_eepia/a"
+        }, 
+        "twf_eepmanmbiium": {
+            "textures": "textures/blocks/twf_eepmanmbiium/a"
+        }, 
+        "twf_eeponeeveyst": {
+            "textures": "textures/blocks/twf_eeponeeveyst/a"
+        }, 
+        "twf_eepstone": {
+            "textures": "textures/blocks/twf_eepstone/a"
+        }, 
+        "twf_eerariv": {
+            "textures": "textures/blocks/twf_eerariv/a"
+        }, 
+        "twf_eerealine": {
+            "textures": "textures/blocks/twf_eerealine/a"
+        }, 
+        "twf_eese": {
+            "textures": "textures/blocks/twf_eese/a"
+        }, 
+        "twf_eetcmaeye": {
+            "textures": "textures/blocks/twf_eetcmaeye/a"
+        }, 
+        "twf_eeyst": {
+            "textures": "textures/blocks/twf_eeyst/a"
+        }, 
+        "twf_el": {
+            "textures": "textures/blocks/twf_el/a"
+        }, 
+        "twf_elb": {
+            "textures": "textures/blocks/twf_elb/a"
+        }, 
+        "twf_elbagaline": {
+            "textures": "textures/blocks/twf_elbagaline/a"
+        }, 
+        "twf_elbagyst": {
+            "textures": "textures/blocks/twf_elbagyst/a"
+        }, 
+        "twf_elbeepchaline": {
+            "textures": "textures/blocks/twf_elbeepchaline/a"
+        }, 
+        "twf_elbherendaline": {
+            "textures": "textures/blocks/twf_elbherendaline/a"
+        }, 
+        "twf_elbickian": {
+            "textures": "textures/blocks/twf_elbickian/a"
+        }, 
+        "twf_elbite": {
+            "textures": "textures/blocks/twf_elbite/a"
+        }, 
+        "twf_elboredeye": {
+            "textures": "textures/blocks/twf_elboredeye/a"
+        }, 
+        "twf_elbxeia": {
+            "textures": "textures/blocks/twf_elbxeia/a"
+        }, 
+        "twf_elemayx": {
+            "textures": "textures/blocks/twf_elemayx/a"
+        }, 
+        "twf_elepnetian": {
+            "textures": "textures/blocks/twf_elepnetian/a"
+        }, 
+        "twf_elereye": {
+            "textures": "textures/blocks/twf_elereye/a"
+        }, 
+        "twf_eleriium": {
+            "textures": "textures/blocks/twf_eleriium/a"
+        }, 
+        "twf_elethyst": {
+            "textures": "textures/blocks/twf_elethyst/a"
+        }, 
+        "twf_eloraline": {
+            "textures": "textures/blocks/twf_eloraline/a"
+        }, 
+        "twf_elyx": {
+            "textures": "textures/blocks/twf_elyx/a"
+        }, 
+        "twf_em": {
+            "textures": "textures/blocks/twf_em/a"
+        }, 
+        "twf_emackzit": {
+            "textures": "textures/blocks/twf_emackzit/a"
+        }, 
+        "twf_emaium": {
+            "textures": "textures/blocks/twf_emaium/a"
+        }, 
+        "twf_emaline": {
+            "textures": "textures/blocks/twf_emaline/a"
+        }, 
+        "twf_emaonote": {
+            "textures": "textures/blocks/twf_emaonote/a"
+        }, 
+        "twf_emaorium": {
+            "textures": "textures/blocks/twf_emaorium/a"
+        }, 
+        "twf_emaorsickaline": {
+            "textures": "textures/blocks/twf_emaorsickaline/a"
+        }, 
+        "twf_emgonet": {
+            "textures": "textures/blocks/twf_emgonet/a"
+        }, 
+        "twf_emgrialine": {
+            "textures": "textures/blocks/twf_emgrialine/a"
+        }, 
+        "twf_emhe": {
+            "textures": "textures/blocks/twf_emhe/a"
+        }, 
+        "twf_emitaline": {
+            "textures": "textures/blocks/twf_emitaline/a"
+        }, 
+        "twf_emium": {
+            "textures": "textures/blocks/twf_emium/a"
+        }, 
+        "twf_emnd": {
+            "textures": "textures/blocks/twf_emnd/a"
+        }, 
+        "twf_emstone": {
+            "textures": "textures/blocks/twf_emstone/a"
+        }, 
+        "twf_emtenepeium": {
+            "textures": "textures/blocks/twf_emtenepeium/a"
+        }, 
+        "twf_enaecredraline": {
+            "textures": "textures/blocks/twf_enaecredraline/a"
+        }, 
+        "twf_enaomhereye": {
+            "textures": "textures/blocks/twf_enaomhereye/a"
+        }, 
+        "twf_enaseyx": {
+            "textures": "textures/blocks/twf_enaseyx/a"
+        }, 
+        "twf_enatchdrostone": {
+            "textures": "textures/blocks/twf_enatchdrostone/a"
+        }, 
+        "twf_encreyst": {
+            "textures": "textures/blocks/twf_encreyst/a"
+        }, 
+        "twf_endgoyst": {
+            "textures": "textures/blocks/twf_endgoyst/a"
+        }, 
+        "twf_endiveian": {
+            "textures": "textures/blocks/twf_endiveian/a"
+        }, 
+        "twf_endpialine": {
+            "textures": "textures/blocks/twf_endpialine/a"
+        }, 
+        "twf_endtccre": {
+            "textures": "textures/blocks/twf_endtccre/a"
+        }, 
+        "twf_endverium": {
+            "textures": "textures/blocks/twf_endverium/a"
+        }, 
+        "twf_endyst": {
+            "textures": "textures/blocks/twf_endyst/a"
+        }, 
+        "twf_enedrre": {
+            "textures": "textures/blocks/twf_enedrre/a"
+        }, 
+        "twf_enepgrian": {
+            "textures": "textures/blocks/twf_enepgrian/a"
+        }, 
+        "twf_enepi": {
+            "textures": "textures/blocks/twf_enepi/a"
+        }, 
+        "twf_enerckzaline": {
+            "textures": "textures/blocks/twf_enerckzaline/a"
+        }, 
+        "twf_eneroteye": {
+            "textures": "textures/blocks/twf_eneroteye/a"
+        }, 
+        "twf_enite": {
+            "textures": "textures/blocks/twf_enite/a"
+        }, 
+        "twf_enium": {
+            "textures": "textures/blocks/twf_enium/a"
+        }, 
+        "twf_enkzoyx": {
+            "textures": "textures/blocks/twf_enkzoyx/a"
+        }, 
+        "twf_enntaline": {
+            "textures": "textures/blocks/twf_enntaline/a"
+        }, 
+        "twf_enragyst": {
+            "textures": "textures/blocks/twf_enragyst/a"
+        }, 
+        "twf_enreeorsstone": {
+            "textures": "textures/blocks/twf_enreeorsstone/a"
+        }, 
+        "twf_enverbiealine": {
+            "textures": "textures/blocks/twf_enverbiealine/a"
+        }, 
+        "twf_ep": {
+            "textures": "textures/blocks/twf_ep/a"
+        }, 
+        "twf_epdedelyst": {
+            "textures": "textures/blocks/twf_epdedelyst/a"
+        }, 
+        "twf_epdr": {
+            "textures": "textures/blocks/twf_epdr/a"
+        }, 
+        "twf_epdroyx": {
+            "textures": "textures/blocks/twf_epdroyx/a"
+        }, 
+        "twf_epealine": {
+            "textures": "textures/blocks/twf_epealine/a"
+        }, 
+        "twf_epeecstone": {
+            "textures": "textures/blocks/twf_epeecstone/a"
+        }, 
+        "twf_epeendnedian": {
+            "textures": "textures/blocks/twf_epeendnedian/a"
+        }, 
+        "twf_epelbeye": {
+            "textures": "textures/blocks/twf_epelbeye/a"
+        }, 
+        "twf_epemanaline": {
+            "textures": "textures/blocks/twf_epemanaline/a"
+        }, 
+        "twf_epemanelbaline": {
+            "textures": "textures/blocks/twf_epemanelbaline/a"
+        }, 
+        "twf_epemyst": {
+            "textures": "textures/blocks/twf_epemyst/a"
+        }, 
+        "twf_ependerealine": {
+            "textures": "textures/blocks/twf_ependerealine/a"
+        }, 
+        "twf_eperagow": {
+            "textures": "textures/blocks/twf_eperagow/a"
+        }, 
+        "twf_eperiitc": {
+            "textures": "textures/blocks/twf_eperiitc/a"
+        }, 
+        "twf_eperwian": {
+            "textures": "textures/blocks/twf_eperwian/a"
+        }, 
+        "twf_epevepic": {
+            "textures": "textures/blocks/twf_epevepic/a"
+        }, 
+        "twf_epexepeye": {
+            "textures": "textures/blocks/twf_epexepeye/a"
+        }, 
+        "twf_epeye": {
+            "textures": "textures/blocks/twf_epeye/a"
+        }, 
+        "twf_epgon": {
+            "textures": "textures/blocks/twf_epgon/a"
+        }, 
+        "twf_epi": {
+            "textures": "textures/blocks/twf_epi/a"
+        }, 
+        "twf_epialine": {
+            "textures": "textures/blocks/twf_epialine/a"
+        }, 
+        "twf_epian": {
+            "textures": "textures/blocks/twf_epian/a"
+        }, 
+        "twf_epiand": {
+            "textures": "textures/blocks/twf_epiand/a"
+        }, 
+        "twf_epiandia": {
+            "textures": "textures/blocks/twf_epiandia/a"
+        }, 
+        "twf_epiax": {
+            "textures": "textures/blocks/twf_epiax/a"
+        }, 
+        "twf_epieriia": {
+            "textures": "textures/blocks/twf_epieriia/a"
+        }, 
+        "twf_epieveown": {
+            "textures": "textures/blocks/twf_epieveown/a"
+        }, 
+        "twf_epigoaline": {
+            "textures": "textures/blocks/twf_epigoaline/a"
+        }, 
+        "twf_epigrium": {
+            "textures": "textures/blocks/twf_epigrium/a"
+        }, 
+        "twf_epiitcev": {
+            "textures": "textures/blocks/twf_epiitcev/a"
+        }, 
+        "twf_epirentaline": {
+            "textures": "textures/blocks/twf_epirentaline/a"
+        }, 
+        "twf_epiteye": {
+            "textures": "textures/blocks/twf_epiteye/a"
+        }, 
+        "twf_epiveyx": {
+            "textures": "textures/blocks/twf_epiveyx/a"
+        }, 
+        "twf_epizomvenaline": {
+            "textures": "textures/blocks/twf_epizomvenaline/a"
+        }, 
+        "twf_epnannd": {
+            "textures": "textures/blocks/twf_epnannd/a"
+        }, 
+        "twf_epndaline": {
+            "textures": "textures/blocks/twf_epndaline/a"
+        }, 
+        "twf_eponyst": {
+            "textures": "textures/blocks/twf_eponyst/a"
+        }, 
+        "twf_eppigaline": {
+            "textures": "textures/blocks/twf_eppigaline/a"
+        }, 
+        "twf_eprideye": {
+            "textures": "textures/blocks/twf_eprideye/a"
+        }, 
+        "twf_epstone": {
+            "textures": "textures/blocks/twf_epstone/a"
+        }, 
+        "twf_epxepium": {
+            "textures": "textures/blocks/twf_epxepium/a"
+        }, 
+        "twf_epyst": {
+            "textures": "textures/blocks/twf_epyst/a"
+        }, 
+        "twf_epzomnanium": {
+            "textures": "textures/blocks/twf_epzomnanium/a"
+        }, 
+        "twf_er": {
+            "textures": "textures/blocks/twf_er/a"
+        }, 
+        "twf_eragombeye": {
+            "textures": "textures/blocks/twf_eragombeye/a"
+        }, 
+        "twf_erdroeye": {
+            "textures": "textures/blocks/twf_erdroeye/a"
+        }, 
+        "twf_ere": {
+            "textures": "textures/blocks/twf_ere/a"
+        }, 
+        "twf_ereidgoyst": {
+            "textures": "textures/blocks/twf_ereidgoyst/a"
+        }, 
+        "twf_ereidors": {
+            "textures": "textures/blocks/twf_ereidors/a"
+        }, 
+        "twf_ereitc": {
+            "textures": "textures/blocks/twf_ereitc/a"
+        }, 
+        "twf_erepi": {
+            "textures": "textures/blocks/twf_erepi/a"
+        }, 
+        "twf_erepiia": {
+            "textures": "textures/blocks/twf_erepiia/a"
+        }, 
+        "twf_erhoremstone": {
+            "textures": "textures/blocks/twf_erhoremstone/a"
+        }, 
+        "twf_eri": {
+            "textures": "textures/blocks/twf_eri/a"
+        }, 
+        "twf_erian": {
+            "textures": "textures/blocks/twf_erian/a"
+        }, 
+        "twf_ericomb": {
+            "textures": "textures/blocks/twf_ericomb/a"
+        }, 
+        "twf_eriecyst": {
+            "textures": "textures/blocks/twf_eriecyst/a"
+        }, 
+        "twf_eriieep": {
+            "textures": "textures/blocks/twf_eriieep/a"
+        }, 
+        "twf_eriium": {
+            "textures": "textures/blocks/twf_eriium/a"
+        }, 
+        "twf_eripeverite": {
+            "textures": "textures/blocks/twf_eripeverite/a"
+        }, 
+        "twf_erirorid": {
+            "textures": "textures/blocks/twf_erirorid/a"
+        }, 
+        "twf_erithestone": {
+            "textures": "textures/blocks/twf_erithestone/a"
+        }, 
+        "twf_erithia": {
+            "textures": "textures/blocks/twf_erithia/a"
+        }, 
+        "twf_eriv": {
+            "textures": "textures/blocks/twf_eriv/a"
+        }, 
+        "twf_ernaeye": {
+            "textures": "textures/blocks/twf_ernaeye/a"
+        }, 
+        "twf_ernd": {
+            "textures": "textures/blocks/twf_ernd/a"
+        }, 
+        "twf_eromoteyst": {
+            "textures": "textures/blocks/twf_eromoteyst/a"
+        }, 
+        "twf_eronve": {
+            "textures": "textures/blocks/twf_eronve/a"
+        }, 
+        "twf_eroronealine": {
+            "textures": "textures/blocks/twf_eroronealine/a"
+        }, 
+        "twf_erpertrite": {
+            "textures": "textures/blocks/twf_erpertrite/a"
+        }, 
+        "twf_errivaline": {
+            "textures": "textures/blocks/twf_errivaline/a"
+        }, 
+        "twf_erro": {
+            "textures": "textures/blocks/twf_erro/a"
+        }, 
+        "twf_erteeye": {
+            "textures": "textures/blocks/twf_erteeye/a"
+        }, 
+        "twf_erthecia": {
+            "textures": "textures/blocks/twf_erthecia/a"
+        }, 
+        "twf_ertreeepite": {
+            "textures": "textures/blocks/twf_ertreeepite/a"
+        }, 
+        "twf_erwaline": {
+            "textures": "textures/blocks/twf_erwaline/a"
+        }, 
+        "twf_erwbinedaline": {
+            "textures": "textures/blocks/twf_erwbinedaline/a"
+        }, 
+        "twf_erwbraline": {
+            "textures": "textures/blocks/twf_erwbraline/a"
+        }, 
+        "twf_erwheago": {
+            "textures": "textures/blocks/twf_erwheago/a"
+        }, 
+        "twf_erwia": {
+            "textures": "textures/blocks/twf_erwia/a"
+        }, 
+        "twf_erwian": {
+            "textures": "textures/blocks/twf_erwian/a"
+        }, 
+        "twf_erwivcheye": {
+            "textures": "textures/blocks/twf_erwivcheye/a"
+        }, 
+        "twf_erwne": {
+            "textures": "textures/blocks/twf_erwne/a"
+        }, 
+        "twf_erwwnia": {
+            "textures": "textures/blocks/twf_erwwnia/a"
+        }, 
+        "twf_erwyx": {
+            "textures": "textures/blocks/twf_erwyx/a"
+        }, 
+        "twf_et": {
+            "textures": "textures/blocks/twf_et/a"
+        }, 
+        "twf_etaline": {
+            "textures": "textures/blocks/twf_etaline/a"
+        }, 
+        "twf_etethnealine": {
+            "textures": "textures/blocks/twf_etethnealine/a"
+        }, 
+        "twf_eth": {
+            "textures": "textures/blocks/twf_eth/a"
+        }, 
+        "twf_ethckzwit": {
+            "textures": "textures/blocks/twf_ethckzwit/a"
+        }, 
+        "twf_ethedrian": {
+            "textures": "textures/blocks/twf_ethedrian/a"
+        }, 
+        "twf_etheealine": {
+            "textures": "textures/blocks/twf_etheealine/a"
+        }, 
+        "twf_ethian": {
+            "textures": "textures/blocks/twf_ethian/a"
+        }, 
+        "twf_ethium": {
+            "textures": "textures/blocks/twf_ethium/a"
+        }, 
+        "twf_ethoraline": {
+            "textures": "textures/blocks/twf_ethoraline/a"
+        }, 
+        "twf_etpicraium": {
+            "textures": "textures/blocks/twf_etpicraium/a"
+        }, 
+        "twf_evaline": {
+            "textures": "textures/blocks/twf_evaline/a"
+        }, 
+        "twf_eveago": {
+            "textures": "textures/blocks/twf_eveago/a"
+        }, 
+        "twf_evego": {
+            "textures": "textures/blocks/twf_evego/a"
+        }, 
+        "twf_eveia": {
+            "textures": "textures/blocks/twf_eveia/a"
+        }, 
+        "twf_eveite": {
+            "textures": "textures/blocks/twf_eveite/a"
+        }, 
+        "twf_eveneepite": {
+            "textures": "textures/blocks/twf_eveneepite/a"
+        }, 
+        "twf_evewitaline": {
+            "textures": "textures/blocks/twf_evewitaline/a"
+        }, 
+        "twf_evia": {
+            "textures": "textures/blocks/twf_evia/a"
+        }, 
+        "twf_evium": {
+            "textures": "textures/blocks/twf_evium/a"
+        }, 
+        "twf_floo": {
+            "textures": "textures/blocks/twf_floo/a"
+        }, 
+        "twf_gloo": {
+            "textures": "textures/blocks/twf_gloo/a"
+        }, 
+        "twf_go": {
+            "textures": "textures/blocks/twf_go/a"
+        }, 
+        "twf_gogon": {
+            "textures": "textures/blocks/twf_gogon/a"
+        }, 
+        "twf_gogryst": {
+            "textures": "textures/blocks/twf_gogryst/a"
+        }, 
+        "twf_gonbiever": {
+            "textures": "textures/blocks/twf_gonbiever/a"
+        }, 
+        "twf_gonenrwaline": {
+            "textures": "textures/blocks/twf_gonenrwaline/a"
+        }, 
+        "twf_gonepialine": {
+            "textures": "textures/blocks/twf_gonepialine/a"
+        }, 
+        "twf_goneye": {
+            "textures": "textures/blocks/twf_goneye/a"
+        }, 
+        "twf_gonhe": {
+            "textures": "textures/blocks/twf_gonhe/a"
+        }, 
+        "twf_gonian": {
+            "textures": "textures/blocks/twf_gonian/a"
+        }, 
+        "twf_gonmaia": {
+            "textures": "textures/blocks/twf_gonmaia/a"
+        }, 
+        "twf_gonpistone": {
+            "textures": "textures/blocks/twf_gonpistone/a"
+        }, 
+        "twf_gonthcreye": {
+            "textures": "textures/blocks/twf_gonthcreye/a"
+        }, 
+        "twf_gonvenyst": {
+            "textures": "textures/blocks/twf_gonvenyst/a"
+        }, 
+        "twf_goriree": {
+            "textures": "textures/blocks/twf_goriree/a"
+        }, 
+        "twf_gorsenealine": {
+            "textures": "textures/blocks/twf_gorsenealine/a"
+        }, 
+        "twf_gr": {
+            "textures": "textures/blocks/twf_gr/a"
+        }, 
+        "twf_grbie": {
+            "textures": "textures/blocks/twf_grbie/a"
+        }, 
+        "twf_gredite": {
+            "textures": "textures/blocks/twf_gredite/a"
+        }, 
+        "twf_greye": {
+            "textures": "textures/blocks/twf_greye/a"
+        }, 
+        "twf_grialine": {
+            "textures": "textures/blocks/twf_grialine/a"
+        }, 
+        "twf_grigrite": {
+            "textures": "textures/blocks/twf_grigrite/a"
+        }, 
+        "twf_griium": {
+            "textures": "textures/blocks/twf_griium/a"
+        }, 
+        "twf_groryst": {
+            "textures": "textures/blocks/twf_groryst/a"
+        }, 
+        "twf_hechia": {
+            "textures": "textures/blocks/twf_hechia/a"
+        }, 
+        "twf_heeeite": {
+            "textures": "textures/blocks/twf_heeeite/a"
+        }, 
+        "twf_heneium": {
+            "textures": "textures/blocks/twf_heneium/a"
+        }, 
+        "twf_henetxepaline": {
+            "textures": "textures/blocks/twf_henetxepaline/a"
+        }, 
+        "twf_heomityx": {
+            "textures": "textures/blocks/twf_heomityx/a"
+        }, 
+        "twf_hereeeye": {
+            "textures": "textures/blocks/twf_hereeeye/a"
+        }, 
+        "twf_hereepec": {
+            "textures": "textures/blocks/twf_hereepec/a"
+        }, 
+        "twf_herian": {
+            "textures": "textures/blocks/twf_herian/a"
+        }, 
+        "twf_herium": {
+            "textures": "textures/blocks/twf_herium/a"
+        }, 
+        "twf_herndxepyst": {
+            "textures": "textures/blocks/twf_herndxepyst/a"
+        }, 
+        "twf_heromb": {
+            "textures": "textures/blocks/twf_heromb/a"
+        }, 
+        "twf_herperere": {
+            "textures": "textures/blocks/twf_herperere/a"
+        }, 
+        "twf_hertcrevyst": {
+            "textures": "textures/blocks/twf_hertcrevyst/a"
+        }, 
+        "twf_hertreeep": {
+            "textures": "textures/blocks/twf_hertreeep/a"
+        }, 
+        "twf_hevego": {
+            "textures": "textures/blocks/twf_hevego/a"
+        }, 
+        "twf_heyst": {
+            "textures": "textures/blocks/twf_heyst/a"
+        }, 
+        "twf_ho": {
+            "textures": "textures/blocks/twf_ho/a"
+        }, 
+        "twf_hoaline": {
+            "textures": "textures/blocks/twf_hoaline/a"
+        }, 
+        "twf_hoeepian": {
+            "textures": "textures/blocks/twf_hoeepian/a"
+        }, 
+        "twf_hogrixepian": {
+            "textures": "textures/blocks/twf_hogrixepian/a"
+        }, 
+        "twf_hoium": {
+            "textures": "textures/blocks/twf_hoium/a"
+        }, 
+        "twf_hona": {
+            "textures": "textures/blocks/twf_hona/a"
+        }, 
+        "twf_hor": {
+            "textures": "textures/blocks/twf_hor/a"
+        }, 
+        "twf_hordroaline": {
+            "textures": "textures/blocks/twf_hordroaline/a"
+        }, 
+        "twf_horere": {
+            "textures": "textures/blocks/twf_horere/a"
+        }, 
+        "twf_horoia": {
+            "textures": "textures/blocks/twf_horoia/a"
+        }, 
+        "twf_horomyx": {
+            "textures": "textures/blocks/twf_horomyx/a"
+        }, 
+        "twf_hortch": {
+            "textures": "textures/blocks/twf_hortch/a"
+        }, 
+        "twf_horvenan": {
+            "textures": "textures/blocks/twf_horvenan/a"
+        }, 
+        "twf_icaline": {
+            "textures": "textures/blocks/twf_icaline/a"
+        }, 
+        "twf_icderwaline": {
+            "textures": "textures/blocks/twf_icderwaline/a"
+        }, 
+        "twf_icel": {
+            "textures": "textures/blocks/twf_icel/a"
+        }, 
+        "twf_icepenedeye": {
+            "textures": "textures/blocks/twf_icepenedeye/a"
+        }, 
+        "twf_icgriyst": {
+            "textures": "textures/blocks/twf_icgriyst/a"
+        }, 
+        "twf_icketdelian": {
+            "textures": "textures/blocks/twf_icketdelian/a"
+        }, 
+        "twf_ickian": {
+            "textures": "textures/blocks/twf_ickian/a"
+        }, 
+        "twf_ickite": {
+            "textures": "textures/blocks/twf_ickite/a"
+        }, 
+        "twf_ickwitian": {
+            "textures": "textures/blocks/twf_ickwitian/a"
+        }, 
+        "twf_icwitreeian": {
+            "textures": "textures/blocks/twf_icwitreeian/a"
+        }, 
+        "twf_id": {
+            "textures": "textures/blocks/twf_id/a"
+        }, 
+        "twf_idageye": {
+            "textures": "textures/blocks/twf_idageye/a"
+        }, 
+        "twf_idetian": {
+            "textures": "textures/blocks/twf_idetian/a"
+        }, 
+        "twf_idnestone": {
+            "textures": "textures/blocks/twf_idnestone/a"
+        }, 
+        "twf_idraxnedian": {
+            "textures": "textures/blocks/twf_idraxnedian/a"
+        }, 
+        "twf_idrtheium": {
+            "textures": "textures/blocks/twf_idrtheium/a"
+        }, 
+        "twf_idrvenian": {
+            "textures": "textures/blocks/twf_idrvenian/a"
+        }, 
+        "twf_idrxepium": {
+            "textures": "textures/blocks/twf_idrxepium/a"
+        }, 
+        "twf_ie": {
+            "textures": "textures/blocks/twf_ie/a"
+        }, 
+        "twf_iecaline": {
+            "textures": "textures/blocks/twf_iecaline/a"
+        }, 
+        "twf_iecchoite": {
+            "textures": "textures/blocks/twf_iecchoite/a"
+        }, 
+        "twf_iecedr": {
+            "textures": "textures/blocks/twf_iecedr/a"
+        }, 
+        "twf_ieceye": {
+            "textures": "textures/blocks/twf_ieceye/a"
+        }, 
+        "twf_ieciecgon": {
+            "textures": "textures/blocks/twf_ieciecgon/a"
+        }, 
+        "twf_iecite": {
+            "textures": "textures/blocks/twf_iecite/a"
+        }, 
+        "twf_iecre": {
+            "textures": "textures/blocks/twf_iecre/a"
+        }, 
+        "twf_iecriyx": {
+            "textures": "textures/blocks/twf_iecriyx/a"
+        }, 
+        "twf_iecyst": {
+            "textures": "textures/blocks/twf_iecyst/a"
+        }, 
+        "twf_ieeri": {
+            "textures": "textures/blocks/twf_ieeri/a"
+        }, 
+        "twf_ieia": {
+            "textures": "textures/blocks/twf_ieia/a"
+        }, 
+        "twf_ietcra": {
+            "textures": "textures/blocks/twf_ietcra/a"
+        }, 
+        "twf_iezodel": {
+            "textures": "textures/blocks/twf_iezodel/a"
+        }, 
+        "twf_ig": {
+            "textures": "textures/blocks/twf_ig/a"
+        }, 
+        "twf_igaline": {
+            "textures": "textures/blocks/twf_igaline/a"
+        }, 
+        "twf_igand": {
+            "textures": "textures/blocks/twf_igand/a"
+        }, 
+        "twf_igrcreveyx": {
+            "textures": "textures/blocks/twf_igrcreveyx/a"
+        }, 
+        "twf_igrdealine": {
+            "textures": "textures/blocks/twf_igrdealine/a"
+        }, 
+        "twf_igrec": {
+            "textures": "textures/blocks/twf_igrec/a"
+        }, 
+        "twf_igremepi": {
+            "textures": "textures/blocks/twf_igremepi/a"
+        }, 
+        "twf_igrite": {
+            "textures": "textures/blocks/twf_igrite/a"
+        }, 
+        "twf_igrium": {
+            "textures": "textures/blocks/twf_igrium/a"
+        }, 
+        "twf_igrtchium": {
+            "textures": "textures/blocks/twf_igrtchium/a"
+        }, 
+        "twf_it": {
+            "textures": "textures/blocks/twf_it/a"
+        }, 
+        "twf_italine": {
+            "textures": "textures/blocks/twf_italine/a"
+        }, 
+        "twf_itcandgristone": {
+            "textures": "textures/blocks/twf_itcandgristone/a"
+        }, 
+        "twf_itcbroriyst": {
+            "textures": "textures/blocks/twf_itcbroriyst/a"
+        }, 
+        "twf_itcch": {
+            "textures": "textures/blocks/twf_itcch/a"
+        }, 
+        "twf_itcedrpigian": {
+            "textures": "textures/blocks/twf_itcedrpigian/a"
+        }, 
+        "twf_itcerstone": {
+            "textures": "textures/blocks/twf_itcerstone/a"
+        }, 
+        "twf_itcite": {
+            "textures": "textures/blocks/twf_itcite/a"
+        }, 
+        "twf_itcwityx": {
+            "textures": "textures/blocks/twf_itcwityx/a"
+        }, 
+        "twf_iterwhor": {
+            "textures": "textures/blocks/twf_iterwhor/a"
+        }, 
+        "twf_itherev": {
+            "textures": "textures/blocks/twf_itherev/a"
+        }, 
+        "twf_ittenridia": {
+            "textures": "textures/blocks/twf_ittenridia/a"
+        }, 
+        "twf_iv": {
+            "textures": "textures/blocks/twf_iv/a"
+        }, 
+        "twf_ivealine": {
+            "textures": "textures/blocks/twf_ivealine/a"
+        }, 
+        "twf_ivean": {
+            "textures": "textures/blocks/twf_ivean/a"
+        }, 
+        "twf_iveepi": {
+            "textures": "textures/blocks/twf_iveepi/a"
+        }, 
+        "twf_iveertenite": {
+            "textures": "textures/blocks/twf_iveertenite/a"
+        }, 
+        "twf_iveheyst": {
+            "textures": "textures/blocks/twf_iveheyst/a"
+        }, 
+        "twf_iveium": {
+            "textures": "textures/blocks/twf_iveium/a"
+        }, 
+        "twf_ivepeyst": {
+            "textures": "textures/blocks/twf_ivepeyst/a"
+        }, 
+        "twf_iveraid": {
+            "textures": "textures/blocks/twf_iveraid/a"
+        }, 
+        "twf_iverowrowium": {
+            "textures": "textures/blocks/twf_iverowrowium/a"
+        }, 
+        "twf_ivheho": {
+            "textures": "textures/blocks/twf_ivheho/a"
+        }, 
+        "twf_ivitcombium": {
+            "textures": "textures/blocks/twf_ivitcombium/a"
+        }, 
+        "twf_ivlbium": {
+            "textures": "textures/blocks/twf_ivlbium/a"
+        }, 
+        "twf_ivow": {
+            "textures": "textures/blocks/twf_ivow/a"
+        }, 
+        "twf_ivstone": {
+            "textures": "textures/blocks/twf_ivstone/a"
+        }, 
+        "twf_kz": {
+            "textures": "textures/blocks/twf_kz/a"
+        }, 
+        "twf_kzaline": {
+            "textures": "textures/blocks/twf_kzaline/a"
+        }, 
+        "twf_kzckztcia": {
+            "textures": "textures/blocks/twf_kzckztcia/a"
+        }, 
+        "twf_kzgriia": {
+            "textures": "textures/blocks/twf_kzgriia/a"
+        }, 
+        "twf_kznedaline": {
+            "textures": "textures/blocks/twf_kznedaline/a"
+        }, 
+        "twf_kzondeite": {
+            "textures": "textures/blocks/twf_kzondeite/a"
+        }, 
+        "twf_kzotcstone": {
+            "textures": "textures/blocks/twf_kzotcstone/a"
+        }, 
+        "twf_kzoveenite": {
+            "textures": "textures/blocks/twf_kzoveenite/a"
+        }, 
+        "twf_kzperite": {
+            "textures": "textures/blocks/twf_kzperite/a"
+        }, 
+        "twf_kzrwiidian": {
+            "textures": "textures/blocks/twf_kzrwiidian/a"
+        }, 
+        "twf_kztenaline": {
+            "textures": "textures/blocks/twf_kztenaline/a"
+        }, 
+        "twf_kztenium": {
+            "textures": "textures/blocks/twf_kztenium/a"
+        }, 
+        "twf_lb": {
+            "textures": "textures/blocks/twf_lb/a"
+        }, 
+        "twf_lbaline": {
+            "textures": "textures/blocks/twf_lbaline/a"
+        }, 
+        "twf_lbbitrstone": {
+            "textures": "textures/blocks/twf_lbbitrstone/a"
+        }, 
+        "twf_lbgrigaline": {
+            "textures": "textures/blocks/twf_lbgrigaline/a"
+        }, 
+        "twf_lbhostone": {
+            "textures": "textures/blocks/twf_lbhostone/a"
+        }, 
+        "twf_lbreeium": {
+            "textures": "textures/blocks/twf_lbreeium/a"
+        }, 
+        "twf_lbreveivium": {
+            "textures": "textures/blocks/twf_lbreveivium/a"
+        }, 
+        "twf_lbrigrhor": {
+            "textures": "textures/blocks/twf_lbrigrhor/a"
+        }, 
+        "twf_lbrium": {
+            "textures": "textures/blocks/twf_lbrium/a"
+        }, 
+        "twf_lbrnetverstone": {
+            "textures": "textures/blocks/twf_lbrnetverstone/a"
+        }, 
+        "twf_lbstone": {
+            "textures": "textures/blocks/twf_lbstone/a"
+        }, 
+        "twf_lbyst": {
+            "textures": "textures/blocks/twf_lbyst/a"
+        }, 
+        "twf_maanite": {
+            "textures": "textures/blocks/twf_maanite/a"
+        }, 
+        "twf_maepealine": {
+            "textures": "textures/blocks/twf_maepealine/a"
+        }, 
+        "twf_maeveite": {
+            "textures": "textures/blocks/twf_maeveite/a"
+        }, 
+        "twf_maicklb": {
+            "textures": "textures/blocks/twf_maicklb/a"
+        }, 
+        "twf_maiecpic": {
+            "textures": "textures/blocks/twf_maiecpic/a"
+        }, 
+        "twf_mamb": {
+            "textures": "textures/blocks/twf_mamb/a"
+        }, 
+        "twf_maneep": {
+            "textures": "textures/blocks/twf_maneep/a"
+        }, 
+        "twf_manereiealine": {
+            "textures": "textures/blocks/twf_manereiealine/a"
+        }, 
+        "twf_manethian": {
+            "textures": "textures/blocks/twf_manethian/a"
+        }, 
+        "twf_manmbpicyx": {
+            "textures": "textures/blocks/twf_manmbpicyx/a"
+        }, 
+        "twf_manntr": {
+            "textures": "textures/blocks/twf_manntr/a"
+        }, 
+        "twf_manrebialine": {
+            "textures": "textures/blocks/twf_manrebialine/a"
+        }, 
+        "twf_manrot": {
+            "textures": "textures/blocks/twf_manrot/a"
+        }, 
+        "twf_manrsaline": {
+            "textures": "textures/blocks/twf_manrsaline/a"
+        }, 
+        "twf_manwne": {
+            "textures": "textures/blocks/twf_manwne/a"
+        }, 
+        "twf_mb": {
+            "textures": "textures/blocks/twf_mb/a"
+        }, 
+        "twf_mbaxexep": {
+            "textures": "textures/blocks/twf_mbaxexep/a"
+        }, 
+        "twf_mbchth": {
+            "textures": "textures/blocks/twf_mbchth/a"
+        }, 
+        "twf_mbema": {
+            "textures": "textures/blocks/twf_mbema/a"
+        }, 
+        "twf_mbepi": {
+            "textures": "textures/blocks/twf_mbepi/a"
+        }, 
+        "twf_mbihor": {
+            "textures": "textures/blocks/twf_mbihor/a"
+        }, 
+        "twf_mbinedia": {
+            "textures": "textures/blocks/twf_mbinedia/a"
+        }, 
+        "twf_mbireeelian": {
+            "textures": "textures/blocks/twf_mbireeelian/a"
+        }, 
+        "twf_mbireri": {
+            "textures": "textures/blocks/twf_mbireri/a"
+        }, 
+        "twf_mbirevyst": {
+            "textures": "textures/blocks/twf_mbirevyst/a"
+        }, 
+        "twf_mbirotre": {
+            "textures": "textures/blocks/twf_mbirotre/a"
+        }, 
+        "twf_mbite": {
+            "textures": "textures/blocks/twf_mbite/a"
+        }, 
+        "twf_mbivagostone": {
+            "textures": "textures/blocks/twf_mbivagostone/a"
+        }, 
+        "twf_mbivvestone": {
+            "textures": "textures/blocks/twf_mbivvestone/a"
+        }, 
+        "twf_mbne": {
+            "textures": "textures/blocks/twf_mbne/a"
+        }, 
+        "twf_mbstone": {
+            "textures": "textures/blocks/twf_mbstone/a"
+        }, 
+        "twf_naeye": {
+            "textures": "textures/blocks/twf_naeye/a"
+        }, 
+        "twf_nagrtre": {
+            "textures": "textures/blocks/twf_nagrtre/a"
+        }, 
+        "twf_nan": {
+            "textures": "textures/blocks/twf_nan/a"
+        }, 
+        "twf_nanagckz": {
+            "textures": "textures/blocks/twf_nanagckz/a"
+        }, 
+        "twf_nanaline": {
+            "textures": "textures/blocks/twf_nanaline/a"
+        }, 
+        "twf_nanemgonaline": {
+            "textures": "textures/blocks/twf_nanemgonaline/a"
+        }, 
+        "twf_nanepieye": {
+            "textures": "textures/blocks/twf_nanepieye/a"
+        }, 
+        "twf_naneye": {
+            "textures": "textures/blocks/twf_naneye/a"
+        }, 
+        "twf_nanium": {
+            "textures": "textures/blocks/twf_nanium/a"
+        }, 
+        "twf_nanmaneye": {
+            "textures": "textures/blocks/twf_nanmaneye/a"
+        }, 
+        "twf_narev": {
+            "textures": "textures/blocks/twf_narev/a"
+        }, 
+        "twf_natrekz": {
+            "textures": "textures/blocks/twf_natrekz/a"
+        }, 
+        "twf_nd": {
+            "textures": "textures/blocks/twf_nd/a"
+        }, 
+        "twf_ndbiemayx": {
+            "textures": "textures/blocks/twf_ndbiemayx/a"
+        }, 
+        "twf_ndecigraline": {
+            "textures": "textures/blocks/twf_ndecigraline/a"
+        }, 
+        "twf_ndehotreeye": {
+            "textures": "textures/blocks/twf_ndehotreeye/a"
+        }, 
+        "twf_ndema": {
+            "textures": "textures/blocks/twf_ndema/a"
+        }, 
+        "twf_ndeoneriyst": {
+            "textures": "textures/blocks/twf_ndeoneriyst/a"
+        }, 
+        "twf_ndepia": {
+            "textures": "textures/blocks/twf_ndepia/a"
+        }, 
+        "twf_nderowtr": {
+            "textures": "textures/blocks/twf_nderowtr/a"
+        }, 
+        "twf_nderoxepia": {
+            "textures": "textures/blocks/twf_nderoxepia/a"
+        }, 
+        "twf_ndeye": {
+            "textures": "textures/blocks/twf_ndeye/a"
+        }, 
+        "twf_ndia": {
+            "textures": "textures/blocks/twf_ndia/a"
+        }, 
+        "twf_ndkzoneian": {
+            "textures": "textures/blocks/twf_ndkzoneian/a"
+        }, 
+        "twf_ndlbidaline": {
+            "textures": "textures/blocks/twf_ndlbidaline/a"
+        }, 
+        "twf_ndneant": {
+            "textures": "textures/blocks/twf_ndneant/a"
+        }, 
+        "twf_ndneepian": {
+            "textures": "textures/blocks/twf_ndneepian/a"
+        }, 
+        "twf_ndperidrian": {
+            "textures": "textures/blocks/twf_ndperidrian/a"
+        }, 
+        "twf_ndstone": {
+            "textures": "textures/blocks/twf_ndstone/a"
+        }, 
+        "twf_ndwitick": {
+            "textures": "textures/blocks/twf_ndwitick/a"
+        }, 
+        "twf_ndyst": {
+            "textures": "textures/blocks/twf_ndyst/a"
+        }, 
+        "twf_ne": {
+            "textures": "textures/blocks/twf_ne/a"
+        }, 
+        "twf_neaxgoneye": {
+            "textures": "textures/blocks/twf_neaxgoneye/a"
+        }, 
+        "twf_nebieemaaline": {
+            "textures": "textures/blocks/twf_nebieemaaline/a"
+        }, 
+        "twf_ned": {
+            "textures": "textures/blocks/twf_ned/a"
+        }, 
+        "twf_nedaline": {
+            "textures": "textures/blocks/twf_nedaline/a"
+        }, 
+        "twf_nedaxeick": {
+            "textures": "textures/blocks/twf_nedaxeick/a"
+        }, 
+        "twf_nedideye": {
+            "textures": "textures/blocks/twf_nedideye/a"
+        }, 
+        "twf_nediecem": {
+            "textures": "textures/blocks/twf_nediecem/a"
+        }, 
+        "twf_nedium": {
+            "textures": "textures/blocks/twf_nedium/a"
+        }, 
+        "twf_nedrevaline": {
+            "textures": "textures/blocks/twf_nedrevaline/a"
+        }, 
+        "twf_nedrwiyst": {
+            "textures": "textures/blocks/twf_nedrwiyst/a"
+        }, 
+        "twf_nedwitrsyx": {
+            "textures": "textures/blocks/twf_nedwitrsyx/a"
+        }, 
+        "twf_neelbstone": {
+            "textures": "textures/blocks/twf_neelbstone/a"
+        }, 
+        "twf_neepeye": {
+            "textures": "textures/blocks/twf_neepeye/a"
+        }, 
+        "twf_neepineteye": {
+            "textures": "textures/blocks/twf_neepineteye/a"
+        }, 
+        "twf_neig": {
+            "textures": "textures/blocks/twf_neig/a"
+        }, 
+        "twf_neium": {
+            "textures": "textures/blocks/twf_neium/a"
+        }, 
+        "twf_neivealine": {
+            "textures": "textures/blocks/twf_neivealine/a"
+        }, 
+        "twf_neneium": {
+            "textures": "textures/blocks/twf_neneium/a"
+        }, 
+        "twf_neotrsium": {
+            "textures": "textures/blocks/twf_neotrsium/a"
+        }, 
+        "twf_nepi": {
+            "textures": "textures/blocks/twf_nepi/a"
+        }, 
+        "twf_nestone": {
+            "textures": "textures/blocks/twf_nestone/a"
+        }, 
+        "twf_net": {
+            "textures": "textures/blocks/twf_net/a"
+        }, 
+        "twf_netaline": {
+            "textures": "textures/blocks/twf_netaline/a"
+        }, 
+        "twf_netch": {
+            "textures": "textures/blocks/twf_netch/a"
+        }, 
+        "twf_neteebrostone": {
+            "textures": "textures/blocks/twf_neteebrostone/a"
+        }, 
+        "twf_netian": {
+            "textures": "textures/blocks/twf_netian/a"
+        }, 
+        "twf_netlbr": {
+            "textures": "textures/blocks/twf_netlbr/a"
+        }, 
+        "twf_netrsehoaline": {
+            "textures": "textures/blocks/twf_netrsehoaline/a"
+        }, 
+        "twf_netteyst": {
+            "textures": "textures/blocks/twf_netteyst/a"
+        }, 
+        "twf_nevereye": {
+            "textures": "textures/blocks/twf_nevereye/a"
+        }, 
+        "twf_nexeyx": {
+            "textures": "textures/blocks/twf_nexeyx/a"
+        }, 
+        "twf_neyst": {
+            "textures": "textures/blocks/twf_neyst/a"
+        }, 
+        "twf_neyx": {
+            "textures": "textures/blocks/twf_neyx/a"
+        }, 
+        "twf_ntbrostone": {
+            "textures": "textures/blocks/twf_ntbrostone/a"
+        }, 
+        "twf_ntdelseian": {
+            "textures": "textures/blocks/twf_ntdelseian/a"
+        }, 
+        "twf_nteep": {
+            "textures": "textures/blocks/twf_nteep/a"
+        }, 
+        "twf_ntneidr": {
+            "textures": "textures/blocks/twf_ntneidr/a"
+        }, 
+        "twf_nton": {
+            "textures": "textures/blocks/twf_nton/a"
+        }, 
+        "twf_ntr": {
+            "textures": "textures/blocks/twf_ntr/a"
+        }, 
+        "twf_ntrkzian": {
+            "textures": "textures/blocks/twf_ntrkzian/a"
+        }, 
+        "twf_ntrsem": {
+            "textures": "textures/blocks/twf_ntrsem/a"
+        }, 
+        "twf_ntrtenorite": {
+            "textures": "textures/blocks/twf_ntrtenorite/a"
+        }, 
+        "twf_ntsem": {
+            "textures": "textures/blocks/twf_ntsem/a"
+        }, 
+        "twf_ntyst": {
+            "textures": "textures/blocks/twf_ntyst/a"
+        }, 
+        "twf_om": {
+            "textures": "textures/blocks/twf_om/a"
+        }, 
+        "twf_omaline": {
+            "textures": "textures/blocks/twf_omaline/a"
+        }, 
+        "twf_omb": {
+            "textures": "textures/blocks/twf_omb/a"
+        }, 
+        "twf_ombgriian": {
+            "textures": "textures/blocks/twf_ombgriian/a"
+        }, 
+        "twf_ombia": {
+            "textures": "textures/blocks/twf_ombia/a"
+        }, 
+        "twf_ombyx": {
+            "textures": "textures/blocks/twf_ombyx/a"
+        }, 
+        "twf_omemagryx": {
+            "textures": "textures/blocks/twf_omemagryx/a"
+        }, 
+        "twf_omenia": {
+            "textures": "textures/blocks/twf_omenia/a"
+        }, 
+        "twf_omeye": {
+            "textures": "textures/blocks/twf_omeye/a"
+        }, 
+        "twf_omian": {
+            "textures": "textures/blocks/twf_omian/a"
+        }, 
+        "twf_omitgri": {
+            "textures": "textures/blocks/twf_omitgri/a"
+        }, 
+        "twf_omkzoite": {
+            "textures": "textures/blocks/twf_omkzoite/a"
+        }, 
+        "twf_omthegoneye": {
+            "textures": "textures/blocks/twf_omthegoneye/a"
+        }, 
+        "twf_omwit": {
+            "textures": "textures/blocks/twf_omwit/a"
+        }, 
+        "twf_onchoaxium": {
+            "textures": "textures/blocks/twf_onchoaxium/a"
+        }, 
+        "twf_oneanium": {
+            "textures": "textures/blocks/twf_oneanium/a"
+        }, 
+        "twf_oneemabieeye": {
+            "textures": "textures/blocks/twf_oneemabieeye/a"
+        }, 
+        "twf_onenia": {
+            "textures": "textures/blocks/twf_onenia/a"
+        }, 
+        "twf_onepiseyst": {
+            "textures": "textures/blocks/twf_onepiseyst/a"
+        }, 
+        "twf_oneraagyst": {
+            "textures": "textures/blocks/twf_oneraagyst/a"
+        }, 
+        "twf_oneridia": {
+            "textures": "textures/blocks/twf_oneridia/a"
+        }, 
+        "twf_oneve": {
+            "textures": "textures/blocks/twf_oneve/a"
+        }, 
+        "twf_onraglbyx": {
+            "textures": "textures/blocks/twf_onraglbyx/a"
+        }, 
+        "twf_onrsyst": {
+            "textures": "textures/blocks/twf_onrsyst/a"
+        }, 
+        "twf_or": {
+            "textures": "textures/blocks/twf_or/a"
+        }, 
+        "twf_oria": {
+            "textures": "textures/blocks/twf_oria/a"
+        }, 
+        "twf_ors": {
+            "textures": "textures/blocks/twf_ors/a"
+        }, 
+        "twf_orsaline": {
+            "textures": "textures/blocks/twf_orsaline/a"
+        }, 
+        "twf_orschown": {
+            "textures": "textures/blocks/twf_orschown/a"
+        }, 
+        "twf_orsian": {
+            "textures": "textures/blocks/twf_orsian/a"
+        }, 
+        "twf_orsyx": {
+            "textures": "textures/blocks/twf_orsyx/a"
+        }, 
+        "twf_oteecrian": {
+            "textures": "textures/blocks/twf_oteecrian/a"
+        }, 
+        "twf_oteednd": {
+            "textures": "textures/blocks/twf_oteednd/a"
+        }, 
+        "twf_oteeep": {
+            "textures": "textures/blocks/twf_oteeep/a"
+        }, 
+        "twf_oteemgoaline": {
+            "textures": "textures/blocks/twf_oteemgoaline/a"
+        }, 
+        "twf_oteepte": {
+            "textures": "textures/blocks/twf_oteepte/a"
+        }, 
+        "twf_otemendstone": {
+            "textures": "textures/blocks/twf_otemendstone/a"
+        }, 
+        "twf_otewityst": {
+            "textures": "textures/blocks/twf_otewityst/a"
+        }, 
+        "twf_otite": {
+            "textures": "textures/blocks/twf_otite/a"
+        }, 
+        "twf_otre": {
+            "textures": "textures/blocks/twf_otre/a"
+        }, 
+        "twf_otrona": {
+            "textures": "textures/blocks/twf_otrona/a"
+        }, 
+        "twf_otyx": {
+            "textures": "textures/blocks/twf_otyx/a"
+        }, 
+        "twf_owaline": {
+            "textures": "textures/blocks/twf_owaline/a"
+        }, 
+        "twf_own": {
+            "textures": "textures/blocks/twf_own/a"
+        }, 
+        "twf_ownagondeeye": {
+            "textures": "textures/blocks/twf_ownagondeeye/a"
+        }, 
+        "twf_ownia": {
+            "textures": "textures/blocks/twf_ownia/a"
+        }, 
+        "twf_ownmbaline": {
+            "textures": "textures/blocks/twf_ownmbaline/a"
+        }, 
+        "twf_ownntraline": {
+            "textures": "textures/blocks/twf_ownntraline/a"
+        }, 
+        "twf_ownteedr": {
+            "textures": "textures/blocks/twf_ownteedr/a"
+        }, 
+        "twf_owtheombyst": {
+            "textures": "textures/blocks/twf_owtheombyst/a"
+        }, 
+        "twf_peagoedyx": {
+            "textures": "textures/blocks/twf_peagoedyx/a"
+        }, 
+        "twf_pealine": {
+            "textures": "textures/blocks/twf_pealine/a"
+        }, 
+        "twf_peeryst": {
+            "textures": "textures/blocks/twf_peeryst/a"
+        }, 
+        "twf_pegriepestone": {
+            "textures": "textures/blocks/twf_pegriepestone/a"
+        }, 
+        "twf_per": {
+            "textures": "textures/blocks/twf_per/a"
+        }, 
+        "twf_peraline": {
+            "textures": "textures/blocks/twf_peraline/a"
+        }, 
+        "twf_peranchaline": {
+            "textures": "textures/blocks/twf_peranchaline/a"
+        }, 
+        "twf_perchoyst": {
+            "textures": "textures/blocks/twf_perchoyst/a"
+        }, 
+        "twf_perckstone": {
+            "textures": "textures/blocks/twf_perckstone/a"
+        }, 
+        "twf_pereepzomeye": {
+            "textures": "textures/blocks/twf_pereepzomeye/a"
+        }, 
+        "twf_permarw": {
+            "textures": "textures/blocks/twf_permarw/a"
+        }, 
+        "twf_peryst": {
+            "textures": "textures/blocks/twf_peryst/a"
+        }, 
+        "twf_pic": {
+            "textures": "textures/blocks/twf_pic/a"
+        }, 
+        "twf_picendaline": {
+            "textures": "textures/blocks/twf_picendaline/a"
+        }, 
+        "twf_pician": {
+            "textures": "textures/blocks/twf_pician/a"
+        }, 
+        "twf_picidite": {
+            "textures": "textures/blocks/twf_picidite/a"
+        }, 
+        "twf_picrotyst": {
+            "textures": "textures/blocks/twf_picrotyst/a"
+        }, 
+        "twf_picstone": {
+            "textures": "textures/blocks/twf_picstone/a"
+        }, 
+        "twf_picwitaline": {
+            "textures": "textures/blocks/twf_picwitaline/a"
+        }, 
+        "twf_picxe": {
+            "textures": "textures/blocks/twf_picxe/a"
+        }, 
+        "twf_piczothyst": {
+            "textures": "textures/blocks/twf_piczothyst/a"
+        }, 
+        "twf_pidelieceye": {
+            "textures": "textures/blocks/twf_pidelieceye/a"
+        }, 
+        "twf_pidrrse": {
+            "textures": "textures/blocks/twf_pidrrse/a"
+        }, 
+        "twf_piemcre": {
+            "textures": "textures/blocks/twf_piemcre/a"
+        }, 
+        "twf_piepevenium": {
+            "textures": "textures/blocks/twf_piepevenium/a"
+        }, 
+        "twf_pig": {
+            "textures": "textures/blocks/twf_pig/a"
+        }, 
+        "twf_pigeepian": {
+            "textures": "textures/blocks/twf_pigeepian/a"
+        }, 
+        "twf_piget": {
+            "textures": "textures/blocks/twf_piget/a"
+        }, 
+        "twf_pigia": {
+            "textures": "textures/blocks/twf_pigia/a"
+        }, 
+        "twf_pignd": {
+            "textures": "textures/blocks/twf_pignd/a"
+        }, 
+        "twf_pigotembite": {
+            "textures": "textures/blocks/twf_pigotembite/a"
+        }, 
+        "twf_pigxeaxian": {
+            "textures": "textures/blocks/twf_pigxeaxian/a"
+        }, 
+        "twf_pigyst": {
+            "textures": "textures/blocks/twf_pigyst/a"
+        }, 
+        "twf_piian": {
+            "textures": "textures/blocks/twf_piian/a"
+        }, 
+        "twf_piivbro": {
+            "textures": "textures/blocks/twf_piivbro/a"
+        }, 
+        "twf_pikzopi": {
+            "textures": "textures/blocks/twf_pikzopi/a"
+        }, 
+        "twf_pineeeyx": {
+            "textures": "textures/blocks/twf_pineeeyx/a"
+        }, 
+        "twf_pirenedia": {
+            "textures": "textures/blocks/twf_pirenedia/a"
+        }, 
+        "twf_piroanyst": {
+            "textures": "textures/blocks/twf_piroanyst/a"
+        }, 
+        "twf_pirotite": {
+            "textures": "textures/blocks/twf_pirotite/a"
+        }, 
+        "twf_pive": {
+            "textures": "textures/blocks/twf_pive/a"
+        }, 
+        "twf_piyst": {
+            "textures": "textures/blocks/twf_piyst/a"
+        }, 
+        "twf_piyx": {
+            "textures": "textures/blocks/twf_piyx/a"
+        }, 
+        "twf_ploo": {
+            "textures": "textures/blocks/twf_ploo/a"
+        }, 
+        "twf_ra": {
+            "textures": "textures/blocks/twf_ra/a"
+        }, 
+        "twf_rael": {
+            "textures": "textures/blocks/twf_rael/a"
+        }, 
+        "twf_rag": {
+            "textures": "textures/blocks/twf_rag/a"
+        }, 
+        "twf_ragemaeye": {
+            "textures": "textures/blocks/twf_ragemaeye/a"
+        }, 
+        "twf_raghor": {
+            "textures": "textures/blocks/twf_raghor/a"
+        }, 
+        "twf_ragite": {
+            "textures": "textures/blocks/twf_ragite/a"
+        }, 
+        "twf_ragium": {
+            "textures": "textures/blocks/twf_ragium/a"
+        }, 
+        "twf_ralbrician": {
+            "textures": "textures/blocks/twf_ralbrician/a"
+        }, 
+        "twf_raridyx": {
+            "textures": "textures/blocks/twf_raridyx/a"
+        }, 
+        "twf_rayx": {
+            "textures": "textures/blocks/twf_rayx/a"
+        }, 
+        "twf_re": {
+            "textures": "textures/blocks/twf_re/a"
+        }, 
+        "twf_realine": {
+            "textures": "textures/blocks/twf_realine/a"
+        }, 
+        "twf_ree": {
+            "textures": "textures/blocks/twf_ree/a"
+        }, 
+        "twf_reeagoyx": {
+            "textures": "textures/blocks/twf_reeagoyx/a"
+        }, 
+        "twf_reeeealine": {
+            "textures": "textures/blocks/twf_reeeealine/a"
+        }, 
+        "twf_reeepelia": {
+            "textures": "textures/blocks/twf_reeepelia/a"
+        }, 
+        "twf_reeeroneye": {
+            "textures": "textures/blocks/twf_reeeroneye/a"
+        }, 
+        "twf_reeeye": {
+            "textures": "textures/blocks/twf_reeeye/a"
+        }, 
+        "twf_reegr": {
+            "textures": "textures/blocks/twf_reegr/a"
+        }, 
+        "twf_reeickon": {
+            "textures": "textures/blocks/twf_reeickon/a"
+        }, 
+        "twf_reelbragian": {
+            "textures": "textures/blocks/twf_reelbragian/a"
+        }, 
+        "twf_reemabro": {
+            "textures": "textures/blocks/twf_reemabro/a"
+        }, 
+        "twf_reembia": {
+            "textures": "textures/blocks/twf_reembia/a"
+        }, 
+        "twf_reendneeye": {
+            "textures": "textures/blocks/twf_reendneeye/a"
+        }, 
+        "twf_reeorepeia": {
+            "textures": "textures/blocks/twf_reeorepeia/a"
+        }, 
+        "twf_reepicite": {
+            "textures": "textures/blocks/twf_reepicite/a"
+        }, 
+        "twf_reerwitc": {
+            "textures": "textures/blocks/twf_reerwitc/a"
+        }, 
+        "twf_reeryst": {
+            "textures": "textures/blocks/twf_reeryst/a"
+        }, 
+        "twf_reeye": {
+            "textures": "textures/blocks/twf_reeye/a"
+        }, 
+        "twf_reeyx": {
+            "textures": "textures/blocks/twf_reeyx/a"
+        }, 
+        "twf_reium": {
+            "textures": "textures/blocks/twf_reium/a"
+        }, 
+        "twf_rembialine": {
+            "textures": "textures/blocks/twf_rembialine/a"
+        }, 
+        "twf_reretheeye": {
+            "textures": "textures/blocks/twf_reretheeye/a"
+        }, 
+        "twf_rerowckz": {
+            "textures": "textures/blocks/twf_rerowckz/a"
+        }, 
+        "twf_retengonstone": {
+            "textures": "textures/blocks/twf_retengonstone/a"
+        }, 
+        "twf_revep": {
+            "textures": "textures/blocks/twf_revep/a"
+        }, 
+        "twf_reveraxeyx": {
+            "textures": "textures/blocks/twf_reveraxeyx/a"
+        }, 
+        "twf_revidraline": {
+            "textures": "textures/blocks/twf_revidraline/a"
+        }, 
+        "twf_revite": {
+            "textures": "textures/blocks/twf_revite/a"
+        }, 
+        "twf_revneite": {
+            "textures": "textures/blocks/twf_revneite/a"
+        }, 
+        "twf_revpi": {
+            "textures": "textures/blocks/twf_revpi/a"
+        }, 
+        "twf_revwiia": {
+            "textures": "textures/blocks/twf_revwiia/a"
+        }, 
+        "twf_rewitite": {
+            "textures": "textures/blocks/twf_rewitite/a"
+        }, 
+        "twf_rexeprotyst": {
+            "textures": "textures/blocks/twf_rexeprotyst/a"
+        }, 
+        "twf_rezohoian": {
+            "textures": "textures/blocks/twf_rezohoian/a"
+        }, 
+        "twf_ri": {
+            "textures": "textures/blocks/twf_ri/a"
+        }, 
+        "twf_riaxe": {
+            "textures": "textures/blocks/twf_riaxe/a"
+        }, 
+        "twf_ricrite": {
+            "textures": "textures/blocks/twf_ricrite/a"
+        }, 
+        "twf_ridcreye": {
+            "textures": "textures/blocks/twf_ridcreye/a"
+        }, 
+        "twf_rideri": {
+            "textures": "textures/blocks/twf_rideri/a"
+        }, 
+        "twf_ridethreyx": {
+            "textures": "textures/blocks/twf_ridethreyx/a"
+        }, 
+        "twf_ridrotbro": {
+            "textures": "textures/blocks/twf_ridrotbro/a"
+        }, 
+        "twf_ridrwi": {
+            "textures": "textures/blocks/twf_ridrwi/a"
+        }, 
+        "twf_ridve": {
+            "textures": "textures/blocks/twf_ridve/a"
+        }, 
+        "twf_riedrium": {
+            "textures": "textures/blocks/twf_riedrium/a"
+        }, 
+        "twf_rielb": {
+            "textures": "textures/blocks/twf_rielb/a"
+        }, 
+        "twf_rienia": {
+            "textures": "textures/blocks/twf_rienia/a"
+        }, 
+        "twf_rierireeeye": {
+            "textures": "textures/blocks/twf_rierireeeye/a"
+        }, 
+        "twf_rihodeleye": {
+            "textures": "textures/blocks/twf_rihodeleye/a"
+        }, 
+        "twf_rilbrreian": {
+            "textures": "textures/blocks/twf_rilbrreian/a"
+        }, 
+        "twf_rioneraline": {
+            "textures": "textures/blocks/twf_rioneraline/a"
+        }, 
+        "twf_ripioneite": {
+            "textures": "textures/blocks/twf_ripioneite/a"
+        }, 
+        "twf_risemia": {
+            "textures": "textures/blocks/twf_risemia/a"
+        }, 
+        "twf_ritcite": {
+            "textures": "textures/blocks/twf_ritcite/a"
+        }, 
+        "twf_rivaline": {
+            "textures": "textures/blocks/twf_rivaline/a"
+        }, 
+        "twf_rivepestone": {
+            "textures": "textures/blocks/twf_rivepestone/a"
+        }, 
+        "twf_rivepiium": {
+            "textures": "textures/blocks/twf_rivepiium/a"
+        }, 
+        "twf_rivereye": {
+            "textures": "textures/blocks/twf_rivereye/a"
+        }, 
+        "twf_rivnastone": {
+            "textures": "textures/blocks/twf_rivnastone/a"
+        }, 
+        "twf_rivnderian": {
+            "textures": "textures/blocks/twf_rivnderian/a"
+        }, 
+        "twf_rivownyx": {
+            "textures": "textures/blocks/twf_rivownyx/a"
+        }, 
+        "twf_rivrot": {
+            "textures": "textures/blocks/twf_rivrot/a"
+        }, 
+        "twf_riwneorium": {
+            "textures": "textures/blocks/twf_riwneorium/a"
+        }, 
+        "twf_rodealine": {
+            "textures": "textures/blocks/twf_rodealine/a"
+        }, 
+        "twf_roeepite": {
+            "textures": "textures/blocks/twf_roeepite/a"
+        }, 
+        "twf_roerite": {
+            "textures": "textures/blocks/twf_roerite/a"
+        }, 
+        "twf_roeye": {
+            "textures": "textures/blocks/twf_roeye/a"
+        }, 
+        "twf_rogrizo": {
+            "textures": "textures/blocks/twf_rogrizo/a"
+        }, 
+        "twf_roicepaline": {
+            "textures": "textures/blocks/twf_roicepaline/a"
+        }, 
+        "twf_roitite": {
+            "textures": "textures/blocks/twf_roitite/a"
+        }, 
+        "twf_roorsaxestone": {
+            "textures": "textures/blocks/twf_roorsaxestone/a"
+        }, 
+        "twf_ropic": {
+            "textures": "textures/blocks/twf_ropic/a"
+        }, 
+        "twf_rostone": {
+            "textures": "textures/blocks/twf_rostone/a"
+        }, 
+        "twf_rot": {
+            "textures": "textures/blocks/twf_rot/a"
+        }, 
+        "twf_rotbromanyx": {
+            "textures": "textures/blocks/twf_rotbromanyx/a"
+        }, 
+        "twf_rotemgrite": {
+            "textures": "textures/blocks/twf_rotemgrite/a"
+        }, 
+        "twf_rotmanpigaline": {
+            "textures": "textures/blocks/twf_rotmanpigaline/a"
+        }, 
+        "twf_rotrotveyst": {
+            "textures": "textures/blocks/twf_rotrotveyst/a"
+        }, 
+        "twf_row": {
+            "textures": "textures/blocks/twf_row/a"
+        }, 
+        "twf_rowenidite": {
+            "textures": "textures/blocks/twf_rowenidite/a"
+        }, 
+        "twf_rowia": {
+            "textures": "textures/blocks/twf_rowia/a"
+        }, 
+        "twf_rowrseiceye": {
+            "textures": "textures/blocks/twf_rowrseiceye/a"
+        }, 
+        "twf_rowrwikzoian": {
+            "textures": "textures/blocks/twf_rowrwikzoian/a"
+        }, 
+        "twf_rowstone": {
+            "textures": "textures/blocks/twf_rowstone/a"
+        }, 
+        "twf_royst": {
+            "textures": "textures/blocks/twf_royst/a"
+        }, 
+        "twf_rsbietchium": {
+            "textures": "textures/blocks/twf_rsbietchium/a"
+        }, 
+        "twf_rse": {
+            "textures": "textures/blocks/twf_rse/a"
+        }, 
+        "twf_rsedroneium": {
+            "textures": "textures/blocks/twf_rsedroneium/a"
+        }, 
+        "twf_rseedr": {
+            "textures": "textures/blocks/twf_rseedr/a"
+        }, 
+        "twf_rseere": {
+            "textures": "textures/blocks/twf_rseere/a"
+        }, 
+        "twf_rseeria": {
+            "textures": "textures/blocks/twf_rseeria/a"
+        }, 
+        "twf_rseeverian": {
+            "textures": "textures/blocks/twf_rseeverian/a"
+        }, 
+        "twf_rseotium": {
+            "textures": "textures/blocks/twf_rseotium/a"
+        }, 
+        "twf_rserotstone": {
+            "textures": "textures/blocks/twf_rserotstone/a"
+        }, 
+        "twf_rsevenmbi": {
+            "textures": "textures/blocks/twf_rsevenmbi/a"
+        }, 
+        "twf_rshor": {
+            "textures": "textures/blocks/twf_rshor/a"
+        }, 
+        "twf_rsian": {
+            "textures": "textures/blocks/twf_rsian/a"
+        }, 
+        "twf_rsig": {
+            "textures": "textures/blocks/twf_rsig/a"
+        }, 
+        "twf_rsnanheite": {
+            "textures": "textures/blocks/twf_rsnanheite/a"
+        }, 
+        "twf_rsonexepeye": {
+            "textures": "textures/blocks/twf_rsonexepeye/a"
+        }, 
+        "twf_rsor": {
+            "textures": "textures/blocks/twf_rsor/a"
+        }, 
+        "twf_rspicyst": {
+            "textures": "textures/blocks/twf_rspicyst/a"
+        }, 
+        "twf_rsrw": {
+            "textures": "textures/blocks/twf_rsrw/a"
+        }, 
+        "twf_rsstone": {
+            "textures": "textures/blocks/twf_rsstone/a"
+        }, 
+        "twf_rsteium": {
+            "textures": "textures/blocks/twf_rsteium/a"
+        }, 
+        "twf_rw": {
+            "textures": "textures/blocks/twf_rw/a"
+        }, 
+        "twf_rwbrokzoia": {
+            "textures": "textures/blocks/twf_rwbrokzoia/a"
+        }, 
+        "twf_rwdraia": {
+            "textures": "textures/blocks/twf_rwdraia/a"
+        }, 
+        "twf_rwepievian": {
+            "textures": "textures/blocks/twf_rwepievian/a"
+        }, 
+        "twf_rwevdryx": {
+            "textures": "textures/blocks/twf_rwevdryx/a"
+        }, 
+        "twf_rwickzereia": {
+            "textures": "textures/blocks/twf_rwickzereia/a"
+        }, 
+        "twf_rwidrgonaline": {
+            "textures": "textures/blocks/twf_rwidrgonaline/a"
+        }, 
+        "twf_rwidroyst": {
+            "textures": "textures/blocks/twf_rwidroyst/a"
+        }, 
+        "twf_rwintpistone": {
+            "textures": "textures/blocks/twf_rwintpistone/a"
+        }, 
+        "twf_rwiomonstone": {
+            "textures": "textures/blocks/twf_rwiomonstone/a"
+        }, 
+        "twf_rwitreomium": {
+            "textures": "textures/blocks/twf_rwitreomium/a"
+        }, 
+        "twf_rwium": {
+            "textures": "textures/blocks/twf_rwium/a"
+        }, 
+        "twf_rwivenyx": {
+            "textures": "textures/blocks/twf_rwivenyx/a"
+        }, 
+        "twf_rwivtenaline": {
+            "textures": "textures/blocks/twf_rwivtenaline/a"
+        }, 
+        "twf_rwoteite": {
+            "textures": "textures/blocks/twf_rwoteite/a"
+        }, 
+        "twf_sebrors": {
+            "textures": "textures/blocks/twf_sebrors/a"
+        }, 
+        "twf_semaline": {
+            "textures": "textures/blocks/twf_semaline/a"
+        }, 
+        "twf_semchdel": {
+            "textures": "textures/blocks/twf_semchdel/a"
+        }, 
+        "twf_semeneth": {
+            "textures": "textures/blocks/twf_semeneth/a"
+        }, 
+        "twf_semethian": {
+            "textures": "textures/blocks/twf_semethian/a"
+        }, 
+        "twf_semgonan": {
+            "textures": "textures/blocks/twf_semgonan/a"
+        }, 
+        "twf_semia": {
+            "textures": "textures/blocks/twf_semia/a"
+        }, 
+        "twf_semickeeia": {
+            "textures": "textures/blocks/twf_semickeeia/a"
+        }, 
+        "twf_sempendeyx": {
+            "textures": "textures/blocks/twf_sempendeyx/a"
+        }, 
+        "twf_semyst": {
+            "textures": "textures/blocks/twf_semyst/a"
+        }, 
+        "twf_seridten": {
+            "textures": "textures/blocks/twf_seridten/a"
+        }, 
+        "twf_sewit": {
+            "textures": "textures/blocks/twf_sewit/a"
+        }, 
+        "twf_sloo": {
+            "textures": "textures/blocks/twf_sloo/a"
+        }, 
+        "twf_tc": {
+            "textures": "textures/blocks/twf_tc/a"
+        }, 
+        "twf_tcanote": {
+            "textures": "textures/blocks/twf_tcanote/a"
+        }, 
+        "twf_tceepeye": {
+            "textures": "textures/blocks/twf_tceepeye/a"
+        }, 
+        "twf_tcepebiian": {
+            "textures": "textures/blocks/twf_tcepebiian/a"
+        }, 
+        "twf_tchmangriite": {
+            "textures": "textures/blocks/twf_tchmangriite/a"
+        }, 
+        "twf_tchseia": {
+            "textures": "textures/blocks/twf_tchseia/a"
+        }, 
+        "twf_tcreeyst": {
+            "textures": "textures/blocks/twf_tcreeyst/a"
+        }, 
+        "twf_tcrivia": {
+            "textures": "textures/blocks/twf_tcrivia/a"
+        }, 
+        "twf_tcyst": {
+            "textures": "textures/blocks/twf_tcyst/a"
+        }, 
+        "twf_te": {
+            "textures": "textures/blocks/twf_te/a"
+        }, 
+        "twf_tedrodra": {
+            "textures": "textures/blocks/twf_tedrodra/a"
+        }, 
+        "twf_teeepanaline": {
+            "textures": "textures/blocks/twf_teeepanaline/a"
+        }, 
+        "twf_teemaonyx": {
+            "textures": "textures/blocks/twf_teemaonyx/a"
+        }, 
+        "twf_teigrnetium": {
+            "textures": "textures/blocks/twf_teigrnetium/a"
+        }, 
+        "twf_tenaline": {
+            "textures": "textures/blocks/twf_tenaline/a"
+        }, 
+        "twf_tenelbaline": {
+            "textures": "textures/blocks/twf_tenelbaline/a"
+        }, 
+        "twf_tengonidaline": {
+            "textures": "textures/blocks/twf_tengonidaline/a"
+        }, 
+        "twf_tenher": {
+            "textures": "textures/blocks/twf_tenher/a"
+        }, 
+        "twf_tenntndeeye": {
+            "textures": "textures/blocks/twf_tenntndeeye/a"
+        }, 
+        "twf_tenorsia": {
+            "textures": "textures/blocks/twf_tenorsia/a"
+        }, 
+        "twf_tenotiveium": {
+            "textures": "textures/blocks/twf_tenotiveium/a"
+        }, 
+        "twf_tenseeye": {
+            "textures": "textures/blocks/twf_tenseeye/a"
+        }, 
+        "twf_tenstone": {
+            "textures": "textures/blocks/twf_tenstone/a"
+        }, 
+        "twf_tenteyx": {
+            "textures": "textures/blocks/twf_tenteyx/a"
+        }, 
+        "twf_tewiyst": {
+            "textures": "textures/blocks/twf_tewiyst/a"
+        }, 
+        "twf_thederi": {
+            "textures": "textures/blocks/twf_thederi/a"
+        }, 
+        "twf_theelbite": {
+            "textures": "textures/blocks/twf_theelbite/a"
+        }, 
+        "twf_theer": {
+            "textures": "textures/blocks/twf_theer/a"
+        }, 
+        "twf_theet": {
+            "textures": "textures/blocks/twf_theet/a"
+        }, 
+        "twf_theia": {
+            "textures": "textures/blocks/twf_theia/a"
+        }, 
+        "twf_theitaline": {
+            "textures": "textures/blocks/twf_theitaline/a"
+        }, 
+        "twf_thentreye": {
+            "textures": "textures/blocks/twf_thentreye/a"
+        }, 
+        "twf_theombium": {
+            "textures": "textures/blocks/twf_theombium/a"
+        }, 
+        "twf_thepeedrite": {
+            "textures": "textures/blocks/twf_thepeedrite/a"
+        }, 
+        "twf_thepium": {
+            "textures": "textures/blocks/twf_thepium/a"
+        }, 
+        "twf_therwxep": {
+            "textures": "textures/blocks/twf_therwxep/a"
+        }, 
+        "twf_theyst": {
+            "textures": "textures/blocks/twf_theyst/a"
+        }, 
+        "twf_thkzoem": {
+            "textures": "textures/blocks/twf_thkzoem/a"
+        }, 
+        "twf_thpiepealine": {
+            "textures": "textures/blocks/twf_thpiepealine/a"
+        }, 
+        "twf_thrangium": {
+            "textures": "textures/blocks/twf_thrangium/a"
+        }, 
+        "twf_thrirev": {
+            "textures": "textures/blocks/twf_thrirev/a"
+        }, 
+        "twf_thtreepialine": {
+            "textures": "textures/blocks/twf_thtreepialine/a"
+        }, 
+        "twf_thzomite": {
+            "textures": "textures/blocks/twf_thzomite/a"
+        }, 
+        "twf_tr": {
+            "textures": "textures/blocks/twf_tr/a"
+        }, 
+        "twf_traline": {
+            "textures": "textures/blocks/twf_traline/a"
+        }, 
+        "twf_trckium": {
+            "textures": "textures/blocks/twf_trckium/a"
+        }, 
+        "twf_trdeium": {
+            "textures": "textures/blocks/twf_trdeium/a"
+        }, 
+        "twf_tre": {
+            "textures": "textures/blocks/twf_tre/a"
+        }, 
+        "twf_tregorevian": {
+            "textures": "textures/blocks/twf_tregorevian/a"
+        }, 
+        "twf_treick": {
+            "textures": "textures/blocks/twf_treick/a"
+        }, 
+        "twf_treium": {
+            "textures": "textures/blocks/twf_treium/a"
+        }, 
+        "twf_trematen": {
+            "textures": "textures/blocks/twf_trematen/a"
+        }, 
+        "twf_trenddreye": {
+            "textures": "textures/blocks/twf_trenddreye/a"
+        }, 
+        "twf_trepistone": {
+            "textures": "textures/blocks/twf_trepistone/a"
+        }, 
+        "twf_trereian": {
+            "textures": "textures/blocks/twf_trereian/a"
+        }, 
+        "twf_trerivhealine": {
+            "textures": "textures/blocks/twf_trerivhealine/a"
+        }, 
+        "twf_trewn": {
+            "textures": "textures/blocks/twf_trewn/a"
+        }, 
+        "twf_trmbistone": {
+            "textures": "textures/blocks/twf_trmbistone/a"
+        }, 
+        "twf_ve": {
+            "textures": "textures/blocks/twf_ve/a"
+        }, 
+        "twf_vealine": {
+            "textures": "textures/blocks/twf_vealine/a"
+        }, 
+        "twf_veandthia": {
+            "textures": "textures/blocks/twf_veandthia/a"
+        }, 
+        "twf_veedraline": {
+            "textures": "textures/blocks/twf_veedraline/a"
+        }, 
+        "twf_veerenastone": {
+            "textures": "textures/blocks/twf_veerenastone/a"
+        }, 
+        "twf_veia": {
+            "textures": "textures/blocks/twf_veia/a"
+        }, 
+        "twf_ven": {
+            "textures": "textures/blocks/twf_ven/a"
+        }, 
+        "twf_vengonian": {
+            "textures": "textures/blocks/twf_vengonian/a"
+        }, 
+        "twf_venre": {
+            "textures": "textures/blocks/twf_venre/a"
+        }, 
+        "twf_venreealine": {
+            "textures": "textures/blocks/twf_venreealine/a"
+        }, 
+        "twf_venth": {
+            "textures": "textures/blocks/twf_venth/a"
+        }, 
+        "twf_venverneeye": {
+            "textures": "textures/blocks/twf_venverneeye/a"
+        }, 
+        "twf_veotekzoeye": {
+            "textures": "textures/blocks/twf_veotekzoeye/a"
+        }, 
+        "twf_veownstone": {
+            "textures": "textures/blocks/twf_veownstone/a"
+        }, 
+        "twf_vepecrium": {
+            "textures": "textures/blocks/twf_vepecrium/a"
+        }, 
+        "twf_veperep": {
+            "textures": "textures/blocks/twf_veperep/a"
+        }, 
+        "twf_ver": {
+            "textures": "textures/blocks/twf_ver/a"
+        }, 
+        "twf_verandaline": {
+            "textures": "textures/blocks/twf_verandaline/a"
+        }, 
+        "twf_verivre": {
+            "textures": "textures/blocks/twf_verivre/a"
+        }, 
+        "twf_verkzone": {
+            "textures": "textures/blocks/twf_verkzone/a"
+        }, 
+        "twf_verrsian": {
+            "textures": "textures/blocks/twf_verrsian/a"
+        }, 
+        "twf_vertredelite": {
+            "textures": "textures/blocks/twf_vertredelite/a"
+        }, 
+        "twf_verventch": {
+            "textures": "textures/blocks/twf_verventch/a"
+        }, 
+        "twf_veyst": {
+            "textures": "textures/blocks/twf_veyst/a"
+        }, 
+        "twf_vezoaline": {
+            "textures": "textures/blocks/twf_vezoaline/a"
+        }, 
+        "twf_wibixeeye": {
+            "textures": "textures/blocks/twf_wibixeeye/a"
+        }, 
+        "twf_wietbr": {
+            "textures": "textures/blocks/twf_wietbr/a"
+        }, 
+        "twf_wieye": {
+            "textures": "textures/blocks/twf_wieye/a"
+        }, 
+        "twf_winanyst": {
+            "textures": "textures/blocks/twf_winanyst/a"
+        }, 
+        "twf_wireened": {
+            "textures": "textures/blocks/twf_wireened/a"
+        }, 
+        "twf_wiridryst": {
+            "textures": "textures/blocks/twf_wiridryst/a"
+        }, 
+        "twf_wit": {
+            "textures": "textures/blocks/twf_wit/a"
+        }, 
+        "twf_witaline": {
+            "textures": "textures/blocks/twf_witaline/a"
+        }, 
+        "twf_witbridr": {
+            "textures": "textures/blocks/twf_witbridr/a"
+        }, 
+        "twf_with": {
+            "textures": "textures/blocks/twf_with/a"
+        }, 
+        "twf_witian": {
+            "textures": "textures/blocks/twf_witian/a"
+        }, 
+        "twf_witown": {
+            "textures": "textures/blocks/twf_witown/a"
+        }, 
+        "twf_wivenlbrite": {
+            "textures": "textures/blocks/twf_wivenlbrite/a"
+        }, 
+        "twf_wneeepbieye": {
+            "textures": "textures/blocks/twf_wneeepbieye/a"
+        }, 
+        "twf_wnemaite": {
+            "textures": "textures/blocks/twf_wnemaite/a"
+        }, 
+        "twf_wnend": {
+            "textures": "textures/blocks/twf_wnend/a"
+        }, 
+        "twf_wneow": {
+            "textures": "textures/blocks/twf_wneow/a"
+        }, 
+        "twf_wnetre": {
+            "textures": "textures/blocks/twf_wnetre/a"
+        }, 
+        "twf_wnevnd": {
+            "textures": "textures/blocks/twf_wnevnd/a"
+        }, 
+        "twf_wnewn": {
+            "textures": "textures/blocks/twf_wnewn/a"
+        }, 
+        "twf_wnewneian": {
+            "textures": "textures/blocks/twf_wnewneian/a"
+        }, 
+        "twf_wneye": {
+            "textures": "textures/blocks/twf_wneye/a"
+        }, 
+        "twf_wngo": {
+            "textures": "textures/blocks/twf_wngo/a"
+        }, 
+        "twf_wnntrdryx": {
+            "textures": "textures/blocks/twf_wnntrdryx/a"
+        }, 
+        "twf_wnreorsstone": {
+            "textures": "textures/blocks/twf_wnreorsstone/a"
+        }, 
+        "twf_wnyx": {
+            "textures": "textures/blocks/twf_wnyx/a"
+        }, 
+        "twf_xeagrot": {
+            "textures": "textures/blocks/twf_xeagrot/a"
+        }, 
+        "twf_xeheryst": {
+            "textures": "textures/blocks/twf_xeheryst/a"
+        }, 
+        "twf_xehor": {
+            "textures": "textures/blocks/twf_xehor/a"
+        }, 
+        "twf_xep": {
+            "textures": "textures/blocks/twf_xep/a"
+        }, 
+        "twf_xepck": {
+            "textures": "textures/blocks/twf_xepck/a"
+        }, 
+        "twf_xepem": {
+            "textures": "textures/blocks/twf_xepem/a"
+        }, 
+        "twf_xepeveyx": {
+            "textures": "textures/blocks/twf_xepeveyx/a"
+        }, 
+        "twf_xepgoaline": {
+            "textures": "textures/blocks/twf_xepgoaline/a"
+        }, 
+        "twf_xepgonia": {
+            "textures": "textures/blocks/twf_xepgonia/a"
+        }, 
+        "twf_xeplbrayst": {
+            "textures": "textures/blocks/twf_xeplbrayst/a"
+        }, 
+        "twf_xepsemian": {
+            "textures": "textures/blocks/twf_xepsemian/a"
+        }, 
+        "twf_xepstone": {
+            "textures": "textures/blocks/twf_xepstone/a"
+        }, 
+        "twf_xepverxepia": {
+            "textures": "textures/blocks/twf_xepverxepia/a"
+        }, 
+        "twf_xerow": {
+            "textures": "textures/blocks/twf_xerow/a"
+        }, 
+        "twf_xetchite": {
+            "textures": "textures/blocks/twf_xetchite/a"
+        }, 
+        "twf_xewnmaneye": {
+            "textures": "textures/blocks/twf_xewnmaneye/a"
+        }, 
+        "twf_zloo": {
+            "textures": "textures/blocks/twf_zloo/a"
+        }, 
+        "twf_zo": {
+            "textures": "textures/blocks/twf_zo/a"
+        }, 
+        "twf_zoendium": {
+            "textures": "textures/blocks/twf_zoendium/a"
+        }, 
+        "twf_zogo": {
+            "textures": "textures/blocks/twf_zogo/a"
+        }, 
+        "twf_zoian": {
+            "textures": "textures/blocks/twf_zoian/a"
+        }, 
+        "twf_zomian": {
+            "textures": "textures/blocks/twf_zomian/a"
+        }, 
+        "twf_zomnddestone": {
+            "textures": "textures/blocks/twf_zomnddestone/a"
+        }, 
+        "twf_zomotite": {
+            "textures": "textures/blocks/twf_zomotite/a"
+        }, 
+        "twf_zooreria": {
+            "textures": "textures/blocks/twf_zooreria/a"
+        }, 
+        "twf_zoridaline": {
+            "textures": "textures/blocks/twf_zoridaline/a"
+        }, 
+        "twf_zoro": {
+            "textures": "textures/blocks/twf_zoro/a"
+        }
+    }, 
+    "texture_name": "atlas.terrain"
+}

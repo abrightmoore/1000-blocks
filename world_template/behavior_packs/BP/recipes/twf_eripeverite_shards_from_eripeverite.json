@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eripeverite_shards_from_eripeverite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:eripeverite"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:eripeverite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

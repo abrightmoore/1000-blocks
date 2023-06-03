@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:picxe_shards_from_picxe"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:picxe"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:picxe_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_eepeepnanaline.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_oteemgoaline"
+            }, 
+            "identifier": "twf:eepeepnanaline", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#658624", 
+                "overlay_color": "#8D0A84"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_eepeepnanaline"
+            }
+        }
+    }
+}

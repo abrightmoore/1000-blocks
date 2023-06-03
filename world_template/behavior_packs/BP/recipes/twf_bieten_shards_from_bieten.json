@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:bieten_shards_from_bieten"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:bieten"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:bieten_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

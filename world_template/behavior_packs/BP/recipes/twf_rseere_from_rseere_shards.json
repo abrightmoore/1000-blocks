@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rseere_from_rseere_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:rseere_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rseere"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

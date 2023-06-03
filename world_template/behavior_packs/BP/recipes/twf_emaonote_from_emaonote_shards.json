@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:emaonote_from_emaonote_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:emaonote_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:emaonote"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

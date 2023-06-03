@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:wnyx_from_wnyx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:wnyx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:wnyx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

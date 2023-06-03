@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_rogrizo.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_elbickian"
+            }, 
+            "identifier": "twf:rogrizo", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#169B9C", 
+                "overlay_color": "#5F7F60"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_rogrizo"
+            }
+        }
+    }
+}

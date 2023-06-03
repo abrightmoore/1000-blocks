@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:drinvaline_shards_from_drinvaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:drinvaline"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:drinvaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

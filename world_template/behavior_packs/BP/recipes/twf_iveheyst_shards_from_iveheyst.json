@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:iveheyst_shards_from_iveheyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:iveheyst"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:iveheyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

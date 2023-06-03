@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ownntraline_from_ownntraline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:ownntraline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ownntraline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

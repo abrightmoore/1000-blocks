@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tenorsia_from_tenorsia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:tenorsia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:tenorsia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

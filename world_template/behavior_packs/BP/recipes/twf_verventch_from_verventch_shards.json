@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:verventch_from_verventch_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:verventch_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:verventch"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

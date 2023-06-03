@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rezohoian_from_rezohoian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:rezohoian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rezohoian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:revneite_from_revneite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:revneite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:revneite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

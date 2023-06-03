@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ragemaeye_shards_from_ragemaeye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ragemaeye"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:ragemaeye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

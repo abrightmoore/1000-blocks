@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:elbite_shards_from_elbite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:elbite"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:elbite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

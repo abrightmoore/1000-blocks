@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:roorsaxestone_shards_from_roorsaxestone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:roorsaxestone"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:roorsaxestone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

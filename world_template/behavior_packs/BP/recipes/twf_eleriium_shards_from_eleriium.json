@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eleriium_shards_from_eleriium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:eleriium"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:eleriium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

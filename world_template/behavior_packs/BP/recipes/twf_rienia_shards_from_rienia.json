@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rienia_shards_from_rienia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:rienia"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:rienia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

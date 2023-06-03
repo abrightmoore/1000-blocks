@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_rotmanpigaline.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_manereiealine"
+            }, 
+            "identifier": "twf:rotmanpigaline", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#F9932B", 
+                "overlay_color": "#A04A8C"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_rotmanpigaline"
+            }
+        }
+    }
+}

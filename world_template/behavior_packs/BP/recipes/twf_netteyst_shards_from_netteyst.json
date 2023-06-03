@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:netteyst_shards_from_netteyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:netteyst"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:netteyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "header": {
+    "name": "TWF_1000Blocks",
+    "version": [1, 0, 0],
+    "uuid": "fd5c62c4-4ce2-960d-44b0-708d3de88bf7"
+  },
+  "modules": [
+    {
+      "version": [1, 0, 0],
+      "type": "skin_pack",
+      "uuid": "8da87dce-0d96-a032-525b-002ef295932a"
+    }
+  ],
+  "format_version": 1
+}

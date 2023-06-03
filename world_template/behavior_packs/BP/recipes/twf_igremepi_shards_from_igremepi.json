@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:igremepi_shards_from_igremepi"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:igremepi"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:igremepi_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

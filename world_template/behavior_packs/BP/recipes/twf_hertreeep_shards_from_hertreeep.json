@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:hertreeep_shards_from_hertreeep"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:hertreeep"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:hertreeep_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

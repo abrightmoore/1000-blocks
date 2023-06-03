@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:enaseyx_shards_from_enaseyx"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:enaseyx"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:enaseyx_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

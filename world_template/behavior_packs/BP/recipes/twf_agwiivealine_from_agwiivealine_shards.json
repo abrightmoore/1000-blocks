@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:agwiivealine_from_agwiivealine_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:agwiivealine_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:agwiivealine"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

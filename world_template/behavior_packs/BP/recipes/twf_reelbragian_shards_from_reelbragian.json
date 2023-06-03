@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:reelbragian_shards_from_reelbragian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:reelbragian"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:reelbragian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

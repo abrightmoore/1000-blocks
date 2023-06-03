@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:wivenlbrite_shards_from_wivenlbrite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:wivenlbrite"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:wivenlbrite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

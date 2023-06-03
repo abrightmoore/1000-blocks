@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ethoraline_from_ethoraline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:ethoraline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ethoraline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

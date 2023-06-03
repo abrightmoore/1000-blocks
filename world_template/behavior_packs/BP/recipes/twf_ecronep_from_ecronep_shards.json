@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ecronep_from_ecronep_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:ecronep_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ecronep"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

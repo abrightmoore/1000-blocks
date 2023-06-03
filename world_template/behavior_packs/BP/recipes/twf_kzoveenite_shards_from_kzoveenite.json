@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:kzoveenite_shards_from_kzoveenite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:kzoveenite"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:kzoveenite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

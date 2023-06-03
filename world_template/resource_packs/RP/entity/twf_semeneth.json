@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_semeneth.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_a"
+            }, 
+            "identifier": "twf:semeneth", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#835432", 
+                "overlay_color": "#7AE698"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_semeneth"
+            }
+        }
+    }
+}

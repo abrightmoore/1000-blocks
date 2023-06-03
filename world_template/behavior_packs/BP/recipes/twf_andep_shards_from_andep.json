@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:andep_shards_from_andep"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:andep"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:andep_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

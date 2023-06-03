@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_oneve.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_epnannd"
+            }, 
+            "identifier": "twf:oneve", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#169B9C", 
+                "overlay_color": "#47694B"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_oneve"
+            }
+        }
+    }
+}

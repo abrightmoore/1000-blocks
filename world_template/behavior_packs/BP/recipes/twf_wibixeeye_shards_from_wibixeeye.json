@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:wibixeeye_shards_from_wibixeeye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:wibixeeye"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:wibixeeye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

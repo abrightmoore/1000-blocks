@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:reeeye_shards_from_reeeye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:reeeye"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:reeeye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

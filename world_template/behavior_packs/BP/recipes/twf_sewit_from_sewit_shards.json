@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:sewit_from_sewit_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:sewit_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:sewit"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

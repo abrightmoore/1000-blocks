@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_nanmaneye.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_nanmaneye"
+            }, 
+            "identifier": "twf:nanmaneye", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#86CC26", 
+                "overlay_color": "#D9125A"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_nanmaneye"
+            }
+        }
+    }
+}

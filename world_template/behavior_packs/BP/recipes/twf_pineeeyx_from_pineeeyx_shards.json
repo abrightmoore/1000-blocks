@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:pineeeyx_from_pineeeyx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:pineeeyx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:pineeeyx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

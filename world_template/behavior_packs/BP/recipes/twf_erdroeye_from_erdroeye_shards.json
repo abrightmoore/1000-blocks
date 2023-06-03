@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erdroeye_from_erdroeye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:erdroeye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:erdroeye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

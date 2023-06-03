@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tregorevian_from_tregorevian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:tregorevian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:tregorevian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:trepistone_shards_from_trepistone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:trepistone"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:trepistone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

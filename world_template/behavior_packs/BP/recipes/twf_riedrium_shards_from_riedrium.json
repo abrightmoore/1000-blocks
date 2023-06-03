@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:riedrium_shards_from_riedrium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:riedrium"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:riedrium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

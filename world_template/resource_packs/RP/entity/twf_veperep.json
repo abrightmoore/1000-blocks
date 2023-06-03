@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_veperep.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_i"
+            }, 
+            "identifier": "twf:veperep", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#9D9D97", 
+                "overlay_color": "#CA095B"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_veperep"
+            }
+        }
+    }
+}

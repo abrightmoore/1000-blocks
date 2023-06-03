@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:crckzenaline_from_crckzenaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:crckzenaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:crckzenaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epiitcev_shards_from_epiitcev"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:epiitcev"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:epiitcev_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

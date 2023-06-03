@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:pig_shards_from_pig"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:pig"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:pig_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

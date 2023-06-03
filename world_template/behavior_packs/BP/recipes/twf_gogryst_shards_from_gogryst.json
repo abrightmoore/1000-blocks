@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:gogryst_shards_from_gogryst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:gogryst"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:gogryst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:droian_from_droian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:droian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:droian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:creia_shards_from_creia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:creia"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:creia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_gredite.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_ereidors"
+            }, 
+            "identifier": "twf:gredite", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#F9932B", 
+                "overlay_color": "#4DA70F"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_gredite"
+            }
+        }
+    }
+}

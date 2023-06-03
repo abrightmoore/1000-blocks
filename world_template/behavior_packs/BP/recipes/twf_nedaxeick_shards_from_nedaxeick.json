@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nedaxeick_shards_from_nedaxeick"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:nedaxeick"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:nedaxeick_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ant_from_ant_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:ant_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ant"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

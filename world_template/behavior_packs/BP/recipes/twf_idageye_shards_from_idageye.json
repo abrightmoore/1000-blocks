@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:idageye_shards_from_idageye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:idageye"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:idageye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

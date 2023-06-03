@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_erwbraline.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_a"
+            }, 
+            "identifier": "twf:erwbraline", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#4EC5E7", 
+                "overlay_color": "#F097C8"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_erwbraline"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:manrot_shards_from_manrot"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:manrot"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:manrot_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

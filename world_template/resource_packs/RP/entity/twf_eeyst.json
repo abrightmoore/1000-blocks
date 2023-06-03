@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_eeyst.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_eeyst"
+            }, 
+            "identifier": "twf:eeyst", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#474F52", 
+                "overlay_color": "#DF9D00"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_eeyst"
+            }
+        }
+    }
+}

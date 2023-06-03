@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:anorivian_from_anorivian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:anorivian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:anorivian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

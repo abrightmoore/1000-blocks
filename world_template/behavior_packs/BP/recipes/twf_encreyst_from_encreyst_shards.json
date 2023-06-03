@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:encreyst_from_encreyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:encreyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:encreyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

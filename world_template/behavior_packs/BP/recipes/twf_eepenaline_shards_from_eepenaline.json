@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eepenaline_shards_from_eepenaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:eepenaline"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:eepenaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

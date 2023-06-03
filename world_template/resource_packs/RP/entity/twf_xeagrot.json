@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_xeagrot.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_manereiealine"
+            }, 
+            "identifier": "twf:xeagrot", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#169B9C", 
+                "overlay_color": "#E5701B"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_xeagrot"
+            }
+        }
+    }
+}

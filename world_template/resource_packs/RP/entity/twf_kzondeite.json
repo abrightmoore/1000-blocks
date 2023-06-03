@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_kzondeite.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_kzondeite"
+            }, 
+            "identifier": "twf:kzondeite", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#9D9D97", 
+                "overlay_color": "#D965CC"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_kzondeite"
+            }
+        }
+    }
+}

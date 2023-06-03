@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ependerealine_shards_from_ependerealine"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ependerealine"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:ependerealine_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

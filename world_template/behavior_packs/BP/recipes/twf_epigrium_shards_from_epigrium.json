@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epigrium_shards_from_epigrium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:epigrium"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:epigrium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

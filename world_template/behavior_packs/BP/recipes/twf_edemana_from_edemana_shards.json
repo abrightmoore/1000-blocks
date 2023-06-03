@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:edemana_from_edemana_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:edemana_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:edemana"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:lbrigrhor_from_lbrigrhor_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:lbrigrhor_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:lbrigrhor"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

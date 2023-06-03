@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:pigeepian_shards_from_pigeepian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:pigeepian"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:pigeepian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

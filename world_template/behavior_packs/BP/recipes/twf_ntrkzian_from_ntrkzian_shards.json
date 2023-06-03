@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ntrkzian_from_ntrkzian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:ntrkzian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ntrkzian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

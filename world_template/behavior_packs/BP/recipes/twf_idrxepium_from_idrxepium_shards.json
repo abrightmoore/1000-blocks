@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:idrxepium_from_idrxepium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:idrxepium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:idrxepium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eromoteyst_shards_from_eromoteyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:eromoteyst"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:eromoteyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

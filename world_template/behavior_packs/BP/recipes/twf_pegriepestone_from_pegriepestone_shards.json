@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:pegriepestone_from_pegriepestone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:pegriepestone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:pegriepestone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

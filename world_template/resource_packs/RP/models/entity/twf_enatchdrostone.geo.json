@@ -1,0 +1,117 @@
+{
+    "format_version": "1.12.0", 
+    "minecraft:geometry": [
+        {
+            "bones": [
+                {
+                    "cubes": [
+                        {
+                            "name": "cube1", 
+                            "origin": [
+                                -0.11353181179004722, 
+                                0, 
+                                -0.9935343616159782
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                6, 
+                                14, 
+                                4
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "cube2", 
+                            "origin": [
+                                -0.11353181179004722, 
+                                14.001, 
+                                -0.9935343616159782
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                6, 
+                                14, 
+                                4
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }, 
+                        {
+                            "name": "cube3", 
+                            "origin": [
+                                -0.11353181179004722, 
+                                28.002, 
+                                -0.9935343616159782
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "size": [
+                                6, 
+                                14, 
+                                4
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }
+                    ], 
+                    "name": "root", 
+                    "pivot": [
+                        0, 
+                        0, 
+                        0
+                    ], 
+                    "rotation": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            ], 
+            "description": {
+                "identifier": "geometry.twf_enatchdrostone", 
+                "texture_height": 16, 
+                "texture_width": 16, 
+                "visible_bounds_height": 3.5, 
+                "visible_bounds_offset": [
+                    0, 
+                    1.25, 
+                    0
+                ], 
+                "visible_bounds_width": 2
+            }
+        }
+    ]
+}

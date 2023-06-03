@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:wnemaite_from_wnemaite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:wnemaite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:wnemaite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

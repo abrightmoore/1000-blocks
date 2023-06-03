@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ntr_from_ntr_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:ntr_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ntr"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

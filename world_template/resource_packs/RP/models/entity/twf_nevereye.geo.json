@@ -1,0 +1,63 @@
+{
+    "format_version": "1.12.0", 
+    "minecraft:geometry": [
+        {
+            "bones": [
+                {
+                    "cubes": [
+                        {
+                            "name": "cube2", 
+                            "origin": [
+                                -3.6018787989473746, 
+                                0, 
+                                -3.9072865310114437
+                            ], 
+                            "pivot": [
+                                0, 
+                                0, 
+                                0
+                            ], 
+                            "rotation": [
+                                0, 
+                                135, 
+                                0
+                            ], 
+                            "size": [
+                                6, 
+                                9, 
+                                4
+                            ], 
+                            "uv": [
+                                0, 
+                                0
+                            ]
+                        }
+                    ], 
+                    "name": "root", 
+                    "pivot": [
+                        0, 
+                        0, 
+                        0
+                    ], 
+                    "rotation": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            ], 
+            "description": {
+                "identifier": "geometry.twf_nevereye", 
+                "texture_height": 16, 
+                "texture_width": 16, 
+                "visible_bounds_height": 3.5, 
+                "visible_bounds_offset": [
+                    0, 
+                    1.25, 
+                    0
+                ], 
+                "visible_bounds_width": 2
+            }
+        }
+    ]
+}

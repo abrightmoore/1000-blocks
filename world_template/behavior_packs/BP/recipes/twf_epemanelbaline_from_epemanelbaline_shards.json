@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epemanelbaline_from_epemanelbaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:epemanelbaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:epemanelbaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epgon_from_epgon_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:epgon_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:epgon"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

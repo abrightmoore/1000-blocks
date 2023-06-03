@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rwbrokzoia_from_rwbrokzoia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:rwbrokzoia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rwbrokzoia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

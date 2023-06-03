@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:maiecpic_shards_from_maiecpic"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:maiecpic"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:maiecpic_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

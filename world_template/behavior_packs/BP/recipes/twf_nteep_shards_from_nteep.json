@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nteep_shards_from_nteep"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:nteep"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:nteep_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

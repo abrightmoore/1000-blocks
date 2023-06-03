@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_antaline.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_b"
+            }, 
+            "identifier": "twf:antaline", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#F4B2C9", 
+                "overlay_color": "#D07E2A"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_antaline"
+            }
+        }
+    }
+}

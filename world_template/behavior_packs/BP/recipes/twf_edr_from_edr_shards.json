@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:edr_from_edr_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:edr_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:edr"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

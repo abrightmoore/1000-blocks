@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rowstone_from_rowstone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:rowstone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rowstone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

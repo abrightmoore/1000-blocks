@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erepiia_shards_from_erepiia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:erepiia"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:erepiia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

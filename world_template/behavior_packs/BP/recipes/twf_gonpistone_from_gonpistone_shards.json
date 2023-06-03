@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:gonpistone_from_gonpistone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:gonpistone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:gonpistone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

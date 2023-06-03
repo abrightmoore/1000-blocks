@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:greye_shards_from_greye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:greye"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:greye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

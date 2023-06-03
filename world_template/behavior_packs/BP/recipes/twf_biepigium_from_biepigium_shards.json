@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:biepigium_from_biepigium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:biepigium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:biepigium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ieciecgon_from_ieciecgon_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:ieciecgon_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ieciecgon"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

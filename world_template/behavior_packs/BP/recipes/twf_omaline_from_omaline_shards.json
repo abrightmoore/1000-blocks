@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:omaline_from_omaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:omaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:omaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

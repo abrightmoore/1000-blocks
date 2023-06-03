@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tenstone_from_tenstone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:tenstone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:tenstone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

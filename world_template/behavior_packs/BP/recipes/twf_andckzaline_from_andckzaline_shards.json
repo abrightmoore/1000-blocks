@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:andckzaline_from_andckzaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:andckzaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:andckzaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

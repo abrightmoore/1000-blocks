@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ndstone_from_ndstone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:ndstone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ndstone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

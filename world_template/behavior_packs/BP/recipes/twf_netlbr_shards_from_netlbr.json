@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:netlbr_shards_from_netlbr"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:netlbr"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:netlbr_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epiveyx_from_epiveyx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:epiveyx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:epiveyx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

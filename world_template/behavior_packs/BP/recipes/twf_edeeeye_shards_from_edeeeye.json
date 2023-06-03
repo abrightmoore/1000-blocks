@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:edeeeye_shards_from_edeeeye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:edeeeye"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:edeeeye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

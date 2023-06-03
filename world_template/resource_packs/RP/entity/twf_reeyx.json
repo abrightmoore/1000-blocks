@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_reeyx.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_cheye"
+            }, 
+            "identifier": "twf:reeyx", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#3E4DB2", 
+                "overlay_color": "#440F7C"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_reeyx"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:manethian_shards_from_manethian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:manethian"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:manethian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

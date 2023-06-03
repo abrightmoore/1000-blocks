@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:omwit_shards_from_omwit"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:omwit"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:omwit_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

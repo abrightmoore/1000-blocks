@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:raridyx_shards_from_raridyx"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:raridyx"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:raridyx_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

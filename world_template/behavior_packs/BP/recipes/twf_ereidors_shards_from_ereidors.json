@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ereidors_shards_from_ereidors"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ereidors"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:ereidors_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

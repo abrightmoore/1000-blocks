@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:drdrreia_shards_from_drdrreia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:drdrreia"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:drdrreia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

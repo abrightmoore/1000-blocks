@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:xehor_from_xehor_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:xehor_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:xehor"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

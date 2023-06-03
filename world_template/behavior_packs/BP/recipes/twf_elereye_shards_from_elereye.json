@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:elereye_shards_from_elereye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:elereye"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:elereye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

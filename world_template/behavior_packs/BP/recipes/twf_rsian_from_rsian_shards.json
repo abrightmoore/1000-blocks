@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rsian_from_rsian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:rsian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rsian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

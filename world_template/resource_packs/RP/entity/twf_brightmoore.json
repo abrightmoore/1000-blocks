@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_brightmoore.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_brightmoore"
+            }, 
+            "identifier": "twf:brightmoore", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#8C44C9", 
+                "overlay_color": "#0D540B"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_brightmoore"
+            }
+        }
+    }
+}

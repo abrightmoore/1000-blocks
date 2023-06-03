@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:icgriyst_shards_from_icgriyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:icgriyst"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:icgriyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

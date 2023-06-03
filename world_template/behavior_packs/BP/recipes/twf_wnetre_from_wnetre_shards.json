@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:wnetre_from_wnetre_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:wnetre_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:wnetre"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:henetxepaline_shards_from_henetxepaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:henetxepaline"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:henetxepaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

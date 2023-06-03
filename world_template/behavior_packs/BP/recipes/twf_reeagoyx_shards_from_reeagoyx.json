@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:reeagoyx_shards_from_reeagoyx"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:reeagoyx"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:reeagoyx_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

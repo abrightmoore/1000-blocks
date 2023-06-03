@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:netian_shards_from_netian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:netian"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:netian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

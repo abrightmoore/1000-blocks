@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:heneium_shards_from_heneium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:heneium"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:heneium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

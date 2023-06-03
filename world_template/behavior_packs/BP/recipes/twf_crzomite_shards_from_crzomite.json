@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:crzomite_shards_from_crzomite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:crzomite"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:crzomite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

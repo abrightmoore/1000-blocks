@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:gonian_shards_from_gonian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:gonian"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:gonian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:biite_shards_from_biite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:biite"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:biite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ombia_shards_from_ombia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ombia"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:ombia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

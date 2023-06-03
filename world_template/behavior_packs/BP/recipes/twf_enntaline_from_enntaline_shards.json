@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:enntaline_from_enntaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:enntaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:enntaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

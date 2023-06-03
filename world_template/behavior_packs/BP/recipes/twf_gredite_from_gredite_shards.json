@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:gredite_from_gredite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:gredite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:gredite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

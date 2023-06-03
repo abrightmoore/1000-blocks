@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rivepestone_from_rivepestone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:rivepestone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rivepestone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_ndlbidaline.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_eriecyst"
+            }, 
+            "identifier": "twf:ndlbidaline", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#FED93F", 
+                "overlay_color": "#D9EA66"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_ndlbidaline"
+            }
+        }
+    }
+}

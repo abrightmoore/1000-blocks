@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:vertredelite_shards_from_vertredelite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:vertredelite"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:vertredelite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

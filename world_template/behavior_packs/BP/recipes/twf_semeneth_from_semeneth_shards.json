@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:semeneth_from_semeneth_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:semeneth_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:semeneth"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:hordroaline_shards_from_hordroaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:hordroaline"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:hordroaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

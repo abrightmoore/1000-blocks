@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rwitreomium_from_rwitreomium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:rwitreomium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rwitreomium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

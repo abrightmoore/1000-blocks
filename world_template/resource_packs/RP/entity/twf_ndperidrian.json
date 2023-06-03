@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_ndperidrian.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_ndperidrian"
+            }, 
+            "identifier": "twf:ndperidrian", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#B8342C", 
+                "overlay_color": "#57C6AA"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_ndperidrian"
+            }
+        }
+    }
+}

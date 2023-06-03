@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:hoium_shards_from_hoium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:hoium"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:hoium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:trdeium_from_trdeium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:trdeium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:trdeium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

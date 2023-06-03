@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ethian_from_ethian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:ethian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ethian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

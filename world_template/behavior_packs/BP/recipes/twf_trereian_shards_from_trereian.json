@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:trereian_shards_from_trereian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:trereian"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:trereian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

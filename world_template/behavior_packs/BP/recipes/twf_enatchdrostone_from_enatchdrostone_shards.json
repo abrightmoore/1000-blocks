@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:enatchdrostone_from_enatchdrostone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:enatchdrostone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:enatchdrostone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

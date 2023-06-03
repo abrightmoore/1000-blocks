@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ntsem_shards_from_ntsem"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ntsem"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:ntsem_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ntbrostone_from_ntbrostone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:ntbrostone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ntbrostone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

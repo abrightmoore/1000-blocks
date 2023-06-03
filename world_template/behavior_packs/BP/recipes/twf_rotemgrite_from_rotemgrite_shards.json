@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rotemgrite_from_rotemgrite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:rotemgrite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rotemgrite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nedrwiyst_shards_from_nedrwiyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:nedrwiyst"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:nedrwiyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

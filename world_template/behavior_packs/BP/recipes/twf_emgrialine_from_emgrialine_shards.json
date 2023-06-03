@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:emgrialine_from_emgrialine_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:emgrialine_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:emgrialine"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

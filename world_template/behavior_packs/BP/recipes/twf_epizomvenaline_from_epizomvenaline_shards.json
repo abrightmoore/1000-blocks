@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epizomvenaline_from_epizomvenaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:epizomvenaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:epizomvenaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

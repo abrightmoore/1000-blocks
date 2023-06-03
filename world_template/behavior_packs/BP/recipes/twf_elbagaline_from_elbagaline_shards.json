@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:elbagaline_from_elbagaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:elbagaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:elbagaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

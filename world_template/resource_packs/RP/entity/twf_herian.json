@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_herian.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_j"
+            }, 
+            "identifier": "twf:herian", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#169B9C", 
+                "overlay_color": "#0D9F9A"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_herian"
+            }
+        }
+    }
+}

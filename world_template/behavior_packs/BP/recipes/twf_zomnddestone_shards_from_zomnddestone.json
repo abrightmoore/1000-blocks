@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:zomnddestone_shards_from_zomnddestone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:zomnddestone"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:zomnddestone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

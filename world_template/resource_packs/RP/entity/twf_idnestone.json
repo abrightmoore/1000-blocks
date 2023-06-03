@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_idnestone.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_f"
+            }, 
+            "identifier": "twf:idnestone", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#D660D1", 
+                "overlay_color": "#5FC519"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_idnestone"
+            }
+        }
+    }
+}

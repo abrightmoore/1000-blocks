@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:mbivvestone_from_mbivvestone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:mbivvestone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:mbivvestone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

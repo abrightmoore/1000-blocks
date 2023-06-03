@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:zoro_shards_from_zoro"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:zoro"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:zoro_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

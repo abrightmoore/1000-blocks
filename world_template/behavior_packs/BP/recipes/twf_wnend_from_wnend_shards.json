@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:wnend_from_wnend_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:wnend_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:wnend"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

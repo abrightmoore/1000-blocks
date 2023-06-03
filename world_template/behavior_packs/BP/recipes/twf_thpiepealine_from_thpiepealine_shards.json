@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:thpiepealine_from_thpiepealine_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:thpiepealine_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:thpiepealine"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

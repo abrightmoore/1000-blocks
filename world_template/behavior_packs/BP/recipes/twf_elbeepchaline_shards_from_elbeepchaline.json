@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:elbeepchaline_shards_from_elbeepchaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:elbeepchaline"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:elbeepchaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

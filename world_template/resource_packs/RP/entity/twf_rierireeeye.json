@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_rierireeeye.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_g"
+            }, 
+            "identifier": "twf:rierireeeye", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#252529", 
+                "overlay_color": "#385060"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_rierireeeye"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epndaline_from_epndaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:epndaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:epndaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

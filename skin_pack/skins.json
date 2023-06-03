@@ -1,0 +1,72 @@
+{
+  "skins": [
+    {
+      "localization_name": "char6_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "char6_custom.png",
+      "type": "paid"
+    },
+    {
+      "localization_name": "char0_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "char0_custom.png",
+      "type": "paid"
+    },
+    {
+      "localization_name": "char1_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "char1_custom.png",
+      "type": "paid"
+    },
+    {
+      "localization_name": "chara_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "chara_custom.png",
+      "type": "paid"
+    },
+    {
+      "localization_name": "char2_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "char2_custom.png",
+      "type": "paid"
+    },
+    {
+      "localization_name": "charb_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "charb_custom.png",
+      "type": "paid"
+    },
+    {
+      "localization_name": "char3_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "char3_custom.png",
+      "type": "paid"
+    },
+    {
+      "localization_name": "charc_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "charc_custom.png",
+      "type": "paid"
+    },    
+    {
+      "localization_name": "char4_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "char4_custom.png",
+      "type": "paid"
+    },
+    {
+      "localization_name": "chard_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "chard_custom.png",
+      "type": "paid"
+    },    
+    {
+      "localization_name": "char5_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "char5_custom.png",
+      "type": "paid"
+    }
+  ],
+  "serialize_name": "TWF_1000Blocks",
+  "localization_name": "TWF_1000Blocks"
+}

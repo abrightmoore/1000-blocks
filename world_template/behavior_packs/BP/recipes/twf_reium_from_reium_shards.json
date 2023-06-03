@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:reium_from_reium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:reium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:reium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

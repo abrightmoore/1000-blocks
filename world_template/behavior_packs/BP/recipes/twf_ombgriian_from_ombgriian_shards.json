@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ombgriian_from_ombgriian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:ombgriian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ombgriian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

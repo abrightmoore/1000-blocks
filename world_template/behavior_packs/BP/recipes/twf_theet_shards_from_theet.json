@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:theet_shards_from_theet"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:theet"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:theet_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

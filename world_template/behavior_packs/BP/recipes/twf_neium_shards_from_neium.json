@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:neium_shards_from_neium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:neium"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:neium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

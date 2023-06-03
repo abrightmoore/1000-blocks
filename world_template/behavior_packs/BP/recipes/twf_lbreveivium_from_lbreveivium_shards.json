@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:lbreveivium_from_lbreveivium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:lbreveivium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:lbreveivium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

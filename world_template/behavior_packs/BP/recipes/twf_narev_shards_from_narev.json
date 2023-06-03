@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:narev_shards_from_narev"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:narev"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:narev_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

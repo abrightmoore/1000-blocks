@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_elbite.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_ntbrostone"
+            }, 
+            "identifier": "twf:elbite", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#3E4DB2", 
+                "overlay_color": "#513DA0"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_elbite"
+            }
+        }
+    }
+}

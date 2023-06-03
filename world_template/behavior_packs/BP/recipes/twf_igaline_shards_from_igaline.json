@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:igaline_shards_from_igaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:igaline"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:igaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

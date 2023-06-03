@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:peagoedyx_shards_from_peagoedyx"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:peagoedyx"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:peagoedyx_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

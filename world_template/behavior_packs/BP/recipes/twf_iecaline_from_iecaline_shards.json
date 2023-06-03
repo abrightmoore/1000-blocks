@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:iecaline_from_iecaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:iecaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:iecaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

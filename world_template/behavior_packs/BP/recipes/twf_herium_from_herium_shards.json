@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:herium_from_herium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:herium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:herium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

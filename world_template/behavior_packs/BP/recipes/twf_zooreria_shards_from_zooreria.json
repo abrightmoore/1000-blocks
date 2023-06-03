@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:zooreria_shards_from_zooreria"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:zooreria"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:zooreria_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

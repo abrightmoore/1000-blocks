@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:evewitaline_from_evewitaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:evewitaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:evewitaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

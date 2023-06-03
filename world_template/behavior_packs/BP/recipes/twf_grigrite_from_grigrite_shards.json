@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:grigrite_from_grigrite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:grigrite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:grigrite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

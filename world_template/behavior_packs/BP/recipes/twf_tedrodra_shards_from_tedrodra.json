@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tedrodra_shards_from_tedrodra"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:tedrodra"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:tedrodra_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

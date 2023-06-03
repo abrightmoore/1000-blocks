@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rerowckz_from_rerowckz_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:rerowckz_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rerowckz"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

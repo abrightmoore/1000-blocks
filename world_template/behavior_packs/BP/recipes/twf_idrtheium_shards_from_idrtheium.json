@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:idrtheium_shards_from_idrtheium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:idrtheium"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:idrtheium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

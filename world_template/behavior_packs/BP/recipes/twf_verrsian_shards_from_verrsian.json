@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:verrsian_shards_from_verrsian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:verrsian"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:verrsian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

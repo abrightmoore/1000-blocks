@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:xeplbrayst_from_xeplbrayst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:xeplbrayst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:xeplbrayst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

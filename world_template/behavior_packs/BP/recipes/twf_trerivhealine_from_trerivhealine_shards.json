@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:trerivhealine_from_trerivhealine_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:trerivhealine_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:trerivhealine"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

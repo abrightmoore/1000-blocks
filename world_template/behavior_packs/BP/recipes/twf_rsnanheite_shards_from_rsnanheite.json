@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rsnanheite_shards_from_rsnanheite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:rsnanheite"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:rsnanheite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

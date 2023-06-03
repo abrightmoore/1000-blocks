@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:hertcrevyst_from_hertcrevyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:hertcrevyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:hertcrevyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

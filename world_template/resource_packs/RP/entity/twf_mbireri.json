@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_mbireri.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_icderwaline"
+            }, 
+            "identifier": "twf:mbireri", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#86CC26", 
+                "overlay_color": "#81CD69"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_mbireri"
+            }
+        }
+    }
+}

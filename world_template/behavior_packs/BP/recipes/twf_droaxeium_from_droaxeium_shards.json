@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:droaxeium_from_droaxeium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:droaxeium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:droaxeium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

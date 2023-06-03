@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:bie_from_bie_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:bie_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:bie"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

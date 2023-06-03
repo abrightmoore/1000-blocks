@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:pigyst_from_pigyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:pigyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:pigyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

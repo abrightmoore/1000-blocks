@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:drasemaline_shards_from_drasemaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:drasemaline"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:drasemaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

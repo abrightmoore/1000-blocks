@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tenelbaline_from_tenelbaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:tenelbaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:tenelbaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

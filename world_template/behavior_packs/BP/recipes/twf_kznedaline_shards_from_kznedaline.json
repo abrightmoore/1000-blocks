@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:kznedaline_shards_from_kznedaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:kznedaline"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:kznedaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

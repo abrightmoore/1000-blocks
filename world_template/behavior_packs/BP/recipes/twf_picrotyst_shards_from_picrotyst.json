@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:picrotyst_shards_from_picrotyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:picrotyst"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:picrotyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

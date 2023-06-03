@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:edium_shards_from_edium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:edium"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:edium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

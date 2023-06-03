@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rotrotveyst_shards_from_rotrotveyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:rotrotveyst"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:rotrotveyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

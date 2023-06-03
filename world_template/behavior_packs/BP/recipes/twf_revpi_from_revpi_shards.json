@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:revpi_from_revpi_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:revpi_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:revpi"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

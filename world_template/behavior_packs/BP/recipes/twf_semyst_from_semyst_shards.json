@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:semyst_from_semyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:semyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:semyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

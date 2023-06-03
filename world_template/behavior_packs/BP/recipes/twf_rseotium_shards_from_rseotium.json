@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rseotium_shards_from_rseotium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:rseotium"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:rseotium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

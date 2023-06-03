@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:riaxe_shards_from_riaxe"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:riaxe"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:riaxe_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

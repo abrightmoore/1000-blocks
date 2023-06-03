@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:brndium_from_brndium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:brndium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:brndium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

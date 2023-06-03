@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tengonidaline_shards_from_tengonidaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:tengonidaline"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:tengonidaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

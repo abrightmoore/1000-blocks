@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:emhe_from_emhe_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:emhe_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:emhe"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

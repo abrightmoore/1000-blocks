@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_royst.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_tenntndeeye"
+            }, 
+            "identifier": "twf:royst", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#169B9C", 
+                "overlay_color": "#0891B4"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_royst"
+            }
+        }
+    }
+}

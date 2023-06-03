@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:lbaline_shards_from_lbaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:lbaline"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:lbaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

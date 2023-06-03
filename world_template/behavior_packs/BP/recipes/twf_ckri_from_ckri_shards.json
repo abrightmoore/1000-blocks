@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ckri_from_ckri_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:ckri_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ckri"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

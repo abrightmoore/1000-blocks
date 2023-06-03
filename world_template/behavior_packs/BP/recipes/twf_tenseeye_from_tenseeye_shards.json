@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tenseeye_from_tenseeye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:tenseeye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:tenseeye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

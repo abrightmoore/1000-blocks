@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:floo_shards_from_floo"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:floo"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:floo_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

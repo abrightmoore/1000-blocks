@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:roeepite_shards_from_roeepite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:roeepite"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:roeepite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

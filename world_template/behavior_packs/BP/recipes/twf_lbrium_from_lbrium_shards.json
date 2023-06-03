@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:lbrium_from_lbrium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:lbrium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:lbrium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

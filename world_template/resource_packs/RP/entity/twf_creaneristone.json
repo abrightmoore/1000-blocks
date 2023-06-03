@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_creaneristone.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_creaneristone"
+            }, 
+            "identifier": "twf:creaneristone", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#9D9D97", 
+                "overlay_color": "#DF2D85"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_creaneristone"
+            }
+        }
+    }
+}

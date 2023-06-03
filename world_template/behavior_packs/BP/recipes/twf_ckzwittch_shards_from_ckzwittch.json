@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ckzwittch_shards_from_ckzwittch"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ckzwittch"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:ckzwittch_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

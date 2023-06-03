@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_eepmanmbiium.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_h"
+            }, 
+            "identifier": "twf:eepmanmbiium", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#474F52", 
+                "overlay_color": "#EBC9C1"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_eepmanmbiium"
+            }
+        }
+    }
+}

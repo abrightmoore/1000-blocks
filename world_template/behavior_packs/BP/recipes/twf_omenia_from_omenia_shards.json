@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:omenia_from_omenia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:omenia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:omenia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

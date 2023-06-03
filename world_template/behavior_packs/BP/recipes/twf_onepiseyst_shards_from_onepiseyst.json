@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:onepiseyst_shards_from_onepiseyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:onepiseyst"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:onepiseyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

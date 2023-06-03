@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:oria_shards_from_oria"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:oria"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:oria_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

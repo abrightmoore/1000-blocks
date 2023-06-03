@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:pigotembite_shards_from_pigotembite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:pigotembite"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:pigotembite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

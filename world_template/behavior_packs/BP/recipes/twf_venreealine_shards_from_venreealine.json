@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:venreealine_shards_from_venreealine"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:venreealine"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:venreealine_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

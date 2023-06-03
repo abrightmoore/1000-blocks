@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:theitaline_from_theitaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:theitaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:theitaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

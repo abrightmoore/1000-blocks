@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:neteebrostone_shards_from_neteebrostone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:neteebrostone"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:neteebrostone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

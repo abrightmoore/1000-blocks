@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:iezodel_shards_from_iezodel"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:iezodel"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:iezodel_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:iecchoite_from_iecchoite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:iecchoite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:iecchoite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

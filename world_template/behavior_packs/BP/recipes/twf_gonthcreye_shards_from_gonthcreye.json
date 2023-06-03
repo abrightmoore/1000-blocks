@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:gonthcreye_shards_from_gonthcreye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:gonthcreye"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:gonthcreye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:andemaite_shards_from_andemaite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:andemaite"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:andemaite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

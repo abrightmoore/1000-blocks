@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:revite_shards_from_revite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:revite"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:revite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:dreye_shards_from_dreye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:dreye"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:dreye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

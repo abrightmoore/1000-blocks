@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:delperite_from_delperite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:delperite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:delperite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_ericomb.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_c"
+            }, 
+            "identifier": "twf:ericomb", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#FED93F", 
+                "overlay_color": "#6B589F"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_ericomb"
+            }
+        }
+    }
+}

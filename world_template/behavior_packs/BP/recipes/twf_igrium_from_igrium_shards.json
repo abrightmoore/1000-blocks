@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:igrium_from_igrium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:igrium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:igrium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

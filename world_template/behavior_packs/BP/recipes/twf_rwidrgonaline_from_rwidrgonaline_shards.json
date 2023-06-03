@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rwidrgonaline_from_rwidrgonaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:rwidrgonaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rwidrgonaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

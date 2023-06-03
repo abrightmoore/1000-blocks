@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:xepsemian_from_xepsemian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:xepsemian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:xepsemian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

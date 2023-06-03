@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:oneve_from_oneve_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:oneve_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:oneve"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:edreeer_shards_from_edreeer"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:edreeer"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:edreeer_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

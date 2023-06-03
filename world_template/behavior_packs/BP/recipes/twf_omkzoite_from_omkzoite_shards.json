@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:omkzoite_from_omkzoite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:omkzoite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:omkzoite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

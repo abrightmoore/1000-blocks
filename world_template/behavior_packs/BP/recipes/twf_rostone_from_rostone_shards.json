@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rostone_from_rostone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:rostone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rostone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

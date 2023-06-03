@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:deyst_from_deyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:deyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:deyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

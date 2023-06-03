@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:semickeeia_shards_from_semickeeia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:semickeeia"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:semickeeia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

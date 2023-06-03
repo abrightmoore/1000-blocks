@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_epigrium.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_epnannd"
+            }, 
+            "identifier": "twf:epigrium", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#B8342C", 
+                "overlay_color": "#72FF56"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_epigrium"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:reendneeye_from_reendneeye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:reendneeye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:reendneeye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

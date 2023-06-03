@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_xeheryst.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_rowenidite"
+            }, 
+            "identifier": "twf:xeheryst", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#FEFEFE", 
+                "overlay_color": "#44EEE1"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_xeheryst"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rag_shards_from_rag"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:rag"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:rag_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

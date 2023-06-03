@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epiteye_shards_from_epiteye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:epiteye"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:epiteye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

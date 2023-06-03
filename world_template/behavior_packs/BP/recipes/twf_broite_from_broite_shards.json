@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:broite_from_broite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:broite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:broite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

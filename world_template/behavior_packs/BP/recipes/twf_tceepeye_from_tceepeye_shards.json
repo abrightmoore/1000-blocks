@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tceepeye_from_tceepeye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:tceepeye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:tceepeye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

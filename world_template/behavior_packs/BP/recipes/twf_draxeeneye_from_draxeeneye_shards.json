@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:draxeeneye_from_draxeeneye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:draxeeneye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:draxeeneye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

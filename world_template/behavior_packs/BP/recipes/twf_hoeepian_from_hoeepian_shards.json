@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:hoeepian_from_hoeepian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:hoeepian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:hoeepian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

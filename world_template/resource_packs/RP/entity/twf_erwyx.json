@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_erwyx.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_creeye"
+            }, 
+            "identifier": "twf:erwyx", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#F9932B", 
+                "overlay_color": "#FBCDBD"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_erwyx"
+            }
+        }
+    }
+}

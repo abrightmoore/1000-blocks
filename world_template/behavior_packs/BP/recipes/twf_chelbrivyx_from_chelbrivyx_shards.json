@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:chelbrivyx_from_chelbrivyx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:chelbrivyx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:chelbrivyx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:maicklb_shards_from_maicklb"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:maicklb"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:maicklb_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

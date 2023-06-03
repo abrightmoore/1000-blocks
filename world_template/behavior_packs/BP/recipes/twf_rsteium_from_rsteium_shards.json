@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rsteium_from_rsteium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:rsteium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rsteium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

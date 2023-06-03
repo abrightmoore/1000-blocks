@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:teemaonyx_from_teemaonyx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:teemaonyx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:teemaonyx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

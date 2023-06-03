@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_ndwitick.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_d"
+            }, 
+            "identifier": "twf:ndwitick", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#FEFEFE", 
+                "overlay_color": "#A4CA8D"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_ndwitick"
+            }
+        }
+    }
+}

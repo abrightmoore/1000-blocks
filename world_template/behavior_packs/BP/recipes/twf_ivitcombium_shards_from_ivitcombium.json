@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ivitcombium_shards_from_ivitcombium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ivitcombium"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:ivitcombium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

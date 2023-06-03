@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ploo_from_ploo_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:ploo_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ploo"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

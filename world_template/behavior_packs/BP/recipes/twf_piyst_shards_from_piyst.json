@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:piyst_shards_from_piyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:piyst"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:piyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

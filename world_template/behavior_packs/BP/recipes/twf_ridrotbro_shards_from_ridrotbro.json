@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ridrotbro_shards_from_ridrotbro"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ridrotbro"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:ridrotbro_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nanium_from_nanium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:nanium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:nanium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

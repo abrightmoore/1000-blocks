@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rotmanpigaline_shards_from_rotmanpigaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:rotmanpigaline"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:rotmanpigaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

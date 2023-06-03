@@ -1,0 +1,8 @@
+{
+    "animations": {
+        "animation.twf_onchoaxium.base_pose": {
+            "loop": "hold_on_last_frame"
+        }
+    }, 
+    "format_version": "1.8.0"
+}

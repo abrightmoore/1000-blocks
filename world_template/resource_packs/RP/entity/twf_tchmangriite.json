@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_tchmangriite.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_b"
+            }, 
+            "identifier": "twf:tchmangriite", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#835432", 
+                "overlay_color": "#F539A9"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_tchmangriite"
+            }
+        }
+    }
+}

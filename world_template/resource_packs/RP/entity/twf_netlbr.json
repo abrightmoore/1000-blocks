@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_netlbr.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_epnannd"
+            }, 
+            "identifier": "twf:netlbr", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#F4B2C9", 
+                "overlay_color": "#67A07B"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_netlbr"
+            }
+        }
+    }
+}

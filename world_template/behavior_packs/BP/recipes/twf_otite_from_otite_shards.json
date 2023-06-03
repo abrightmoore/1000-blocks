@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:otite_from_otite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:otite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:otite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

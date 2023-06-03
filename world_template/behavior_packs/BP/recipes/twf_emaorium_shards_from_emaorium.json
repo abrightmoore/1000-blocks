@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:emaorium_shards_from_emaorium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:emaorium"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:emaorium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

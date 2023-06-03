@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_axia.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_manereiealine"
+            }, 
+            "identifier": "twf:axia", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#4EC5E7", 
+                "overlay_color": "#A8EA57"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_axia"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eepema_shards_from_eepema"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:eepema"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:eepema_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

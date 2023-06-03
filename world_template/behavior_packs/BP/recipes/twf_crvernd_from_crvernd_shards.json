@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:crvernd_from_crvernd_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:crvernd_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:crvernd"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

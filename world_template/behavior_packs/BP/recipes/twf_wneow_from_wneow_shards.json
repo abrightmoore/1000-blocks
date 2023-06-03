@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:wneow_from_wneow_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:wneow_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:wneow"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

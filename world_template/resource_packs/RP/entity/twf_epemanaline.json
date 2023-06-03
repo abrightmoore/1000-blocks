@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_epemanaline.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_ned"
+            }, 
+            "identifier": "twf:epemanaline", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#835432", 
+                "overlay_color": "#E2A6FD"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_epemanaline"
+            }
+        }
+    }
+}

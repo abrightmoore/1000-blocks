@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:onenia_shards_from_onenia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:onenia"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:onenia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

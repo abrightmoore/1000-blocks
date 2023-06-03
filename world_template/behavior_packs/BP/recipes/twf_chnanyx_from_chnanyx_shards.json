@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:chnanyx_from_chnanyx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:chnanyx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:chnanyx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

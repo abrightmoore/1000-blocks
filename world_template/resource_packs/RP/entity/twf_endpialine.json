@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_endpialine.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_endpialine"
+            }, 
+            "identifier": "twf:endpialine", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#4EC5E7", 
+                "overlay_color": "#444C59"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_endpialine"
+            }
+        }
+    }
+}

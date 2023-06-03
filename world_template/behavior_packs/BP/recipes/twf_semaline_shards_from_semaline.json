@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:semaline_shards_from_semaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:semaline"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:semaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:editcaline_shards_from_editcaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:editcaline"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:editcaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

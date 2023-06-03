@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_eepia.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_maiecpic"
+            }, 
+            "identifier": "twf:eepia", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#9D9D97", 
+                "overlay_color": "#3C8BE3"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_eepia"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:wngo_from_wngo_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:wngo_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:wngo"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

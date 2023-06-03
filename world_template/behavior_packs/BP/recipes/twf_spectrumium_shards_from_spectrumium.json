@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:spectrumium_shards_from_spectrumium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:spectrumium"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:spectrumium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

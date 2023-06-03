@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:veownstone_shards_from_veownstone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:veownstone"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:veownstone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

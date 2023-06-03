@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:zoridaline_from_zoridaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:zoridaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:zoridaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:xerow_from_xerow_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:xerow_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:xerow"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

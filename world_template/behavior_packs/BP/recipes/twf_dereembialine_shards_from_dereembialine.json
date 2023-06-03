@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:dereembialine_shards_from_dereembialine"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:dereembialine"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:dereembialine_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

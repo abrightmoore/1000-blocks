@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:antned_shards_from_antned"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:antned"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:antned_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

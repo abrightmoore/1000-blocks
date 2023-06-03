@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eeemthyx_from_eeemthyx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:eeemthyx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:eeemthyx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

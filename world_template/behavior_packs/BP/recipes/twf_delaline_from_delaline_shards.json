@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:delaline_from_delaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:delaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:delaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

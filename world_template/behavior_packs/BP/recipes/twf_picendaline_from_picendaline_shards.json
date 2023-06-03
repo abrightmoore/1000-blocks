@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:picendaline_from_picendaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:picendaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:picendaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

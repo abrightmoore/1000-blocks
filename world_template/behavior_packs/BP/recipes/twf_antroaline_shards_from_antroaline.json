@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:antroaline_shards_from_antroaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:antroaline"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:antroaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

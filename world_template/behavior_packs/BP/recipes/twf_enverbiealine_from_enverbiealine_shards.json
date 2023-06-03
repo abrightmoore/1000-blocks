@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:enverbiealine_from_enverbiealine_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:enverbiealine_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:enverbiealine"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:edrrwistone_shards_from_edrrwistone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:edrrwistone"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:edrrwistone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

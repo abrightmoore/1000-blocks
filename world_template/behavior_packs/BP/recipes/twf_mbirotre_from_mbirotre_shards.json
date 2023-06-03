@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:mbirotre_from_mbirotre_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:mbirotre_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:mbirotre"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

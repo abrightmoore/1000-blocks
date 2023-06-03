@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:go_from_go_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:go_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:go"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

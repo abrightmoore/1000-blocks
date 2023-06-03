@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:etaline_shards_from_etaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:etaline"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:etaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ragium_shards_from_ragium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ragium"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:ragium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

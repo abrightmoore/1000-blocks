@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:itcedrpigian_shards_from_itcedrpigian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:itcedrpigian"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:itcedrpigian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

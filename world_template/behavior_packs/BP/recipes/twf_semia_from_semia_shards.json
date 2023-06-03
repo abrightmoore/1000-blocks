@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:semia_from_semia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:semia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:semia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

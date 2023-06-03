@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:agoitpicia_shards_from_agoitpicia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:agoitpicia"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:agoitpicia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

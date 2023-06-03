@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:deelbian_shards_from_deelbian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:deelbian"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:deelbian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

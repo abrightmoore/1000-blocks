@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:bronacreyst_from_bronacreyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:bronacreyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:bronacreyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

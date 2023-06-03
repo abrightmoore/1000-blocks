@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eperwian_shards_from_eperwian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:eperwian"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:eperwian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

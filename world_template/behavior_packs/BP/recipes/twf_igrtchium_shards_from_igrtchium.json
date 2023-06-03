@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:igrtchium_shards_from_igrtchium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:igrtchium"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:igrtchium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

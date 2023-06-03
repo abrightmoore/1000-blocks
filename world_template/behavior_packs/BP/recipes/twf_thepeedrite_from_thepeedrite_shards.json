@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:thepeedrite_from_thepeedrite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:thepeedrite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:thepeedrite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

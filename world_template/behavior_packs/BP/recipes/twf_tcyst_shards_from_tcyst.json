@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tcyst_shards_from_tcyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:tcyst"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:tcyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

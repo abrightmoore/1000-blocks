@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:piczothyst_from_piczothyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:piczothyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:piczothyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

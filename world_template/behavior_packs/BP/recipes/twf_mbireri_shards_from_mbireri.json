@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:mbireri_shards_from_mbireri"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:mbireri"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:mbireri_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

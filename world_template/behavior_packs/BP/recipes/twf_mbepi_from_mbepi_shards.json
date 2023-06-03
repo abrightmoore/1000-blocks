@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:mbepi_from_mbepi_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:mbepi_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:mbepi"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

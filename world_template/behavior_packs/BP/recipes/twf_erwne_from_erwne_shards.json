@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erwne_from_erwne_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:erwne_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:erwne"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

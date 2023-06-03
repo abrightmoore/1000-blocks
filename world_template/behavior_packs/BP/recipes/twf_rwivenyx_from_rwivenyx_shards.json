@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rwivenyx_from_rwivenyx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:rwivenyx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rwivenyx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

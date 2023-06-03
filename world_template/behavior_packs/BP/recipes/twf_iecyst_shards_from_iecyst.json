@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:iecyst_shards_from_iecyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:iecyst"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:iecyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,4007 @@
+{
+    "format_version": [
+        1, 
+        16, 
+        0
+    ], 
+    "twf:spectrumium": {
+        "sound": "metal", 
+        "textures": "twf_spectrumium"
+    }, 
+    "twf:brightmoore": {
+        "sound": "metal", 
+        "textures": "twf_brightmoore"
+    }, 
+    "twf:agdrive": {
+        "sound": "metal", 
+        "textures": "twf_agdrive"
+    }, 
+    "twf:agian": {
+        "sound": "metal", 
+        "textures": "twf_agian"
+    }, 
+    "twf:agndtchyx": {
+        "sound": "metal", 
+        "textures": "twf_agndtchyx"
+    }, 
+    "twf:agoedreye": {
+        "sound": "metal", 
+        "textures": "twf_agoedreye"
+    }, 
+    "twf:agoidrenaaline": {
+        "sound": "metal", 
+        "textures": "twf_agoidrenaaline"
+    }, 
+    "twf:agoitpicia": {
+        "sound": "metal", 
+        "textures": "twf_agoitpicia"
+    }, 
+    "twf:agostone": {
+        "sound": "metal", 
+        "textures": "twf_agostone"
+    }, 
+    "twf:agoveian": {
+        "sound": "metal", 
+        "textures": "twf_agoveian"
+    }, 
+    "twf:agoyst": {
+        "sound": "metal", 
+        "textures": "twf_agoyst"
+    }, 
+    "twf:agwiivealine": {
+        "sound": "metal", 
+        "textures": "twf_agwiivealine"
+    }, 
+    "twf:agzomeve": {
+        "sound": "metal", 
+        "textures": "twf_agzomeve"
+    }, 
+    "twf:an": {
+        "sound": "metal", 
+        "textures": "twf_an"
+    }, 
+    "twf:analine": {
+        "sound": "metal", 
+        "textures": "twf_analine"
+    }, 
+    "twf:andaline": {
+        "sound": "metal", 
+        "textures": "twf_andaline"
+    }, 
+    "twf:andckzaline": {
+        "sound": "metal", 
+        "textures": "twf_andckzaline"
+    }, 
+    "twf:andemaite": {
+        "sound": "metal", 
+        "textures": "twf_andemaite"
+    }, 
+    "twf:andep": {
+        "sound": "metal", 
+        "textures": "twf_andep"
+    }, 
+    "twf:andeye": {
+        "sound": "metal", 
+        "textures": "twf_andeye"
+    }, 
+    "twf:andyx": {
+        "sound": "metal", 
+        "textures": "twf_andyx"
+    }, 
+    "twf:anhoite": {
+        "sound": "metal", 
+        "textures": "twf_anhoite"
+    }, 
+    "twf:aniecstone": {
+        "sound": "metal", 
+        "textures": "twf_aniecstone"
+    }, 
+    "twf:annanaxeyx": {
+        "sound": "metal", 
+        "textures": "twf_annanaxeyx"
+    }, 
+    "twf:anorivian": {
+        "sound": "metal", 
+        "textures": "twf_anorivian"
+    }, 
+    "twf:anrieriyst": {
+        "sound": "metal", 
+        "textures": "twf_anrieriyst"
+    }, 
+    "twf:anstone": {
+        "sound": "metal", 
+        "textures": "twf_anstone"
+    }, 
+    "twf:ant": {
+        "sound": "metal", 
+        "textures": "twf_ant"
+    }, 
+    "twf:antaline": {
+        "sound": "metal", 
+        "textures": "twf_antaline"
+    }, 
+    "twf:antemarivia": {
+        "sound": "metal", 
+        "textures": "twf_antemarivia"
+    }, 
+    "twf:antium": {
+        "sound": "metal", 
+        "textures": "twf_antium"
+    }, 
+    "twf:antivanteye": {
+        "sound": "metal", 
+        "textures": "twf_antivanteye"
+    }, 
+    "twf:antned": {
+        "sound": "metal", 
+        "textures": "twf_antned"
+    }, 
+    "twf:antoneom": {
+        "sound": "metal", 
+        "textures": "twf_antoneom"
+    }, 
+    "twf:antroaline": {
+        "sound": "metal", 
+        "textures": "twf_antroaline"
+    }, 
+    "twf:ax": {
+        "sound": "metal", 
+        "textures": "twf_ax"
+    }, 
+    "twf:axagian": {
+        "sound": "metal", 
+        "textures": "twf_axagian"
+    }, 
+    "twf:axbroia": {
+        "sound": "metal", 
+        "textures": "twf_axbroia"
+    }, 
+    "twf:axe": {
+        "sound": "metal", 
+        "textures": "twf_axe"
+    }, 
+    "twf:axeaxerotium": {
+        "sound": "metal", 
+        "textures": "twf_axeaxerotium"
+    }, 
+    "twf:axechherian": {
+        "sound": "metal", 
+        "textures": "twf_axechherian"
+    }, 
+    "twf:axeepieye": {
+        "sound": "metal", 
+        "textures": "twf_axeepieye"
+    }, 
+    "twf:axeeveeleye": {
+        "sound": "metal", 
+        "textures": "twf_axeeveeleye"
+    }, 
+    "twf:axeian": {
+        "sound": "metal", 
+        "textures": "twf_axeian"
+    }, 
+    "twf:axeieceye": {
+        "sound": "metal", 
+        "textures": "twf_axeieceye"
+    }, 
+    "twf:axeitaline": {
+        "sound": "metal", 
+        "textures": "twf_axeitaline"
+    }, 
+    "twf:axerigryx": {
+        "sound": "metal", 
+        "textures": "twf_axerigryx"
+    }, 
+    "twf:axgoneye": {
+        "sound": "metal", 
+        "textures": "twf_axgoneye"
+    }, 
+    "twf:axia": {
+        "sound": "metal", 
+        "textures": "twf_axia"
+    }, 
+    "twf:axium": {
+        "sound": "metal", 
+        "textures": "twf_axium"
+    }, 
+    "twf:bi": {
+        "sound": "metal", 
+        "textures": "twf_bi"
+    }, 
+    "twf:biantreeye": {
+        "sound": "metal", 
+        "textures": "twf_biantreeye"
+    }, 
+    "twf:bie": {
+        "sound": "metal", 
+        "textures": "twf_bie"
+    }, 
+    "twf:bieev": {
+        "sound": "metal", 
+        "textures": "twf_bieev"
+    }, 
+    "twf:bieia": {
+        "sound": "metal", 
+        "textures": "twf_bieia"
+    }, 
+    "twf:biepigium": {
+        "sound": "metal", 
+        "textures": "twf_biepigium"
+    }, 
+    "twf:bieten": {
+        "sound": "metal", 
+        "textures": "twf_bieten"
+    }, 
+    "twf:biite": {
+        "sound": "metal", 
+        "textures": "twf_biite"
+    }, 
+    "twf:bistone": {
+        "sound": "metal", 
+        "textures": "twf_bistone"
+    }, 
+    "twf:biveraline": {
+        "sound": "metal", 
+        "textures": "twf_biveraline"
+    }, 
+    "twf:bremaidstone": {
+        "sound": "metal", 
+        "textures": "twf_bremaidstone"
+    }, 
+    "twf:brevite": {
+        "sound": "metal", 
+        "textures": "twf_brevite"
+    }, 
+    "twf:brian": {
+        "sound": "metal", 
+        "textures": "twf_brian"
+    }, 
+    "twf:brium": {
+        "sound": "metal", 
+        "textures": "twf_brium"
+    }, 
+    "twf:brnanium": {
+        "sound": "metal", 
+        "textures": "twf_brnanium"
+    }, 
+    "twf:brndium": {
+        "sound": "metal", 
+        "textures": "twf_brndium"
+    }, 
+    "twf:broeeyst": {
+        "sound": "metal", 
+        "textures": "twf_broeeyst"
+    }, 
+    "twf:broigian": {
+        "sound": "metal", 
+        "textures": "twf_broigian"
+    }, 
+    "twf:broite": {
+        "sound": "metal", 
+        "textures": "twf_broite"
+    }, 
+    "twf:bronacreyst": {
+        "sound": "metal", 
+        "textures": "twf_bronacreyst"
+    }, 
+    "twf:broregr": {
+        "sound": "metal", 
+        "textures": "twf_broregr"
+    }, 
+    "twf:broxeiveian": {
+        "sound": "metal", 
+        "textures": "twf_broxeiveian"
+    }, 
+    "twf:broyx": {
+        "sound": "metal", 
+        "textures": "twf_broyx"
+    }, 
+    "twf:chckneyst": {
+        "sound": "metal", 
+        "textures": "twf_chckneyst"
+    }, 
+    "twf:chelbrivyx": {
+        "sound": "metal", 
+        "textures": "twf_chelbrivyx"
+    }, 
+    "twf:chemaxstone": {
+        "sound": "metal", 
+        "textures": "twf_chemaxstone"
+    }, 
+    "twf:cheye": {
+        "sound": "metal", 
+        "textures": "twf_cheye"
+    }, 
+    "twf:chia": {
+        "sound": "metal", 
+        "textures": "twf_chia"
+    }, 
+    "twf:chieman": {
+        "sound": "metal", 
+        "textures": "twf_chieman"
+    }, 
+    "twf:chite": {
+        "sound": "metal", 
+        "textures": "twf_chite"
+    }, 
+    "twf:chnanyx": {
+        "sound": "metal", 
+        "textures": "twf_chnanyx"
+    }, 
+    "twf:chobieia": {
+        "sound": "metal", 
+        "textures": "twf_chobieia"
+    }, 
+    "twf:choeth": {
+        "sound": "metal", 
+        "textures": "twf_choeth"
+    }, 
+    "twf:choickium": {
+        "sound": "metal", 
+        "textures": "twf_choickium"
+    }, 
+    "twf:chomanbro": {
+        "sound": "metal", 
+        "textures": "twf_chomanbro"
+    }, 
+    "twf:chorekzoaline": {
+        "sound": "metal", 
+        "textures": "twf_chorekzoaline"
+    }, 
+    "twf:chorse": {
+        "sound": "metal", 
+        "textures": "twf_chorse"
+    }, 
+    "twf:choxeitium": {
+        "sound": "metal", 
+        "textures": "twf_choxeitium"
+    }, 
+    "twf:chperaline": {
+        "sound": "metal", 
+        "textures": "twf_chperaline"
+    }, 
+    "twf:ckitcdrian": {
+        "sound": "metal", 
+        "textures": "twf_ckitcdrian"
+    }, 
+    "twf:ckite": {
+        "sound": "metal", 
+        "textures": "twf_ckite"
+    }, 
+    "twf:ckrealine": {
+        "sound": "metal", 
+        "textures": "twf_ckrealine"
+    }, 
+    "twf:ckri": {
+        "sound": "metal", 
+        "textures": "twf_ckri"
+    }, 
+    "twf:ckz": {
+        "sound": "metal", 
+        "textures": "twf_ckz"
+    }, 
+    "twf:ckzeeyst": {
+        "sound": "metal", 
+        "textures": "twf_ckzeeyst"
+    }, 
+    "twf:ckzgoneye": {
+        "sound": "metal", 
+        "textures": "twf_ckzgoneye"
+    }, 
+    "twf:ckzitc": {
+        "sound": "metal", 
+        "textures": "twf_ckzitc"
+    }, 
+    "twf:ckzntrwneyst": {
+        "sound": "metal", 
+        "textures": "twf_ckzntrwneyst"
+    }, 
+    "twf:ckzoneite": {
+        "sound": "metal", 
+        "textures": "twf_ckzoneite"
+    }, 
+    "twf:ckztreowia": {
+        "sound": "metal", 
+        "textures": "twf_ckztreowia"
+    }, 
+    "twf:ckzwittch": {
+        "sound": "metal", 
+        "textures": "twf_ckzwittch"
+    }, 
+    "twf:crckzenaline": {
+        "sound": "metal", 
+        "textures": "twf_crckzenaline"
+    }, 
+    "twf:cre": {
+        "sound": "metal", 
+        "textures": "twf_cre"
+    }, 
+    "twf:creaneristone": {
+        "sound": "metal", 
+        "textures": "twf_creaneristone"
+    }, 
+    "twf:creeye": {
+        "sound": "metal", 
+        "textures": "twf_creeye"
+    }, 
+    "twf:creia": {
+        "sound": "metal", 
+        "textures": "twf_creia"
+    }, 
+    "twf:creian": {
+        "sound": "metal", 
+        "textures": "twf_creian"
+    }, 
+    "twf:creombdroite": {
+        "sound": "metal", 
+        "textures": "twf_creombdroite"
+    }, 
+    "twf:creonewne": {
+        "sound": "metal", 
+        "textures": "twf_creonewne"
+    }, 
+    "twf:creowveeye": {
+        "sound": "metal", 
+        "textures": "twf_creowveeye"
+    }, 
+    "twf:crepeium": {
+        "sound": "metal", 
+        "textures": "twf_crepeium"
+    }, 
+    "twf:crero": {
+        "sound": "metal", 
+        "textures": "twf_crero"
+    }, 
+    "twf:creyx": {
+        "sound": "metal", 
+        "textures": "twf_creyx"
+    }, 
+    "twf:crmaite": {
+        "sound": "metal", 
+        "textures": "twf_crmaite"
+    }, 
+    "twf:crsemherite": {
+        "sound": "metal", 
+        "textures": "twf_crsemherite"
+    }, 
+    "twf:crtrenyx": {
+        "sound": "metal", 
+        "textures": "twf_crtrenyx"
+    }, 
+    "twf:crvernd": {
+        "sound": "metal", 
+        "textures": "twf_crvernd"
+    }, 
+    "twf:crzomaline": {
+        "sound": "metal", 
+        "textures": "twf_crzomaline"
+    }, 
+    "twf:crzomite": {
+        "sound": "metal", 
+        "textures": "twf_crzomite"
+    }, 
+    "twf:de": {
+        "sound": "metal", 
+        "textures": "twf_de"
+    }, 
+    "twf:deeetchite": {
+        "sound": "metal", 
+        "textures": "twf_deeetchite"
+    }, 
+    "twf:deelbian": {
+        "sound": "metal", 
+        "textures": "twf_deelbian"
+    }, 
+    "twf:deian": {
+        "sound": "metal", 
+        "textures": "twf_deian"
+    }, 
+    "twf:del": {
+        "sound": "metal", 
+        "textures": "twf_del"
+    }, 
+    "twf:delaline": {
+        "sound": "metal", 
+        "textures": "twf_delaline"
+    }, 
+    "twf:deldeyst": {
+        "sound": "metal", 
+        "textures": "twf_deldeyst"
+    }, 
+    "twf:deleneep": {
+        "sound": "metal", 
+        "textures": "twf_deleneep"
+    }, 
+    "twf:delerw": {
+        "sound": "metal", 
+        "textures": "twf_delerw"
+    }, 
+    "twf:delgo": {
+        "sound": "metal", 
+        "textures": "twf_delgo"
+    }, 
+    "twf:delperite": {
+        "sound": "metal", 
+        "textures": "twf_delperite"
+    }, 
+    "twf:deltre": {
+        "sound": "metal", 
+        "textures": "twf_deltre"
+    }, 
+    "twf:delverndium": {
+        "sound": "metal", 
+        "textures": "twf_delverndium"
+    }, 
+    "twf:delyst": {
+        "sound": "metal", 
+        "textures": "twf_delyst"
+    }, 
+    "twf:dembia": {
+        "sound": "metal", 
+        "textures": "twf_dembia"
+    }, 
+    "twf:dereembialine": {
+        "sound": "metal", 
+        "textures": "twf_dereembialine"
+    }, 
+    "twf:deyst": {
+        "sound": "metal", 
+        "textures": "twf_deyst"
+    }, 
+    "twf:draagwiium": {
+        "sound": "metal", 
+        "textures": "twf_draagwiium"
+    }, 
+    "twf:drackzbieia": {
+        "sound": "metal", 
+        "textures": "twf_drackzbieia"
+    }, 
+    "twf:draenyst": {
+        "sound": "metal", 
+        "textures": "twf_draenyst"
+    }, 
+    "twf:dramanethium": {
+        "sound": "metal", 
+        "textures": "twf_dramanethium"
+    }, 
+    "twf:draomyst": {
+        "sound": "metal", 
+        "textures": "twf_draomyst"
+    }, 
+    "twf:draow": {
+        "sound": "metal", 
+        "textures": "twf_draow"
+    }, 
+    "twf:drarwiyx": {
+        "sound": "metal", 
+        "textures": "twf_drarwiyx"
+    }, 
+    "twf:drasemaline": {
+        "sound": "metal", 
+        "textures": "twf_drasemaline"
+    }, 
+    "twf:draxeeneye": {
+        "sound": "metal", 
+        "textures": "twf_draxeeneye"
+    }, 
+    "twf:drazomelium": {
+        "sound": "metal", 
+        "textures": "twf_drazomelium"
+    }, 
+    "twf:drchyx": {
+        "sound": "metal", 
+        "textures": "twf_drchyx"
+    }, 
+    "twf:drdr": {
+        "sound": "metal", 
+        "textures": "twf_drdr"
+    }, 
+    "twf:drdrreia": {
+        "sound": "metal", 
+        "textures": "twf_drdrreia"
+    }, 
+    "twf:dreye": {
+        "sound": "metal", 
+        "textures": "twf_dreye"
+    }, 
+    "twf:drigde": {
+        "sound": "metal", 
+        "textures": "twf_drigde"
+    }, 
+    "twf:drinvaline": {
+        "sound": "metal", 
+        "textures": "twf_drinvaline"
+    }, 
+    "twf:drium": {
+        "sound": "metal", 
+        "textures": "twf_drium"
+    }, 
+    "twf:drlb": {
+        "sound": "metal", 
+        "textures": "twf_drlb"
+    }, 
+    "twf:droaline": {
+        "sound": "metal", 
+        "textures": "twf_droaline"
+    }, 
+    "twf:droaxeium": {
+        "sound": "metal", 
+        "textures": "twf_droaxeium"
+    }, 
+    "twf:droia": {
+        "sound": "metal", 
+        "textures": "twf_droia"
+    }, 
+    "twf:droian": {
+        "sound": "metal", 
+        "textures": "twf_droian"
+    }, 
+    "twf:droium": {
+        "sound": "metal", 
+        "textures": "twf_droium"
+    }, 
+    "twf:dromb": {
+        "sound": "metal", 
+        "textures": "twf_dromb"
+    }, 
+    "twf:dropi": {
+        "sound": "metal", 
+        "textures": "twf_dropi"
+    }, 
+    "twf:droyst": {
+        "sound": "metal", 
+        "textures": "twf_droyst"
+    }, 
+    "twf:drrithian": {
+        "sound": "metal", 
+        "textures": "twf_drrithian"
+    }, 
+    "twf:drwiragite": {
+        "sound": "metal", 
+        "textures": "twf_drwiragite"
+    }, 
+    "twf:ec": {
+        "sound": "metal", 
+        "textures": "twf_ec"
+    }, 
+    "twf:ecbietchite": {
+        "sound": "metal", 
+        "textures": "twf_ecbietchite"
+    }, 
+    "twf:ecbiium": {
+        "sound": "metal", 
+        "textures": "twf_ecbiium"
+    }, 
+    "twf:ecelpi": {
+        "sound": "metal", 
+        "textures": "twf_ecelpi"
+    }, 
+    "twf:ecigryst": {
+        "sound": "metal", 
+        "textures": "twf_ecigryst"
+    }, 
+    "twf:ecnareian": {
+        "sound": "metal", 
+        "textures": "twf_ecnareian"
+    }, 
+    "twf:ecrdeenaite": {
+        "sound": "metal", 
+        "textures": "twf_ecrdeenaite"
+    }, 
+    "twf:ecrgrioneeye": {
+        "sound": "metal", 
+        "textures": "twf_ecrgrioneeye"
+    }, 
+    "twf:ecrite": {
+        "sound": "metal", 
+        "textures": "twf_ecrite"
+    }, 
+    "twf:ecronep": {
+        "sound": "metal", 
+        "textures": "twf_ecronep"
+    }, 
+    "twf:ecrseeth": {
+        "sound": "metal", 
+        "textures": "twf_ecrseeth"
+    }, 
+    "twf:ecwitnedaline": {
+        "sound": "metal", 
+        "textures": "twf_ecwitnedaline"
+    }, 
+    "twf:edaline": {
+        "sound": "metal", 
+        "textures": "twf_edaline"
+    }, 
+    "twf:edeeeye": {
+        "sound": "metal", 
+        "textures": "twf_edeeeye"
+    }, 
+    "twf:edemana": {
+        "sound": "metal", 
+        "textures": "twf_edemana"
+    }, 
+    "twf:edevecryx": {
+        "sound": "metal", 
+        "textures": "twf_edevecryx"
+    }, 
+    "twf:editcaline": {
+        "sound": "metal", 
+        "textures": "twf_editcaline"
+    }, 
+    "twf:edium": {
+        "sound": "metal", 
+        "textures": "twf_edium"
+    }, 
+    "twf:edomium": {
+        "sound": "metal", 
+        "textures": "twf_edomium"
+    }, 
+    "twf:edr": {
+        "sound": "metal", 
+        "textures": "twf_edr"
+    }, 
+    "twf:edreeer": {
+        "sound": "metal", 
+        "textures": "twf_edreeer"
+    }, 
+    "twf:edreriite": {
+        "sound": "metal", 
+        "textures": "twf_edreriite"
+    }, 
+    "twf:edrium": {
+        "sound": "metal", 
+        "textures": "twf_edrium"
+    }, 
+    "twf:edrrivaline": {
+        "sound": "metal", 
+        "textures": "twf_edrrivaline"
+    }, 
+    "twf:edrrowyx": {
+        "sound": "metal", 
+        "textures": "twf_edrrowyx"
+    }, 
+    "twf:edrrwistone": {
+        "sound": "metal", 
+        "textures": "twf_edrrwistone"
+    }, 
+    "twf:edrstone": {
+        "sound": "metal", 
+        "textures": "twf_edrstone"
+    }, 
+    "twf:ee": {
+        "sound": "metal", 
+        "textures": "twf_ee"
+    }, 
+    "twf:eealine": {
+        "sound": "metal", 
+        "textures": "twf_eealine"
+    }, 
+    "twf:eedra": {
+        "sound": "metal", 
+        "textures": "twf_eedra"
+    }, 
+    "twf:eeemthyx": {
+        "sound": "metal", 
+        "textures": "twf_eeemthyx"
+    }, 
+    "twf:eeheraline": {
+        "sound": "metal", 
+        "textures": "twf_eeheraline"
+    }, 
+    "twf:eendrealine": {
+        "sound": "metal", 
+        "textures": "twf_eendrealine"
+    }, 
+    "twf:eep": {
+        "sound": "metal", 
+        "textures": "twf_eep"
+    }, 
+    "twf:eepaline": {
+        "sound": "metal", 
+        "textures": "twf_eepaline"
+    }, 
+    "twf:eepeepnanaline": {
+        "sound": "metal", 
+        "textures": "twf_eepeepnanaline"
+    }, 
+    "twf:eepema": {
+        "sound": "metal", 
+        "textures": "twf_eepema"
+    }, 
+    "twf:eepenaline": {
+        "sound": "metal", 
+        "textures": "twf_eepenaline"
+    }, 
+    "twf:eepeye": {
+        "sound": "metal", 
+        "textures": "twf_eepeye"
+    }, 
+    "twf:eepi": {
+        "sound": "metal", 
+        "textures": "twf_eepi"
+    }, 
+    "twf:eepia": {
+        "sound": "metal", 
+        "textures": "twf_eepia"
+    }, 
+    "twf:eepmanmbiium": {
+        "sound": "metal", 
+        "textures": "twf_eepmanmbiium"
+    }, 
+    "twf:eeponeeveyst": {
+        "sound": "metal", 
+        "textures": "twf_eeponeeveyst"
+    }, 
+    "twf:eepstone": {
+        "sound": "metal", 
+        "textures": "twf_eepstone"
+    }, 
+    "twf:eerariv": {
+        "sound": "metal", 
+        "textures": "twf_eerariv"
+    }, 
+    "twf:eerealine": {
+        "sound": "metal", 
+        "textures": "twf_eerealine"
+    }, 
+    "twf:eese": {
+        "sound": "metal", 
+        "textures": "twf_eese"
+    }, 
+    "twf:eetcmaeye": {
+        "sound": "metal", 
+        "textures": "twf_eetcmaeye"
+    }, 
+    "twf:eeyst": {
+        "sound": "metal", 
+        "textures": "twf_eeyst"
+    }, 
+    "twf:el": {
+        "sound": "metal", 
+        "textures": "twf_el"
+    }, 
+    "twf:elb": {
+        "sound": "metal", 
+        "textures": "twf_elb"
+    }, 
+    "twf:elbagaline": {
+        "sound": "metal", 
+        "textures": "twf_elbagaline"
+    }, 
+    "twf:elbagyst": {
+        "sound": "metal", 
+        "textures": "twf_elbagyst"
+    }, 
+    "twf:elbeepchaline": {
+        "sound": "metal", 
+        "textures": "twf_elbeepchaline"
+    }, 
+    "twf:elbherendaline": {
+        "sound": "metal", 
+        "textures": "twf_elbherendaline"
+    }, 
+    "twf:elbickian": {
+        "sound": "metal", 
+        "textures": "twf_elbickian"
+    }, 
+    "twf:elbite": {
+        "sound": "metal", 
+        "textures": "twf_elbite"
+    }, 
+    "twf:elboredeye": {
+        "sound": "metal", 
+        "textures": "twf_elboredeye"
+    }, 
+    "twf:elbxeia": {
+        "sound": "metal", 
+        "textures": "twf_elbxeia"
+    }, 
+    "twf:elemayx": {
+        "sound": "metal", 
+        "textures": "twf_elemayx"
+    }, 
+    "twf:elepnetian": {
+        "sound": "metal", 
+        "textures": "twf_elepnetian"
+    }, 
+    "twf:elereye": {
+        "sound": "metal", 
+        "textures": "twf_elereye"
+    }, 
+    "twf:eleriium": {
+        "sound": "metal", 
+        "textures": "twf_eleriium"
+    }, 
+    "twf:elethyst": {
+        "sound": "metal", 
+        "textures": "twf_elethyst"
+    }, 
+    "twf:eloraline": {
+        "sound": "metal", 
+        "textures": "twf_eloraline"
+    }, 
+    "twf:elyx": {
+        "sound": "metal", 
+        "textures": "twf_elyx"
+    }, 
+    "twf:em": {
+        "sound": "metal", 
+        "textures": "twf_em"
+    }, 
+    "twf:emackzit": {
+        "sound": "metal", 
+        "textures": "twf_emackzit"
+    }, 
+    "twf:emaium": {
+        "sound": "metal", 
+        "textures": "twf_emaium"
+    }, 
+    "twf:emaline": {
+        "sound": "metal", 
+        "textures": "twf_emaline"
+    }, 
+    "twf:emaonote": {
+        "sound": "metal", 
+        "textures": "twf_emaonote"
+    }, 
+    "twf:emaorium": {
+        "sound": "metal", 
+        "textures": "twf_emaorium"
+    }, 
+    "twf:emaorsickaline": {
+        "sound": "metal", 
+        "textures": "twf_emaorsickaline"
+    }, 
+    "twf:emgonet": {
+        "sound": "metal", 
+        "textures": "twf_emgonet"
+    }, 
+    "twf:emgrialine": {
+        "sound": "metal", 
+        "textures": "twf_emgrialine"
+    }, 
+    "twf:emhe": {
+        "sound": "metal", 
+        "textures": "twf_emhe"
+    }, 
+    "twf:emitaline": {
+        "sound": "metal", 
+        "textures": "twf_emitaline"
+    }, 
+    "twf:emium": {
+        "sound": "metal", 
+        "textures": "twf_emium"
+    }, 
+    "twf:emnd": {
+        "sound": "metal", 
+        "textures": "twf_emnd"
+    }, 
+    "twf:emstone": {
+        "sound": "metal", 
+        "textures": "twf_emstone"
+    }, 
+    "twf:emtenepeium": {
+        "sound": "metal", 
+        "textures": "twf_emtenepeium"
+    }, 
+    "twf:enaecredraline": {
+        "sound": "metal", 
+        "textures": "twf_enaecredraline"
+    }, 
+    "twf:enaomhereye": {
+        "sound": "metal", 
+        "textures": "twf_enaomhereye"
+    }, 
+    "twf:enaseyx": {
+        "sound": "metal", 
+        "textures": "twf_enaseyx"
+    }, 
+    "twf:enatchdrostone": {
+        "sound": "metal", 
+        "textures": "twf_enatchdrostone"
+    }, 
+    "twf:encreyst": {
+        "sound": "metal", 
+        "textures": "twf_encreyst"
+    }, 
+    "twf:endgoyst": {
+        "sound": "metal", 
+        "textures": "twf_endgoyst"
+    }, 
+    "twf:endiveian": {
+        "sound": "metal", 
+        "textures": "twf_endiveian"
+    }, 
+    "twf:endpialine": {
+        "sound": "metal", 
+        "textures": "twf_endpialine"
+    }, 
+    "twf:endtccre": {
+        "sound": "metal", 
+        "textures": "twf_endtccre"
+    }, 
+    "twf:endverium": {
+        "sound": "metal", 
+        "textures": "twf_endverium"
+    }, 
+    "twf:endyst": {
+        "sound": "metal", 
+        "textures": "twf_endyst"
+    }, 
+    "twf:enedrre": {
+        "sound": "metal", 
+        "textures": "twf_enedrre"
+    }, 
+    "twf:enepgrian": {
+        "sound": "metal", 
+        "textures": "twf_enepgrian"
+    }, 
+    "twf:enepi": {
+        "sound": "metal", 
+        "textures": "twf_enepi"
+    }, 
+    "twf:enerckzaline": {
+        "sound": "metal", 
+        "textures": "twf_enerckzaline"
+    }, 
+    "twf:eneroteye": {
+        "sound": "metal", 
+        "textures": "twf_eneroteye"
+    }, 
+    "twf:enite": {
+        "sound": "metal", 
+        "textures": "twf_enite"
+    }, 
+    "twf:enium": {
+        "sound": "metal", 
+        "textures": "twf_enium"
+    }, 
+    "twf:enkzoyx": {
+        "sound": "metal", 
+        "textures": "twf_enkzoyx"
+    }, 
+    "twf:enntaline": {
+        "sound": "metal", 
+        "textures": "twf_enntaline"
+    }, 
+    "twf:enragyst": {
+        "sound": "metal", 
+        "textures": "twf_enragyst"
+    }, 
+    "twf:enreeorsstone": {
+        "sound": "metal", 
+        "textures": "twf_enreeorsstone"
+    }, 
+    "twf:enverbiealine": {
+        "sound": "metal", 
+        "textures": "twf_enverbiealine"
+    }, 
+    "twf:ep": {
+        "sound": "metal", 
+        "textures": "twf_ep"
+    }, 
+    "twf:epdedelyst": {
+        "sound": "metal", 
+        "textures": "twf_epdedelyst"
+    }, 
+    "twf:epdr": {
+        "sound": "metal", 
+        "textures": "twf_epdr"
+    }, 
+    "twf:epdroyx": {
+        "sound": "metal", 
+        "textures": "twf_epdroyx"
+    }, 
+    "twf:epealine": {
+        "sound": "metal", 
+        "textures": "twf_epealine"
+    }, 
+    "twf:epeecstone": {
+        "sound": "metal", 
+        "textures": "twf_epeecstone"
+    }, 
+    "twf:epeendnedian": {
+        "sound": "metal", 
+        "textures": "twf_epeendnedian"
+    }, 
+    "twf:epelbeye": {
+        "sound": "metal", 
+        "textures": "twf_epelbeye"
+    }, 
+    "twf:epemanaline": {
+        "sound": "metal", 
+        "textures": "twf_epemanaline"
+    }, 
+    "twf:epemanelbaline": {
+        "sound": "metal", 
+        "textures": "twf_epemanelbaline"
+    }, 
+    "twf:epemyst": {
+        "sound": "metal", 
+        "textures": "twf_epemyst"
+    }, 
+    "twf:ependerealine": {
+        "sound": "metal", 
+        "textures": "twf_ependerealine"
+    }, 
+    "twf:eperagow": {
+        "sound": "metal", 
+        "textures": "twf_eperagow"
+    }, 
+    "twf:eperiitc": {
+        "sound": "metal", 
+        "textures": "twf_eperiitc"
+    }, 
+    "twf:eperwian": {
+        "sound": "metal", 
+        "textures": "twf_eperwian"
+    }, 
+    "twf:epevepic": {
+        "sound": "metal", 
+        "textures": "twf_epevepic"
+    }, 
+    "twf:epexepeye": {
+        "sound": "metal", 
+        "textures": "twf_epexepeye"
+    }, 
+    "twf:epeye": {
+        "sound": "metal", 
+        "textures": "twf_epeye"
+    }, 
+    "twf:epgon": {
+        "sound": "metal", 
+        "textures": "twf_epgon"
+    }, 
+    "twf:epi": {
+        "sound": "metal", 
+        "textures": "twf_epi"
+    }, 
+    "twf:epialine": {
+        "sound": "metal", 
+        "textures": "twf_epialine"
+    }, 
+    "twf:epian": {
+        "sound": "metal", 
+        "textures": "twf_epian"
+    }, 
+    "twf:epiand": {
+        "sound": "metal", 
+        "textures": "twf_epiand"
+    }, 
+    "twf:epiandia": {
+        "sound": "metal", 
+        "textures": "twf_epiandia"
+    }, 
+    "twf:epiax": {
+        "sound": "metal", 
+        "textures": "twf_epiax"
+    }, 
+    "twf:epieriia": {
+        "sound": "metal", 
+        "textures": "twf_epieriia"
+    }, 
+    "twf:epieveown": {
+        "sound": "metal", 
+        "textures": "twf_epieveown"
+    }, 
+    "twf:epigoaline": {
+        "sound": "metal", 
+        "textures": "twf_epigoaline"
+    }, 
+    "twf:epigrium": {
+        "sound": "metal", 
+        "textures": "twf_epigrium"
+    }, 
+    "twf:epiitcev": {
+        "sound": "metal", 
+        "textures": "twf_epiitcev"
+    }, 
+    "twf:epirentaline": {
+        "sound": "metal", 
+        "textures": "twf_epirentaline"
+    }, 
+    "twf:epiteye": {
+        "sound": "metal", 
+        "textures": "twf_epiteye"
+    }, 
+    "twf:epiveyx": {
+        "sound": "metal", 
+        "textures": "twf_epiveyx"
+    }, 
+    "twf:epizomvenaline": {
+        "sound": "metal", 
+        "textures": "twf_epizomvenaline"
+    }, 
+    "twf:epnannd": {
+        "sound": "metal", 
+        "textures": "twf_epnannd"
+    }, 
+    "twf:epndaline": {
+        "sound": "metal", 
+        "textures": "twf_epndaline"
+    }, 
+    "twf:eponyst": {
+        "sound": "metal", 
+        "textures": "twf_eponyst"
+    }, 
+    "twf:eppigaline": {
+        "sound": "metal", 
+        "textures": "twf_eppigaline"
+    }, 
+    "twf:eprideye": {
+        "sound": "metal", 
+        "textures": "twf_eprideye"
+    }, 
+    "twf:epstone": {
+        "sound": "metal", 
+        "textures": "twf_epstone"
+    }, 
+    "twf:epxepium": {
+        "sound": "metal", 
+        "textures": "twf_epxepium"
+    }, 
+    "twf:epyst": {
+        "sound": "metal", 
+        "textures": "twf_epyst"
+    }, 
+    "twf:epzomnanium": {
+        "sound": "metal", 
+        "textures": "twf_epzomnanium"
+    }, 
+    "twf:er": {
+        "sound": "metal", 
+        "textures": "twf_er"
+    }, 
+    "twf:eragombeye": {
+        "sound": "metal", 
+        "textures": "twf_eragombeye"
+    }, 
+    "twf:erdroeye": {
+        "sound": "metal", 
+        "textures": "twf_erdroeye"
+    }, 
+    "twf:ere": {
+        "sound": "metal", 
+        "textures": "twf_ere"
+    }, 
+    "twf:ereidgoyst": {
+        "sound": "metal", 
+        "textures": "twf_ereidgoyst"
+    }, 
+    "twf:ereidors": {
+        "sound": "metal", 
+        "textures": "twf_ereidors"
+    }, 
+    "twf:ereitc": {
+        "sound": "metal", 
+        "textures": "twf_ereitc"
+    }, 
+    "twf:erepi": {
+        "sound": "metal", 
+        "textures": "twf_erepi"
+    }, 
+    "twf:erepiia": {
+        "sound": "metal", 
+        "textures": "twf_erepiia"
+    }, 
+    "twf:erhoremstone": {
+        "sound": "metal", 
+        "textures": "twf_erhoremstone"
+    }, 
+    "twf:eri": {
+        "sound": "metal", 
+        "textures": "twf_eri"
+    }, 
+    "twf:erian": {
+        "sound": "metal", 
+        "textures": "twf_erian"
+    }, 
+    "twf:ericomb": {
+        "sound": "metal", 
+        "textures": "twf_ericomb"
+    }, 
+    "twf:eriecyst": {
+        "sound": "metal", 
+        "textures": "twf_eriecyst"
+    }, 
+    "twf:eriieep": {
+        "sound": "metal", 
+        "textures": "twf_eriieep"
+    }, 
+    "twf:eriium": {
+        "sound": "metal", 
+        "textures": "twf_eriium"
+    }, 
+    "twf:eripeverite": {
+        "sound": "metal", 
+        "textures": "twf_eripeverite"
+    }, 
+    "twf:erirorid": {
+        "sound": "metal", 
+        "textures": "twf_erirorid"
+    }, 
+    "twf:erithestone": {
+        "sound": "metal", 
+        "textures": "twf_erithestone"
+    }, 
+    "twf:erithia": {
+        "sound": "metal", 
+        "textures": "twf_erithia"
+    }, 
+    "twf:eriv": {
+        "sound": "metal", 
+        "textures": "twf_eriv"
+    }, 
+    "twf:ernaeye": {
+        "sound": "metal", 
+        "textures": "twf_ernaeye"
+    }, 
+    "twf:ernd": {
+        "sound": "metal", 
+        "textures": "twf_ernd"
+    }, 
+    "twf:eromoteyst": {
+        "sound": "metal", 
+        "textures": "twf_eromoteyst"
+    }, 
+    "twf:eronve": {
+        "sound": "metal", 
+        "textures": "twf_eronve"
+    }, 
+    "twf:eroronealine": {
+        "sound": "metal", 
+        "textures": "twf_eroronealine"
+    }, 
+    "twf:erpertrite": {
+        "sound": "metal", 
+        "textures": "twf_erpertrite"
+    }, 
+    "twf:errivaline": {
+        "sound": "metal", 
+        "textures": "twf_errivaline"
+    }, 
+    "twf:erro": {
+        "sound": "metal", 
+        "textures": "twf_erro"
+    }, 
+    "twf:erteeye": {
+        "sound": "metal", 
+        "textures": "twf_erteeye"
+    }, 
+    "twf:erthecia": {
+        "sound": "metal", 
+        "textures": "twf_erthecia"
+    }, 
+    "twf:ertreeepite": {
+        "sound": "metal", 
+        "textures": "twf_ertreeepite"
+    }, 
+    "twf:erwaline": {
+        "sound": "metal", 
+        "textures": "twf_erwaline"
+    }, 
+    "twf:erwbinedaline": {
+        "sound": "metal", 
+        "textures": "twf_erwbinedaline"
+    }, 
+    "twf:erwbraline": {
+        "sound": "metal", 
+        "textures": "twf_erwbraline"
+    }, 
+    "twf:erwheago": {
+        "sound": "metal", 
+        "textures": "twf_erwheago"
+    }, 
+    "twf:erwia": {
+        "sound": "metal", 
+        "textures": "twf_erwia"
+    }, 
+    "twf:erwian": {
+        "sound": "metal", 
+        "textures": "twf_erwian"
+    }, 
+    "twf:erwivcheye": {
+        "sound": "metal", 
+        "textures": "twf_erwivcheye"
+    }, 
+    "twf:erwne": {
+        "sound": "metal", 
+        "textures": "twf_erwne"
+    }, 
+    "twf:erwwnia": {
+        "sound": "metal", 
+        "textures": "twf_erwwnia"
+    }, 
+    "twf:erwyx": {
+        "sound": "metal", 
+        "textures": "twf_erwyx"
+    }, 
+    "twf:et": {
+        "sound": "metal", 
+        "textures": "twf_et"
+    }, 
+    "twf:etaline": {
+        "sound": "metal", 
+        "textures": "twf_etaline"
+    }, 
+    "twf:etethnealine": {
+        "sound": "metal", 
+        "textures": "twf_etethnealine"
+    }, 
+    "twf:eth": {
+        "sound": "metal", 
+        "textures": "twf_eth"
+    }, 
+    "twf:ethckzwit": {
+        "sound": "metal", 
+        "textures": "twf_ethckzwit"
+    }, 
+    "twf:ethedrian": {
+        "sound": "metal", 
+        "textures": "twf_ethedrian"
+    }, 
+    "twf:etheealine": {
+        "sound": "metal", 
+        "textures": "twf_etheealine"
+    }, 
+    "twf:ethian": {
+        "sound": "metal", 
+        "textures": "twf_ethian"
+    }, 
+    "twf:ethium": {
+        "sound": "metal", 
+        "textures": "twf_ethium"
+    }, 
+    "twf:ethoraline": {
+        "sound": "metal", 
+        "textures": "twf_ethoraline"
+    }, 
+    "twf:etpicraium": {
+        "sound": "metal", 
+        "textures": "twf_etpicraium"
+    }, 
+    "twf:evaline": {
+        "sound": "metal", 
+        "textures": "twf_evaline"
+    }, 
+    "twf:eveago": {
+        "sound": "metal", 
+        "textures": "twf_eveago"
+    }, 
+    "twf:evego": {
+        "sound": "metal", 
+        "textures": "twf_evego"
+    }, 
+    "twf:eveia": {
+        "sound": "metal", 
+        "textures": "twf_eveia"
+    }, 
+    "twf:eveite": {
+        "sound": "metal", 
+        "textures": "twf_eveite"
+    }, 
+    "twf:eveneepite": {
+        "sound": "metal", 
+        "textures": "twf_eveneepite"
+    }, 
+    "twf:evewitaline": {
+        "sound": "metal", 
+        "textures": "twf_evewitaline"
+    }, 
+    "twf:evia": {
+        "sound": "metal", 
+        "textures": "twf_evia"
+    }, 
+    "twf:evium": {
+        "sound": "metal", 
+        "textures": "twf_evium"
+    }, 
+    "twf:floo": {
+        "sound": "metal", 
+        "textures": "twf_floo"
+    }, 
+    "twf:gloo": {
+        "sound": "metal", 
+        "textures": "twf_gloo"
+    }, 
+    "twf:go": {
+        "sound": "metal", 
+        "textures": "twf_go"
+    }, 
+    "twf:gogon": {
+        "sound": "metal", 
+        "textures": "twf_gogon"
+    }, 
+    "twf:gogryst": {
+        "sound": "metal", 
+        "textures": "twf_gogryst"
+    }, 
+    "twf:gonbiever": {
+        "sound": "metal", 
+        "textures": "twf_gonbiever"
+    }, 
+    "twf:gonenrwaline": {
+        "sound": "metal", 
+        "textures": "twf_gonenrwaline"
+    }, 
+    "twf:gonepialine": {
+        "sound": "metal", 
+        "textures": "twf_gonepialine"
+    }, 
+    "twf:goneye": {
+        "sound": "metal", 
+        "textures": "twf_goneye"
+    }, 
+    "twf:gonhe": {
+        "sound": "metal", 
+        "textures": "twf_gonhe"
+    }, 
+    "twf:gonian": {
+        "sound": "metal", 
+        "textures": "twf_gonian"
+    }, 
+    "twf:gonmaia": {
+        "sound": "metal", 
+        "textures": "twf_gonmaia"
+    }, 
+    "twf:gonpistone": {
+        "sound": "metal", 
+        "textures": "twf_gonpistone"
+    }, 
+    "twf:gonthcreye": {
+        "sound": "metal", 
+        "textures": "twf_gonthcreye"
+    }, 
+    "twf:gonvenyst": {
+        "sound": "metal", 
+        "textures": "twf_gonvenyst"
+    }, 
+    "twf:goriree": {
+        "sound": "metal", 
+        "textures": "twf_goriree"
+    }, 
+    "twf:gorsenealine": {
+        "sound": "metal", 
+        "textures": "twf_gorsenealine"
+    }, 
+    "twf:gr": {
+        "sound": "metal", 
+        "textures": "twf_gr"
+    }, 
+    "twf:grbie": {
+        "sound": "metal", 
+        "textures": "twf_grbie"
+    }, 
+    "twf:gredite": {
+        "sound": "metal", 
+        "textures": "twf_gredite"
+    }, 
+    "twf:greye": {
+        "sound": "metal", 
+        "textures": "twf_greye"
+    }, 
+    "twf:grialine": {
+        "sound": "metal", 
+        "textures": "twf_grialine"
+    }, 
+    "twf:grigrite": {
+        "sound": "metal", 
+        "textures": "twf_grigrite"
+    }, 
+    "twf:griium": {
+        "sound": "metal", 
+        "textures": "twf_griium"
+    }, 
+    "twf:groryst": {
+        "sound": "metal", 
+        "textures": "twf_groryst"
+    }, 
+    "twf:hechia": {
+        "sound": "metal", 
+        "textures": "twf_hechia"
+    }, 
+    "twf:heeeite": {
+        "sound": "metal", 
+        "textures": "twf_heeeite"
+    }, 
+    "twf:heneium": {
+        "sound": "metal", 
+        "textures": "twf_heneium"
+    }, 
+    "twf:henetxepaline": {
+        "sound": "metal", 
+        "textures": "twf_henetxepaline"
+    }, 
+    "twf:heomityx": {
+        "sound": "metal", 
+        "textures": "twf_heomityx"
+    }, 
+    "twf:hereeeye": {
+        "sound": "metal", 
+        "textures": "twf_hereeeye"
+    }, 
+    "twf:hereepec": {
+        "sound": "metal", 
+        "textures": "twf_hereepec"
+    }, 
+    "twf:herian": {
+        "sound": "metal", 
+        "textures": "twf_herian"
+    }, 
+    "twf:herium": {
+        "sound": "metal", 
+        "textures": "twf_herium"
+    }, 
+    "twf:herndxepyst": {
+        "sound": "metal", 
+        "textures": "twf_herndxepyst"
+    }, 
+    "twf:heromb": {
+        "sound": "metal", 
+        "textures": "twf_heromb"
+    }, 
+    "twf:herperere": {
+        "sound": "metal", 
+        "textures": "twf_herperere"
+    }, 
+    "twf:hertcrevyst": {
+        "sound": "metal", 
+        "textures": "twf_hertcrevyst"
+    }, 
+    "twf:hertreeep": {
+        "sound": "metal", 
+        "textures": "twf_hertreeep"
+    }, 
+    "twf:hevego": {
+        "sound": "metal", 
+        "textures": "twf_hevego"
+    }, 
+    "twf:heyst": {
+        "sound": "metal", 
+        "textures": "twf_heyst"
+    }, 
+    "twf:ho": {
+        "sound": "metal", 
+        "textures": "twf_ho"
+    }, 
+    "twf:hoaline": {
+        "sound": "metal", 
+        "textures": "twf_hoaline"
+    }, 
+    "twf:hoeepian": {
+        "sound": "metal", 
+        "textures": "twf_hoeepian"
+    }, 
+    "twf:hogrixepian": {
+        "sound": "metal", 
+        "textures": "twf_hogrixepian"
+    }, 
+    "twf:hoium": {
+        "sound": "metal", 
+        "textures": "twf_hoium"
+    }, 
+    "twf:hona": {
+        "sound": "metal", 
+        "textures": "twf_hona"
+    }, 
+    "twf:hor": {
+        "sound": "metal", 
+        "textures": "twf_hor"
+    }, 
+    "twf:hordroaline": {
+        "sound": "metal", 
+        "textures": "twf_hordroaline"
+    }, 
+    "twf:horere": {
+        "sound": "metal", 
+        "textures": "twf_horere"
+    }, 
+    "twf:horoia": {
+        "sound": "metal", 
+        "textures": "twf_horoia"
+    }, 
+    "twf:horomyx": {
+        "sound": "metal", 
+        "textures": "twf_horomyx"
+    }, 
+    "twf:hortch": {
+        "sound": "metal", 
+        "textures": "twf_hortch"
+    }, 
+    "twf:horvenan": {
+        "sound": "metal", 
+        "textures": "twf_horvenan"
+    }, 
+    "twf:icaline": {
+        "sound": "metal", 
+        "textures": "twf_icaline"
+    }, 
+    "twf:icderwaline": {
+        "sound": "metal", 
+        "textures": "twf_icderwaline"
+    }, 
+    "twf:icel": {
+        "sound": "metal", 
+        "textures": "twf_icel"
+    }, 
+    "twf:icepenedeye": {
+        "sound": "metal", 
+        "textures": "twf_icepenedeye"
+    }, 
+    "twf:icgriyst": {
+        "sound": "metal", 
+        "textures": "twf_icgriyst"
+    }, 
+    "twf:icketdelian": {
+        "sound": "metal", 
+        "textures": "twf_icketdelian"
+    }, 
+    "twf:ickian": {
+        "sound": "metal", 
+        "textures": "twf_ickian"
+    }, 
+    "twf:ickite": {
+        "sound": "metal", 
+        "textures": "twf_ickite"
+    }, 
+    "twf:ickwitian": {
+        "sound": "metal", 
+        "textures": "twf_ickwitian"
+    }, 
+    "twf:icwitreeian": {
+        "sound": "metal", 
+        "textures": "twf_icwitreeian"
+    }, 
+    "twf:id": {
+        "sound": "metal", 
+        "textures": "twf_id"
+    }, 
+    "twf:idageye": {
+        "sound": "metal", 
+        "textures": "twf_idageye"
+    }, 
+    "twf:idetian": {
+        "sound": "metal", 
+        "textures": "twf_idetian"
+    }, 
+    "twf:idnestone": {
+        "sound": "metal", 
+        "textures": "twf_idnestone"
+    }, 
+    "twf:idraxnedian": {
+        "sound": "metal", 
+        "textures": "twf_idraxnedian"
+    }, 
+    "twf:idrtheium": {
+        "sound": "metal", 
+        "textures": "twf_idrtheium"
+    }, 
+    "twf:idrvenian": {
+        "sound": "metal", 
+        "textures": "twf_idrvenian"
+    }, 
+    "twf:idrxepium": {
+        "sound": "metal", 
+        "textures": "twf_idrxepium"
+    }, 
+    "twf:ie": {
+        "sound": "metal", 
+        "textures": "twf_ie"
+    }, 
+    "twf:iecaline": {
+        "sound": "metal", 
+        "textures": "twf_iecaline"
+    }, 
+    "twf:iecchoite": {
+        "sound": "metal", 
+        "textures": "twf_iecchoite"
+    }, 
+    "twf:iecedr": {
+        "sound": "metal", 
+        "textures": "twf_iecedr"
+    }, 
+    "twf:ieceye": {
+        "sound": "metal", 
+        "textures": "twf_ieceye"
+    }, 
+    "twf:ieciecgon": {
+        "sound": "metal", 
+        "textures": "twf_ieciecgon"
+    }, 
+    "twf:iecite": {
+        "sound": "metal", 
+        "textures": "twf_iecite"
+    }, 
+    "twf:iecre": {
+        "sound": "metal", 
+        "textures": "twf_iecre"
+    }, 
+    "twf:iecriyx": {
+        "sound": "metal", 
+        "textures": "twf_iecriyx"
+    }, 
+    "twf:iecyst": {
+        "sound": "metal", 
+        "textures": "twf_iecyst"
+    }, 
+    "twf:ieeri": {
+        "sound": "metal", 
+        "textures": "twf_ieeri"
+    }, 
+    "twf:ieia": {
+        "sound": "metal", 
+        "textures": "twf_ieia"
+    }, 
+    "twf:ietcra": {
+        "sound": "metal", 
+        "textures": "twf_ietcra"
+    }, 
+    "twf:iezodel": {
+        "sound": "metal", 
+        "textures": "twf_iezodel"
+    }, 
+    "twf:ig": {
+        "sound": "metal", 
+        "textures": "twf_ig"
+    }, 
+    "twf:igaline": {
+        "sound": "metal", 
+        "textures": "twf_igaline"
+    }, 
+    "twf:igand": {
+        "sound": "metal", 
+        "textures": "twf_igand"
+    }, 
+    "twf:igrcreveyx": {
+        "sound": "metal", 
+        "textures": "twf_igrcreveyx"
+    }, 
+    "twf:igrdealine": {
+        "sound": "metal", 
+        "textures": "twf_igrdealine"
+    }, 
+    "twf:igrec": {
+        "sound": "metal", 
+        "textures": "twf_igrec"
+    }, 
+    "twf:igremepi": {
+        "sound": "metal", 
+        "textures": "twf_igremepi"
+    }, 
+    "twf:igrite": {
+        "sound": "metal", 
+        "textures": "twf_igrite"
+    }, 
+    "twf:igrium": {
+        "sound": "metal", 
+        "textures": "twf_igrium"
+    }, 
+    "twf:igrtchium": {
+        "sound": "metal", 
+        "textures": "twf_igrtchium"
+    }, 
+    "twf:it": {
+        "sound": "metal", 
+        "textures": "twf_it"
+    }, 
+    "twf:italine": {
+        "sound": "metal", 
+        "textures": "twf_italine"
+    }, 
+    "twf:itcandgristone": {
+        "sound": "metal", 
+        "textures": "twf_itcandgristone"
+    }, 
+    "twf:itcbroriyst": {
+        "sound": "metal", 
+        "textures": "twf_itcbroriyst"
+    }, 
+    "twf:itcch": {
+        "sound": "metal", 
+        "textures": "twf_itcch"
+    }, 
+    "twf:itcedrpigian": {
+        "sound": "metal", 
+        "textures": "twf_itcedrpigian"
+    }, 
+    "twf:itcerstone": {
+        "sound": "metal", 
+        "textures": "twf_itcerstone"
+    }, 
+    "twf:itcite": {
+        "sound": "metal", 
+        "textures": "twf_itcite"
+    }, 
+    "twf:itcwityx": {
+        "sound": "metal", 
+        "textures": "twf_itcwityx"
+    }, 
+    "twf:iterwhor": {
+        "sound": "metal", 
+        "textures": "twf_iterwhor"
+    }, 
+    "twf:itherev": {
+        "sound": "metal", 
+        "textures": "twf_itherev"
+    }, 
+    "twf:ittenridia": {
+        "sound": "metal", 
+        "textures": "twf_ittenridia"
+    }, 
+    "twf:iv": {
+        "sound": "metal", 
+        "textures": "twf_iv"
+    }, 
+    "twf:ivealine": {
+        "sound": "metal", 
+        "textures": "twf_ivealine"
+    }, 
+    "twf:ivean": {
+        "sound": "metal", 
+        "textures": "twf_ivean"
+    }, 
+    "twf:iveepi": {
+        "sound": "metal", 
+        "textures": "twf_iveepi"
+    }, 
+    "twf:iveertenite": {
+        "sound": "metal", 
+        "textures": "twf_iveertenite"
+    }, 
+    "twf:iveheyst": {
+        "sound": "metal", 
+        "textures": "twf_iveheyst"
+    }, 
+    "twf:iveium": {
+        "sound": "metal", 
+        "textures": "twf_iveium"
+    }, 
+    "twf:ivepeyst": {
+        "sound": "metal", 
+        "textures": "twf_ivepeyst"
+    }, 
+    "twf:iveraid": {
+        "sound": "metal", 
+        "textures": "twf_iveraid"
+    }, 
+    "twf:iverowrowium": {
+        "sound": "metal", 
+        "textures": "twf_iverowrowium"
+    }, 
+    "twf:ivheho": {
+        "sound": "metal", 
+        "textures": "twf_ivheho"
+    }, 
+    "twf:ivitcombium": {
+        "sound": "metal", 
+        "textures": "twf_ivitcombium"
+    }, 
+    "twf:ivlbium": {
+        "sound": "metal", 
+        "textures": "twf_ivlbium"
+    }, 
+    "twf:ivow": {
+        "sound": "metal", 
+        "textures": "twf_ivow"
+    }, 
+    "twf:ivstone": {
+        "sound": "metal", 
+        "textures": "twf_ivstone"
+    }, 
+    "twf:kz": {
+        "sound": "metal", 
+        "textures": "twf_kz"
+    }, 
+    "twf:kzaline": {
+        "sound": "metal", 
+        "textures": "twf_kzaline"
+    }, 
+    "twf:kzckztcia": {
+        "sound": "metal", 
+        "textures": "twf_kzckztcia"
+    }, 
+    "twf:kzgriia": {
+        "sound": "metal", 
+        "textures": "twf_kzgriia"
+    }, 
+    "twf:kznedaline": {
+        "sound": "metal", 
+        "textures": "twf_kznedaline"
+    }, 
+    "twf:kzondeite": {
+        "sound": "metal", 
+        "textures": "twf_kzondeite"
+    }, 
+    "twf:kzotcstone": {
+        "sound": "metal", 
+        "textures": "twf_kzotcstone"
+    }, 
+    "twf:kzoveenite": {
+        "sound": "metal", 
+        "textures": "twf_kzoveenite"
+    }, 
+    "twf:kzperite": {
+        "sound": "metal", 
+        "textures": "twf_kzperite"
+    }, 
+    "twf:kzrwiidian": {
+        "sound": "metal", 
+        "textures": "twf_kzrwiidian"
+    }, 
+    "twf:kztenaline": {
+        "sound": "metal", 
+        "textures": "twf_kztenaline"
+    }, 
+    "twf:kztenium": {
+        "sound": "metal", 
+        "textures": "twf_kztenium"
+    }, 
+    "twf:lb": {
+        "sound": "metal", 
+        "textures": "twf_lb"
+    }, 
+    "twf:lbaline": {
+        "sound": "metal", 
+        "textures": "twf_lbaline"
+    }, 
+    "twf:lbbitrstone": {
+        "sound": "metal", 
+        "textures": "twf_lbbitrstone"
+    }, 
+    "twf:lbgrigaline": {
+        "sound": "metal", 
+        "textures": "twf_lbgrigaline"
+    }, 
+    "twf:lbhostone": {
+        "sound": "metal", 
+        "textures": "twf_lbhostone"
+    }, 
+    "twf:lbreeium": {
+        "sound": "metal", 
+        "textures": "twf_lbreeium"
+    }, 
+    "twf:lbreveivium": {
+        "sound": "metal", 
+        "textures": "twf_lbreveivium"
+    }, 
+    "twf:lbrigrhor": {
+        "sound": "metal", 
+        "textures": "twf_lbrigrhor"
+    }, 
+    "twf:lbrium": {
+        "sound": "metal", 
+        "textures": "twf_lbrium"
+    }, 
+    "twf:lbrnetverstone": {
+        "sound": "metal", 
+        "textures": "twf_lbrnetverstone"
+    }, 
+    "twf:lbstone": {
+        "sound": "metal", 
+        "textures": "twf_lbstone"
+    }, 
+    "twf:lbyst": {
+        "sound": "metal", 
+        "textures": "twf_lbyst"
+    }, 
+    "twf:maanite": {
+        "sound": "metal", 
+        "textures": "twf_maanite"
+    }, 
+    "twf:maepealine": {
+        "sound": "metal", 
+        "textures": "twf_maepealine"
+    }, 
+    "twf:maeveite": {
+        "sound": "metal", 
+        "textures": "twf_maeveite"
+    }, 
+    "twf:maicklb": {
+        "sound": "metal", 
+        "textures": "twf_maicklb"
+    }, 
+    "twf:maiecpic": {
+        "sound": "metal", 
+        "textures": "twf_maiecpic"
+    }, 
+    "twf:mamb": {
+        "sound": "metal", 
+        "textures": "twf_mamb"
+    }, 
+    "twf:maneep": {
+        "sound": "metal", 
+        "textures": "twf_maneep"
+    }, 
+    "twf:manereiealine": {
+        "sound": "metal", 
+        "textures": "twf_manereiealine"
+    }, 
+    "twf:manethian": {
+        "sound": "metal", 
+        "textures": "twf_manethian"
+    }, 
+    "twf:manmbpicyx": {
+        "sound": "metal", 
+        "textures": "twf_manmbpicyx"
+    }, 
+    "twf:manntr": {
+        "sound": "metal", 
+        "textures": "twf_manntr"
+    }, 
+    "twf:manrebialine": {
+        "sound": "metal", 
+        "textures": "twf_manrebialine"
+    }, 
+    "twf:manrot": {
+        "sound": "metal", 
+        "textures": "twf_manrot"
+    }, 
+    "twf:manrsaline": {
+        "sound": "metal", 
+        "textures": "twf_manrsaline"
+    }, 
+    "twf:manwne": {
+        "sound": "metal", 
+        "textures": "twf_manwne"
+    }, 
+    "twf:mb": {
+        "sound": "metal", 
+        "textures": "twf_mb"
+    }, 
+    "twf:mbaxexep": {
+        "sound": "metal", 
+        "textures": "twf_mbaxexep"
+    }, 
+    "twf:mbchth": {
+        "sound": "metal", 
+        "textures": "twf_mbchth"
+    }, 
+    "twf:mbema": {
+        "sound": "metal", 
+        "textures": "twf_mbema"
+    }, 
+    "twf:mbepi": {
+        "sound": "metal", 
+        "textures": "twf_mbepi"
+    }, 
+    "twf:mbihor": {
+        "sound": "metal", 
+        "textures": "twf_mbihor"
+    }, 
+    "twf:mbinedia": {
+        "sound": "metal", 
+        "textures": "twf_mbinedia"
+    }, 
+    "twf:mbireeelian": {
+        "sound": "metal", 
+        "textures": "twf_mbireeelian"
+    }, 
+    "twf:mbireri": {
+        "sound": "metal", 
+        "textures": "twf_mbireri"
+    }, 
+    "twf:mbirevyst": {
+        "sound": "metal", 
+        "textures": "twf_mbirevyst"
+    }, 
+    "twf:mbirotre": {
+        "sound": "metal", 
+        "textures": "twf_mbirotre"
+    }, 
+    "twf:mbite": {
+        "sound": "metal", 
+        "textures": "twf_mbite"
+    }, 
+    "twf:mbivagostone": {
+        "sound": "metal", 
+        "textures": "twf_mbivagostone"
+    }, 
+    "twf:mbivvestone": {
+        "sound": "metal", 
+        "textures": "twf_mbivvestone"
+    }, 
+    "twf:mbne": {
+        "sound": "metal", 
+        "textures": "twf_mbne"
+    }, 
+    "twf:mbstone": {
+        "sound": "metal", 
+        "textures": "twf_mbstone"
+    }, 
+    "twf:naeye": {
+        "sound": "metal", 
+        "textures": "twf_naeye"
+    }, 
+    "twf:nagrtre": {
+        "sound": "metal", 
+        "textures": "twf_nagrtre"
+    }, 
+    "twf:nan": {
+        "sound": "metal", 
+        "textures": "twf_nan"
+    }, 
+    "twf:nanagckz": {
+        "sound": "metal", 
+        "textures": "twf_nanagckz"
+    }, 
+    "twf:nanaline": {
+        "sound": "metal", 
+        "textures": "twf_nanaline"
+    }, 
+    "twf:nanemgonaline": {
+        "sound": "metal", 
+        "textures": "twf_nanemgonaline"
+    }, 
+    "twf:nanepieye": {
+        "sound": "metal", 
+        "textures": "twf_nanepieye"
+    }, 
+    "twf:naneye": {
+        "sound": "metal", 
+        "textures": "twf_naneye"
+    }, 
+    "twf:nanium": {
+        "sound": "metal", 
+        "textures": "twf_nanium"
+    }, 
+    "twf:nanmaneye": {
+        "sound": "metal", 
+        "textures": "twf_nanmaneye"
+    }, 
+    "twf:narev": {
+        "sound": "metal", 
+        "textures": "twf_narev"
+    }, 
+    "twf:natrekz": {
+        "sound": "metal", 
+        "textures": "twf_natrekz"
+    }, 
+    "twf:nd": {
+        "sound": "metal", 
+        "textures": "twf_nd"
+    }, 
+    "twf:ndbiemayx": {
+        "sound": "metal", 
+        "textures": "twf_ndbiemayx"
+    }, 
+    "twf:ndecigraline": {
+        "sound": "metal", 
+        "textures": "twf_ndecigraline"
+    }, 
+    "twf:ndehotreeye": {
+        "sound": "metal", 
+        "textures": "twf_ndehotreeye"
+    }, 
+    "twf:ndema": {
+        "sound": "metal", 
+        "textures": "twf_ndema"
+    }, 
+    "twf:ndeoneriyst": {
+        "sound": "metal", 
+        "textures": "twf_ndeoneriyst"
+    }, 
+    "twf:ndepia": {
+        "sound": "metal", 
+        "textures": "twf_ndepia"
+    }, 
+    "twf:nderowtr": {
+        "sound": "metal", 
+        "textures": "twf_nderowtr"
+    }, 
+    "twf:nderoxepia": {
+        "sound": "metal", 
+        "textures": "twf_nderoxepia"
+    }, 
+    "twf:ndeye": {
+        "sound": "metal", 
+        "textures": "twf_ndeye"
+    }, 
+    "twf:ndia": {
+        "sound": "metal", 
+        "textures": "twf_ndia"
+    }, 
+    "twf:ndkzoneian": {
+        "sound": "metal", 
+        "textures": "twf_ndkzoneian"
+    }, 
+    "twf:ndlbidaline": {
+        "sound": "metal", 
+        "textures": "twf_ndlbidaline"
+    }, 
+    "twf:ndneant": {
+        "sound": "metal", 
+        "textures": "twf_ndneant"
+    }, 
+    "twf:ndneepian": {
+        "sound": "metal", 
+        "textures": "twf_ndneepian"
+    }, 
+    "twf:ndperidrian": {
+        "sound": "metal", 
+        "textures": "twf_ndperidrian"
+    }, 
+    "twf:ndstone": {
+        "sound": "metal", 
+        "textures": "twf_ndstone"
+    }, 
+    "twf:ndwitick": {
+        "sound": "metal", 
+        "textures": "twf_ndwitick"
+    }, 
+    "twf:ndyst": {
+        "sound": "metal", 
+        "textures": "twf_ndyst"
+    }, 
+    "twf:ne": {
+        "sound": "metal", 
+        "textures": "twf_ne"
+    }, 
+    "twf:neaxgoneye": {
+        "sound": "metal", 
+        "textures": "twf_neaxgoneye"
+    }, 
+    "twf:nebieemaaline": {
+        "sound": "metal", 
+        "textures": "twf_nebieemaaline"
+    }, 
+    "twf:ned": {
+        "sound": "metal", 
+        "textures": "twf_ned"
+    }, 
+    "twf:nedaline": {
+        "sound": "metal", 
+        "textures": "twf_nedaline"
+    }, 
+    "twf:nedaxeick": {
+        "sound": "metal", 
+        "textures": "twf_nedaxeick"
+    }, 
+    "twf:nedideye": {
+        "sound": "metal", 
+        "textures": "twf_nedideye"
+    }, 
+    "twf:nediecem": {
+        "sound": "metal", 
+        "textures": "twf_nediecem"
+    }, 
+    "twf:nedium": {
+        "sound": "metal", 
+        "textures": "twf_nedium"
+    }, 
+    "twf:nedrevaline": {
+        "sound": "metal", 
+        "textures": "twf_nedrevaline"
+    }, 
+    "twf:nedrwiyst": {
+        "sound": "metal", 
+        "textures": "twf_nedrwiyst"
+    }, 
+    "twf:nedwitrsyx": {
+        "sound": "metal", 
+        "textures": "twf_nedwitrsyx"
+    }, 
+    "twf:neelbstone": {
+        "sound": "metal", 
+        "textures": "twf_neelbstone"
+    }, 
+    "twf:neepeye": {
+        "sound": "metal", 
+        "textures": "twf_neepeye"
+    }, 
+    "twf:neepineteye": {
+        "sound": "metal", 
+        "textures": "twf_neepineteye"
+    }, 
+    "twf:neig": {
+        "sound": "metal", 
+        "textures": "twf_neig"
+    }, 
+    "twf:neium": {
+        "sound": "metal", 
+        "textures": "twf_neium"
+    }, 
+    "twf:neivealine": {
+        "sound": "metal", 
+        "textures": "twf_neivealine"
+    }, 
+    "twf:neneium": {
+        "sound": "metal", 
+        "textures": "twf_neneium"
+    }, 
+    "twf:neotrsium": {
+        "sound": "metal", 
+        "textures": "twf_neotrsium"
+    }, 
+    "twf:nepi": {
+        "sound": "metal", 
+        "textures": "twf_nepi"
+    }, 
+    "twf:nestone": {
+        "sound": "metal", 
+        "textures": "twf_nestone"
+    }, 
+    "twf:net": {
+        "sound": "metal", 
+        "textures": "twf_net"
+    }, 
+    "twf:netaline": {
+        "sound": "metal", 
+        "textures": "twf_netaline"
+    }, 
+    "twf:netch": {
+        "sound": "metal", 
+        "textures": "twf_netch"
+    }, 
+    "twf:neteebrostone": {
+        "sound": "metal", 
+        "textures": "twf_neteebrostone"
+    }, 
+    "twf:netian": {
+        "sound": "metal", 
+        "textures": "twf_netian"
+    }, 
+    "twf:netlbr": {
+        "sound": "metal", 
+        "textures": "twf_netlbr"
+    }, 
+    "twf:netrsehoaline": {
+        "sound": "metal", 
+        "textures": "twf_netrsehoaline"
+    }, 
+    "twf:netteyst": {
+        "sound": "metal", 
+        "textures": "twf_netteyst"
+    }, 
+    "twf:nevereye": {
+        "sound": "metal", 
+        "textures": "twf_nevereye"
+    }, 
+    "twf:nexeyx": {
+        "sound": "metal", 
+        "textures": "twf_nexeyx"
+    }, 
+    "twf:neyst": {
+        "sound": "metal", 
+        "textures": "twf_neyst"
+    }, 
+    "twf:neyx": {
+        "sound": "metal", 
+        "textures": "twf_neyx"
+    }, 
+    "twf:ntbrostone": {
+        "sound": "metal", 
+        "textures": "twf_ntbrostone"
+    }, 
+    "twf:ntdelseian": {
+        "sound": "metal", 
+        "textures": "twf_ntdelseian"
+    }, 
+    "twf:nteep": {
+        "sound": "metal", 
+        "textures": "twf_nteep"
+    }, 
+    "twf:ntneidr": {
+        "sound": "metal", 
+        "textures": "twf_ntneidr"
+    }, 
+    "twf:nton": {
+        "sound": "metal", 
+        "textures": "twf_nton"
+    }, 
+    "twf:ntr": {
+        "sound": "metal", 
+        "textures": "twf_ntr"
+    }, 
+    "twf:ntrkzian": {
+        "sound": "metal", 
+        "textures": "twf_ntrkzian"
+    }, 
+    "twf:ntrsem": {
+        "sound": "metal", 
+        "textures": "twf_ntrsem"
+    }, 
+    "twf:ntrtenorite": {
+        "sound": "metal", 
+        "textures": "twf_ntrtenorite"
+    }, 
+    "twf:ntsem": {
+        "sound": "metal", 
+        "textures": "twf_ntsem"
+    }, 
+    "twf:ntyst": {
+        "sound": "metal", 
+        "textures": "twf_ntyst"
+    }, 
+    "twf:om": {
+        "sound": "metal", 
+        "textures": "twf_om"
+    }, 
+    "twf:omaline": {
+        "sound": "metal", 
+        "textures": "twf_omaline"
+    }, 
+    "twf:omb": {
+        "sound": "metal", 
+        "textures": "twf_omb"
+    }, 
+    "twf:ombgriian": {
+        "sound": "metal", 
+        "textures": "twf_ombgriian"
+    }, 
+    "twf:ombia": {
+        "sound": "metal", 
+        "textures": "twf_ombia"
+    }, 
+    "twf:ombyx": {
+        "sound": "metal", 
+        "textures": "twf_ombyx"
+    }, 
+    "twf:omemagryx": {
+        "sound": "metal", 
+        "textures": "twf_omemagryx"
+    }, 
+    "twf:omenia": {
+        "sound": "metal", 
+        "textures": "twf_omenia"
+    }, 
+    "twf:omeye": {
+        "sound": "metal", 
+        "textures": "twf_omeye"
+    }, 
+    "twf:omian": {
+        "sound": "metal", 
+        "textures": "twf_omian"
+    }, 
+    "twf:omitgri": {
+        "sound": "metal", 
+        "textures": "twf_omitgri"
+    }, 
+    "twf:omkzoite": {
+        "sound": "metal", 
+        "textures": "twf_omkzoite"
+    }, 
+    "twf:omthegoneye": {
+        "sound": "metal", 
+        "textures": "twf_omthegoneye"
+    }, 
+    "twf:omwit": {
+        "sound": "metal", 
+        "textures": "twf_omwit"
+    }, 
+    "twf:onchoaxium": {
+        "sound": "metal", 
+        "textures": "twf_onchoaxium"
+    }, 
+    "twf:oneanium": {
+        "sound": "metal", 
+        "textures": "twf_oneanium"
+    }, 
+    "twf:oneemabieeye": {
+        "sound": "metal", 
+        "textures": "twf_oneemabieeye"
+    }, 
+    "twf:onenia": {
+        "sound": "metal", 
+        "textures": "twf_onenia"
+    }, 
+    "twf:onepiseyst": {
+        "sound": "metal", 
+        "textures": "twf_onepiseyst"
+    }, 
+    "twf:oneraagyst": {
+        "sound": "metal", 
+        "textures": "twf_oneraagyst"
+    }, 
+    "twf:oneridia": {
+        "sound": "metal", 
+        "textures": "twf_oneridia"
+    }, 
+    "twf:oneve": {
+        "sound": "metal", 
+        "textures": "twf_oneve"
+    }, 
+    "twf:onraglbyx": {
+        "sound": "metal", 
+        "textures": "twf_onraglbyx"
+    }, 
+    "twf:onrsyst": {
+        "sound": "metal", 
+        "textures": "twf_onrsyst"
+    }, 
+    "twf:or": {
+        "sound": "metal", 
+        "textures": "twf_or"
+    }, 
+    "twf:oria": {
+        "sound": "metal", 
+        "textures": "twf_oria"
+    }, 
+    "twf:ors": {
+        "sound": "metal", 
+        "textures": "twf_ors"
+    }, 
+    "twf:orsaline": {
+        "sound": "metal", 
+        "textures": "twf_orsaline"
+    }, 
+    "twf:orschown": {
+        "sound": "metal", 
+        "textures": "twf_orschown"
+    }, 
+    "twf:orsian": {
+        "sound": "metal", 
+        "textures": "twf_orsian"
+    }, 
+    "twf:orsyx": {
+        "sound": "metal", 
+        "textures": "twf_orsyx"
+    }, 
+    "twf:oteecrian": {
+        "sound": "metal", 
+        "textures": "twf_oteecrian"
+    }, 
+    "twf:oteednd": {
+        "sound": "metal", 
+        "textures": "twf_oteednd"
+    }, 
+    "twf:oteeep": {
+        "sound": "metal", 
+        "textures": "twf_oteeep"
+    }, 
+    "twf:oteemgoaline": {
+        "sound": "metal", 
+        "textures": "twf_oteemgoaline"
+    }, 
+    "twf:oteepte": {
+        "sound": "metal", 
+        "textures": "twf_oteepte"
+    }, 
+    "twf:otemendstone": {
+        "sound": "metal", 
+        "textures": "twf_otemendstone"
+    }, 
+    "twf:otewityst": {
+        "sound": "metal", 
+        "textures": "twf_otewityst"
+    }, 
+    "twf:otite": {
+        "sound": "metal", 
+        "textures": "twf_otite"
+    }, 
+    "twf:otre": {
+        "sound": "metal", 
+        "textures": "twf_otre"
+    }, 
+    "twf:otrona": {
+        "sound": "metal", 
+        "textures": "twf_otrona"
+    }, 
+    "twf:otyx": {
+        "sound": "metal", 
+        "textures": "twf_otyx"
+    }, 
+    "twf:owaline": {
+        "sound": "metal", 
+        "textures": "twf_owaline"
+    }, 
+    "twf:own": {
+        "sound": "metal", 
+        "textures": "twf_own"
+    }, 
+    "twf:ownagondeeye": {
+        "sound": "metal", 
+        "textures": "twf_ownagondeeye"
+    }, 
+    "twf:ownia": {
+        "sound": "metal", 
+        "textures": "twf_ownia"
+    }, 
+    "twf:ownmbaline": {
+        "sound": "metal", 
+        "textures": "twf_ownmbaline"
+    }, 
+    "twf:ownntraline": {
+        "sound": "metal", 
+        "textures": "twf_ownntraline"
+    }, 
+    "twf:ownteedr": {
+        "sound": "metal", 
+        "textures": "twf_ownteedr"
+    }, 
+    "twf:owtheombyst": {
+        "sound": "metal", 
+        "textures": "twf_owtheombyst"
+    }, 
+    "twf:peagoedyx": {
+        "sound": "metal", 
+        "textures": "twf_peagoedyx"
+    }, 
+    "twf:pealine": {
+        "sound": "metal", 
+        "textures": "twf_pealine"
+    }, 
+    "twf:peeryst": {
+        "sound": "metal", 
+        "textures": "twf_peeryst"
+    }, 
+    "twf:pegriepestone": {
+        "sound": "metal", 
+        "textures": "twf_pegriepestone"
+    }, 
+    "twf:per": {
+        "sound": "metal", 
+        "textures": "twf_per"
+    }, 
+    "twf:peraline": {
+        "sound": "metal", 
+        "textures": "twf_peraline"
+    }, 
+    "twf:peranchaline": {
+        "sound": "metal", 
+        "textures": "twf_peranchaline"
+    }, 
+    "twf:perchoyst": {
+        "sound": "metal", 
+        "textures": "twf_perchoyst"
+    }, 
+    "twf:perckstone": {
+        "sound": "metal", 
+        "textures": "twf_perckstone"
+    }, 
+    "twf:pereepzomeye": {
+        "sound": "metal", 
+        "textures": "twf_pereepzomeye"
+    }, 
+    "twf:permarw": {
+        "sound": "metal", 
+        "textures": "twf_permarw"
+    }, 
+    "twf:peryst": {
+        "sound": "metal", 
+        "textures": "twf_peryst"
+    }, 
+    "twf:pic": {
+        "sound": "metal", 
+        "textures": "twf_pic"
+    }, 
+    "twf:picendaline": {
+        "sound": "metal", 
+        "textures": "twf_picendaline"
+    }, 
+    "twf:pician": {
+        "sound": "metal", 
+        "textures": "twf_pician"
+    }, 
+    "twf:picidite": {
+        "sound": "metal", 
+        "textures": "twf_picidite"
+    }, 
+    "twf:picrotyst": {
+        "sound": "metal", 
+        "textures": "twf_picrotyst"
+    }, 
+    "twf:picstone": {
+        "sound": "metal", 
+        "textures": "twf_picstone"
+    }, 
+    "twf:picwitaline": {
+        "sound": "metal", 
+        "textures": "twf_picwitaline"
+    }, 
+    "twf:picxe": {
+        "sound": "metal", 
+        "textures": "twf_picxe"
+    }, 
+    "twf:piczothyst": {
+        "sound": "metal", 
+        "textures": "twf_piczothyst"
+    }, 
+    "twf:pidelieceye": {
+        "sound": "metal", 
+        "textures": "twf_pidelieceye"
+    }, 
+    "twf:pidrrse": {
+        "sound": "metal", 
+        "textures": "twf_pidrrse"
+    }, 
+    "twf:piemcre": {
+        "sound": "metal", 
+        "textures": "twf_piemcre"
+    }, 
+    "twf:piepevenium": {
+        "sound": "metal", 
+        "textures": "twf_piepevenium"
+    }, 
+    "twf:pig": {
+        "sound": "metal", 
+        "textures": "twf_pig"
+    }, 
+    "twf:pigeepian": {
+        "sound": "metal", 
+        "textures": "twf_pigeepian"
+    }, 
+    "twf:piget": {
+        "sound": "metal", 
+        "textures": "twf_piget"
+    }, 
+    "twf:pigia": {
+        "sound": "metal", 
+        "textures": "twf_pigia"
+    }, 
+    "twf:pignd": {
+        "sound": "metal", 
+        "textures": "twf_pignd"
+    }, 
+    "twf:pigotembite": {
+        "sound": "metal", 
+        "textures": "twf_pigotembite"
+    }, 
+    "twf:pigxeaxian": {
+        "sound": "metal", 
+        "textures": "twf_pigxeaxian"
+    }, 
+    "twf:pigyst": {
+        "sound": "metal", 
+        "textures": "twf_pigyst"
+    }, 
+    "twf:piian": {
+        "sound": "metal", 
+        "textures": "twf_piian"
+    }, 
+    "twf:piivbro": {
+        "sound": "metal", 
+        "textures": "twf_piivbro"
+    }, 
+    "twf:pikzopi": {
+        "sound": "metal", 
+        "textures": "twf_pikzopi"
+    }, 
+    "twf:pineeeyx": {
+        "sound": "metal", 
+        "textures": "twf_pineeeyx"
+    }, 
+    "twf:pirenedia": {
+        "sound": "metal", 
+        "textures": "twf_pirenedia"
+    }, 
+    "twf:piroanyst": {
+        "sound": "metal", 
+        "textures": "twf_piroanyst"
+    }, 
+    "twf:pirotite": {
+        "sound": "metal", 
+        "textures": "twf_pirotite"
+    }, 
+    "twf:pive": {
+        "sound": "metal", 
+        "textures": "twf_pive"
+    }, 
+    "twf:piyst": {
+        "sound": "metal", 
+        "textures": "twf_piyst"
+    }, 
+    "twf:piyx": {
+        "sound": "metal", 
+        "textures": "twf_piyx"
+    }, 
+    "twf:ploo": {
+        "sound": "metal", 
+        "textures": "twf_ploo"
+    }, 
+    "twf:ra": {
+        "sound": "metal", 
+        "textures": "twf_ra"
+    }, 
+    "twf:rael": {
+        "sound": "metal", 
+        "textures": "twf_rael"
+    }, 
+    "twf:rag": {
+        "sound": "metal", 
+        "textures": "twf_rag"
+    }, 
+    "twf:ragemaeye": {
+        "sound": "metal", 
+        "textures": "twf_ragemaeye"
+    }, 
+    "twf:raghor": {
+        "sound": "metal", 
+        "textures": "twf_raghor"
+    }, 
+    "twf:ragite": {
+        "sound": "metal", 
+        "textures": "twf_ragite"
+    }, 
+    "twf:ragium": {
+        "sound": "metal", 
+        "textures": "twf_ragium"
+    }, 
+    "twf:ralbrician": {
+        "sound": "metal", 
+        "textures": "twf_ralbrician"
+    }, 
+    "twf:raridyx": {
+        "sound": "metal", 
+        "textures": "twf_raridyx"
+    }, 
+    "twf:rayx": {
+        "sound": "metal", 
+        "textures": "twf_rayx"
+    }, 
+    "twf:re": {
+        "sound": "metal", 
+        "textures": "twf_re"
+    }, 
+    "twf:realine": {
+        "sound": "metal", 
+        "textures": "twf_realine"
+    }, 
+    "twf:ree": {
+        "sound": "metal", 
+        "textures": "twf_ree"
+    }, 
+    "twf:reeagoyx": {
+        "sound": "metal", 
+        "textures": "twf_reeagoyx"
+    }, 
+    "twf:reeeealine": {
+        "sound": "metal", 
+        "textures": "twf_reeeealine"
+    }, 
+    "twf:reeepelia": {
+        "sound": "metal", 
+        "textures": "twf_reeepelia"
+    }, 
+    "twf:reeeroneye": {
+        "sound": "metal", 
+        "textures": "twf_reeeroneye"
+    }, 
+    "twf:reeeye": {
+        "sound": "metal", 
+        "textures": "twf_reeeye"
+    }, 
+    "twf:reegr": {
+        "sound": "metal", 
+        "textures": "twf_reegr"
+    }, 
+    "twf:reeickon": {
+        "sound": "metal", 
+        "textures": "twf_reeickon"
+    }, 
+    "twf:reelbragian": {
+        "sound": "metal", 
+        "textures": "twf_reelbragian"
+    }, 
+    "twf:reemabro": {
+        "sound": "metal", 
+        "textures": "twf_reemabro"
+    }, 
+    "twf:reembia": {
+        "sound": "metal", 
+        "textures": "twf_reembia"
+    }, 
+    "twf:reendneeye": {
+        "sound": "metal", 
+        "textures": "twf_reendneeye"
+    }, 
+    "twf:reeorepeia": {
+        "sound": "metal", 
+        "textures": "twf_reeorepeia"
+    }, 
+    "twf:reepicite": {
+        "sound": "metal", 
+        "textures": "twf_reepicite"
+    }, 
+    "twf:reerwitc": {
+        "sound": "metal", 
+        "textures": "twf_reerwitc"
+    }, 
+    "twf:reeryst": {
+        "sound": "metal", 
+        "textures": "twf_reeryst"
+    }, 
+    "twf:reeye": {
+        "sound": "metal", 
+        "textures": "twf_reeye"
+    }, 
+    "twf:reeyx": {
+        "sound": "metal", 
+        "textures": "twf_reeyx"
+    }, 
+    "twf:reium": {
+        "sound": "metal", 
+        "textures": "twf_reium"
+    }, 
+    "twf:rembialine": {
+        "sound": "metal", 
+        "textures": "twf_rembialine"
+    }, 
+    "twf:reretheeye": {
+        "sound": "metal", 
+        "textures": "twf_reretheeye"
+    }, 
+    "twf:rerowckz": {
+        "sound": "metal", 
+        "textures": "twf_rerowckz"
+    }, 
+    "twf:retengonstone": {
+        "sound": "metal", 
+        "textures": "twf_retengonstone"
+    }, 
+    "twf:revep": {
+        "sound": "metal", 
+        "textures": "twf_revep"
+    }, 
+    "twf:reveraxeyx": {
+        "sound": "metal", 
+        "textures": "twf_reveraxeyx"
+    }, 
+    "twf:revidraline": {
+        "sound": "metal", 
+        "textures": "twf_revidraline"
+    }, 
+    "twf:revite": {
+        "sound": "metal", 
+        "textures": "twf_revite"
+    }, 
+    "twf:revneite": {
+        "sound": "metal", 
+        "textures": "twf_revneite"
+    }, 
+    "twf:revpi": {
+        "sound": "metal", 
+        "textures": "twf_revpi"
+    }, 
+    "twf:revwiia": {
+        "sound": "metal", 
+        "textures": "twf_revwiia"
+    }, 
+    "twf:rewitite": {
+        "sound": "metal", 
+        "textures": "twf_rewitite"
+    }, 
+    "twf:rexeprotyst": {
+        "sound": "metal", 
+        "textures": "twf_rexeprotyst"
+    }, 
+    "twf:rezohoian": {
+        "sound": "metal", 
+        "textures": "twf_rezohoian"
+    }, 
+    "twf:ri": {
+        "sound": "metal", 
+        "textures": "twf_ri"
+    }, 
+    "twf:riaxe": {
+        "sound": "metal", 
+        "textures": "twf_riaxe"
+    }, 
+    "twf:ricrite": {
+        "sound": "metal", 
+        "textures": "twf_ricrite"
+    }, 
+    "twf:ridcreye": {
+        "sound": "metal", 
+        "textures": "twf_ridcreye"
+    }, 
+    "twf:rideri": {
+        "sound": "metal", 
+        "textures": "twf_rideri"
+    }, 
+    "twf:ridethreyx": {
+        "sound": "metal", 
+        "textures": "twf_ridethreyx"
+    }, 
+    "twf:ridrotbro": {
+        "sound": "metal", 
+        "textures": "twf_ridrotbro"
+    }, 
+    "twf:ridrwi": {
+        "sound": "metal", 
+        "textures": "twf_ridrwi"
+    }, 
+    "twf:ridve": {
+        "sound": "metal", 
+        "textures": "twf_ridve"
+    }, 
+    "twf:riedrium": {
+        "sound": "metal", 
+        "textures": "twf_riedrium"
+    }, 
+    "twf:rielb": {
+        "sound": "metal", 
+        "textures": "twf_rielb"
+    }, 
+    "twf:rienia": {
+        "sound": "metal", 
+        "textures": "twf_rienia"
+    }, 
+    "twf:rierireeeye": {
+        "sound": "metal", 
+        "textures": "twf_rierireeeye"
+    }, 
+    "twf:rihodeleye": {
+        "sound": "metal", 
+        "textures": "twf_rihodeleye"
+    }, 
+    "twf:rilbrreian": {
+        "sound": "metal", 
+        "textures": "twf_rilbrreian"
+    }, 
+    "twf:rioneraline": {
+        "sound": "metal", 
+        "textures": "twf_rioneraline"
+    }, 
+    "twf:ripioneite": {
+        "sound": "metal", 
+        "textures": "twf_ripioneite"
+    }, 
+    "twf:risemia": {
+        "sound": "metal", 
+        "textures": "twf_risemia"
+    }, 
+    "twf:ritcite": {
+        "sound": "metal", 
+        "textures": "twf_ritcite"
+    }, 
+    "twf:rivaline": {
+        "sound": "metal", 
+        "textures": "twf_rivaline"
+    }, 
+    "twf:rivepestone": {
+        "sound": "metal", 
+        "textures": "twf_rivepestone"
+    }, 
+    "twf:rivepiium": {
+        "sound": "metal", 
+        "textures": "twf_rivepiium"
+    }, 
+    "twf:rivereye": {
+        "sound": "metal", 
+        "textures": "twf_rivereye"
+    }, 
+    "twf:rivnastone": {
+        "sound": "metal", 
+        "textures": "twf_rivnastone"
+    }, 
+    "twf:rivnderian": {
+        "sound": "metal", 
+        "textures": "twf_rivnderian"
+    }, 
+    "twf:rivownyx": {
+        "sound": "metal", 
+        "textures": "twf_rivownyx"
+    }, 
+    "twf:rivrot": {
+        "sound": "metal", 
+        "textures": "twf_rivrot"
+    }, 
+    "twf:riwneorium": {
+        "sound": "metal", 
+        "textures": "twf_riwneorium"
+    }, 
+    "twf:rodealine": {
+        "sound": "metal", 
+        "textures": "twf_rodealine"
+    }, 
+    "twf:roeepite": {
+        "sound": "metal", 
+        "textures": "twf_roeepite"
+    }, 
+    "twf:roerite": {
+        "sound": "metal", 
+        "textures": "twf_roerite"
+    }, 
+    "twf:roeye": {
+        "sound": "metal", 
+        "textures": "twf_roeye"
+    }, 
+    "twf:rogrizo": {
+        "sound": "metal", 
+        "textures": "twf_rogrizo"
+    }, 
+    "twf:roicepaline": {
+        "sound": "metal", 
+        "textures": "twf_roicepaline"
+    }, 
+    "twf:roitite": {
+        "sound": "metal", 
+        "textures": "twf_roitite"
+    }, 
+    "twf:roorsaxestone": {
+        "sound": "metal", 
+        "textures": "twf_roorsaxestone"
+    }, 
+    "twf:ropic": {
+        "sound": "metal", 
+        "textures": "twf_ropic"
+    }, 
+    "twf:rostone": {
+        "sound": "metal", 
+        "textures": "twf_rostone"
+    }, 
+    "twf:rot": {
+        "sound": "metal", 
+        "textures": "twf_rot"
+    }, 
+    "twf:rotbromanyx": {
+        "sound": "metal", 
+        "textures": "twf_rotbromanyx"
+    }, 
+    "twf:rotemgrite": {
+        "sound": "metal", 
+        "textures": "twf_rotemgrite"
+    }, 
+    "twf:rotmanpigaline": {
+        "sound": "metal", 
+        "textures": "twf_rotmanpigaline"
+    }, 
+    "twf:rotrotveyst": {
+        "sound": "metal", 
+        "textures": "twf_rotrotveyst"
+    }, 
+    "twf:row": {
+        "sound": "metal", 
+        "textures": "twf_row"
+    }, 
+    "twf:rowenidite": {
+        "sound": "metal", 
+        "textures": "twf_rowenidite"
+    }, 
+    "twf:rowia": {
+        "sound": "metal", 
+        "textures": "twf_rowia"
+    }, 
+    "twf:rowrseiceye": {
+        "sound": "metal", 
+        "textures": "twf_rowrseiceye"
+    }, 
+    "twf:rowrwikzoian": {
+        "sound": "metal", 
+        "textures": "twf_rowrwikzoian"
+    }, 
+    "twf:rowstone": {
+        "sound": "metal", 
+        "textures": "twf_rowstone"
+    }, 
+    "twf:royst": {
+        "sound": "metal", 
+        "textures": "twf_royst"
+    }, 
+    "twf:rsbietchium": {
+        "sound": "metal", 
+        "textures": "twf_rsbietchium"
+    }, 
+    "twf:rse": {
+        "sound": "metal", 
+        "textures": "twf_rse"
+    }, 
+    "twf:rsedroneium": {
+        "sound": "metal", 
+        "textures": "twf_rsedroneium"
+    }, 
+    "twf:rseedr": {
+        "sound": "metal", 
+        "textures": "twf_rseedr"
+    }, 
+    "twf:rseere": {
+        "sound": "metal", 
+        "textures": "twf_rseere"
+    }, 
+    "twf:rseeria": {
+        "sound": "metal", 
+        "textures": "twf_rseeria"
+    }, 
+    "twf:rseeverian": {
+        "sound": "metal", 
+        "textures": "twf_rseeverian"
+    }, 
+    "twf:rseotium": {
+        "sound": "metal", 
+        "textures": "twf_rseotium"
+    }, 
+    "twf:rserotstone": {
+        "sound": "metal", 
+        "textures": "twf_rserotstone"
+    }, 
+    "twf:rsevenmbi": {
+        "sound": "metal", 
+        "textures": "twf_rsevenmbi"
+    }, 
+    "twf:rshor": {
+        "sound": "metal", 
+        "textures": "twf_rshor"
+    }, 
+    "twf:rsian": {
+        "sound": "metal", 
+        "textures": "twf_rsian"
+    }, 
+    "twf:rsig": {
+        "sound": "metal", 
+        "textures": "twf_rsig"
+    }, 
+    "twf:rsnanheite": {
+        "sound": "metal", 
+        "textures": "twf_rsnanheite"
+    }, 
+    "twf:rsonexepeye": {
+        "sound": "metal", 
+        "textures": "twf_rsonexepeye"
+    }, 
+    "twf:rsor": {
+        "sound": "metal", 
+        "textures": "twf_rsor"
+    }, 
+    "twf:rspicyst": {
+        "sound": "metal", 
+        "textures": "twf_rspicyst"
+    }, 
+    "twf:rsrw": {
+        "sound": "metal", 
+        "textures": "twf_rsrw"
+    }, 
+    "twf:rsstone": {
+        "sound": "metal", 
+        "textures": "twf_rsstone"
+    }, 
+    "twf:rsteium": {
+        "sound": "metal", 
+        "textures": "twf_rsteium"
+    }, 
+    "twf:rw": {
+        "sound": "metal", 
+        "textures": "twf_rw"
+    }, 
+    "twf:rwbrokzoia": {
+        "sound": "metal", 
+        "textures": "twf_rwbrokzoia"
+    }, 
+    "twf:rwdraia": {
+        "sound": "metal", 
+        "textures": "twf_rwdraia"
+    }, 
+    "twf:rwepievian": {
+        "sound": "metal", 
+        "textures": "twf_rwepievian"
+    }, 
+    "twf:rwevdryx": {
+        "sound": "metal", 
+        "textures": "twf_rwevdryx"
+    }, 
+    "twf:rwickzereia": {
+        "sound": "metal", 
+        "textures": "twf_rwickzereia"
+    }, 
+    "twf:rwidrgonaline": {
+        "sound": "metal", 
+        "textures": "twf_rwidrgonaline"
+    }, 
+    "twf:rwidroyst": {
+        "sound": "metal", 
+        "textures": "twf_rwidroyst"
+    }, 
+    "twf:rwintpistone": {
+        "sound": "metal", 
+        "textures": "twf_rwintpistone"
+    }, 
+    "twf:rwiomonstone": {
+        "sound": "metal", 
+        "textures": "twf_rwiomonstone"
+    }, 
+    "twf:rwitreomium": {
+        "sound": "metal", 
+        "textures": "twf_rwitreomium"
+    }, 
+    "twf:rwium": {
+        "sound": "metal", 
+        "textures": "twf_rwium"
+    }, 
+    "twf:rwivenyx": {
+        "sound": "metal", 
+        "textures": "twf_rwivenyx"
+    }, 
+    "twf:rwivtenaline": {
+        "sound": "metal", 
+        "textures": "twf_rwivtenaline"
+    }, 
+    "twf:rwoteite": {
+        "sound": "metal", 
+        "textures": "twf_rwoteite"
+    }, 
+    "twf:sebrors": {
+        "sound": "metal", 
+        "textures": "twf_sebrors"
+    }, 
+    "twf:semaline": {
+        "sound": "metal", 
+        "textures": "twf_semaline"
+    }, 
+    "twf:semchdel": {
+        "sound": "metal", 
+        "textures": "twf_semchdel"
+    }, 
+    "twf:semeneth": {
+        "sound": "metal", 
+        "textures": "twf_semeneth"
+    }, 
+    "twf:semethian": {
+        "sound": "metal", 
+        "textures": "twf_semethian"
+    }, 
+    "twf:semgonan": {
+        "sound": "metal", 
+        "textures": "twf_semgonan"
+    }, 
+    "twf:semia": {
+        "sound": "metal", 
+        "textures": "twf_semia"
+    }, 
+    "twf:semickeeia": {
+        "sound": "metal", 
+        "textures": "twf_semickeeia"
+    }, 
+    "twf:sempendeyx": {
+        "sound": "metal", 
+        "textures": "twf_sempendeyx"
+    }, 
+    "twf:semyst": {
+        "sound": "metal", 
+        "textures": "twf_semyst"
+    }, 
+    "twf:seridten": {
+        "sound": "metal", 
+        "textures": "twf_seridten"
+    }, 
+    "twf:sewit": {
+        "sound": "metal", 
+        "textures": "twf_sewit"
+    }, 
+    "twf:sloo": {
+        "sound": "metal", 
+        "textures": "twf_sloo"
+    }, 
+    "twf:tc": {
+        "sound": "metal", 
+        "textures": "twf_tc"
+    }, 
+    "twf:tcanote": {
+        "sound": "metal", 
+        "textures": "twf_tcanote"
+    }, 
+    "twf:tceepeye": {
+        "sound": "metal", 
+        "textures": "twf_tceepeye"
+    }, 
+    "twf:tcepebiian": {
+        "sound": "metal", 
+        "textures": "twf_tcepebiian"
+    }, 
+    "twf:tchmangriite": {
+        "sound": "metal", 
+        "textures": "twf_tchmangriite"
+    }, 
+    "twf:tchseia": {
+        "sound": "metal", 
+        "textures": "twf_tchseia"
+    }, 
+    "twf:tcreeyst": {
+        "sound": "metal", 
+        "textures": "twf_tcreeyst"
+    }, 
+    "twf:tcrivia": {
+        "sound": "metal", 
+        "textures": "twf_tcrivia"
+    }, 
+    "twf:tcyst": {
+        "sound": "metal", 
+        "textures": "twf_tcyst"
+    }, 
+    "twf:te": {
+        "sound": "metal", 
+        "textures": "twf_te"
+    }, 
+    "twf:tedrodra": {
+        "sound": "metal", 
+        "textures": "twf_tedrodra"
+    }, 
+    "twf:teeepanaline": {
+        "sound": "metal", 
+        "textures": "twf_teeepanaline"
+    }, 
+    "twf:teemaonyx": {
+        "sound": "metal", 
+        "textures": "twf_teemaonyx"
+    }, 
+    "twf:teigrnetium": {
+        "sound": "metal", 
+        "textures": "twf_teigrnetium"
+    }, 
+    "twf:tenaline": {
+        "sound": "metal", 
+        "textures": "twf_tenaline"
+    }, 
+    "twf:tenelbaline": {
+        "sound": "metal", 
+        "textures": "twf_tenelbaline"
+    }, 
+    "twf:tengonidaline": {
+        "sound": "metal", 
+        "textures": "twf_tengonidaline"
+    }, 
+    "twf:tenher": {
+        "sound": "metal", 
+        "textures": "twf_tenher"
+    }, 
+    "twf:tenntndeeye": {
+        "sound": "metal", 
+        "textures": "twf_tenntndeeye"
+    }, 
+    "twf:tenorsia": {
+        "sound": "metal", 
+        "textures": "twf_tenorsia"
+    }, 
+    "twf:tenotiveium": {
+        "sound": "metal", 
+        "textures": "twf_tenotiveium"
+    }, 
+    "twf:tenseeye": {
+        "sound": "metal", 
+        "textures": "twf_tenseeye"
+    }, 
+    "twf:tenstone": {
+        "sound": "metal", 
+        "textures": "twf_tenstone"
+    }, 
+    "twf:tenteyx": {
+        "sound": "metal", 
+        "textures": "twf_tenteyx"
+    }, 
+    "twf:tewiyst": {
+        "sound": "metal", 
+        "textures": "twf_tewiyst"
+    }, 
+    "twf:thederi": {
+        "sound": "metal", 
+        "textures": "twf_thederi"
+    }, 
+    "twf:theelbite": {
+        "sound": "metal", 
+        "textures": "twf_theelbite"
+    }, 
+    "twf:theer": {
+        "sound": "metal", 
+        "textures": "twf_theer"
+    }, 
+    "twf:theet": {
+        "sound": "metal", 
+        "textures": "twf_theet"
+    }, 
+    "twf:theia": {
+        "sound": "metal", 
+        "textures": "twf_theia"
+    }, 
+    "twf:theitaline": {
+        "sound": "metal", 
+        "textures": "twf_theitaline"
+    }, 
+    "twf:thentreye": {
+        "sound": "metal", 
+        "textures": "twf_thentreye"
+    }, 
+    "twf:theombium": {
+        "sound": "metal", 
+        "textures": "twf_theombium"
+    }, 
+    "twf:thepeedrite": {
+        "sound": "metal", 
+        "textures": "twf_thepeedrite"
+    }, 
+    "twf:thepium": {
+        "sound": "metal", 
+        "textures": "twf_thepium"
+    }, 
+    "twf:therwxep": {
+        "sound": "metal", 
+        "textures": "twf_therwxep"
+    }, 
+    "twf:theyst": {
+        "sound": "metal", 
+        "textures": "twf_theyst"
+    }, 
+    "twf:thkzoem": {
+        "sound": "metal", 
+        "textures": "twf_thkzoem"
+    }, 
+    "twf:thpiepealine": {
+        "sound": "metal", 
+        "textures": "twf_thpiepealine"
+    }, 
+    "twf:thrangium": {
+        "sound": "metal", 
+        "textures": "twf_thrangium"
+    }, 
+    "twf:thrirev": {
+        "sound": "metal", 
+        "textures": "twf_thrirev"
+    }, 
+    "twf:thtreepialine": {
+        "sound": "metal", 
+        "textures": "twf_thtreepialine"
+    }, 
+    "twf:thzomite": {
+        "sound": "metal", 
+        "textures": "twf_thzomite"
+    }, 
+    "twf:tr": {
+        "sound": "metal", 
+        "textures": "twf_tr"
+    }, 
+    "twf:traline": {
+        "sound": "metal", 
+        "textures": "twf_traline"
+    }, 
+    "twf:trckium": {
+        "sound": "metal", 
+        "textures": "twf_trckium"
+    }, 
+    "twf:trdeium": {
+        "sound": "metal", 
+        "textures": "twf_trdeium"
+    }, 
+    "twf:tre": {
+        "sound": "metal", 
+        "textures": "twf_tre"
+    }, 
+    "twf:tregorevian": {
+        "sound": "metal", 
+        "textures": "twf_tregorevian"
+    }, 
+    "twf:treick": {
+        "sound": "metal", 
+        "textures": "twf_treick"
+    }, 
+    "twf:treium": {
+        "sound": "metal", 
+        "textures": "twf_treium"
+    }, 
+    "twf:trematen": {
+        "sound": "metal", 
+        "textures": "twf_trematen"
+    }, 
+    "twf:trenddreye": {
+        "sound": "metal", 
+        "textures": "twf_trenddreye"
+    }, 
+    "twf:trepistone": {
+        "sound": "metal", 
+        "textures": "twf_trepistone"
+    }, 
+    "twf:trereian": {
+        "sound": "metal", 
+        "textures": "twf_trereian"
+    }, 
+    "twf:trerivhealine": {
+        "sound": "metal", 
+        "textures": "twf_trerivhealine"
+    }, 
+    "twf:trewn": {
+        "sound": "metal", 
+        "textures": "twf_trewn"
+    }, 
+    "twf:trmbistone": {
+        "sound": "metal", 
+        "textures": "twf_trmbistone"
+    }, 
+    "twf:ve": {
+        "sound": "metal", 
+        "textures": "twf_ve"
+    }, 
+    "twf:vealine": {
+        "sound": "metal", 
+        "textures": "twf_vealine"
+    }, 
+    "twf:veandthia": {
+        "sound": "metal", 
+        "textures": "twf_veandthia"
+    }, 
+    "twf:veedraline": {
+        "sound": "metal", 
+        "textures": "twf_veedraline"
+    }, 
+    "twf:veerenastone": {
+        "sound": "metal", 
+        "textures": "twf_veerenastone"
+    }, 
+    "twf:veia": {
+        "sound": "metal", 
+        "textures": "twf_veia"
+    }, 
+    "twf:ven": {
+        "sound": "metal", 
+        "textures": "twf_ven"
+    }, 
+    "twf:vengonian": {
+        "sound": "metal", 
+        "textures": "twf_vengonian"
+    }, 
+    "twf:venre": {
+        "sound": "metal", 
+        "textures": "twf_venre"
+    }, 
+    "twf:venreealine": {
+        "sound": "metal", 
+        "textures": "twf_venreealine"
+    }, 
+    "twf:venth": {
+        "sound": "metal", 
+        "textures": "twf_venth"
+    }, 
+    "twf:venverneeye": {
+        "sound": "metal", 
+        "textures": "twf_venverneeye"
+    }, 
+    "twf:veotekzoeye": {
+        "sound": "metal", 
+        "textures": "twf_veotekzoeye"
+    }, 
+    "twf:veownstone": {
+        "sound": "metal", 
+        "textures": "twf_veownstone"
+    }, 
+    "twf:vepecrium": {
+        "sound": "metal", 
+        "textures": "twf_vepecrium"
+    }, 
+    "twf:veperep": {
+        "sound": "metal", 
+        "textures": "twf_veperep"
+    }, 
+    "twf:ver": {
+        "sound": "metal", 
+        "textures": "twf_ver"
+    }, 
+    "twf:verandaline": {
+        "sound": "metal", 
+        "textures": "twf_verandaline"
+    }, 
+    "twf:verivre": {
+        "sound": "metal", 
+        "textures": "twf_verivre"
+    }, 
+    "twf:verkzone": {
+        "sound": "metal", 
+        "textures": "twf_verkzone"
+    }, 
+    "twf:verrsian": {
+        "sound": "metal", 
+        "textures": "twf_verrsian"
+    }, 
+    "twf:vertredelite": {
+        "sound": "metal", 
+        "textures": "twf_vertredelite"
+    }, 
+    "twf:verventch": {
+        "sound": "metal", 
+        "textures": "twf_verventch"
+    }, 
+    "twf:veyst": {
+        "sound": "metal", 
+        "textures": "twf_veyst"
+    }, 
+    "twf:vezoaline": {
+        "sound": "metal", 
+        "textures": "twf_vezoaline"
+    }, 
+    "twf:wibixeeye": {
+        "sound": "metal", 
+        "textures": "twf_wibixeeye"
+    }, 
+    "twf:wietbr": {
+        "sound": "metal", 
+        "textures": "twf_wietbr"
+    }, 
+    "twf:wieye": {
+        "sound": "metal", 
+        "textures": "twf_wieye"
+    }, 
+    "twf:winanyst": {
+        "sound": "metal", 
+        "textures": "twf_winanyst"
+    }, 
+    "twf:wireened": {
+        "sound": "metal", 
+        "textures": "twf_wireened"
+    }, 
+    "twf:wiridryst": {
+        "sound": "metal", 
+        "textures": "twf_wiridryst"
+    }, 
+    "twf:wit": {
+        "sound": "metal", 
+        "textures": "twf_wit"
+    }, 
+    "twf:witaline": {
+        "sound": "metal", 
+        "textures": "twf_witaline"
+    }, 
+    "twf:witbridr": {
+        "sound": "metal", 
+        "textures": "twf_witbridr"
+    }, 
+    "twf:with": {
+        "sound": "metal", 
+        "textures": "twf_with"
+    }, 
+    "twf:witian": {
+        "sound": "metal", 
+        "textures": "twf_witian"
+    }, 
+    "twf:witown": {
+        "sound": "metal", 
+        "textures": "twf_witown"
+    }, 
+    "twf:wivenlbrite": {
+        "sound": "metal", 
+        "textures": "twf_wivenlbrite"
+    }, 
+    "twf:wneeepbieye": {
+        "sound": "metal", 
+        "textures": "twf_wneeepbieye"
+    }, 
+    "twf:wnemaite": {
+        "sound": "metal", 
+        "textures": "twf_wnemaite"
+    }, 
+    "twf:wnend": {
+        "sound": "metal", 
+        "textures": "twf_wnend"
+    }, 
+    "twf:wneow": {
+        "sound": "metal", 
+        "textures": "twf_wneow"
+    }, 
+    "twf:wnetre": {
+        "sound": "metal", 
+        "textures": "twf_wnetre"
+    }, 
+    "twf:wnevnd": {
+        "sound": "metal", 
+        "textures": "twf_wnevnd"
+    }, 
+    "twf:wnewn": {
+        "sound": "metal", 
+        "textures": "twf_wnewn"
+    }, 
+    "twf:wnewneian": {
+        "sound": "metal", 
+        "textures": "twf_wnewneian"
+    }, 
+    "twf:wneye": {
+        "sound": "metal", 
+        "textures": "twf_wneye"
+    }, 
+    "twf:wngo": {
+        "sound": "metal", 
+        "textures": "twf_wngo"
+    }, 
+    "twf:wnntrdryx": {
+        "sound": "metal", 
+        "textures": "twf_wnntrdryx"
+    }, 
+    "twf:wnreorsstone": {
+        "sound": "metal", 
+        "textures": "twf_wnreorsstone"
+    }, 
+    "twf:wnyx": {
+        "sound": "metal", 
+        "textures": "twf_wnyx"
+    }, 
+    "twf:xeagrot": {
+        "sound": "metal", 
+        "textures": "twf_xeagrot"
+    }, 
+    "twf:xeheryst": {
+        "sound": "metal", 
+        "textures": "twf_xeheryst"
+    }, 
+    "twf:xehor": {
+        "sound": "metal", 
+        "textures": "twf_xehor"
+    }, 
+    "twf:xep": {
+        "sound": "metal", 
+        "textures": "twf_xep"
+    }, 
+    "twf:xepck": {
+        "sound": "metal", 
+        "textures": "twf_xepck"
+    }, 
+    "twf:xepem": {
+        "sound": "metal", 
+        "textures": "twf_xepem"
+    }, 
+    "twf:xepeveyx": {
+        "sound": "metal", 
+        "textures": "twf_xepeveyx"
+    }, 
+    "twf:xepgoaline": {
+        "sound": "metal", 
+        "textures": "twf_xepgoaline"
+    }, 
+    "twf:xepgonia": {
+        "sound": "metal", 
+        "textures": "twf_xepgonia"
+    }, 
+    "twf:xeplbrayst": {
+        "sound": "metal", 
+        "textures": "twf_xeplbrayst"
+    }, 
+    "twf:xepsemian": {
+        "sound": "metal", 
+        "textures": "twf_xepsemian"
+    }, 
+    "twf:xepstone": {
+        "sound": "metal", 
+        "textures": "twf_xepstone"
+    }, 
+    "twf:xepverxepia": {
+        "sound": "metal", 
+        "textures": "twf_xepverxepia"
+    }, 
+    "twf:xerow": {
+        "sound": "metal", 
+        "textures": "twf_xerow"
+    }, 
+    "twf:xetchite": {
+        "sound": "metal", 
+        "textures": "twf_xetchite"
+    }, 
+    "twf:xewnmaneye": {
+        "sound": "metal", 
+        "textures": "twf_xewnmaneye"
+    }, 
+    "twf:zloo": {
+        "sound": "metal", 
+        "textures": "twf_zloo"
+    }, 
+    "twf:zo": {
+        "sound": "metal", 
+        "textures": "twf_zo"
+    }, 
+    "twf:zoendium": {
+        "sound": "metal", 
+        "textures": "twf_zoendium"
+    }, 
+    "twf:zogo": {
+        "sound": "metal", 
+        "textures": "twf_zogo"
+    }, 
+    "twf:zoian": {
+        "sound": "metal", 
+        "textures": "twf_zoian"
+    }, 
+    "twf:zomian": {
+        "sound": "metal", 
+        "textures": "twf_zomian"
+    }, 
+    "twf:zomnddestone": {
+        "sound": "metal", 
+        "textures": "twf_zomnddestone"
+    }, 
+    "twf:zomotite": {
+        "sound": "metal", 
+        "textures": "twf_zomotite"
+    }, 
+    "twf:zooreria": {
+        "sound": "metal", 
+        "textures": "twf_zooreria"
+    }, 
+    "twf:zoridaline": {
+        "sound": "metal", 
+        "textures": "twf_zoridaline"
+    }, 
+    "twf:zoro": {
+        "sound": "metal", 
+        "textures": "twf_zoro"
+    }
+}

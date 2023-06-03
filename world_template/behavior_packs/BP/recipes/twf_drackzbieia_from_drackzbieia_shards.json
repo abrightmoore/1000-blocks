@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:drackzbieia_from_drackzbieia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:drackzbieia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:drackzbieia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

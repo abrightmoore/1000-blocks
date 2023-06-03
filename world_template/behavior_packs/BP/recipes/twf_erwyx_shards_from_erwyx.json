@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erwyx_shards_from_erwyx"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:erwyx"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:erwyx_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

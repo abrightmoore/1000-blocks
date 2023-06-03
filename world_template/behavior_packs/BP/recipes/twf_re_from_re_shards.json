@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:re_from_re_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:re_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:re"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

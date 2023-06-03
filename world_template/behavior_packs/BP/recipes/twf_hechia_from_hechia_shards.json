@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:hechia_from_hechia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:hechia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:hechia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

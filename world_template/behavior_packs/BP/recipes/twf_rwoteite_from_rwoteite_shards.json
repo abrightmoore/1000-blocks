@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rwoteite_from_rwoteite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:rwoteite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rwoteite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

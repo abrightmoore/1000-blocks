@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_tenstone.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_tenstone"
+            }, 
+            "identifier": "twf:tenstone", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#169B9C", 
+                "overlay_color": "#1A8C65"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_tenstone"
+            }
+        }
+    }
+}

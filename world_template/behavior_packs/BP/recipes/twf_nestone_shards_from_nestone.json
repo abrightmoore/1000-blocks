@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nestone_shards_from_nestone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:nestone"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:nestone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

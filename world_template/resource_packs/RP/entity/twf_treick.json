@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_treick.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_b"
+            }, 
+            "identifier": "twf:treick", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#835432", 
+                "overlay_color": "#0F9B9A"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_treick"
+            }
+        }
+    }
+}

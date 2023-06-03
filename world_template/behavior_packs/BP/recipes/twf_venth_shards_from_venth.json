@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:venth_shards_from_venth"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:venth"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:venth_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

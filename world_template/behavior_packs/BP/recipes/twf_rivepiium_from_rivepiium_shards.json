@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rivepiium_from_rivepiium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:rivepiium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rivepiium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

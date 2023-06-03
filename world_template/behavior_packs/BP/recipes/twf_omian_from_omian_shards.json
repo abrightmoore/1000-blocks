@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:omian_from_omian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:omian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:omian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:chia_shards_from_chia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:chia"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:chia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

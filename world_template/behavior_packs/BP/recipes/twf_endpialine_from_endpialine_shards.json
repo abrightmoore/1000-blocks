@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:endpialine_from_endpialine_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:endpialine_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:endpialine"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

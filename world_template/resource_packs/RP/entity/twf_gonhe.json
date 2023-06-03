@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_gonhe.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_eriecyst"
+            }, 
+            "identifier": "twf:gonhe", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#9D9D97", 
+                "overlay_color": "#D69E6D"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_gonhe"
+            }
+        }
+    }
+}

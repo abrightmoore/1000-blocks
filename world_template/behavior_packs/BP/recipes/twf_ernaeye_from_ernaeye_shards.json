@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ernaeye_from_ernaeye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:ernaeye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ernaeye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

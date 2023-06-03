@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:neivealine_shards_from_neivealine"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:neivealine"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:neivealine_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

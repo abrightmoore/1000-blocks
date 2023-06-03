@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:del_from_del_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:del_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:del"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

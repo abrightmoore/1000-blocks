@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:drdr_from_drdr_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:drdr_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:drdr"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

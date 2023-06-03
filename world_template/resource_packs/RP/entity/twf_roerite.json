@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_roerite.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_ecrdeenaite"
+            }, 
+            "identifier": "twf:roerite", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#252529", 
+                "overlay_color": "#CF1B57"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_roerite"
+            }
+        }
+    }
+}

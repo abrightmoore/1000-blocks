@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:axeitaline_shards_from_axeitaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:axeitaline"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:axeitaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

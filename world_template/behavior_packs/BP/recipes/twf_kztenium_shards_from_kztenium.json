@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:kztenium_shards_from_kztenium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:kztenium"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:kztenium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

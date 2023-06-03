@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:omeye_from_omeye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:omeye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:omeye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

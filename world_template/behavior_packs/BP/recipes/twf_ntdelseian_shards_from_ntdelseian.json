@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ntdelseian_shards_from_ntdelseian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ntdelseian"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:ntdelseian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

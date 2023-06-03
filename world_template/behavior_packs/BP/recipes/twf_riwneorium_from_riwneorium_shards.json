@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:riwneorium_from_riwneorium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:riwneorium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:riwneorium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

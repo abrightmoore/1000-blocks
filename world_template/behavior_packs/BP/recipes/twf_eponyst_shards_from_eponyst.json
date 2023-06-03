@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eponyst_shards_from_eponyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:eponyst"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:eponyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

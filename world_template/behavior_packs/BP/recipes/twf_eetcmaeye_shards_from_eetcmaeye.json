@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eetcmaeye_shards_from_eetcmaeye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:eetcmaeye"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:eetcmaeye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

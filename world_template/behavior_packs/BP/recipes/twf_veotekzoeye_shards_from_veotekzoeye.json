@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:veotekzoeye_shards_from_veotekzoeye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:veotekzoeye"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:veotekzoeye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

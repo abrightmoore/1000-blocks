@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:lb_shards_from_lb"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:lb"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:lb_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

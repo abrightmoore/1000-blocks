@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:mbihor_from_mbihor_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:mbihor_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:mbihor"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

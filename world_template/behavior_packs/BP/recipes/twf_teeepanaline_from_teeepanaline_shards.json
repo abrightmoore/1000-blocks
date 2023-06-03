@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:teeepanaline_from_teeepanaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:teeepanaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:teeepanaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

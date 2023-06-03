@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tcrivia_shards_from_tcrivia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:tcrivia"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:tcrivia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

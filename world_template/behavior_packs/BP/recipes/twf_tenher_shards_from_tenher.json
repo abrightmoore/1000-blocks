@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tenher_shards_from_tenher"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:tenher"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:tenher_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:wireened_shards_from_wireened"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:wireened"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:wireened_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

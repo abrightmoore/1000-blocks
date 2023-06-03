@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:traline_from_traline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:traline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:traline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

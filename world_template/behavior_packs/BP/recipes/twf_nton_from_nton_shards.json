@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nton_from_nton_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:nton_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:nton"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

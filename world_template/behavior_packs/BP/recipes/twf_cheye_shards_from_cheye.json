@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:cheye_shards_from_cheye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:cheye"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:cheye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

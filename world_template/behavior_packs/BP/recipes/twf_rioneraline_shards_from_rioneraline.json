@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rioneraline_shards_from_rioneraline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:rioneraline"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:rioneraline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

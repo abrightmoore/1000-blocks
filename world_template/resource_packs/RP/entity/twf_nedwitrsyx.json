@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_nedwitrsyx.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_nedwitrsyx"
+            }, 
+            "identifier": "twf:nedwitrsyx", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#3E4DB2", 
+                "overlay_color": "#41CEF0"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_nedwitrsyx"
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_teemaonyx.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_b"
+            }, 
+            "identifier": "twf:teemaonyx", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#9743CD", 
+                "overlay_color": "#43EBC6"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_teemaonyx"
+            }
+        }
+    }
+}

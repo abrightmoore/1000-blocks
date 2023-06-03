@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erwbinedaline_shards_from_erwbinedaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:erwbinedaline"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:erwbinedaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

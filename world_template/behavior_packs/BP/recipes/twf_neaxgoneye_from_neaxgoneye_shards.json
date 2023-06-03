@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:neaxgoneye_from_neaxgoneye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:neaxgoneye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:neaxgoneye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

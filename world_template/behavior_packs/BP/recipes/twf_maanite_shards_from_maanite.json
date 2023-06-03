@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:maanite_shards_from_maanite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:maanite"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:maanite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

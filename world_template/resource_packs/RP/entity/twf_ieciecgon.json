@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_ieciecgon.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_epnannd"
+            }, 
+            "identifier": "twf:ieciecgon", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#86CC26", 
+                "overlay_color": "#1FE23E"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_ieciecgon"
+            }
+        }
+    }
+}

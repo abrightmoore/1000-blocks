@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:neig_from_neig_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:neig_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:neig"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

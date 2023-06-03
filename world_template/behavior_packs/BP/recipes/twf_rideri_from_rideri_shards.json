@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rideri_from_rideri_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:rideri_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rideri"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

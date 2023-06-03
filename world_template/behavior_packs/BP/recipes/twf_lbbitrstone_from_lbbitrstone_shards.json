@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:lbbitrstone_from_lbbitrstone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:lbbitrstone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:lbbitrstone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

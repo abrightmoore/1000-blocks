@@ -1,0 +1,26 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:spawn_rules": {
+		"description": {
+			"identifier": "twf:cyajztic",
+			"population_control": "monster"
+		},
+		"conditions": [
+			{
+				"minecraft:spawns_on_surface": {},
+				"minecraft:brightness_filter": {
+					"min": 0,
+					"max": 11,
+					"adjust_for_weather": true
+				},
+				"minecraft:weight": {
+					"default": 4
+				},
+				"minecraft:biome_filter": {
+                    "test": "has_biome_tag",
+                    "value": "monster"
+				}
+			}
+		]
+	}
+}

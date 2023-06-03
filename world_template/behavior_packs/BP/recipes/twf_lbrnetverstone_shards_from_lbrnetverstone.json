@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:lbrnetverstone_shards_from_lbrnetverstone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:lbrnetverstone"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:lbrnetverstone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

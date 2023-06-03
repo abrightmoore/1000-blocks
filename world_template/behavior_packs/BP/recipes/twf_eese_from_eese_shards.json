@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eese_from_eese_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:eese_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:eese"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

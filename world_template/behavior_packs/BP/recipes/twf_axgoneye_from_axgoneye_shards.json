@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:axgoneye_from_axgoneye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:axgoneye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:axgoneye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

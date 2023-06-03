@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:hogrixepian_shards_from_hogrixepian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:hogrixepian"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:hogrixepian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

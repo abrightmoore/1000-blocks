@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ereidgoyst_shards_from_ereidgoyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ereidgoyst"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:ereidgoyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_epiveyx.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_epiveyx"
+            }, 
+            "identifier": "twf:epiveyx", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#9743CD", 
+                "overlay_color": "#51E4FC"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_epiveyx"
+            }
+        }
+    }
+}

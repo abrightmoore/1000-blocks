@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_omthegoneye.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_omthegoneye"
+            }, 
+            "identifier": "twf:omthegoneye", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#D660D1", 
+                "overlay_color": "#D8D353"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_omthegoneye"
+            }
+        }
+    }
+}

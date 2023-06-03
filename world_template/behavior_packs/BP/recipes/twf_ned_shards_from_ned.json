@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ned_shards_from_ned"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ned"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:ned_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

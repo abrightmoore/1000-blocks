@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_kz.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_antivanteye"
+            }, 
+            "identifier": "twf:kz", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#252529", 
+                "overlay_color": "#962A09"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_kz"
+            }
+        }
+    }
+}

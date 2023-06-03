@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:neyx_shards_from_neyx"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:neyx"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:neyx_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:crepeium_from_crepeium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:crepeium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:crepeium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

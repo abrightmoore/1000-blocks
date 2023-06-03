@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_erwian.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_erwian"
+            }, 
+            "identifier": "twf:erwian", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#F4B2C9", 
+                "overlay_color": "#0C1FEF"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_erwian"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:agian_from_agian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:agian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:agian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:drazomelium_from_drazomelium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:drazomelium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:drazomelium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

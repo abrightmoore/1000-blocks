@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:pereepzomeye_shards_from_pereepzomeye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:pereepzomeye"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:pereepzomeye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

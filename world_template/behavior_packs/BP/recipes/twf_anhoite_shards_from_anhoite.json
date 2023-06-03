@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:anhoite_shards_from_anhoite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:anhoite"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:anhoite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

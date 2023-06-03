@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:theia_shards_from_theia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:theia"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:theia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

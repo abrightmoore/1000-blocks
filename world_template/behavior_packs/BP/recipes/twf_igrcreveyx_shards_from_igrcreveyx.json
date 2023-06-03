@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:igrcreveyx_shards_from_igrcreveyx"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:igrcreveyx"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:igrcreveyx_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

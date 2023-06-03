@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_tregorevian.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_d"
+            }, 
+            "identifier": "twf:tregorevian", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#4EC5E7", 
+                "overlay_color": "#91E6D8"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_tregorevian"
+            }
+        }
+    }
+}

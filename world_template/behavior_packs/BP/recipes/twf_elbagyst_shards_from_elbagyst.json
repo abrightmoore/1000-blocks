@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:elbagyst_shards_from_elbagyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:elbagyst"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:elbagyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

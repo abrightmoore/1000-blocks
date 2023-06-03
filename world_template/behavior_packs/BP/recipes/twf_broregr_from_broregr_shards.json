@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:broregr_from_broregr_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:broregr_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:broregr"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

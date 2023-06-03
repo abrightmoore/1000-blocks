@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:axbroia_from_axbroia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:axbroia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:axbroia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

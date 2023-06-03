@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rivnderian_shards_from_rivnderian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:rivnderian"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:rivnderian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_delerw.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_eriecyst"
+            }, 
+            "identifier": "twf:delerw", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#86CC26", 
+                "overlay_color": "#33D8DF"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_delerw"
+            }
+        }
+    }
+}

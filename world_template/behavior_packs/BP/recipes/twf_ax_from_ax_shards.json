@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ax_from_ax_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:ax_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ax"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

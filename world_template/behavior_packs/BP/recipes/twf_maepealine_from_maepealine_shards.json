@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:maepealine_from_maepealine_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:maepealine_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:maepealine"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

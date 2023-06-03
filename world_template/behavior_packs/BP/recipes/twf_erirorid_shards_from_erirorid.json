@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erirorid_shards_from_erirorid"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:erirorid"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:erirorid_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

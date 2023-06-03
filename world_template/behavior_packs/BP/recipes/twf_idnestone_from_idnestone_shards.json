@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:idnestone_from_idnestone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:idnestone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:idnestone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

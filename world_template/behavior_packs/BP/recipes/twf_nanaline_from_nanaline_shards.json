@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nanaline_from_nanaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:nanaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:nanaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

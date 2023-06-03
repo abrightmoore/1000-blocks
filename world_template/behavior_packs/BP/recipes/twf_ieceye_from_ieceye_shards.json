@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ieceye_from_ieceye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:ieceye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ieceye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

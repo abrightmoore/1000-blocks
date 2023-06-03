@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rogrizo_shards_from_rogrizo"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:rogrizo"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:rogrizo_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

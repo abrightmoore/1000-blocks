@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:biantreeye_from_biantreeye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:biantreeye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:biantreeye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

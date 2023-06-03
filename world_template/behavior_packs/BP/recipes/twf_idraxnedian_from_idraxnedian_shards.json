@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:idraxnedian_from_idraxnedian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:idraxnedian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:idraxnedian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eepmanmbiium_from_eepmanmbiium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:eepmanmbiium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:eepmanmbiium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

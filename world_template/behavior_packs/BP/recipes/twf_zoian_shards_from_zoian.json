@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:zoian_shards_from_zoian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:zoian"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:zoian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

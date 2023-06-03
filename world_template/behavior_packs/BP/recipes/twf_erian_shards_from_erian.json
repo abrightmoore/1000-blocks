@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erian_shards_from_erian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:erian"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:erian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

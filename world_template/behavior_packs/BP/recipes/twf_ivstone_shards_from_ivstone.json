@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ivstone_shards_from_ivstone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ivstone"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:ivstone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

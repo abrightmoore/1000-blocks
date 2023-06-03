@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ethckzwit_shards_from_ethckzwit"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ethckzwit"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:ethckzwit_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

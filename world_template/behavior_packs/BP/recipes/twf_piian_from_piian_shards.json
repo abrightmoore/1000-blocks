@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:piian_from_piian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:piian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:piian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

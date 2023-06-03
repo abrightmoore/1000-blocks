@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:zoendium_from_zoendium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:zoendium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:zoendium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

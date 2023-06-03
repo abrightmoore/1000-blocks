@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epirentaline_shards_from_epirentaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:epirentaline"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:epirentaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

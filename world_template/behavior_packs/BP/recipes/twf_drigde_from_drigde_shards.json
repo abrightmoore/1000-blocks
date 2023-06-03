@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:drigde_from_drigde_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:drigde_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:drigde"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

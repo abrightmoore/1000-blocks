@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:neepeye_from_neepeye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:neepeye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:neepeye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

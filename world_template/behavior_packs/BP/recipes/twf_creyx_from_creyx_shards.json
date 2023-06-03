@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:creyx_from_creyx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:creyx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:creyx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

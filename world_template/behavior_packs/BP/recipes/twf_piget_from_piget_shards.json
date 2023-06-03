@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:piget_from_piget_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:piget_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:piget"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

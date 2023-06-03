@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:perchoyst_from_perchoyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:perchoyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:perchoyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

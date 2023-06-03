@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:antoneom_shards_from_antoneom"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:antoneom"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:antoneom_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

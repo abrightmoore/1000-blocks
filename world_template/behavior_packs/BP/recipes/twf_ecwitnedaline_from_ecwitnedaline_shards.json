@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ecwitnedaline_from_ecwitnedaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:ecwitnedaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ecwitnedaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:venre_from_venre_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:venre_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:venre"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

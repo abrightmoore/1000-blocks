@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_rielb.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_rielb"
+            }, 
+            "identifier": "twf:rielb", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#4EC5E7", 
+                "overlay_color": "#CB53B6"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_rielb"
+            }
+        }
+    }
+}

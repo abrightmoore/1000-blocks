@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:picstone_from_picstone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:picstone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:picstone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

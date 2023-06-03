@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ven_shards_from_ven"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ven"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:ven_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:semchdel_from_semchdel_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:semchdel_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:semchdel"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

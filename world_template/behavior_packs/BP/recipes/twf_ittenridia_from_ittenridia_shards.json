@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ittenridia_from_ittenridia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:ittenridia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ittenridia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

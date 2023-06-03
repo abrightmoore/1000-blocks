@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ndwitick_shards_from_ndwitick"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ndwitick"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:ndwitick_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

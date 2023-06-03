@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:manrebialine_from_manrebialine_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:manrebialine_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:manrebialine"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

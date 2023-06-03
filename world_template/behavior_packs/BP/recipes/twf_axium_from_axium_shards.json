@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:axium_from_axium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:axium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:axium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

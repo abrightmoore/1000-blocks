@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nagrtre_from_nagrtre_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:nagrtre_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:nagrtre"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

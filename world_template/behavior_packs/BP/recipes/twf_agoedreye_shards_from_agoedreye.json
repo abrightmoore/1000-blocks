@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:agoedreye_shards_from_agoedreye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:agoedreye"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:agoedreye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

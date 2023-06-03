@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:reembia_from_reembia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:reembia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:reembia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

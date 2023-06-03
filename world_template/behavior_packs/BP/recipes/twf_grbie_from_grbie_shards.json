@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:grbie_from_grbie_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:grbie_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:grbie"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

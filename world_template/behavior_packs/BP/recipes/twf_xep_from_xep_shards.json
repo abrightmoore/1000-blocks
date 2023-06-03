@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:xep_from_xep_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:xep_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:xep"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

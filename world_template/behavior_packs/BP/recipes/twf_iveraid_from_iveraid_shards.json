@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:iveraid_from_iveraid_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:iveraid_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:iveraid"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

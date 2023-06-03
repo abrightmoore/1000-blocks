@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:manmbpicyx_shards_from_manmbpicyx"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:manmbpicyx"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:manmbpicyx_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:picidite_shards_from_picidite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:picidite"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:picidite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

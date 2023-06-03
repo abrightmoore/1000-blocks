@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:omemagryx_from_omemagryx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:omemagryx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:omemagryx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

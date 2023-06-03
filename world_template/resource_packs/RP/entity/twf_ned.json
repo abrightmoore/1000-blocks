@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_ned.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_ned"
+            }, 
+            "identifier": "twf:ned", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#B8342C", 
+                "overlay_color": "#938C7F"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_ned"
+            }
+        }
+    }
+}

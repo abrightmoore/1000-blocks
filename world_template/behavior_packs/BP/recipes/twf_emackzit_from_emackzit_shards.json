@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:emackzit_from_emackzit_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:emackzit_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:emackzit"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

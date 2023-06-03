@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:delerw_from_delerw_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:delerw_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:delerw"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

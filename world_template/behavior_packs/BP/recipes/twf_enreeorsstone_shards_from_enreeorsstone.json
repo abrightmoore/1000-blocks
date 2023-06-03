@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:enreeorsstone_shards_from_enreeorsstone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:enreeorsstone"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:enreeorsstone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

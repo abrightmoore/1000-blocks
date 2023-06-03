@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:verivre_from_verivre_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:verivre_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:verivre"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

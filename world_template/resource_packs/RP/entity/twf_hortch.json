@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_hortch.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_hortch"
+            }, 
+            "identifier": "twf:hortch", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#D660D1", 
+                "overlay_color": "#F97DD3"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_hortch"
+            }
+        }
+    }
+}

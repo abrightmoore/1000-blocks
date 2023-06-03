@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:manntr_shards_from_manntr"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:manntr"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:manntr_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

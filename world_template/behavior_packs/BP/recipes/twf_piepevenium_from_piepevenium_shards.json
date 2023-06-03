@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:piepevenium_from_piepevenium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:piepevenium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:piepevenium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

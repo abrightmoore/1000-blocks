@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:winanyst_from_winanyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:winanyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:winanyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

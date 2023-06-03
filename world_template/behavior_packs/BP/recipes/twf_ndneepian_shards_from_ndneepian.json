@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ndneepian_shards_from_ndneepian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ndneepian"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:ndneepian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

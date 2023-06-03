@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:iveertenite_from_iveertenite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:iveertenite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:iveertenite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

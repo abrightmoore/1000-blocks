@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ivow_shards_from_ivow"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ivow"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:ivow_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

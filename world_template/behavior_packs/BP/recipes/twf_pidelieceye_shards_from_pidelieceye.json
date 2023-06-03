@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:pidelieceye_shards_from_pidelieceye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:pidelieceye"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:pidelieceye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

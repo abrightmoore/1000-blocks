@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:omthegoneye_from_omthegoneye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:omthegoneye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:omthegoneye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

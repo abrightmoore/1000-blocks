@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:xewnmaneye_shards_from_xewnmaneye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:xewnmaneye"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:xewnmaneye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

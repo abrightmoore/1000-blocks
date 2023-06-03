@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:neyst_from_neyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:neyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:neyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

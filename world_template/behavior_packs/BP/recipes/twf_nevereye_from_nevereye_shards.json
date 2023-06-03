@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nevereye_from_nevereye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:nevereye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:nevereye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

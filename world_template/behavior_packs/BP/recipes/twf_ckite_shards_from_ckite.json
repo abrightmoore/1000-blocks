@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ckite_shards_from_ckite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ckite"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:ckite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

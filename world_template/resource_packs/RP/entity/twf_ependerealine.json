@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_ependerealine.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_lbyst"
+            }, 
+            "identifier": "twf:ependerealine", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#474F52", 
+                "overlay_color": "#98512D"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_ependerealine"
+            }
+        }
+    }
+}

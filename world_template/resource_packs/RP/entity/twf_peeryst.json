@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_peeryst.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_revidraline"
+            }, 
+            "identifier": "twf:peeryst", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#9D9D97", 
+                "overlay_color": "#9B44F1"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_peeryst"
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_wneow.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_icderwaline"
+            }, 
+            "identifier": "twf:wneow", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#4EC5E7", 
+                "overlay_color": "#C5F686"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_wneow"
+            }
+        }
+    }
+}

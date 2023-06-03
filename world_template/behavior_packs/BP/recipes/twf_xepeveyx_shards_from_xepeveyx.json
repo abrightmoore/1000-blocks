@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:xepeveyx_shards_from_xepeveyx"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:xepeveyx"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:xepeveyx_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

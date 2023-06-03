@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:manereiealine_shards_from_manereiealine"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:manereiealine"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:manereiealine_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

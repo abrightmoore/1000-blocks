@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:chobieia_shards_from_chobieia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:chobieia"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:chobieia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

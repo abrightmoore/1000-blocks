@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:horomyx_from_horomyx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:horomyx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:horomyx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

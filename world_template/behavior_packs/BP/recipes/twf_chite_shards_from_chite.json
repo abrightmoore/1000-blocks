@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:chite_shards_from_chite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:chite"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:chite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

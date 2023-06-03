@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ethedrian_shards_from_ethedrian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ethedrian"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:ethedrian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

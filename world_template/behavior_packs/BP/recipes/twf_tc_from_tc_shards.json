@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tc_from_tc_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:tc_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:tc"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

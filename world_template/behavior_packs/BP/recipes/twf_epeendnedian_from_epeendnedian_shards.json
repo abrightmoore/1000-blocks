@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epeendnedian_from_epeendnedian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:epeendnedian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:epeendnedian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

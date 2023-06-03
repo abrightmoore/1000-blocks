@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:iecre_from_iecre_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:iecre_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:iecre"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

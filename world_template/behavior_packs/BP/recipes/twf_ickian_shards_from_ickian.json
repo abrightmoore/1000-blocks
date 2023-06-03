@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ickian_shards_from_ickian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ickian"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:ickian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:elbickian_shards_from_elbickian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:elbickian"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:elbickian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

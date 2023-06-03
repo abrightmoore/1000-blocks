@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eriium_shards_from_eriium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:eriium"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:eriium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

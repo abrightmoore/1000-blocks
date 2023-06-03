@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_gonenrwaline.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_icderwaline"
+            }, 
+            "identifier": "twf:gonenrwaline", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#9743CD", 
+                "overlay_color": "#F868B3"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_gonenrwaline"
+            }
+        }
+    }
+}

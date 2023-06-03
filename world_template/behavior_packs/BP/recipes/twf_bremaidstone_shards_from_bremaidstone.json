@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:bremaidstone_shards_from_bremaidstone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:bremaidstone"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:bremaidstone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

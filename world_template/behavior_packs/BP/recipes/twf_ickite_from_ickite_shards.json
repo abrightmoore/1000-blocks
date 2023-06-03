@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ickite_from_ickite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:ickite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ickite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

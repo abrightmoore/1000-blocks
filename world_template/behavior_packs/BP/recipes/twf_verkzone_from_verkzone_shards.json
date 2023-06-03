@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:verkzone_from_verkzone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:verkzone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:verkzone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

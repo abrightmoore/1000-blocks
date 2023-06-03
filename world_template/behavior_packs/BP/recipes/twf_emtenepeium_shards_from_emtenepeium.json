@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:emtenepeium_shards_from_emtenepeium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:emtenepeium"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:emtenepeium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

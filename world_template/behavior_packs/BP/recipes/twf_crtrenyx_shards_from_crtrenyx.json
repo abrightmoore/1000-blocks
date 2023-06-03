@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:crtrenyx_shards_from_crtrenyx"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:crtrenyx"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:crtrenyx_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

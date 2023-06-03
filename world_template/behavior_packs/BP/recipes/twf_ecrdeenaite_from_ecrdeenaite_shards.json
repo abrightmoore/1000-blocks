@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ecrdeenaite_from_ecrdeenaite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:ecrdeenaite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ecrdeenaite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

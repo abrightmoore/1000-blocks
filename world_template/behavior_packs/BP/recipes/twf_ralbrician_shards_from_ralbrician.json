@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ralbrician_shards_from_ralbrician"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ralbrician"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:ralbrician_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

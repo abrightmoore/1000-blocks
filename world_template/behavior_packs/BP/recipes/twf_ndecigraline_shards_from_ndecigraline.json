@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ndecigraline_shards_from_ndecigraline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ndecigraline"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:ndecigraline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

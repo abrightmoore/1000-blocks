@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epevepic_from_epevepic_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:epevepic_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:epevepic"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

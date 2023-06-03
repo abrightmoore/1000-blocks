@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:horoia_shards_from_horoia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:horoia"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:horoia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

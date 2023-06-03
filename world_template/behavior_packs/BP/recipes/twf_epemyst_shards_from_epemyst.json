@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epemyst_shards_from_epemyst"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:epemyst"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:epemyst_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

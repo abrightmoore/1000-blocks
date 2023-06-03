@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:deleneep_shards_from_deleneep"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:deleneep"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:deleneep_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

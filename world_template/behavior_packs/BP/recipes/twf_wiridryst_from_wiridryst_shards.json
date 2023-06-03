@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:wiridryst_from_wiridryst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:wiridryst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:wiridryst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

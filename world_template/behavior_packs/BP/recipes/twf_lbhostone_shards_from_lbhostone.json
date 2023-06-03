@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:lbhostone_shards_from_lbhostone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:lbhostone"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:lbhostone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

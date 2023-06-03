@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rewitite_shards_from_rewitite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:rewitite"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:rewitite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

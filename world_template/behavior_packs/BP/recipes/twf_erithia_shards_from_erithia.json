@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erithia_shards_from_erithia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:erithia"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:erithia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

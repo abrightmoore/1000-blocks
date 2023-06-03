@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rodealine_shards_from_rodealine"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:rodealine"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:rodealine_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

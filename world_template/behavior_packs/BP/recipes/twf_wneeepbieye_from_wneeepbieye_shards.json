@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:wneeepbieye_from_wneeepbieye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:wneeepbieye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:wneeepbieye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

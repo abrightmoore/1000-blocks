@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:vengonian_shards_from_vengonian"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:vengonian"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:vengonian_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

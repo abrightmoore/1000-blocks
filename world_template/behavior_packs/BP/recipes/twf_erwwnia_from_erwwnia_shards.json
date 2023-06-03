@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erwwnia_from_erwwnia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:erwwnia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:erwwnia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:lbgrigaline_shards_from_lbgrigaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:lbgrigaline"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:lbgrigaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

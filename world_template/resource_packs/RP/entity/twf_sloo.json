@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_sloo.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_antivanteye"
+            }, 
+            "identifier": "twf:sloo", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#C08", 
+                "overlay_color": "#F9A5E3"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_sloo"
+            }
+        }
+    }
+}

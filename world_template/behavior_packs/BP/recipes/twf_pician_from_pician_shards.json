@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:pician_from_pician_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:pician_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:pician"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

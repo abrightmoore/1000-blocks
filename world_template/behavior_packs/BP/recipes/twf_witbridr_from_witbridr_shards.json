@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:witbridr_from_witbridr_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:witbridr_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:witbridr"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

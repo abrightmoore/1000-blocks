@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_rowrwikzoian.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_emaonote"
+            }, 
+            "identifier": "twf:rowrwikzoian", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#474F52", 
+                "overlay_color": "#CFC0BC"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_rowrwikzoian"
+            }
+        }
+    }
+}

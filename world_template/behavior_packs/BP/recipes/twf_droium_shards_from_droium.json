@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:droium_shards_from_droium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:droium"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:droium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

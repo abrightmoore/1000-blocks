@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:roitite_shards_from_roitite"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:roitite"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:roitite_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

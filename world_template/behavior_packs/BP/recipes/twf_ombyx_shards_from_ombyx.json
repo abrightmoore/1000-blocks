@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ombyx_shards_from_ombyx"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ombyx"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:ombyx_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

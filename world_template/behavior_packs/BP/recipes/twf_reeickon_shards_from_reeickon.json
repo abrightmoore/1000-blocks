@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:reeickon_shards_from_reeickon"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:reeickon"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:reeickon_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

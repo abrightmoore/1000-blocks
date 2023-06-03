@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ndyst_from_ndyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:ndyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ndyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

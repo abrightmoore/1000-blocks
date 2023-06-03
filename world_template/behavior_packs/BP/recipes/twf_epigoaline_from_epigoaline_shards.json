@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epigoaline_from_epigoaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:epigoaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:epigoaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

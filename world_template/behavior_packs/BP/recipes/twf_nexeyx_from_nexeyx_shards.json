@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nexeyx_from_nexeyx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:nexeyx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:nexeyx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

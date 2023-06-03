@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rivnastone_from_rivnastone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:rivnastone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rivnastone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

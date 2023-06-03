@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:oteecrian_from_oteecrian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 6, 
+                "item": "twf:oteecrian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:oteecrian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

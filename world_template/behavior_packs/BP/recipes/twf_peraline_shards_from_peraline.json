@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:peraline_shards_from_peraline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:peraline"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:peraline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

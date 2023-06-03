@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:gorsenealine_from_gorsenealine_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:gorsenealine_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:gorsenealine"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

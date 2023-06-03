@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:emium_from_emium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:emium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:emium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

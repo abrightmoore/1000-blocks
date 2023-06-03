@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:roicepaline_shards_from_roicepaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:roicepaline"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:roicepaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ckztreowia_from_ckztreowia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:ckztreowia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ckztreowia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

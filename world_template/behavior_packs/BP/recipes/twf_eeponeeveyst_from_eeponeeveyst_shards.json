@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eeponeeveyst_from_eeponeeveyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:eeponeeveyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:eeponeeveyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

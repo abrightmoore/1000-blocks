@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_igaline.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_igaline"
+            }, 
+            "identifier": "twf:igaline", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#F4B2C9", 
+                "overlay_color": "#FD6CF7"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_igaline"
+            }
+        }
+    }
+}

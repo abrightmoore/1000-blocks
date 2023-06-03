@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:annanaxeyx_shards_from_annanaxeyx"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:annanaxeyx"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:annanaxeyx_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

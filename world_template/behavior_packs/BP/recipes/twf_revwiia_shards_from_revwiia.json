@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:revwiia_shards_from_revwiia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:revwiia"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:revwiia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

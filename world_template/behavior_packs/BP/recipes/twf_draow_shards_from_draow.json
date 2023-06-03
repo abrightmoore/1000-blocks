@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:draow_shards_from_draow"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:draow"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:draow_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

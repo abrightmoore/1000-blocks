@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:kzckztcia_shards_from_kzckztcia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:kzckztcia"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:kzckztcia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

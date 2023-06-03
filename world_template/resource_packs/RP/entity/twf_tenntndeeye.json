@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_tenntndeeye.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_tenntndeeye"
+            }, 
+            "identifier": "twf:tenntndeeye", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#FED93F", 
+                "overlay_color": "#A0E921"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_tenntndeeye"
+            }
+        }
+    }
+}

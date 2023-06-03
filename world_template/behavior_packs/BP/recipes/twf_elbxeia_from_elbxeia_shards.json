@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:elbxeia_from_elbxeia_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:elbxeia_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:elbxeia"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

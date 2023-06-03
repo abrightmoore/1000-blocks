@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:oneridia_shards_from_oneridia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:oneridia"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:oneridia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

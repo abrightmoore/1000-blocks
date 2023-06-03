@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:thrirev_from_thrirev_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:thrirev_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:thrirev"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

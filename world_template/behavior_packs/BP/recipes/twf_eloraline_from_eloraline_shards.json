@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eloraline_from_eloraline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:eloraline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:eloraline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

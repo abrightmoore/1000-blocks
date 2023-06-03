@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:thrangium_shards_from_thrangium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:thrangium"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:thrangium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

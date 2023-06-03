@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ndepia_shards_from_ndepia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ndepia"
+            }
+        ], 
+        "result": {
+            "count": 6, 
+            "item": "twf:ndepia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

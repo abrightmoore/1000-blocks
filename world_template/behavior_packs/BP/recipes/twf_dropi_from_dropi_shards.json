@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:dropi_from_dropi_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:dropi_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:dropi"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:agzomeve_shards_from_agzomeve"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:agzomeve"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:agzomeve_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

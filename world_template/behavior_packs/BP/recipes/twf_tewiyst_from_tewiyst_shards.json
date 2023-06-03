@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tewiyst_from_tewiyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:tewiyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:tewiyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

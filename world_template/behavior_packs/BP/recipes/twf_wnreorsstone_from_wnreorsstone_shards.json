@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:wnreorsstone_from_wnreorsstone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:wnreorsstone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:wnreorsstone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

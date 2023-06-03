@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ivheho_from_ivheho_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:ivheho_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ivheho"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

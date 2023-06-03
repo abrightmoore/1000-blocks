@@ -1,0 +1,10045 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:entity": {
+		"description": {
+			"identifier": "twf:cyootoon",
+			"is_summonable": true,
+			"is_spawnable": true
+		},
+		"components": {
+			"minecraft:physics": {},
+			"minecraft:nameable": {},
+			"minecraft:movement.basic": {},
+			"minecraft:jump.static": {},
+			"minecraft:navigation.walk": {
+				"avoid_water": true,
+				"avoid_damage_blocks": true
+			},
+			"minecraft:behavior.random_stroll": {
+				"priority": 4,
+				"speed_multiplier": 0.8
+			},
+			"minecraft:experience_reward": {
+				"on_death": "(0.1)"
+			},
+			"minecraft:movement": {
+				"value": 0.2
+			},
+			"minecraft:custom_hit_test": {
+				"hitboxes": [{
+					"pivot": [0, 0.2, 0],
+					"width": 0.3,
+					"height": 0.3
+				}]
+			},
+            "minecraft:type_family": {
+                "family": [ "twf_cyootoon", "mob" ]
+            },
+            "minecraft:rideable": {
+              "seat_count": 1,
+              "family_types": [
+                "player"
+              ],
+              "seats": {
+                "position": [ 0.0, 0.3, 0.0 ]
+              }
+            },            
+            "minecraft:health": {
+                "value": 1,
+                "max": 1
+            },            
+            "minecraft:loot": {
+                "table": "loot_tables/entities/twf_cyootoon.json"
+            }
+		},
+		"events": {
+			"minecraft:entity_spawned": {
+				"randomize": [{
+						"add": {
+							"component_groups": ["twf:color_0"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_1"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_2"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_3"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_4"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_5"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_6"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_7"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_8"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_9"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_10"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_11"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_12"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_13"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_14"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_15"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_16"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_17"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_18"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_19"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_20"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_21"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_22"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_23"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_24"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_25"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_26"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_27"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_28"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_29"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_30"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_31"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_32"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_33"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_34"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_35"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_36"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_37"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_38"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_39"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_40"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_41"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_42"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_43"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_44"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_45"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_46"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_47"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_48"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_49"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_50"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_51"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_52"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_53"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_54"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_55"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_56"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_57"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_58"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_59"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_60"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_61"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_62"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_63"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_64"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_65"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_66"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_67"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_68"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_69"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_70"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_71"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_72"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_73"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_74"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_75"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_76"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_77"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_78"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_79"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_80"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_81"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_82"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_83"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_84"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_85"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_86"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_87"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_88"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_89"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_90"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_91"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_92"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_93"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_94"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_95"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_96"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_97"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_98"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_99"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_100"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_101"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_102"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_103"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_104"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_105"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_106"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_107"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_108"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_109"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_110"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_111"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_112"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_113"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_114"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_115"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_116"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_117"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_118"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_119"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_120"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_121"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_122"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_123"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_124"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_125"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_126"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_127"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_128"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_129"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_130"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_131"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_132"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_133"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_134"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_135"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_136"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_137"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_138"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_139"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_140"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_141"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_142"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_143"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_144"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_145"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_146"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_147"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_148"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_149"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_150"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_151"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_152"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_153"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_154"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_155"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_156"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_157"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_158"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_159"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_160"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_161"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_162"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_163"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_164"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_165"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_166"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_167"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_168"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_169"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_170"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_171"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_172"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_173"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_174"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_175"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_176"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_177"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_178"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_179"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_180"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_181"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_182"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_183"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_184"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_185"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_186"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_187"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_188"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_189"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_190"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_191"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_192"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_193"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_194"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_195"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_196"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_197"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_198"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_199"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_200"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_201"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_202"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_203"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_204"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_205"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_206"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_207"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_208"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_209"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_210"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_211"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_212"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_213"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_214"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_215"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_216"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_217"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_218"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_219"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_220"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_221"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_222"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_223"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_224"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_225"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_226"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_227"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_228"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_229"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_230"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_231"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_232"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_233"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_234"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_235"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_236"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_237"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_238"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_239"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_240"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_241"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_242"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_243"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_244"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_245"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_246"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_247"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_248"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_249"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_250"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_251"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_252"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_253"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_254"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_255"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_256"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_257"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_258"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_259"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_260"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_261"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_262"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_263"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_264"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_265"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_266"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_267"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_268"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_269"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_270"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_271"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_272"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_273"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_274"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_275"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_276"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_277"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_278"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_279"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_280"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_281"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_282"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_283"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_284"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_285"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_286"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_287"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_288"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_289"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_290"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_291"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_292"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_293"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_294"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_295"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_296"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_297"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_298"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_299"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_300"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_301"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_302"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_303"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_304"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_305"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_306"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_307"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_308"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_309"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_310"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_311"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_312"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_313"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_314"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_315"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_316"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_317"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_318"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_319"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_320"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_321"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_322"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_323"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_324"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_325"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_326"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_327"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_328"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_329"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_330"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_331"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_332"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_333"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_334"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_335"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_336"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_337"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_338"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_339"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_340"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_341"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_342"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_343"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_344"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_345"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_346"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_347"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_348"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_349"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_350"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_351"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_352"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_353"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_354"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_355"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_356"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_357"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_358"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_359"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_360"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_361"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_362"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_363"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_364"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_365"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_366"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_367"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_368"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_369"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_370"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_371"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_372"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_373"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_374"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_375"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_376"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_377"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_378"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_379"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_380"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_381"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_382"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_383"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_384"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_385"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_386"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_387"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_388"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_389"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_390"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_391"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_392"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_393"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_394"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_395"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_396"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_397"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_398"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_399"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_400"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_401"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_402"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_403"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_404"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_405"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_406"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_407"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_408"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_409"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_410"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_411"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_412"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_413"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_414"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_415"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_416"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_417"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_418"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_419"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_420"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_421"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_422"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_423"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_424"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_425"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_426"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_427"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_428"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_429"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_430"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_431"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_432"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_433"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_434"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_435"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_436"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_437"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_438"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_439"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_440"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_441"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_442"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_443"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_444"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_445"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_446"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_447"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_448"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_449"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_450"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_451"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_452"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_453"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_454"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_455"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_456"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_457"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_458"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_459"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_460"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_461"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_462"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_463"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_464"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_465"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_466"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_467"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_468"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_469"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_470"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_471"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_472"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_473"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_474"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_475"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_476"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_477"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_478"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_479"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_480"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_481"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_482"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_483"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_484"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_485"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_486"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_487"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_488"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_489"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_490"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_491"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_492"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_493"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_494"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_495"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_496"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_497"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_498"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_499"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_500"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_501"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_502"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_503"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_504"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_505"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_506"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_507"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_508"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_509"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_510"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_511"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_512"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_513"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_514"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_515"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_516"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_517"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_518"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_519"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_520"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_521"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_522"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_523"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_524"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_525"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_526"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_527"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_528"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_529"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_530"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_531"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_532"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_533"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_534"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_535"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_536"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_537"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_538"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_539"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_540"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_541"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_542"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_543"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_544"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_545"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_546"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_547"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_548"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_549"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_550"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_551"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_552"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_553"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_554"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_555"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_556"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_557"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_558"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_559"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_560"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_561"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_562"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_563"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_564"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_565"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_566"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_567"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_568"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_569"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_570"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_571"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_572"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_573"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_574"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_575"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_576"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_577"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_578"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_579"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_580"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_581"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_582"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_583"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_584"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_585"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_586"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_587"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_588"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_589"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_590"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_591"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_592"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_593"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_594"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_595"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_596"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_597"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_598"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_599"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_600"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_601"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_602"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_603"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_604"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_605"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_606"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_607"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_608"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_609"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_610"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_611"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_612"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_613"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_614"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_615"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_616"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_617"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_618"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_619"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_620"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_621"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_622"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_623"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_624"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_625"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_626"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_627"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_628"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_629"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_630"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_631"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_632"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_633"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_634"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_635"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_636"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_637"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_638"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_639"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_640"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_641"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_642"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_643"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_644"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_645"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_646"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_647"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_648"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_649"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_650"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_651"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_652"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_653"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_654"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_655"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_656"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_657"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_658"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_659"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_660"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_661"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_662"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_663"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_664"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_665"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_666"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_667"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_668"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_669"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_670"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_671"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_672"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_673"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_674"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_675"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_676"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_677"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_678"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_679"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_680"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_681"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_682"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_683"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_684"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_685"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_686"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_687"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_688"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_689"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_690"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_691"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_692"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_693"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_694"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_695"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_696"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_697"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_698"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_699"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_700"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_701"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_702"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_703"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_704"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_705"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_706"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_707"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_708"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_709"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_710"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_711"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_712"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_713"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_714"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_715"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_716"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_717"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_718"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_719"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_720"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_721"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_722"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_723"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_724"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_725"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_726"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_727"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_728"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_729"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_730"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_731"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_732"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_733"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_734"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_735"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_736"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_737"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_738"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_739"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_740"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_741"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_742"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_743"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_744"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_745"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_746"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_747"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_748"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_749"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_750"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_751"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_752"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_753"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_754"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_755"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_756"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_757"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_758"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_759"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_760"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_761"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_762"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_763"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_764"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_765"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_766"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_767"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_768"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_769"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_770"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_771"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_772"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_773"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_774"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_775"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_776"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_777"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_778"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_779"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_780"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_781"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_782"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_783"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_784"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_785"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_786"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_787"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_788"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_789"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_790"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_791"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_792"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_793"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_794"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_795"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_796"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_797"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_798"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_799"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_800"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_801"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_802"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_803"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_804"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_805"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_806"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_807"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_808"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_809"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_810"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_811"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_812"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_813"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_814"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_815"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_816"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_817"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_818"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_819"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_820"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_821"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_822"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_823"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_824"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_825"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_826"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_827"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_828"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_829"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_830"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_831"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_832"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_833"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_834"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_835"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_836"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_837"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_838"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_839"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_840"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_841"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_842"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_843"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_844"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_845"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_846"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_847"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_848"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_849"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_850"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_851"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_852"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_853"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_854"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_855"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_856"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_857"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_858"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_859"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_860"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_861"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_862"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_863"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_864"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_865"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_866"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_867"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_868"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_869"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_870"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_871"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_872"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_873"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_874"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_875"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_876"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_877"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_878"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_879"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_880"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_881"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_882"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_883"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_884"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_885"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_886"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_887"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_888"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_889"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_890"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_891"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_892"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_893"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_894"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_895"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_896"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_897"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_898"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_899"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_900"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_901"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_902"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_903"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_904"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_905"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_906"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_907"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_908"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_909"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_910"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_911"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_912"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_913"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_914"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_915"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_916"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_917"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_918"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_919"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_920"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_921"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_922"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_923"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_924"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_925"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_926"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_927"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_928"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_929"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_930"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_931"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_932"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_933"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_934"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_935"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_936"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_937"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_938"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_939"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_940"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_941"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_942"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_943"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_944"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_945"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_946"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_947"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_948"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_949"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_950"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_951"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_952"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_953"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_954"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_955"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_956"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_957"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_958"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_959"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_960"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_961"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_962"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_963"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_964"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_965"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_966"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_967"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_968"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_969"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_970"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_971"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_972"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_973"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_974"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_975"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_976"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_977"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_978"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_979"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_980"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_981"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_982"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_983"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_984"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_985"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_986"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_987"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_988"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_989"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_990"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_991"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_992"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_993"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_994"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_995"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_996"]
+						}
+					},
+					{
+						"add": {
+							"component_groups": ["twf:color_997"]
+						}
+					}
+				]
+			}
+		},
+		"component_groups": {
+			"twf:color_0": {
+				"minecraft:variant": {
+					"value": 0
+				}
+			},
+			"twf:color_1": {
+				"minecraft:variant": {
+					"value": 1
+				}
+			},
+			"twf:color_2": {
+				"minecraft:variant": {
+					"value": 2
+				}
+			},
+			"twf:color_3": {
+				"minecraft:variant": {
+					"value": 3
+				}
+			},
+			"twf:color_4": {
+				"minecraft:variant": {
+					"value": 4
+				}
+			},
+			"twf:color_5": {
+				"minecraft:variant": {
+					"value": 5
+				}
+			},
+			"twf:color_6": {
+				"minecraft:variant": {
+					"value": 6
+				}
+			},
+			"twf:color_7": {
+				"minecraft:variant": {
+					"value": 7
+				}
+			},
+			"twf:color_8": {
+				"minecraft:variant": {
+					"value": 8
+				}
+			},
+			"twf:color_9": {
+				"minecraft:variant": {
+					"value": 9
+				}
+			},
+			"twf:color_10": {
+				"minecraft:variant": {
+					"value": 10
+				}
+			},
+			"twf:color_11": {
+				"minecraft:variant": {
+					"value": 11
+				}
+			},
+			"twf:color_12": {
+				"minecraft:variant": {
+					"value": 12
+				}
+			},
+			"twf:color_13": {
+				"minecraft:variant": {
+					"value": 13
+				}
+			},
+			"twf:color_14": {
+				"minecraft:variant": {
+					"value": 14
+				}
+			},
+			"twf:color_15": {
+				"minecraft:variant": {
+					"value": 15
+				}
+			},
+			"twf:color_16": {
+				"minecraft:variant": {
+					"value": 16
+				}
+			},
+			"twf:color_17": {
+				"minecraft:variant": {
+					"value": 17
+				}
+			},
+			"twf:color_18": {
+				"minecraft:variant": {
+					"value": 18
+				}
+			},
+			"twf:color_19": {
+				"minecraft:variant": {
+					"value": 19
+				}
+			},
+			"twf:color_20": {
+				"minecraft:variant": {
+					"value": 20
+				}
+			},
+			"twf:color_21": {
+				"minecraft:variant": {
+					"value": 21
+				}
+			},
+			"twf:color_22": {
+				"minecraft:variant": {
+					"value": 22
+				}
+			},
+			"twf:color_23": {
+				"minecraft:variant": {
+					"value": 23
+				}
+			},
+			"twf:color_24": {
+				"minecraft:variant": {
+					"value": 24
+				}
+			},
+			"twf:color_25": {
+				"minecraft:variant": {
+					"value": 25
+				}
+			},
+			"twf:color_26": {
+				"minecraft:variant": {
+					"value": 26
+				}
+			},
+			"twf:color_27": {
+				"minecraft:variant": {
+					"value": 27
+				}
+			},
+			"twf:color_28": {
+				"minecraft:variant": {
+					"value": 28
+				}
+			},
+			"twf:color_29": {
+				"minecraft:variant": {
+					"value": 29
+				}
+			},
+			"twf:color_30": {
+				"minecraft:variant": {
+					"value": 30
+				}
+			},
+			"twf:color_31": {
+				"minecraft:variant": {
+					"value": 31
+				}
+			},
+			"twf:color_32": {
+				"minecraft:variant": {
+					"value": 32
+				}
+			},
+			"twf:color_33": {
+				"minecraft:variant": {
+					"value": 33
+				}
+			},
+			"twf:color_34": {
+				"minecraft:variant": {
+					"value": 34
+				}
+			},
+			"twf:color_35": {
+				"minecraft:variant": {
+					"value": 35
+				}
+			},
+			"twf:color_36": {
+				"minecraft:variant": {
+					"value": 36
+				}
+			},
+			"twf:color_37": {
+				"minecraft:variant": {
+					"value": 37
+				}
+			},
+			"twf:color_38": {
+				"minecraft:variant": {
+					"value": 38
+				}
+			},
+			"twf:color_39": {
+				"minecraft:variant": {
+					"value": 39
+				}
+			},
+			"twf:color_40": {
+				"minecraft:variant": {
+					"value": 40
+				}
+			},
+			"twf:color_41": {
+				"minecraft:variant": {
+					"value": 41
+				}
+			},
+			"twf:color_42": {
+				"minecraft:variant": {
+					"value": 42
+				}
+			},
+			"twf:color_43": {
+				"minecraft:variant": {
+					"value": 43
+				}
+			},
+			"twf:color_44": {
+				"minecraft:variant": {
+					"value": 44
+				}
+			},
+			"twf:color_45": {
+				"minecraft:variant": {
+					"value": 45
+				}
+			},
+			"twf:color_46": {
+				"minecraft:variant": {
+					"value": 46
+				}
+			},
+			"twf:color_47": {
+				"minecraft:variant": {
+					"value": 47
+				}
+			},
+			"twf:color_48": {
+				"minecraft:variant": {
+					"value": 48
+				}
+			},
+			"twf:color_49": {
+				"minecraft:variant": {
+					"value": 49
+				}
+			},
+			"twf:color_50": {
+				"minecraft:variant": {
+					"value": 50
+				}
+			},
+			"twf:color_51": {
+				"minecraft:variant": {
+					"value": 51
+				}
+			},
+			"twf:color_52": {
+				"minecraft:variant": {
+					"value": 52
+				}
+			},
+			"twf:color_53": {
+				"minecraft:variant": {
+					"value": 53
+				}
+			},
+			"twf:color_54": {
+				"minecraft:variant": {
+					"value": 54
+				}
+			},
+			"twf:color_55": {
+				"minecraft:variant": {
+					"value": 55
+				}
+			},
+			"twf:color_56": {
+				"minecraft:variant": {
+					"value": 56
+				}
+			},
+			"twf:color_57": {
+				"minecraft:variant": {
+					"value": 57
+				}
+			},
+			"twf:color_58": {
+				"minecraft:variant": {
+					"value": 58
+				}
+			},
+			"twf:color_59": {
+				"minecraft:variant": {
+					"value": 59
+				}
+			},
+			"twf:color_60": {
+				"minecraft:variant": {
+					"value": 60
+				}
+			},
+			"twf:color_61": {
+				"minecraft:variant": {
+					"value": 61
+				}
+			},
+			"twf:color_62": {
+				"minecraft:variant": {
+					"value": 62
+				}
+			},
+			"twf:color_63": {
+				"minecraft:variant": {
+					"value": 63
+				}
+			},
+			"twf:color_64": {
+				"minecraft:variant": {
+					"value": 64
+				}
+			},
+			"twf:color_65": {
+				"minecraft:variant": {
+					"value": 65
+				}
+			},
+			"twf:color_66": {
+				"minecraft:variant": {
+					"value": 66
+				}
+			},
+			"twf:color_67": {
+				"minecraft:variant": {
+					"value": 67
+				}
+			},
+			"twf:color_68": {
+				"minecraft:variant": {
+					"value": 68
+				}
+			},
+			"twf:color_69": {
+				"minecraft:variant": {
+					"value": 69
+				}
+			},
+			"twf:color_70": {
+				"minecraft:variant": {
+					"value": 70
+				}
+			},
+			"twf:color_71": {
+				"minecraft:variant": {
+					"value": 71
+				}
+			},
+			"twf:color_72": {
+				"minecraft:variant": {
+					"value": 72
+				}
+			},
+			"twf:color_73": {
+				"minecraft:variant": {
+					"value": 73
+				}
+			},
+			"twf:color_74": {
+				"minecraft:variant": {
+					"value": 74
+				}
+			},
+			"twf:color_75": {
+				"minecraft:variant": {
+					"value": 75
+				}
+			},
+			"twf:color_76": {
+				"minecraft:variant": {
+					"value": 76
+				}
+			},
+			"twf:color_77": {
+				"minecraft:variant": {
+					"value": 77
+				}
+			},
+			"twf:color_78": {
+				"minecraft:variant": {
+					"value": 78
+				}
+			},
+			"twf:color_79": {
+				"minecraft:variant": {
+					"value": 79
+				}
+			},
+			"twf:color_80": {
+				"minecraft:variant": {
+					"value": 80
+				}
+			},
+			"twf:color_81": {
+				"minecraft:variant": {
+					"value": 81
+				}
+			},
+			"twf:color_82": {
+				"minecraft:variant": {
+					"value": 82
+				}
+			},
+			"twf:color_83": {
+				"minecraft:variant": {
+					"value": 83
+				}
+			},
+			"twf:color_84": {
+				"minecraft:variant": {
+					"value": 84
+				}
+			},
+			"twf:color_85": {
+				"minecraft:variant": {
+					"value": 85
+				}
+			},
+			"twf:color_86": {
+				"minecraft:variant": {
+					"value": 86
+				}
+			},
+			"twf:color_87": {
+				"minecraft:variant": {
+					"value": 87
+				}
+			},
+			"twf:color_88": {
+				"minecraft:variant": {
+					"value": 88
+				}
+			},
+			"twf:color_89": {
+				"minecraft:variant": {
+					"value": 89
+				}
+			},
+			"twf:color_90": {
+				"minecraft:variant": {
+					"value": 90
+				}
+			},
+			"twf:color_91": {
+				"minecraft:variant": {
+					"value": 91
+				}
+			},
+			"twf:color_92": {
+				"minecraft:variant": {
+					"value": 92
+				}
+			},
+			"twf:color_93": {
+				"minecraft:variant": {
+					"value": 93
+				}
+			},
+			"twf:color_94": {
+				"minecraft:variant": {
+					"value": 94
+				}
+			},
+			"twf:color_95": {
+				"minecraft:variant": {
+					"value": 95
+				}
+			},
+			"twf:color_96": {
+				"minecraft:variant": {
+					"value": 96
+				}
+			},
+			"twf:color_97": {
+				"minecraft:variant": {
+					"value": 97
+				}
+			},
+			"twf:color_98": {
+				"minecraft:variant": {
+					"value": 98
+				}
+			},
+			"twf:color_99": {
+				"minecraft:variant": {
+					"value": 99
+				}
+			},
+			"twf:color_100": {
+				"minecraft:variant": {
+					"value": 100
+				}
+			},
+			"twf:color_101": {
+				"minecraft:variant": {
+					"value": 101
+				}
+			},
+			"twf:color_102": {
+				"minecraft:variant": {
+					"value": 102
+				}
+			},
+			"twf:color_103": {
+				"minecraft:variant": {
+					"value": 103
+				}
+			},
+			"twf:color_104": {
+				"minecraft:variant": {
+					"value": 104
+				}
+			},
+			"twf:color_105": {
+				"minecraft:variant": {
+					"value": 105
+				}
+			},
+			"twf:color_106": {
+				"minecraft:variant": {
+					"value": 106
+				}
+			},
+			"twf:color_107": {
+				"minecraft:variant": {
+					"value": 107
+				}
+			},
+			"twf:color_108": {
+				"minecraft:variant": {
+					"value": 108
+				}
+			},
+			"twf:color_109": {
+				"minecraft:variant": {
+					"value": 109
+				}
+			},
+			"twf:color_110": {
+				"minecraft:variant": {
+					"value": 110
+				}
+			},
+			"twf:color_111": {
+				"minecraft:variant": {
+					"value": 111
+				}
+			},
+			"twf:color_112": {
+				"minecraft:variant": {
+					"value": 112
+				}
+			},
+			"twf:color_113": {
+				"minecraft:variant": {
+					"value": 113
+				}
+			},
+			"twf:color_114": {
+				"minecraft:variant": {
+					"value": 114
+				}
+			},
+			"twf:color_115": {
+				"minecraft:variant": {
+					"value": 115
+				}
+			},
+			"twf:color_116": {
+				"minecraft:variant": {
+					"value": 116
+				}
+			},
+			"twf:color_117": {
+				"minecraft:variant": {
+					"value": 117
+				}
+			},
+			"twf:color_118": {
+				"minecraft:variant": {
+					"value": 118
+				}
+			},
+			"twf:color_119": {
+				"minecraft:variant": {
+					"value": 119
+				}
+			},
+			"twf:color_120": {
+				"minecraft:variant": {
+					"value": 120
+				}
+			},
+			"twf:color_121": {
+				"minecraft:variant": {
+					"value": 121
+				}
+			},
+			"twf:color_122": {
+				"minecraft:variant": {
+					"value": 122
+				}
+			},
+			"twf:color_123": {
+				"minecraft:variant": {
+					"value": 123
+				}
+			},
+			"twf:color_124": {
+				"minecraft:variant": {
+					"value": 124
+				}
+			},
+			"twf:color_125": {
+				"minecraft:variant": {
+					"value": 125
+				}
+			},
+			"twf:color_126": {
+				"minecraft:variant": {
+					"value": 126
+				}
+			},
+			"twf:color_127": {
+				"minecraft:variant": {
+					"value": 127
+				}
+			},
+			"twf:color_128": {
+				"minecraft:variant": {
+					"value": 128
+				}
+			},
+			"twf:color_129": {
+				"minecraft:variant": {
+					"value": 129
+				}
+			},
+			"twf:color_130": {
+				"minecraft:variant": {
+					"value": 130
+				}
+			},
+			"twf:color_131": {
+				"minecraft:variant": {
+					"value": 131
+				}
+			},
+			"twf:color_132": {
+				"minecraft:variant": {
+					"value": 132
+				}
+			},
+			"twf:color_133": {
+				"minecraft:variant": {
+					"value": 133
+				}
+			},
+			"twf:color_134": {
+				"minecraft:variant": {
+					"value": 134
+				}
+			},
+			"twf:color_135": {
+				"minecraft:variant": {
+					"value": 135
+				}
+			},
+			"twf:color_136": {
+				"minecraft:variant": {
+					"value": 136
+				}
+			},
+			"twf:color_137": {
+				"minecraft:variant": {
+					"value": 137
+				}
+			},
+			"twf:color_138": {
+				"minecraft:variant": {
+					"value": 138
+				}
+			},
+			"twf:color_139": {
+				"minecraft:variant": {
+					"value": 139
+				}
+			},
+			"twf:color_140": {
+				"minecraft:variant": {
+					"value": 140
+				}
+			},
+			"twf:color_141": {
+				"minecraft:variant": {
+					"value": 141
+				}
+			},
+			"twf:color_142": {
+				"minecraft:variant": {
+					"value": 142
+				}
+			},
+			"twf:color_143": {
+				"minecraft:variant": {
+					"value": 143
+				}
+			},
+			"twf:color_144": {
+				"minecraft:variant": {
+					"value": 144
+				}
+			},
+			"twf:color_145": {
+				"minecraft:variant": {
+					"value": 145
+				}
+			},
+			"twf:color_146": {
+				"minecraft:variant": {
+					"value": 146
+				}
+			},
+			"twf:color_147": {
+				"minecraft:variant": {
+					"value": 147
+				}
+			},
+			"twf:color_148": {
+				"minecraft:variant": {
+					"value": 148
+				}
+			},
+			"twf:color_149": {
+				"minecraft:variant": {
+					"value": 149
+				}
+			},
+			"twf:color_150": {
+				"minecraft:variant": {
+					"value": 150
+				}
+			},
+			"twf:color_151": {
+				"minecraft:variant": {
+					"value": 151
+				}
+			},
+			"twf:color_152": {
+				"minecraft:variant": {
+					"value": 152
+				}
+			},
+			"twf:color_153": {
+				"minecraft:variant": {
+					"value": 153
+				}
+			},
+			"twf:color_154": {
+				"minecraft:variant": {
+					"value": 154
+				}
+			},
+			"twf:color_155": {
+				"minecraft:variant": {
+					"value": 155
+				}
+			},
+			"twf:color_156": {
+				"minecraft:variant": {
+					"value": 156
+				}
+			},
+			"twf:color_157": {
+				"minecraft:variant": {
+					"value": 157
+				}
+			},
+			"twf:color_158": {
+				"minecraft:variant": {
+					"value": 158
+				}
+			},
+			"twf:color_159": {
+				"minecraft:variant": {
+					"value": 159
+				}
+			},
+			"twf:color_160": {
+				"minecraft:variant": {
+					"value": 160
+				}
+			},
+			"twf:color_161": {
+				"minecraft:variant": {
+					"value": 161
+				}
+			},
+			"twf:color_162": {
+				"minecraft:variant": {
+					"value": 162
+				}
+			},
+			"twf:color_163": {
+				"minecraft:variant": {
+					"value": 163
+				}
+			},
+			"twf:color_164": {
+				"minecraft:variant": {
+					"value": 164
+				}
+			},
+			"twf:color_165": {
+				"minecraft:variant": {
+					"value": 165
+				}
+			},
+			"twf:color_166": {
+				"minecraft:variant": {
+					"value": 166
+				}
+			},
+			"twf:color_167": {
+				"minecraft:variant": {
+					"value": 167
+				}
+			},
+			"twf:color_168": {
+				"minecraft:variant": {
+					"value": 168
+				}
+			},
+			"twf:color_169": {
+				"minecraft:variant": {
+					"value": 169
+				}
+			},
+			"twf:color_170": {
+				"minecraft:variant": {
+					"value": 170
+				}
+			},
+			"twf:color_171": {
+				"minecraft:variant": {
+					"value": 171
+				}
+			},
+			"twf:color_172": {
+				"minecraft:variant": {
+					"value": 172
+				}
+			},
+			"twf:color_173": {
+				"minecraft:variant": {
+					"value": 173
+				}
+			},
+			"twf:color_174": {
+				"minecraft:variant": {
+					"value": 174
+				}
+			},
+			"twf:color_175": {
+				"minecraft:variant": {
+					"value": 175
+				}
+			},
+			"twf:color_176": {
+				"minecraft:variant": {
+					"value": 176
+				}
+			},
+			"twf:color_177": {
+				"minecraft:variant": {
+					"value": 177
+				}
+			},
+			"twf:color_178": {
+				"minecraft:variant": {
+					"value": 178
+				}
+			},
+			"twf:color_179": {
+				"minecraft:variant": {
+					"value": 179
+				}
+			},
+			"twf:color_180": {
+				"minecraft:variant": {
+					"value": 180
+				}
+			},
+			"twf:color_181": {
+				"minecraft:variant": {
+					"value": 181
+				}
+			},
+			"twf:color_182": {
+				"minecraft:variant": {
+					"value": 182
+				}
+			},
+			"twf:color_183": {
+				"minecraft:variant": {
+					"value": 183
+				}
+			},
+			"twf:color_184": {
+				"minecraft:variant": {
+					"value": 184
+				}
+			},
+			"twf:color_185": {
+				"minecraft:variant": {
+					"value": 185
+				}
+			},
+			"twf:color_186": {
+				"minecraft:variant": {
+					"value": 186
+				}
+			},
+			"twf:color_187": {
+				"minecraft:variant": {
+					"value": 187
+				}
+			},
+			"twf:color_188": {
+				"minecraft:variant": {
+					"value": 188
+				}
+			},
+			"twf:color_189": {
+				"minecraft:variant": {
+					"value": 189
+				}
+			},
+			"twf:color_190": {
+				"minecraft:variant": {
+					"value": 190
+				}
+			},
+			"twf:color_191": {
+				"minecraft:variant": {
+					"value": 191
+				}
+			},
+			"twf:color_192": {
+				"minecraft:variant": {
+					"value": 192
+				}
+			},
+			"twf:color_193": {
+				"minecraft:variant": {
+					"value": 193
+				}
+			},
+			"twf:color_194": {
+				"minecraft:variant": {
+					"value": 194
+				}
+			},
+			"twf:color_195": {
+				"minecraft:variant": {
+					"value": 195
+				}
+			},
+			"twf:color_196": {
+				"minecraft:variant": {
+					"value": 196
+				}
+			},
+			"twf:color_197": {
+				"minecraft:variant": {
+					"value": 197
+				}
+			},
+			"twf:color_198": {
+				"minecraft:variant": {
+					"value": 198
+				}
+			},
+			"twf:color_199": {
+				"minecraft:variant": {
+					"value": 199
+				}
+			},
+			"twf:color_200": {
+				"minecraft:variant": {
+					"value": 200
+				}
+			},
+			"twf:color_201": {
+				"minecraft:variant": {
+					"value": 201
+				}
+			},
+			"twf:color_202": {
+				"minecraft:variant": {
+					"value": 202
+				}
+			},
+			"twf:color_203": {
+				"minecraft:variant": {
+					"value": 203
+				}
+			},
+			"twf:color_204": {
+				"minecraft:variant": {
+					"value": 204
+				}
+			},
+			"twf:color_205": {
+				"minecraft:variant": {
+					"value": 205
+				}
+			},
+			"twf:color_206": {
+				"minecraft:variant": {
+					"value": 206
+				}
+			},
+			"twf:color_207": {
+				"minecraft:variant": {
+					"value": 207
+				}
+			},
+			"twf:color_208": {
+				"minecraft:variant": {
+					"value": 208
+				}
+			},
+			"twf:color_209": {
+				"minecraft:variant": {
+					"value": 209
+				}
+			},
+			"twf:color_210": {
+				"minecraft:variant": {
+					"value": 210
+				}
+			},
+			"twf:color_211": {
+				"minecraft:variant": {
+					"value": 211
+				}
+			},
+			"twf:color_212": {
+				"minecraft:variant": {
+					"value": 212
+				}
+			},
+			"twf:color_213": {
+				"minecraft:variant": {
+					"value": 213
+				}
+			},
+			"twf:color_214": {
+				"minecraft:variant": {
+					"value": 214
+				}
+			},
+			"twf:color_215": {
+				"minecraft:variant": {
+					"value": 215
+				}
+			},
+			"twf:color_216": {
+				"minecraft:variant": {
+					"value": 216
+				}
+			},
+			"twf:color_217": {
+				"minecraft:variant": {
+					"value": 217
+				}
+			},
+			"twf:color_218": {
+				"minecraft:variant": {
+					"value": 218
+				}
+			},
+			"twf:color_219": {
+				"minecraft:variant": {
+					"value": 219
+				}
+			},
+			"twf:color_220": {
+				"minecraft:variant": {
+					"value": 220
+				}
+			},
+			"twf:color_221": {
+				"minecraft:variant": {
+					"value": 221
+				}
+			},
+			"twf:color_222": {
+				"minecraft:variant": {
+					"value": 222
+				}
+			},
+			"twf:color_223": {
+				"minecraft:variant": {
+					"value": 223
+				}
+			},
+			"twf:color_224": {
+				"minecraft:variant": {
+					"value": 224
+				}
+			},
+			"twf:color_225": {
+				"minecraft:variant": {
+					"value": 225
+				}
+			},
+			"twf:color_226": {
+				"minecraft:variant": {
+					"value": 226
+				}
+			},
+			"twf:color_227": {
+				"minecraft:variant": {
+					"value": 227
+				}
+			},
+			"twf:color_228": {
+				"minecraft:variant": {
+					"value": 228
+				}
+			},
+			"twf:color_229": {
+				"minecraft:variant": {
+					"value": 229
+				}
+			},
+			"twf:color_230": {
+				"minecraft:variant": {
+					"value": 230
+				}
+			},
+			"twf:color_231": {
+				"minecraft:variant": {
+					"value": 231
+				}
+			},
+			"twf:color_232": {
+				"minecraft:variant": {
+					"value": 232
+				}
+			},
+			"twf:color_233": {
+				"minecraft:variant": {
+					"value": 233
+				}
+			},
+			"twf:color_234": {
+				"minecraft:variant": {
+					"value": 234
+				}
+			},
+			"twf:color_235": {
+				"minecraft:variant": {
+					"value": 235
+				}
+			},
+			"twf:color_236": {
+				"minecraft:variant": {
+					"value": 236
+				}
+			},
+			"twf:color_237": {
+				"minecraft:variant": {
+					"value": 237
+				}
+			},
+			"twf:color_238": {
+				"minecraft:variant": {
+					"value": 238
+				}
+			},
+			"twf:color_239": {
+				"minecraft:variant": {
+					"value": 239
+				}
+			},
+			"twf:color_240": {
+				"minecraft:variant": {
+					"value": 240
+				}
+			},
+			"twf:color_241": {
+				"minecraft:variant": {
+					"value": 241
+				}
+			},
+			"twf:color_242": {
+				"minecraft:variant": {
+					"value": 242
+				}
+			},
+			"twf:color_243": {
+				"minecraft:variant": {
+					"value": 243
+				}
+			},
+			"twf:color_244": {
+				"minecraft:variant": {
+					"value": 244
+				}
+			},
+			"twf:color_245": {
+				"minecraft:variant": {
+					"value": 245
+				}
+			},
+			"twf:color_246": {
+				"minecraft:variant": {
+					"value": 246
+				}
+			},
+			"twf:color_247": {
+				"minecraft:variant": {
+					"value": 247
+				}
+			},
+			"twf:color_248": {
+				"minecraft:variant": {
+					"value": 248
+				}
+			},
+			"twf:color_249": {
+				"minecraft:variant": {
+					"value": 249
+				}
+			},
+			"twf:color_250": {
+				"minecraft:variant": {
+					"value": 250
+				}
+			},
+			"twf:color_251": {
+				"minecraft:variant": {
+					"value": 251
+				}
+			},
+			"twf:color_252": {
+				"minecraft:variant": {
+					"value": 252
+				}
+			},
+			"twf:color_253": {
+				"minecraft:variant": {
+					"value": 253
+				}
+			},
+			"twf:color_254": {
+				"minecraft:variant": {
+					"value": 254
+				}
+			},
+			"twf:color_255": {
+				"minecraft:variant": {
+					"value": 255
+				}
+			},
+			"twf:color_256": {
+				"minecraft:variant": {
+					"value": 256
+				}
+			},
+			"twf:color_257": {
+				"minecraft:variant": {
+					"value": 257
+				}
+			},
+			"twf:color_258": {
+				"minecraft:variant": {
+					"value": 258
+				}
+			},
+			"twf:color_259": {
+				"minecraft:variant": {
+					"value": 259
+				}
+			},
+			"twf:color_260": {
+				"minecraft:variant": {
+					"value": 260
+				}
+			},
+			"twf:color_261": {
+				"minecraft:variant": {
+					"value": 261
+				}
+			},
+			"twf:color_262": {
+				"minecraft:variant": {
+					"value": 262
+				}
+			},
+			"twf:color_263": {
+				"minecraft:variant": {
+					"value": 263
+				}
+			},
+			"twf:color_264": {
+				"minecraft:variant": {
+					"value": 264
+				}
+			},
+			"twf:color_265": {
+				"minecraft:variant": {
+					"value": 265
+				}
+			},
+			"twf:color_266": {
+				"minecraft:variant": {
+					"value": 266
+				}
+			},
+			"twf:color_267": {
+				"minecraft:variant": {
+					"value": 267
+				}
+			},
+			"twf:color_268": {
+				"minecraft:variant": {
+					"value": 268
+				}
+			},
+			"twf:color_269": {
+				"minecraft:variant": {
+					"value": 269
+				}
+			},
+			"twf:color_270": {
+				"minecraft:variant": {
+					"value": 270
+				}
+			},
+			"twf:color_271": {
+				"minecraft:variant": {
+					"value": 271
+				}
+			},
+			"twf:color_272": {
+				"minecraft:variant": {
+					"value": 272
+				}
+			},
+			"twf:color_273": {
+				"minecraft:variant": {
+					"value": 273
+				}
+			},
+			"twf:color_274": {
+				"minecraft:variant": {
+					"value": 274
+				}
+			},
+			"twf:color_275": {
+				"minecraft:variant": {
+					"value": 275
+				}
+			},
+			"twf:color_276": {
+				"minecraft:variant": {
+					"value": 276
+				}
+			},
+			"twf:color_277": {
+				"minecraft:variant": {
+					"value": 277
+				}
+			},
+			"twf:color_278": {
+				"minecraft:variant": {
+					"value": 278
+				}
+			},
+			"twf:color_279": {
+				"minecraft:variant": {
+					"value": 279
+				}
+			},
+			"twf:color_280": {
+				"minecraft:variant": {
+					"value": 280
+				}
+			},
+			"twf:color_281": {
+				"minecraft:variant": {
+					"value": 281
+				}
+			},
+			"twf:color_282": {
+				"minecraft:variant": {
+					"value": 282
+				}
+			},
+			"twf:color_283": {
+				"minecraft:variant": {
+					"value": 283
+				}
+			},
+			"twf:color_284": {
+				"minecraft:variant": {
+					"value": 284
+				}
+			},
+			"twf:color_285": {
+				"minecraft:variant": {
+					"value": 285
+				}
+			},
+			"twf:color_286": {
+				"minecraft:variant": {
+					"value": 286
+				}
+			},
+			"twf:color_287": {
+				"minecraft:variant": {
+					"value": 287
+				}
+			},
+			"twf:color_288": {
+				"minecraft:variant": {
+					"value": 288
+				}
+			},
+			"twf:color_289": {
+				"minecraft:variant": {
+					"value": 289
+				}
+			},
+			"twf:color_290": {
+				"minecraft:variant": {
+					"value": 290
+				}
+			},
+			"twf:color_291": {
+				"minecraft:variant": {
+					"value": 291
+				}
+			},
+			"twf:color_292": {
+				"minecraft:variant": {
+					"value": 292
+				}
+			},
+			"twf:color_293": {
+				"minecraft:variant": {
+					"value": 293
+				}
+			},
+			"twf:color_294": {
+				"minecraft:variant": {
+					"value": 294
+				}
+			},
+			"twf:color_295": {
+				"minecraft:variant": {
+					"value": 295
+				}
+			},
+			"twf:color_296": {
+				"minecraft:variant": {
+					"value": 296
+				}
+			},
+			"twf:color_297": {
+				"minecraft:variant": {
+					"value": 297
+				}
+			},
+			"twf:color_298": {
+				"minecraft:variant": {
+					"value": 298
+				}
+			},
+			"twf:color_299": {
+				"minecraft:variant": {
+					"value": 299
+				}
+			},
+			"twf:color_300": {
+				"minecraft:variant": {
+					"value": 300
+				}
+			},
+			"twf:color_301": {
+				"minecraft:variant": {
+					"value": 301
+				}
+			},
+			"twf:color_302": {
+				"minecraft:variant": {
+					"value": 302
+				}
+			},
+			"twf:color_303": {
+				"minecraft:variant": {
+					"value": 303
+				}
+			},
+			"twf:color_304": {
+				"minecraft:variant": {
+					"value": 304
+				}
+			},
+			"twf:color_305": {
+				"minecraft:variant": {
+					"value": 305
+				}
+			},
+			"twf:color_306": {
+				"minecraft:variant": {
+					"value": 306
+				}
+			},
+			"twf:color_307": {
+				"minecraft:variant": {
+					"value": 307
+				}
+			},
+			"twf:color_308": {
+				"minecraft:variant": {
+					"value": 308
+				}
+			},
+			"twf:color_309": {
+				"minecraft:variant": {
+					"value": 309
+				}
+			},
+			"twf:color_310": {
+				"minecraft:variant": {
+					"value": 310
+				}
+			},
+			"twf:color_311": {
+				"minecraft:variant": {
+					"value": 311
+				}
+			},
+			"twf:color_312": {
+				"minecraft:variant": {
+					"value": 312
+				}
+			},
+			"twf:color_313": {
+				"minecraft:variant": {
+					"value": 313
+				}
+			},
+			"twf:color_314": {
+				"minecraft:variant": {
+					"value": 314
+				}
+			},
+			"twf:color_315": {
+				"minecraft:variant": {
+					"value": 315
+				}
+			},
+			"twf:color_316": {
+				"minecraft:variant": {
+					"value": 316
+				}
+			},
+			"twf:color_317": {
+				"minecraft:variant": {
+					"value": 317
+				}
+			},
+			"twf:color_318": {
+				"minecraft:variant": {
+					"value": 318
+				}
+			},
+			"twf:color_319": {
+				"minecraft:variant": {
+					"value": 319
+				}
+			},
+			"twf:color_320": {
+				"minecraft:variant": {
+					"value": 320
+				}
+			},
+			"twf:color_321": {
+				"minecraft:variant": {
+					"value": 321
+				}
+			},
+			"twf:color_322": {
+				"minecraft:variant": {
+					"value": 322
+				}
+			},
+			"twf:color_323": {
+				"minecraft:variant": {
+					"value": 323
+				}
+			},
+			"twf:color_324": {
+				"minecraft:variant": {
+					"value": 324
+				}
+			},
+			"twf:color_325": {
+				"minecraft:variant": {
+					"value": 325
+				}
+			},
+			"twf:color_326": {
+				"minecraft:variant": {
+					"value": 326
+				}
+			},
+			"twf:color_327": {
+				"minecraft:variant": {
+					"value": 327
+				}
+			},
+			"twf:color_328": {
+				"minecraft:variant": {
+					"value": 328
+				}
+			},
+			"twf:color_329": {
+				"minecraft:variant": {
+					"value": 329
+				}
+			},
+			"twf:color_330": {
+				"minecraft:variant": {
+					"value": 330
+				}
+			},
+			"twf:color_331": {
+				"minecraft:variant": {
+					"value": 331
+				}
+			},
+			"twf:color_332": {
+				"minecraft:variant": {
+					"value": 332
+				}
+			},
+			"twf:color_333": {
+				"minecraft:variant": {
+					"value": 333
+				}
+			},
+			"twf:color_334": {
+				"minecraft:variant": {
+					"value": 334
+				}
+			},
+			"twf:color_335": {
+				"minecraft:variant": {
+					"value": 335
+				}
+			},
+			"twf:color_336": {
+				"minecraft:variant": {
+					"value": 336
+				}
+			},
+			"twf:color_337": {
+				"minecraft:variant": {
+					"value": 337
+				}
+			},
+			"twf:color_338": {
+				"minecraft:variant": {
+					"value": 338
+				}
+			},
+			"twf:color_339": {
+				"minecraft:variant": {
+					"value": 339
+				}
+			},
+			"twf:color_340": {
+				"minecraft:variant": {
+					"value": 340
+				}
+			},
+			"twf:color_341": {
+				"minecraft:variant": {
+					"value": 341
+				}
+			},
+			"twf:color_342": {
+				"minecraft:variant": {
+					"value": 342
+				}
+			},
+			"twf:color_343": {
+				"minecraft:variant": {
+					"value": 343
+				}
+			},
+			"twf:color_344": {
+				"minecraft:variant": {
+					"value": 344
+				}
+			},
+			"twf:color_345": {
+				"minecraft:variant": {
+					"value": 345
+				}
+			},
+			"twf:color_346": {
+				"minecraft:variant": {
+					"value": 346
+				}
+			},
+			"twf:color_347": {
+				"minecraft:variant": {
+					"value": 347
+				}
+			},
+			"twf:color_348": {
+				"minecraft:variant": {
+					"value": 348
+				}
+			},
+			"twf:color_349": {
+				"minecraft:variant": {
+					"value": 349
+				}
+			},
+			"twf:color_350": {
+				"minecraft:variant": {
+					"value": 350
+				}
+			},
+			"twf:color_351": {
+				"minecraft:variant": {
+					"value": 351
+				}
+			},
+			"twf:color_352": {
+				"minecraft:variant": {
+					"value": 352
+				}
+			},
+			"twf:color_353": {
+				"minecraft:variant": {
+					"value": 353
+				}
+			},
+			"twf:color_354": {
+				"minecraft:variant": {
+					"value": 354
+				}
+			},
+			"twf:color_355": {
+				"minecraft:variant": {
+					"value": 355
+				}
+			},
+			"twf:color_356": {
+				"minecraft:variant": {
+					"value": 356
+				}
+			},
+			"twf:color_357": {
+				"minecraft:variant": {
+					"value": 357
+				}
+			},
+			"twf:color_358": {
+				"minecraft:variant": {
+					"value": 358
+				}
+			},
+			"twf:color_359": {
+				"minecraft:variant": {
+					"value": 359
+				}
+			},
+			"twf:color_360": {
+				"minecraft:variant": {
+					"value": 360
+				}
+			},
+			"twf:color_361": {
+				"minecraft:variant": {
+					"value": 361
+				}
+			},
+			"twf:color_362": {
+				"minecraft:variant": {
+					"value": 362
+				}
+			},
+			"twf:color_363": {
+				"minecraft:variant": {
+					"value": 363
+				}
+			},
+			"twf:color_364": {
+				"minecraft:variant": {
+					"value": 364
+				}
+			},
+			"twf:color_365": {
+				"minecraft:variant": {
+					"value": 365
+				}
+			},
+			"twf:color_366": {
+				"minecraft:variant": {
+					"value": 366
+				}
+			},
+			"twf:color_367": {
+				"minecraft:variant": {
+					"value": 367
+				}
+			},
+			"twf:color_368": {
+				"minecraft:variant": {
+					"value": 368
+				}
+			},
+			"twf:color_369": {
+				"minecraft:variant": {
+					"value": 369
+				}
+			},
+			"twf:color_370": {
+				"minecraft:variant": {
+					"value": 370
+				}
+			},
+			"twf:color_371": {
+				"minecraft:variant": {
+					"value": 371
+				}
+			},
+			"twf:color_372": {
+				"minecraft:variant": {
+					"value": 372
+				}
+			},
+			"twf:color_373": {
+				"minecraft:variant": {
+					"value": 373
+				}
+			},
+			"twf:color_374": {
+				"minecraft:variant": {
+					"value": 374
+				}
+			},
+			"twf:color_375": {
+				"minecraft:variant": {
+					"value": 375
+				}
+			},
+			"twf:color_376": {
+				"minecraft:variant": {
+					"value": 376
+				}
+			},
+			"twf:color_377": {
+				"minecraft:variant": {
+					"value": 377
+				}
+			},
+			"twf:color_378": {
+				"minecraft:variant": {
+					"value": 378
+				}
+			},
+			"twf:color_379": {
+				"minecraft:variant": {
+					"value": 379
+				}
+			},
+			"twf:color_380": {
+				"minecraft:variant": {
+					"value": 380
+				}
+			},
+			"twf:color_381": {
+				"minecraft:variant": {
+					"value": 381
+				}
+			},
+			"twf:color_382": {
+				"minecraft:variant": {
+					"value": 382
+				}
+			},
+			"twf:color_383": {
+				"minecraft:variant": {
+					"value": 383
+				}
+			},
+			"twf:color_384": {
+				"minecraft:variant": {
+					"value": 384
+				}
+			},
+			"twf:color_385": {
+				"minecraft:variant": {
+					"value": 385
+				}
+			},
+			"twf:color_386": {
+				"minecraft:variant": {
+					"value": 386
+				}
+			},
+			"twf:color_387": {
+				"minecraft:variant": {
+					"value": 387
+				}
+			},
+			"twf:color_388": {
+				"minecraft:variant": {
+					"value": 388
+				}
+			},
+			"twf:color_389": {
+				"minecraft:variant": {
+					"value": 389
+				}
+			},
+			"twf:color_390": {
+				"minecraft:variant": {
+					"value": 390
+				}
+			},
+			"twf:color_391": {
+				"minecraft:variant": {
+					"value": 391
+				}
+			},
+			"twf:color_392": {
+				"minecraft:variant": {
+					"value": 392
+				}
+			},
+			"twf:color_393": {
+				"minecraft:variant": {
+					"value": 393
+				}
+			},
+			"twf:color_394": {
+				"minecraft:variant": {
+					"value": 394
+				}
+			},
+			"twf:color_395": {
+				"minecraft:variant": {
+					"value": 395
+				}
+			},
+			"twf:color_396": {
+				"minecraft:variant": {
+					"value": 396
+				}
+			},
+			"twf:color_397": {
+				"minecraft:variant": {
+					"value": 397
+				}
+			},
+			"twf:color_398": {
+				"minecraft:variant": {
+					"value": 398
+				}
+			},
+			"twf:color_399": {
+				"minecraft:variant": {
+					"value": 399
+				}
+			},
+			"twf:color_400": {
+				"minecraft:variant": {
+					"value": 400
+				}
+			},
+			"twf:color_401": {
+				"minecraft:variant": {
+					"value": 401
+				}
+			},
+			"twf:color_402": {
+				"minecraft:variant": {
+					"value": 402
+				}
+			},
+			"twf:color_403": {
+				"minecraft:variant": {
+					"value": 403
+				}
+			},
+			"twf:color_404": {
+				"minecraft:variant": {
+					"value": 404
+				}
+			},
+			"twf:color_405": {
+				"minecraft:variant": {
+					"value": 405
+				}
+			},
+			"twf:color_406": {
+				"minecraft:variant": {
+					"value": 406
+				}
+			},
+			"twf:color_407": {
+				"minecraft:variant": {
+					"value": 407
+				}
+			},
+			"twf:color_408": {
+				"minecraft:variant": {
+					"value": 408
+				}
+			},
+			"twf:color_409": {
+				"minecraft:variant": {
+					"value": 409
+				}
+			},
+			"twf:color_410": {
+				"minecraft:variant": {
+					"value": 410
+				}
+			},
+			"twf:color_411": {
+				"minecraft:variant": {
+					"value": 411
+				}
+			},
+			"twf:color_412": {
+				"minecraft:variant": {
+					"value": 412
+				}
+			},
+			"twf:color_413": {
+				"minecraft:variant": {
+					"value": 413
+				}
+			},
+			"twf:color_414": {
+				"minecraft:variant": {
+					"value": 414
+				}
+			},
+			"twf:color_415": {
+				"minecraft:variant": {
+					"value": 415
+				}
+			},
+			"twf:color_416": {
+				"minecraft:variant": {
+					"value": 416
+				}
+			},
+			"twf:color_417": {
+				"minecraft:variant": {
+					"value": 417
+				}
+			},
+			"twf:color_418": {
+				"minecraft:variant": {
+					"value": 418
+				}
+			},
+			"twf:color_419": {
+				"minecraft:variant": {
+					"value": 419
+				}
+			},
+			"twf:color_420": {
+				"minecraft:variant": {
+					"value": 420
+				}
+			},
+			"twf:color_421": {
+				"minecraft:variant": {
+					"value": 421
+				}
+			},
+			"twf:color_422": {
+				"minecraft:variant": {
+					"value": 422
+				}
+			},
+			"twf:color_423": {
+				"minecraft:variant": {
+					"value": 423
+				}
+			},
+			"twf:color_424": {
+				"minecraft:variant": {
+					"value": 424
+				}
+			},
+			"twf:color_425": {
+				"minecraft:variant": {
+					"value": 425
+				}
+			},
+			"twf:color_426": {
+				"minecraft:variant": {
+					"value": 426
+				}
+			},
+			"twf:color_427": {
+				"minecraft:variant": {
+					"value": 427
+				}
+			},
+			"twf:color_428": {
+				"minecraft:variant": {
+					"value": 428
+				}
+			},
+			"twf:color_429": {
+				"minecraft:variant": {
+					"value": 429
+				}
+			},
+			"twf:color_430": {
+				"minecraft:variant": {
+					"value": 430
+				}
+			},
+			"twf:color_431": {
+				"minecraft:variant": {
+					"value": 431
+				}
+			},
+			"twf:color_432": {
+				"minecraft:variant": {
+					"value": 432
+				}
+			},
+			"twf:color_433": {
+				"minecraft:variant": {
+					"value": 433
+				}
+			},
+			"twf:color_434": {
+				"minecraft:variant": {
+					"value": 434
+				}
+			},
+			"twf:color_435": {
+				"minecraft:variant": {
+					"value": 435
+				}
+			},
+			"twf:color_436": {
+				"minecraft:variant": {
+					"value": 436
+				}
+			},
+			"twf:color_437": {
+				"minecraft:variant": {
+					"value": 437
+				}
+			},
+			"twf:color_438": {
+				"minecraft:variant": {
+					"value": 438
+				}
+			},
+			"twf:color_439": {
+				"minecraft:variant": {
+					"value": 439
+				}
+			},
+			"twf:color_440": {
+				"minecraft:variant": {
+					"value": 440
+				}
+			},
+			"twf:color_441": {
+				"minecraft:variant": {
+					"value": 441
+				}
+			},
+			"twf:color_442": {
+				"minecraft:variant": {
+					"value": 442
+				}
+			},
+			"twf:color_443": {
+				"minecraft:variant": {
+					"value": 443
+				}
+			},
+			"twf:color_444": {
+				"minecraft:variant": {
+					"value": 444
+				}
+			},
+			"twf:color_445": {
+				"minecraft:variant": {
+					"value": 445
+				}
+			},
+			"twf:color_446": {
+				"minecraft:variant": {
+					"value": 446
+				}
+			},
+			"twf:color_447": {
+				"minecraft:variant": {
+					"value": 447
+				}
+			},
+			"twf:color_448": {
+				"minecraft:variant": {
+					"value": 448
+				}
+			},
+			"twf:color_449": {
+				"minecraft:variant": {
+					"value": 449
+				}
+			},
+			"twf:color_450": {
+				"minecraft:variant": {
+					"value": 450
+				}
+			},
+			"twf:color_451": {
+				"minecraft:variant": {
+					"value": 451
+				}
+			},
+			"twf:color_452": {
+				"minecraft:variant": {
+					"value": 452
+				}
+			},
+			"twf:color_453": {
+				"minecraft:variant": {
+					"value": 453
+				}
+			},
+			"twf:color_454": {
+				"minecraft:variant": {
+					"value": 454
+				}
+			},
+			"twf:color_455": {
+				"minecraft:variant": {
+					"value": 455
+				}
+			},
+			"twf:color_456": {
+				"minecraft:variant": {
+					"value": 456
+				}
+			},
+			"twf:color_457": {
+				"minecraft:variant": {
+					"value": 457
+				}
+			},
+			"twf:color_458": {
+				"minecraft:variant": {
+					"value": 458
+				}
+			},
+			"twf:color_459": {
+				"minecraft:variant": {
+					"value": 459
+				}
+			},
+			"twf:color_460": {
+				"minecraft:variant": {
+					"value": 460
+				}
+			},
+			"twf:color_461": {
+				"minecraft:variant": {
+					"value": 461
+				}
+			},
+			"twf:color_462": {
+				"minecraft:variant": {
+					"value": 462
+				}
+			},
+			"twf:color_463": {
+				"minecraft:variant": {
+					"value": 463
+				}
+			},
+			"twf:color_464": {
+				"minecraft:variant": {
+					"value": 464
+				}
+			},
+			"twf:color_465": {
+				"minecraft:variant": {
+					"value": 465
+				}
+			},
+			"twf:color_466": {
+				"minecraft:variant": {
+					"value": 466
+				}
+			},
+			"twf:color_467": {
+				"minecraft:variant": {
+					"value": 467
+				}
+			},
+			"twf:color_468": {
+				"minecraft:variant": {
+					"value": 468
+				}
+			},
+			"twf:color_469": {
+				"minecraft:variant": {
+					"value": 469
+				}
+			},
+			"twf:color_470": {
+				"minecraft:variant": {
+					"value": 470
+				}
+			},
+			"twf:color_471": {
+				"minecraft:variant": {
+					"value": 471
+				}
+			},
+			"twf:color_472": {
+				"minecraft:variant": {
+					"value": 472
+				}
+			},
+			"twf:color_473": {
+				"minecraft:variant": {
+					"value": 473
+				}
+			},
+			"twf:color_474": {
+				"minecraft:variant": {
+					"value": 474
+				}
+			},
+			"twf:color_475": {
+				"minecraft:variant": {
+					"value": 475
+				}
+			},
+			"twf:color_476": {
+				"minecraft:variant": {
+					"value": 476
+				}
+			},
+			"twf:color_477": {
+				"minecraft:variant": {
+					"value": 477
+				}
+			},
+			"twf:color_478": {
+				"minecraft:variant": {
+					"value": 478
+				}
+			},
+			"twf:color_479": {
+				"minecraft:variant": {
+					"value": 479
+				}
+			},
+			"twf:color_480": {
+				"minecraft:variant": {
+					"value": 480
+				}
+			},
+			"twf:color_481": {
+				"minecraft:variant": {
+					"value": 481
+				}
+			},
+			"twf:color_482": {
+				"minecraft:variant": {
+					"value": 482
+				}
+			},
+			"twf:color_483": {
+				"minecraft:variant": {
+					"value": 483
+				}
+			},
+			"twf:color_484": {
+				"minecraft:variant": {
+					"value": 484
+				}
+			},
+			"twf:color_485": {
+				"minecraft:variant": {
+					"value": 485
+				}
+			},
+			"twf:color_486": {
+				"minecraft:variant": {
+					"value": 486
+				}
+			},
+			"twf:color_487": {
+				"minecraft:variant": {
+					"value": 487
+				}
+			},
+			"twf:color_488": {
+				"minecraft:variant": {
+					"value": 488
+				}
+			},
+			"twf:color_489": {
+				"minecraft:variant": {
+					"value": 489
+				}
+			},
+			"twf:color_490": {
+				"minecraft:variant": {
+					"value": 490
+				}
+			},
+			"twf:color_491": {
+				"minecraft:variant": {
+					"value": 491
+				}
+			},
+			"twf:color_492": {
+				"minecraft:variant": {
+					"value": 492
+				}
+			},
+			"twf:color_493": {
+				"minecraft:variant": {
+					"value": 493
+				}
+			},
+			"twf:color_494": {
+				"minecraft:variant": {
+					"value": 494
+				}
+			},
+			"twf:color_495": {
+				"minecraft:variant": {
+					"value": 495
+				}
+			},
+			"twf:color_496": {
+				"minecraft:variant": {
+					"value": 496
+				}
+			},
+			"twf:color_497": {
+				"minecraft:variant": {
+					"value": 497
+				}
+			},
+			"twf:color_498": {
+				"minecraft:variant": {
+					"value": 498
+				}
+			},
+			"twf:color_499": {
+				"minecraft:variant": {
+					"value": 499
+				}
+			},
+			"twf:color_500": {
+				"minecraft:variant": {
+					"value": 500
+				}
+			},
+			"twf:color_501": {
+				"minecraft:variant": {
+					"value": 501
+				}
+			},
+			"twf:color_502": {
+				"minecraft:variant": {
+					"value": 502
+				}
+			},
+			"twf:color_503": {
+				"minecraft:variant": {
+					"value": 503
+				}
+			},
+			"twf:color_504": {
+				"minecraft:variant": {
+					"value": 504
+				}
+			},
+			"twf:color_505": {
+				"minecraft:variant": {
+					"value": 505
+				}
+			},
+			"twf:color_506": {
+				"minecraft:variant": {
+					"value": 506
+				}
+			},
+			"twf:color_507": {
+				"minecraft:variant": {
+					"value": 507
+				}
+			},
+			"twf:color_508": {
+				"minecraft:variant": {
+					"value": 508
+				}
+			},
+			"twf:color_509": {
+				"minecraft:variant": {
+					"value": 509
+				}
+			},
+			"twf:color_510": {
+				"minecraft:variant": {
+					"value": 510
+				}
+			},
+			"twf:color_511": {
+				"minecraft:variant": {
+					"value": 511
+				}
+			},
+			"twf:color_512": {
+				"minecraft:variant": {
+					"value": 512
+				}
+			},
+			"twf:color_513": {
+				"minecraft:variant": {
+					"value": 513
+				}
+			},
+			"twf:color_514": {
+				"minecraft:variant": {
+					"value": 514
+				}
+			},
+			"twf:color_515": {
+				"minecraft:variant": {
+					"value": 515
+				}
+			},
+			"twf:color_516": {
+				"minecraft:variant": {
+					"value": 516
+				}
+			},
+			"twf:color_517": {
+				"minecraft:variant": {
+					"value": 517
+				}
+			},
+			"twf:color_518": {
+				"minecraft:variant": {
+					"value": 518
+				}
+			},
+			"twf:color_519": {
+				"minecraft:variant": {
+					"value": 519
+				}
+			},
+			"twf:color_520": {
+				"minecraft:variant": {
+					"value": 520
+				}
+			},
+			"twf:color_521": {
+				"minecraft:variant": {
+					"value": 521
+				}
+			},
+			"twf:color_522": {
+				"minecraft:variant": {
+					"value": 522
+				}
+			},
+			"twf:color_523": {
+				"minecraft:variant": {
+					"value": 523
+				}
+			},
+			"twf:color_524": {
+				"minecraft:variant": {
+					"value": 524
+				}
+			},
+			"twf:color_525": {
+				"minecraft:variant": {
+					"value": 525
+				}
+			},
+			"twf:color_526": {
+				"minecraft:variant": {
+					"value": 526
+				}
+			},
+			"twf:color_527": {
+				"minecraft:variant": {
+					"value": 527
+				}
+			},
+			"twf:color_528": {
+				"minecraft:variant": {
+					"value": 528
+				}
+			},
+			"twf:color_529": {
+				"minecraft:variant": {
+					"value": 529
+				}
+			},
+			"twf:color_530": {
+				"minecraft:variant": {
+					"value": 530
+				}
+			},
+			"twf:color_531": {
+				"minecraft:variant": {
+					"value": 531
+				}
+			},
+			"twf:color_532": {
+				"minecraft:variant": {
+					"value": 532
+				}
+			},
+			"twf:color_533": {
+				"minecraft:variant": {
+					"value": 533
+				}
+			},
+			"twf:color_534": {
+				"minecraft:variant": {
+					"value": 534
+				}
+			},
+			"twf:color_535": {
+				"minecraft:variant": {
+					"value": 535
+				}
+			},
+			"twf:color_536": {
+				"minecraft:variant": {
+					"value": 536
+				}
+			},
+			"twf:color_537": {
+				"minecraft:variant": {
+					"value": 537
+				}
+			},
+			"twf:color_538": {
+				"minecraft:variant": {
+					"value": 538
+				}
+			},
+			"twf:color_539": {
+				"minecraft:variant": {
+					"value": 539
+				}
+			},
+			"twf:color_540": {
+				"minecraft:variant": {
+					"value": 540
+				}
+			},
+			"twf:color_541": {
+				"minecraft:variant": {
+					"value": 541
+				}
+			},
+			"twf:color_542": {
+				"minecraft:variant": {
+					"value": 542
+				}
+			},
+			"twf:color_543": {
+				"minecraft:variant": {
+					"value": 543
+				}
+			},
+			"twf:color_544": {
+				"minecraft:variant": {
+					"value": 544
+				}
+			},
+			"twf:color_545": {
+				"minecraft:variant": {
+					"value": 545
+				}
+			},
+			"twf:color_546": {
+				"minecraft:variant": {
+					"value": 546
+				}
+			},
+			"twf:color_547": {
+				"minecraft:variant": {
+					"value": 547
+				}
+			},
+			"twf:color_548": {
+				"minecraft:variant": {
+					"value": 548
+				}
+			},
+			"twf:color_549": {
+				"minecraft:variant": {
+					"value": 549
+				}
+			},
+			"twf:color_550": {
+				"minecraft:variant": {
+					"value": 550
+				}
+			},
+			"twf:color_551": {
+				"minecraft:variant": {
+					"value": 551
+				}
+			},
+			"twf:color_552": {
+				"minecraft:variant": {
+					"value": 552
+				}
+			},
+			"twf:color_553": {
+				"minecraft:variant": {
+					"value": 553
+				}
+			},
+			"twf:color_554": {
+				"minecraft:variant": {
+					"value": 554
+				}
+			},
+			"twf:color_555": {
+				"minecraft:variant": {
+					"value": 555
+				}
+			},
+			"twf:color_556": {
+				"minecraft:variant": {
+					"value": 556
+				}
+			},
+			"twf:color_557": {
+				"minecraft:variant": {
+					"value": 557
+				}
+			},
+			"twf:color_558": {
+				"minecraft:variant": {
+					"value": 558
+				}
+			},
+			"twf:color_559": {
+				"minecraft:variant": {
+					"value": 559
+				}
+			},
+			"twf:color_560": {
+				"minecraft:variant": {
+					"value": 560
+				}
+			},
+			"twf:color_561": {
+				"minecraft:variant": {
+					"value": 561
+				}
+			},
+			"twf:color_562": {
+				"minecraft:variant": {
+					"value": 562
+				}
+			},
+			"twf:color_563": {
+				"minecraft:variant": {
+					"value": 563
+				}
+			},
+			"twf:color_564": {
+				"minecraft:variant": {
+					"value": 564
+				}
+			},
+			"twf:color_565": {
+				"minecraft:variant": {
+					"value": 565
+				}
+			},
+			"twf:color_566": {
+				"minecraft:variant": {
+					"value": 566
+				}
+			},
+			"twf:color_567": {
+				"minecraft:variant": {
+					"value": 567
+				}
+			},
+			"twf:color_568": {
+				"minecraft:variant": {
+					"value": 568
+				}
+			},
+			"twf:color_569": {
+				"minecraft:variant": {
+					"value": 569
+				}
+			},
+			"twf:color_570": {
+				"minecraft:variant": {
+					"value": 570
+				}
+			},
+			"twf:color_571": {
+				"minecraft:variant": {
+					"value": 571
+				}
+			},
+			"twf:color_572": {
+				"minecraft:variant": {
+					"value": 572
+				}
+			},
+			"twf:color_573": {
+				"minecraft:variant": {
+					"value": 573
+				}
+			},
+			"twf:color_574": {
+				"minecraft:variant": {
+					"value": 574
+				}
+			},
+			"twf:color_575": {
+				"minecraft:variant": {
+					"value": 575
+				}
+			},
+			"twf:color_576": {
+				"minecraft:variant": {
+					"value": 576
+				}
+			},
+			"twf:color_577": {
+				"minecraft:variant": {
+					"value": 577
+				}
+			},
+			"twf:color_578": {
+				"minecraft:variant": {
+					"value": 578
+				}
+			},
+			"twf:color_579": {
+				"minecraft:variant": {
+					"value": 579
+				}
+			},
+			"twf:color_580": {
+				"minecraft:variant": {
+					"value": 580
+				}
+			},
+			"twf:color_581": {
+				"minecraft:variant": {
+					"value": 581
+				}
+			},
+			"twf:color_582": {
+				"minecraft:variant": {
+					"value": 582
+				}
+			},
+			"twf:color_583": {
+				"minecraft:variant": {
+					"value": 583
+				}
+			},
+			"twf:color_584": {
+				"minecraft:variant": {
+					"value": 584
+				}
+			},
+			"twf:color_585": {
+				"minecraft:variant": {
+					"value": 585
+				}
+			},
+			"twf:color_586": {
+				"minecraft:variant": {
+					"value": 586
+				}
+			},
+			"twf:color_587": {
+				"minecraft:variant": {
+					"value": 587
+				}
+			},
+			"twf:color_588": {
+				"minecraft:variant": {
+					"value": 588
+				}
+			},
+			"twf:color_589": {
+				"minecraft:variant": {
+					"value": 589
+				}
+			},
+			"twf:color_590": {
+				"minecraft:variant": {
+					"value": 590
+				}
+			},
+			"twf:color_591": {
+				"minecraft:variant": {
+					"value": 591
+				}
+			},
+			"twf:color_592": {
+				"minecraft:variant": {
+					"value": 592
+				}
+			},
+			"twf:color_593": {
+				"minecraft:variant": {
+					"value": 593
+				}
+			},
+			"twf:color_594": {
+				"minecraft:variant": {
+					"value": 594
+				}
+			},
+			"twf:color_595": {
+				"minecraft:variant": {
+					"value": 595
+				}
+			},
+			"twf:color_596": {
+				"minecraft:variant": {
+					"value": 596
+				}
+			},
+			"twf:color_597": {
+				"minecraft:variant": {
+					"value": 597
+				}
+			},
+			"twf:color_598": {
+				"minecraft:variant": {
+					"value": 598
+				}
+			},
+			"twf:color_599": {
+				"minecraft:variant": {
+					"value": 599
+				}
+			},
+			"twf:color_600": {
+				"minecraft:variant": {
+					"value": 600
+				}
+			},
+			"twf:color_601": {
+				"minecraft:variant": {
+					"value": 601
+				}
+			},
+			"twf:color_602": {
+				"minecraft:variant": {
+					"value": 602
+				}
+			},
+			"twf:color_603": {
+				"minecraft:variant": {
+					"value": 603
+				}
+			},
+			"twf:color_604": {
+				"minecraft:variant": {
+					"value": 604
+				}
+			},
+			"twf:color_605": {
+				"minecraft:variant": {
+					"value": 605
+				}
+			},
+			"twf:color_606": {
+				"minecraft:variant": {
+					"value": 606
+				}
+			},
+			"twf:color_607": {
+				"minecraft:variant": {
+					"value": 607
+				}
+			},
+			"twf:color_608": {
+				"minecraft:variant": {
+					"value": 608
+				}
+			},
+			"twf:color_609": {
+				"minecraft:variant": {
+					"value": 609
+				}
+			},
+			"twf:color_610": {
+				"minecraft:variant": {
+					"value": 610
+				}
+			},
+			"twf:color_611": {
+				"minecraft:variant": {
+					"value": 611
+				}
+			},
+			"twf:color_612": {
+				"minecraft:variant": {
+					"value": 612
+				}
+			},
+			"twf:color_613": {
+				"minecraft:variant": {
+					"value": 613
+				}
+			},
+			"twf:color_614": {
+				"minecraft:variant": {
+					"value": 614
+				}
+			},
+			"twf:color_615": {
+				"minecraft:variant": {
+					"value": 615
+				}
+			},
+			"twf:color_616": {
+				"minecraft:variant": {
+					"value": 616
+				}
+			},
+			"twf:color_617": {
+				"minecraft:variant": {
+					"value": 617
+				}
+			},
+			"twf:color_618": {
+				"minecraft:variant": {
+					"value": 618
+				}
+			},
+			"twf:color_619": {
+				"minecraft:variant": {
+					"value": 619
+				}
+			},
+			"twf:color_620": {
+				"minecraft:variant": {
+					"value": 620
+				}
+			},
+			"twf:color_621": {
+				"minecraft:variant": {
+					"value": 621
+				}
+			},
+			"twf:color_622": {
+				"minecraft:variant": {
+					"value": 622
+				}
+			},
+			"twf:color_623": {
+				"minecraft:variant": {
+					"value": 623
+				}
+			},
+			"twf:color_624": {
+				"minecraft:variant": {
+					"value": 624
+				}
+			},
+			"twf:color_625": {
+				"minecraft:variant": {
+					"value": 625
+				}
+			},
+			"twf:color_626": {
+				"minecraft:variant": {
+					"value": 626
+				}
+			},
+			"twf:color_627": {
+				"minecraft:variant": {
+					"value": 627
+				}
+			},
+			"twf:color_628": {
+				"minecraft:variant": {
+					"value": 628
+				}
+			},
+			"twf:color_629": {
+				"minecraft:variant": {
+					"value": 629
+				}
+			},
+			"twf:color_630": {
+				"minecraft:variant": {
+					"value": 630
+				}
+			},
+			"twf:color_631": {
+				"minecraft:variant": {
+					"value": 631
+				}
+			},
+			"twf:color_632": {
+				"minecraft:variant": {
+					"value": 632
+				}
+			},
+			"twf:color_633": {
+				"minecraft:variant": {
+					"value": 633
+				}
+			},
+			"twf:color_634": {
+				"minecraft:variant": {
+					"value": 634
+				}
+			},
+			"twf:color_635": {
+				"minecraft:variant": {
+					"value": 635
+				}
+			},
+			"twf:color_636": {
+				"minecraft:variant": {
+					"value": 636
+				}
+			},
+			"twf:color_637": {
+				"minecraft:variant": {
+					"value": 637
+				}
+			},
+			"twf:color_638": {
+				"minecraft:variant": {
+					"value": 638
+				}
+			},
+			"twf:color_639": {
+				"minecraft:variant": {
+					"value": 639
+				}
+			},
+			"twf:color_640": {
+				"minecraft:variant": {
+					"value": 640
+				}
+			},
+			"twf:color_641": {
+				"minecraft:variant": {
+					"value": 641
+				}
+			},
+			"twf:color_642": {
+				"minecraft:variant": {
+					"value": 642
+				}
+			},
+			"twf:color_643": {
+				"minecraft:variant": {
+					"value": 643
+				}
+			},
+			"twf:color_644": {
+				"minecraft:variant": {
+					"value": 644
+				}
+			},
+			"twf:color_645": {
+				"minecraft:variant": {
+					"value": 645
+				}
+			},
+			"twf:color_646": {
+				"minecraft:variant": {
+					"value": 646
+				}
+			},
+			"twf:color_647": {
+				"minecraft:variant": {
+					"value": 647
+				}
+			},
+			"twf:color_648": {
+				"minecraft:variant": {
+					"value": 648
+				}
+			},
+			"twf:color_649": {
+				"minecraft:variant": {
+					"value": 649
+				}
+			},
+			"twf:color_650": {
+				"minecraft:variant": {
+					"value": 650
+				}
+			},
+			"twf:color_651": {
+				"minecraft:variant": {
+					"value": 651
+				}
+			},
+			"twf:color_652": {
+				"minecraft:variant": {
+					"value": 652
+				}
+			},
+			"twf:color_653": {
+				"minecraft:variant": {
+					"value": 653
+				}
+			},
+			"twf:color_654": {
+				"minecraft:variant": {
+					"value": 654
+				}
+			},
+			"twf:color_655": {
+				"minecraft:variant": {
+					"value": 655
+				}
+			},
+			"twf:color_656": {
+				"minecraft:variant": {
+					"value": 656
+				}
+			},
+			"twf:color_657": {
+				"minecraft:variant": {
+					"value": 657
+				}
+			},
+			"twf:color_658": {
+				"minecraft:variant": {
+					"value": 658
+				}
+			},
+			"twf:color_659": {
+				"minecraft:variant": {
+					"value": 659
+				}
+			},
+			"twf:color_660": {
+				"minecraft:variant": {
+					"value": 660
+				}
+			},
+			"twf:color_661": {
+				"minecraft:variant": {
+					"value": 661
+				}
+			},
+			"twf:color_662": {
+				"minecraft:variant": {
+					"value": 662
+				}
+			},
+			"twf:color_663": {
+				"minecraft:variant": {
+					"value": 663
+				}
+			},
+			"twf:color_664": {
+				"minecraft:variant": {
+					"value": 664
+				}
+			},
+			"twf:color_665": {
+				"minecraft:variant": {
+					"value": 665
+				}
+			},
+			"twf:color_666": {
+				"minecraft:variant": {
+					"value": 666
+				}
+			},
+			"twf:color_667": {
+				"minecraft:variant": {
+					"value": 667
+				}
+			},
+			"twf:color_668": {
+				"minecraft:variant": {
+					"value": 668
+				}
+			},
+			"twf:color_669": {
+				"minecraft:variant": {
+					"value": 669
+				}
+			},
+			"twf:color_670": {
+				"minecraft:variant": {
+					"value": 670
+				}
+			},
+			"twf:color_671": {
+				"minecraft:variant": {
+					"value": 671
+				}
+			},
+			"twf:color_672": {
+				"minecraft:variant": {
+					"value": 672
+				}
+			},
+			"twf:color_673": {
+				"minecraft:variant": {
+					"value": 673
+				}
+			},
+			"twf:color_674": {
+				"minecraft:variant": {
+					"value": 674
+				}
+			},
+			"twf:color_675": {
+				"minecraft:variant": {
+					"value": 675
+				}
+			},
+			"twf:color_676": {
+				"minecraft:variant": {
+					"value": 676
+				}
+			},
+			"twf:color_677": {
+				"minecraft:variant": {
+					"value": 677
+				}
+			},
+			"twf:color_678": {
+				"minecraft:variant": {
+					"value": 678
+				}
+			},
+			"twf:color_679": {
+				"minecraft:variant": {
+					"value": 679
+				}
+			},
+			"twf:color_680": {
+				"minecraft:variant": {
+					"value": 680
+				}
+			},
+			"twf:color_681": {
+				"minecraft:variant": {
+					"value": 681
+				}
+			},
+			"twf:color_682": {
+				"minecraft:variant": {
+					"value": 682
+				}
+			},
+			"twf:color_683": {
+				"minecraft:variant": {
+					"value": 683
+				}
+			},
+			"twf:color_684": {
+				"minecraft:variant": {
+					"value": 684
+				}
+			},
+			"twf:color_685": {
+				"minecraft:variant": {
+					"value": 685
+				}
+			},
+			"twf:color_686": {
+				"minecraft:variant": {
+					"value": 686
+				}
+			},
+			"twf:color_687": {
+				"minecraft:variant": {
+					"value": 687
+				}
+			},
+			"twf:color_688": {
+				"minecraft:variant": {
+					"value": 688
+				}
+			},
+			"twf:color_689": {
+				"minecraft:variant": {
+					"value": 689
+				}
+			},
+			"twf:color_690": {
+				"minecraft:variant": {
+					"value": 690
+				}
+			},
+			"twf:color_691": {
+				"minecraft:variant": {
+					"value": 691
+				}
+			},
+			"twf:color_692": {
+				"minecraft:variant": {
+					"value": 692
+				}
+			},
+			"twf:color_693": {
+				"minecraft:variant": {
+					"value": 693
+				}
+			},
+			"twf:color_694": {
+				"minecraft:variant": {
+					"value": 694
+				}
+			},
+			"twf:color_695": {
+				"minecraft:variant": {
+					"value": 695
+				}
+			},
+			"twf:color_696": {
+				"minecraft:variant": {
+					"value": 696
+				}
+			},
+			"twf:color_697": {
+				"minecraft:variant": {
+					"value": 697
+				}
+			},
+			"twf:color_698": {
+				"minecraft:variant": {
+					"value": 698
+				}
+			},
+			"twf:color_699": {
+				"minecraft:variant": {
+					"value": 699
+				}
+			},
+			"twf:color_700": {
+				"minecraft:variant": {
+					"value": 700
+				}
+			},
+			"twf:color_701": {
+				"minecraft:variant": {
+					"value": 701
+				}
+			},
+			"twf:color_702": {
+				"minecraft:variant": {
+					"value": 702
+				}
+			},
+			"twf:color_703": {
+				"minecraft:variant": {
+					"value": 703
+				}
+			},
+			"twf:color_704": {
+				"minecraft:variant": {
+					"value": 704
+				}
+			},
+			"twf:color_705": {
+				"minecraft:variant": {
+					"value": 705
+				}
+			},
+			"twf:color_706": {
+				"minecraft:variant": {
+					"value": 706
+				}
+			},
+			"twf:color_707": {
+				"minecraft:variant": {
+					"value": 707
+				}
+			},
+			"twf:color_708": {
+				"minecraft:variant": {
+					"value": 708
+				}
+			},
+			"twf:color_709": {
+				"minecraft:variant": {
+					"value": 709
+				}
+			},
+			"twf:color_710": {
+				"minecraft:variant": {
+					"value": 710
+				}
+			},
+			"twf:color_711": {
+				"minecraft:variant": {
+					"value": 711
+				}
+			},
+			"twf:color_712": {
+				"minecraft:variant": {
+					"value": 712
+				}
+			},
+			"twf:color_713": {
+				"minecraft:variant": {
+					"value": 713
+				}
+			},
+			"twf:color_714": {
+				"minecraft:variant": {
+					"value": 714
+				}
+			},
+			"twf:color_715": {
+				"minecraft:variant": {
+					"value": 715
+				}
+			},
+			"twf:color_716": {
+				"minecraft:variant": {
+					"value": 716
+				}
+			},
+			"twf:color_717": {
+				"minecraft:variant": {
+					"value": 717
+				}
+			},
+			"twf:color_718": {
+				"minecraft:variant": {
+					"value": 718
+				}
+			},
+			"twf:color_719": {
+				"minecraft:variant": {
+					"value": 719
+				}
+			},
+			"twf:color_720": {
+				"minecraft:variant": {
+					"value": 720
+				}
+			},
+			"twf:color_721": {
+				"minecraft:variant": {
+					"value": 721
+				}
+			},
+			"twf:color_722": {
+				"minecraft:variant": {
+					"value": 722
+				}
+			},
+			"twf:color_723": {
+				"minecraft:variant": {
+					"value": 723
+				}
+			},
+			"twf:color_724": {
+				"minecraft:variant": {
+					"value": 724
+				}
+			},
+			"twf:color_725": {
+				"minecraft:variant": {
+					"value": 725
+				}
+			},
+			"twf:color_726": {
+				"minecraft:variant": {
+					"value": 726
+				}
+			},
+			"twf:color_727": {
+				"minecraft:variant": {
+					"value": 727
+				}
+			},
+			"twf:color_728": {
+				"minecraft:variant": {
+					"value": 728
+				}
+			},
+			"twf:color_729": {
+				"minecraft:variant": {
+					"value": 729
+				}
+			},
+			"twf:color_730": {
+				"minecraft:variant": {
+					"value": 730
+				}
+			},
+			"twf:color_731": {
+				"minecraft:variant": {
+					"value": 731
+				}
+			},
+			"twf:color_732": {
+				"minecraft:variant": {
+					"value": 732
+				}
+			},
+			"twf:color_733": {
+				"minecraft:variant": {
+					"value": 733
+				}
+			},
+			"twf:color_734": {
+				"minecraft:variant": {
+					"value": 734
+				}
+			},
+			"twf:color_735": {
+				"minecraft:variant": {
+					"value": 735
+				}
+			},
+			"twf:color_736": {
+				"minecraft:variant": {
+					"value": 736
+				}
+			},
+			"twf:color_737": {
+				"minecraft:variant": {
+					"value": 737
+				}
+			},
+			"twf:color_738": {
+				"minecraft:variant": {
+					"value": 738
+				}
+			},
+			"twf:color_739": {
+				"minecraft:variant": {
+					"value": 739
+				}
+			},
+			"twf:color_740": {
+				"minecraft:variant": {
+					"value": 740
+				}
+			},
+			"twf:color_741": {
+				"minecraft:variant": {
+					"value": 741
+				}
+			},
+			"twf:color_742": {
+				"minecraft:variant": {
+					"value": 742
+				}
+			},
+			"twf:color_743": {
+				"minecraft:variant": {
+					"value": 743
+				}
+			},
+			"twf:color_744": {
+				"minecraft:variant": {
+					"value": 744
+				}
+			},
+			"twf:color_745": {
+				"minecraft:variant": {
+					"value": 745
+				}
+			},
+			"twf:color_746": {
+				"minecraft:variant": {
+					"value": 746
+				}
+			},
+			"twf:color_747": {
+				"minecraft:variant": {
+					"value": 747
+				}
+			},
+			"twf:color_748": {
+				"minecraft:variant": {
+					"value": 748
+				}
+			},
+			"twf:color_749": {
+				"minecraft:variant": {
+					"value": 749
+				}
+			},
+			"twf:color_750": {
+				"minecraft:variant": {
+					"value": 750
+				}
+			},
+			"twf:color_751": {
+				"minecraft:variant": {
+					"value": 751
+				}
+			},
+			"twf:color_752": {
+				"minecraft:variant": {
+					"value": 752
+				}
+			},
+			"twf:color_753": {
+				"minecraft:variant": {
+					"value": 753
+				}
+			},
+			"twf:color_754": {
+				"minecraft:variant": {
+					"value": 754
+				}
+			},
+			"twf:color_755": {
+				"minecraft:variant": {
+					"value": 755
+				}
+			},
+			"twf:color_756": {
+				"minecraft:variant": {
+					"value": 756
+				}
+			},
+			"twf:color_757": {
+				"minecraft:variant": {
+					"value": 757
+				}
+			},
+			"twf:color_758": {
+				"minecraft:variant": {
+					"value": 758
+				}
+			},
+			"twf:color_759": {
+				"minecraft:variant": {
+					"value": 759
+				}
+			},
+			"twf:color_760": {
+				"minecraft:variant": {
+					"value": 760
+				}
+			},
+			"twf:color_761": {
+				"minecraft:variant": {
+					"value": 761
+				}
+			},
+			"twf:color_762": {
+				"minecraft:variant": {
+					"value": 762
+				}
+			},
+			"twf:color_763": {
+				"minecraft:variant": {
+					"value": 763
+				}
+			},
+			"twf:color_764": {
+				"minecraft:variant": {
+					"value": 764
+				}
+			},
+			"twf:color_765": {
+				"minecraft:variant": {
+					"value": 765
+				}
+			},
+			"twf:color_766": {
+				"minecraft:variant": {
+					"value": 766
+				}
+			},
+			"twf:color_767": {
+				"minecraft:variant": {
+					"value": 767
+				}
+			},
+			"twf:color_768": {
+				"minecraft:variant": {
+					"value": 768
+				}
+			},
+			"twf:color_769": {
+				"minecraft:variant": {
+					"value": 769
+				}
+			},
+			"twf:color_770": {
+				"minecraft:variant": {
+					"value": 770
+				}
+			},
+			"twf:color_771": {
+				"minecraft:variant": {
+					"value": 771
+				}
+			},
+			"twf:color_772": {
+				"minecraft:variant": {
+					"value": 772
+				}
+			},
+			"twf:color_773": {
+				"minecraft:variant": {
+					"value": 773
+				}
+			},
+			"twf:color_774": {
+				"minecraft:variant": {
+					"value": 774
+				}
+			},
+			"twf:color_775": {
+				"minecraft:variant": {
+					"value": 775
+				}
+			},
+			"twf:color_776": {
+				"minecraft:variant": {
+					"value": 776
+				}
+			},
+			"twf:color_777": {
+				"minecraft:variant": {
+					"value": 777
+				}
+			},
+			"twf:color_778": {
+				"minecraft:variant": {
+					"value": 778
+				}
+			},
+			"twf:color_779": {
+				"minecraft:variant": {
+					"value": 779
+				}
+			},
+			"twf:color_780": {
+				"minecraft:variant": {
+					"value": 780
+				}
+			},
+			"twf:color_781": {
+				"minecraft:variant": {
+					"value": 781
+				}
+			},
+			"twf:color_782": {
+				"minecraft:variant": {
+					"value": 782
+				}
+			},
+			"twf:color_783": {
+				"minecraft:variant": {
+					"value": 783
+				}
+			},
+			"twf:color_784": {
+				"minecraft:variant": {
+					"value": 784
+				}
+			},
+			"twf:color_785": {
+				"minecraft:variant": {
+					"value": 785
+				}
+			},
+			"twf:color_786": {
+				"minecraft:variant": {
+					"value": 786
+				}
+			},
+			"twf:color_787": {
+				"minecraft:variant": {
+					"value": 787
+				}
+			},
+			"twf:color_788": {
+				"minecraft:variant": {
+					"value": 788
+				}
+			},
+			"twf:color_789": {
+				"minecraft:variant": {
+					"value": 789
+				}
+			},
+			"twf:color_790": {
+				"minecraft:variant": {
+					"value": 790
+				}
+			},
+			"twf:color_791": {
+				"minecraft:variant": {
+					"value": 791
+				}
+			},
+			"twf:color_792": {
+				"minecraft:variant": {
+					"value": 792
+				}
+			},
+			"twf:color_793": {
+				"minecraft:variant": {
+					"value": 793
+				}
+			},
+			"twf:color_794": {
+				"minecraft:variant": {
+					"value": 794
+				}
+			},
+			"twf:color_795": {
+				"minecraft:variant": {
+					"value": 795
+				}
+			},
+			"twf:color_796": {
+				"minecraft:variant": {
+					"value": 796
+				}
+			},
+			"twf:color_797": {
+				"minecraft:variant": {
+					"value": 797
+				}
+			},
+			"twf:color_798": {
+				"minecraft:variant": {
+					"value": 798
+				}
+			},
+			"twf:color_799": {
+				"minecraft:variant": {
+					"value": 799
+				}
+			},
+			"twf:color_800": {
+				"minecraft:variant": {
+					"value": 800
+				}
+			},
+			"twf:color_801": {
+				"minecraft:variant": {
+					"value": 801
+				}
+			},
+			"twf:color_802": {
+				"minecraft:variant": {
+					"value": 802
+				}
+			},
+			"twf:color_803": {
+				"minecraft:variant": {
+					"value": 803
+				}
+			},
+			"twf:color_804": {
+				"minecraft:variant": {
+					"value": 804
+				}
+			},
+			"twf:color_805": {
+				"minecraft:variant": {
+					"value": 805
+				}
+			},
+			"twf:color_806": {
+				"minecraft:variant": {
+					"value": 806
+				}
+			},
+			"twf:color_807": {
+				"minecraft:variant": {
+					"value": 807
+				}
+			},
+			"twf:color_808": {
+				"minecraft:variant": {
+					"value": 808
+				}
+			},
+			"twf:color_809": {
+				"minecraft:variant": {
+					"value": 809
+				}
+			},
+			"twf:color_810": {
+				"minecraft:variant": {
+					"value": 810
+				}
+			},
+			"twf:color_811": {
+				"minecraft:variant": {
+					"value": 811
+				}
+			},
+			"twf:color_812": {
+				"minecraft:variant": {
+					"value": 812
+				}
+			},
+			"twf:color_813": {
+				"minecraft:variant": {
+					"value": 813
+				}
+			},
+			"twf:color_814": {
+				"minecraft:variant": {
+					"value": 814
+				}
+			},
+			"twf:color_815": {
+				"minecraft:variant": {
+					"value": 815
+				}
+			},
+			"twf:color_816": {
+				"minecraft:variant": {
+					"value": 816
+				}
+			},
+			"twf:color_817": {
+				"minecraft:variant": {
+					"value": 817
+				}
+			},
+			"twf:color_818": {
+				"minecraft:variant": {
+					"value": 818
+				}
+			},
+			"twf:color_819": {
+				"minecraft:variant": {
+					"value": 819
+				}
+			},
+			"twf:color_820": {
+				"minecraft:variant": {
+					"value": 820
+				}
+			},
+			"twf:color_821": {
+				"minecraft:variant": {
+					"value": 821
+				}
+			},
+			"twf:color_822": {
+				"minecraft:variant": {
+					"value": 822
+				}
+			},
+			"twf:color_823": {
+				"minecraft:variant": {
+					"value": 823
+				}
+			},
+			"twf:color_824": {
+				"minecraft:variant": {
+					"value": 824
+				}
+			},
+			"twf:color_825": {
+				"minecraft:variant": {
+					"value": 825
+				}
+			},
+			"twf:color_826": {
+				"minecraft:variant": {
+					"value": 826
+				}
+			},
+			"twf:color_827": {
+				"minecraft:variant": {
+					"value": 827
+				}
+			},
+			"twf:color_828": {
+				"minecraft:variant": {
+					"value": 828
+				}
+			},
+			"twf:color_829": {
+				"minecraft:variant": {
+					"value": 829
+				}
+			},
+			"twf:color_830": {
+				"minecraft:variant": {
+					"value": 830
+				}
+			},
+			"twf:color_831": {
+				"minecraft:variant": {
+					"value": 831
+				}
+			},
+			"twf:color_832": {
+				"minecraft:variant": {
+					"value": 832
+				}
+			},
+			"twf:color_833": {
+				"minecraft:variant": {
+					"value": 833
+				}
+			},
+			"twf:color_834": {
+				"minecraft:variant": {
+					"value": 834
+				}
+			},
+			"twf:color_835": {
+				"minecraft:variant": {
+					"value": 835
+				}
+			},
+			"twf:color_836": {
+				"minecraft:variant": {
+					"value": 836
+				}
+			},
+			"twf:color_837": {
+				"minecraft:variant": {
+					"value": 837
+				}
+			},
+			"twf:color_838": {
+				"minecraft:variant": {
+					"value": 838
+				}
+			},
+			"twf:color_839": {
+				"minecraft:variant": {
+					"value": 839
+				}
+			},
+			"twf:color_840": {
+				"minecraft:variant": {
+					"value": 840
+				}
+			},
+			"twf:color_841": {
+				"minecraft:variant": {
+					"value": 841
+				}
+			},
+			"twf:color_842": {
+				"minecraft:variant": {
+					"value": 842
+				}
+			},
+			"twf:color_843": {
+				"minecraft:variant": {
+					"value": 843
+				}
+			},
+			"twf:color_844": {
+				"minecraft:variant": {
+					"value": 844
+				}
+			},
+			"twf:color_845": {
+				"minecraft:variant": {
+					"value": 845
+				}
+			},
+			"twf:color_846": {
+				"minecraft:variant": {
+					"value": 846
+				}
+			},
+			"twf:color_847": {
+				"minecraft:variant": {
+					"value": 847
+				}
+			},
+			"twf:color_848": {
+				"minecraft:variant": {
+					"value": 848
+				}
+			},
+			"twf:color_849": {
+				"minecraft:variant": {
+					"value": 849
+				}
+			},
+			"twf:color_850": {
+				"minecraft:variant": {
+					"value": 850
+				}
+			},
+			"twf:color_851": {
+				"minecraft:variant": {
+					"value": 851
+				}
+			},
+			"twf:color_852": {
+				"minecraft:variant": {
+					"value": 852
+				}
+			},
+			"twf:color_853": {
+				"minecraft:variant": {
+					"value": 853
+				}
+			},
+			"twf:color_854": {
+				"minecraft:variant": {
+					"value": 854
+				}
+			},
+			"twf:color_855": {
+				"minecraft:variant": {
+					"value": 855
+				}
+			},
+			"twf:color_856": {
+				"minecraft:variant": {
+					"value": 856
+				}
+			},
+			"twf:color_857": {
+				"minecraft:variant": {
+					"value": 857
+				}
+			},
+			"twf:color_858": {
+				"minecraft:variant": {
+					"value": 858
+				}
+			},
+			"twf:color_859": {
+				"minecraft:variant": {
+					"value": 859
+				}
+			},
+			"twf:color_860": {
+				"minecraft:variant": {
+					"value": 860
+				}
+			},
+			"twf:color_861": {
+				"minecraft:variant": {
+					"value": 861
+				}
+			},
+			"twf:color_862": {
+				"minecraft:variant": {
+					"value": 862
+				}
+			},
+			"twf:color_863": {
+				"minecraft:variant": {
+					"value": 863
+				}
+			},
+			"twf:color_864": {
+				"minecraft:variant": {
+					"value": 864
+				}
+			},
+			"twf:color_865": {
+				"minecraft:variant": {
+					"value": 865
+				}
+			},
+			"twf:color_866": {
+				"minecraft:variant": {
+					"value": 866
+				}
+			},
+			"twf:color_867": {
+				"minecraft:variant": {
+					"value": 867
+				}
+			},
+			"twf:color_868": {
+				"minecraft:variant": {
+					"value": 868
+				}
+			},
+			"twf:color_869": {
+				"minecraft:variant": {
+					"value": 869
+				}
+			},
+			"twf:color_870": {
+				"minecraft:variant": {
+					"value": 870
+				}
+			},
+			"twf:color_871": {
+				"minecraft:variant": {
+					"value": 871
+				}
+			},
+			"twf:color_872": {
+				"minecraft:variant": {
+					"value": 872
+				}
+			},
+			"twf:color_873": {
+				"minecraft:variant": {
+					"value": 873
+				}
+			},
+			"twf:color_874": {
+				"minecraft:variant": {
+					"value": 874
+				}
+			},
+			"twf:color_875": {
+				"minecraft:variant": {
+					"value": 875
+				}
+			},
+			"twf:color_876": {
+				"minecraft:variant": {
+					"value": 876
+				}
+			},
+			"twf:color_877": {
+				"minecraft:variant": {
+					"value": 877
+				}
+			},
+			"twf:color_878": {
+				"minecraft:variant": {
+					"value": 878
+				}
+			},
+			"twf:color_879": {
+				"minecraft:variant": {
+					"value": 879
+				}
+			},
+			"twf:color_880": {
+				"minecraft:variant": {
+					"value": 880
+				}
+			},
+			"twf:color_881": {
+				"minecraft:variant": {
+					"value": 881
+				}
+			},
+			"twf:color_882": {
+				"minecraft:variant": {
+					"value": 882
+				}
+			},
+			"twf:color_883": {
+				"minecraft:variant": {
+					"value": 883
+				}
+			},
+			"twf:color_884": {
+				"minecraft:variant": {
+					"value": 884
+				}
+			},
+			"twf:color_885": {
+				"minecraft:variant": {
+					"value": 885
+				}
+			},
+			"twf:color_886": {
+				"minecraft:variant": {
+					"value": 886
+				}
+			},
+			"twf:color_887": {
+				"minecraft:variant": {
+					"value": 887
+				}
+			},
+			"twf:color_888": {
+				"minecraft:variant": {
+					"value": 888
+				}
+			},
+			"twf:color_889": {
+				"minecraft:variant": {
+					"value": 889
+				}
+			},
+			"twf:color_890": {
+				"minecraft:variant": {
+					"value": 890
+				}
+			},
+			"twf:color_891": {
+				"minecraft:variant": {
+					"value": 891
+				}
+			},
+			"twf:color_892": {
+				"minecraft:variant": {
+					"value": 892
+				}
+			},
+			"twf:color_893": {
+				"minecraft:variant": {
+					"value": 893
+				}
+			},
+			"twf:color_894": {
+				"minecraft:variant": {
+					"value": 894
+				}
+			},
+			"twf:color_895": {
+				"minecraft:variant": {
+					"value": 895
+				}
+			},
+			"twf:color_896": {
+				"minecraft:variant": {
+					"value": 896
+				}
+			},
+			"twf:color_897": {
+				"minecraft:variant": {
+					"value": 897
+				}
+			},
+			"twf:color_898": {
+				"minecraft:variant": {
+					"value": 898
+				}
+			},
+			"twf:color_899": {
+				"minecraft:variant": {
+					"value": 899
+				}
+			},
+			"twf:color_900": {
+				"minecraft:variant": {
+					"value": 900
+				}
+			},
+			"twf:color_901": {
+				"minecraft:variant": {
+					"value": 901
+				}
+			},
+			"twf:color_902": {
+				"minecraft:variant": {
+					"value": 902
+				}
+			},
+			"twf:color_903": {
+				"minecraft:variant": {
+					"value": 903
+				}
+			},
+			"twf:color_904": {
+				"minecraft:variant": {
+					"value": 904
+				}
+			},
+			"twf:color_905": {
+				"minecraft:variant": {
+					"value": 905
+				}
+			},
+			"twf:color_906": {
+				"minecraft:variant": {
+					"value": 906
+				}
+			},
+			"twf:color_907": {
+				"minecraft:variant": {
+					"value": 907
+				}
+			},
+			"twf:color_908": {
+				"minecraft:variant": {
+					"value": 908
+				}
+			},
+			"twf:color_909": {
+				"minecraft:variant": {
+					"value": 909
+				}
+			},
+			"twf:color_910": {
+				"minecraft:variant": {
+					"value": 910
+				}
+			},
+			"twf:color_911": {
+				"minecraft:variant": {
+					"value": 911
+				}
+			},
+			"twf:color_912": {
+				"minecraft:variant": {
+					"value": 912
+				}
+			},
+			"twf:color_913": {
+				"minecraft:variant": {
+					"value": 913
+				}
+			},
+			"twf:color_914": {
+				"minecraft:variant": {
+					"value": 914
+				}
+			},
+			"twf:color_915": {
+				"minecraft:variant": {
+					"value": 915
+				}
+			},
+			"twf:color_916": {
+				"minecraft:variant": {
+					"value": 916
+				}
+			},
+			"twf:color_917": {
+				"minecraft:variant": {
+					"value": 917
+				}
+			},
+			"twf:color_918": {
+				"minecraft:variant": {
+					"value": 918
+				}
+			},
+			"twf:color_919": {
+				"minecraft:variant": {
+					"value": 919
+				}
+			},
+			"twf:color_920": {
+				"minecraft:variant": {
+					"value": 920
+				}
+			},
+			"twf:color_921": {
+				"minecraft:variant": {
+					"value": 921
+				}
+			},
+			"twf:color_922": {
+				"minecraft:variant": {
+					"value": 922
+				}
+			},
+			"twf:color_923": {
+				"minecraft:variant": {
+					"value": 923
+				}
+			},
+			"twf:color_924": {
+				"minecraft:variant": {
+					"value": 924
+				}
+			},
+			"twf:color_925": {
+				"minecraft:variant": {
+					"value": 925
+				}
+			},
+			"twf:color_926": {
+				"minecraft:variant": {
+					"value": 926
+				}
+			},
+			"twf:color_927": {
+				"minecraft:variant": {
+					"value": 927
+				}
+			},
+			"twf:color_928": {
+				"minecraft:variant": {
+					"value": 928
+				}
+			},
+			"twf:color_929": {
+				"minecraft:variant": {
+					"value": 929
+				}
+			},
+			"twf:color_930": {
+				"minecraft:variant": {
+					"value": 930
+				}
+			},
+			"twf:color_931": {
+				"minecraft:variant": {
+					"value": 931
+				}
+			},
+			"twf:color_932": {
+				"minecraft:variant": {
+					"value": 932
+				}
+			},
+			"twf:color_933": {
+				"minecraft:variant": {
+					"value": 933
+				}
+			},
+			"twf:color_934": {
+				"minecraft:variant": {
+					"value": 934
+				}
+			},
+			"twf:color_935": {
+				"minecraft:variant": {
+					"value": 935
+				}
+			},
+			"twf:color_936": {
+				"minecraft:variant": {
+					"value": 936
+				}
+			},
+			"twf:color_937": {
+				"minecraft:variant": {
+					"value": 937
+				}
+			},
+			"twf:color_938": {
+				"minecraft:variant": {
+					"value": 938
+				}
+			},
+			"twf:color_939": {
+				"minecraft:variant": {
+					"value": 939
+				}
+			},
+			"twf:color_940": {
+				"minecraft:variant": {
+					"value": 940
+				}
+			},
+			"twf:color_941": {
+				"minecraft:variant": {
+					"value": 941
+				}
+			},
+			"twf:color_942": {
+				"minecraft:variant": {
+					"value": 942
+				}
+			},
+			"twf:color_943": {
+				"minecraft:variant": {
+					"value": 943
+				}
+			},
+			"twf:color_944": {
+				"minecraft:variant": {
+					"value": 944
+				}
+			},
+			"twf:color_945": {
+				"minecraft:variant": {
+					"value": 945
+				}
+			},
+			"twf:color_946": {
+				"minecraft:variant": {
+					"value": 946
+				}
+			},
+			"twf:color_947": {
+				"minecraft:variant": {
+					"value": 947
+				}
+			},
+			"twf:color_948": {
+				"minecraft:variant": {
+					"value": 948
+				}
+			},
+			"twf:color_949": {
+				"minecraft:variant": {
+					"value": 949
+				}
+			},
+			"twf:color_950": {
+				"minecraft:variant": {
+					"value": 950
+				}
+			},
+			"twf:color_951": {
+				"minecraft:variant": {
+					"value": 951
+				}
+			},
+			"twf:color_952": {
+				"minecraft:variant": {
+					"value": 952
+				}
+			},
+			"twf:color_953": {
+				"minecraft:variant": {
+					"value": 953
+				}
+			},
+			"twf:color_954": {
+				"minecraft:variant": {
+					"value": 954
+				}
+			},
+			"twf:color_955": {
+				"minecraft:variant": {
+					"value": 955
+				}
+			},
+			"twf:color_956": {
+				"minecraft:variant": {
+					"value": 956
+				}
+			},
+			"twf:color_957": {
+				"minecraft:variant": {
+					"value": 957
+				}
+			},
+			"twf:color_958": {
+				"minecraft:variant": {
+					"value": 958
+				}
+			},
+			"twf:color_959": {
+				"minecraft:variant": {
+					"value": 959
+				}
+			},
+			"twf:color_960": {
+				"minecraft:variant": {
+					"value": 960
+				}
+			},
+			"twf:color_961": {
+				"minecraft:variant": {
+					"value": 961
+				}
+			},
+			"twf:color_962": {
+				"minecraft:variant": {
+					"value": 962
+				}
+			},
+			"twf:color_963": {
+				"minecraft:variant": {
+					"value": 963
+				}
+			},
+			"twf:color_964": {
+				"minecraft:variant": {
+					"value": 964
+				}
+			},
+			"twf:color_965": {
+				"minecraft:variant": {
+					"value": 965
+				}
+			},
+			"twf:color_966": {
+				"minecraft:variant": {
+					"value": 966
+				}
+			},
+			"twf:color_967": {
+				"minecraft:variant": {
+					"value": 967
+				}
+			},
+			"twf:color_968": {
+				"minecraft:variant": {
+					"value": 968
+				}
+			},
+			"twf:color_969": {
+				"minecraft:variant": {
+					"value": 969
+				}
+			},
+			"twf:color_970": {
+				"minecraft:variant": {
+					"value": 970
+				}
+			},
+			"twf:color_971": {
+				"minecraft:variant": {
+					"value": 971
+				}
+			},
+			"twf:color_972": {
+				"minecraft:variant": {
+					"value": 972
+				}
+			},
+			"twf:color_973": {
+				"minecraft:variant": {
+					"value": 973
+				}
+			},
+			"twf:color_974": {
+				"minecraft:variant": {
+					"value": 974
+				}
+			},
+			"twf:color_975": {
+				"minecraft:variant": {
+					"value": 975
+				}
+			},
+			"twf:color_976": {
+				"minecraft:variant": {
+					"value": 976
+				}
+			},
+			"twf:color_977": {
+				"minecraft:variant": {
+					"value": 977
+				}
+			},
+			"twf:color_978": {
+				"minecraft:variant": {
+					"value": 978
+				}
+			},
+			"twf:color_979": {
+				"minecraft:variant": {
+					"value": 979
+				}
+			},
+			"twf:color_980": {
+				"minecraft:variant": {
+					"value": 980
+				}
+			},
+			"twf:color_981": {
+				"minecraft:variant": {
+					"value": 981
+				}
+			},
+			"twf:color_982": {
+				"minecraft:variant": {
+					"value": 982
+				}
+			},
+			"twf:color_983": {
+				"minecraft:variant": {
+					"value": 983
+				}
+			},
+			"twf:color_984": {
+				"minecraft:variant": {
+					"value": 984
+				}
+			},
+			"twf:color_985": {
+				"minecraft:variant": {
+					"value": 985
+				}
+			},
+			"twf:color_986": {
+				"minecraft:variant": {
+					"value": 986
+				}
+			},
+			"twf:color_987": {
+				"minecraft:variant": {
+					"value": 987
+				}
+			},
+			"twf:color_988": {
+				"minecraft:variant": {
+					"value": 988
+				}
+			},
+			"twf:color_989": {
+				"minecraft:variant": {
+					"value": 989
+				}
+			},
+			"twf:color_990": {
+				"minecraft:variant": {
+					"value": 990
+				}
+			},
+			"twf:color_991": {
+				"minecraft:variant": {
+					"value": 991
+				}
+			},
+			"twf:color_992": {
+				"minecraft:variant": {
+					"value": 992
+				}
+			},
+			"twf:color_993": {
+				"minecraft:variant": {
+					"value": 993
+				}
+			},
+			"twf:color_994": {
+				"minecraft:variant": {
+					"value": 994
+				}
+			},
+			"twf:color_995": {
+				"minecraft:variant": {
+					"value": 995
+				}
+			},
+			"twf:color_996": {
+				"minecraft:variant": {
+					"value": 996
+				}
+			},
+			"twf:color_997": {
+				"minecraft:variant": {
+					"value": 997
+				}
+			}
+
+		}
+
+	}
+}

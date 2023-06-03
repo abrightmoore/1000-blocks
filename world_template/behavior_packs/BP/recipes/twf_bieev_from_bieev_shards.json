@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:bieev_from_bieev_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:bieev_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:bieev"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

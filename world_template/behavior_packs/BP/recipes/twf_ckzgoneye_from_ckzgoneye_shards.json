@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ckzgoneye_from_ckzgoneye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:ckzgoneye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ckzgoneye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

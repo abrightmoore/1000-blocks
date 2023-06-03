@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:dromb_shards_from_dromb"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:dromb"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:dromb_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

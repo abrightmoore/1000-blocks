@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:veerenastone_from_veerenastone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:veerenastone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:veerenastone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

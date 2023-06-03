@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:mbite_from_mbite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:mbite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:mbite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

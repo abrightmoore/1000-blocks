@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erwia_shards_from_erwia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:erwia"
+            }
+        ], 
+        "result": {
+            "count": 4, 
+            "item": "twf:erwia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

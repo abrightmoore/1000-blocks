@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:crero_from_crero_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:crero_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:crero"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

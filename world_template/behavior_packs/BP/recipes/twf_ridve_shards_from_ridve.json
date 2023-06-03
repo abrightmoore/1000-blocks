@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ridve_shards_from_ridve"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ridve"
+            }
+        ], 
+        "result": {
+            "count": 8, 
+            "item": "twf:ridve_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

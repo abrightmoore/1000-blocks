@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:broyx_from_broyx_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:broyx_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:broyx"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

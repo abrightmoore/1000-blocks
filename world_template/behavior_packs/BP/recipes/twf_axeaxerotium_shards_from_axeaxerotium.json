@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:axeaxerotium_shards_from_axeaxerotium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:axeaxerotium"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:axeaxerotium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

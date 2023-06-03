@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_ecwitnedaline.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_h"
+            }, 
+            "identifier": "twf:ecwitnedaline", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#F4B2C9", 
+                "overlay_color": "#852EC2"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_ecwitnedaline"
+            }
+        }
+    }
+}

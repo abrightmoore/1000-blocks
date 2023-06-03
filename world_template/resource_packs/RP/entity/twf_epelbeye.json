@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10.0", 
+    "minecraft:client_entity": {
+        "description": {
+            "animations": {
+                "base_pose": "animation.twf_epelbeye.base_pose"
+            }, 
+            "geometry": {
+                "default": "geometry.twf_geo_h"
+            }, 
+            "identifier": "twf:epelbeye", 
+            "materials": {
+                "default": "entity"
+            }, 
+            "render_controllers": [
+                "controller.render.default"
+            ], 
+            "scripts": {}, 
+            "spawn_egg": {
+                "base_color": "#169B9C", 
+                "overlay_color": "#4DD76F"
+            }, 
+            "textures": {
+                "default": "textures/entities/twf_epelbeye"
+            }
+        }
+    }
+}

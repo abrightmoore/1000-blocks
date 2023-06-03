@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rwidroyst_from_rwidroyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:rwidroyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rwidroyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

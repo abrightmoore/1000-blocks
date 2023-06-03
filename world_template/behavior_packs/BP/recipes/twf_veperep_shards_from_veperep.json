@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:veperep_shards_from_veperep"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:veperep"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:veperep_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

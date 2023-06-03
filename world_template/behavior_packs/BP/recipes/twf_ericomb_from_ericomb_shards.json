@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ericomb_from_ericomb_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:ericomb_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ericomb"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

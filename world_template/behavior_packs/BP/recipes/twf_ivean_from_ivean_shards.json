@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ivean_from_ivean_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:ivean_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ivean"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ecbiium_shards_from_ecbiium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:ecbiium"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:ecbiium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

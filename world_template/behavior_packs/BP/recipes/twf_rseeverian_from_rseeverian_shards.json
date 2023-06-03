@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:rseeverian_from_rseeverian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:rseeverian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:rseeverian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

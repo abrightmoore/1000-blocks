@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:iverowrowium_from_iverowrowium_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:iverowrowium_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:iverowrowium"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

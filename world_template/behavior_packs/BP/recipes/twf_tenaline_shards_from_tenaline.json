@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:tenaline_shards_from_tenaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:tenaline"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:tenaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

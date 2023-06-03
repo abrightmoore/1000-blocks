@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:revep_from_revep_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:revep_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:revep"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

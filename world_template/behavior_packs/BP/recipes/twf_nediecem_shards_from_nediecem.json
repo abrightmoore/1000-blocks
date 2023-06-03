@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nediecem_shards_from_nediecem"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:nediecem"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:nediecem_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

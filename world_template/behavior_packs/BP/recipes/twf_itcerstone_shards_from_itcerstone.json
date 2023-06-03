@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:itcerstone_shards_from_itcerstone"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:itcerstone"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:itcerstone_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

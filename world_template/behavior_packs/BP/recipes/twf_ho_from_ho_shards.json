@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ho_from_ho_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:ho_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ho"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

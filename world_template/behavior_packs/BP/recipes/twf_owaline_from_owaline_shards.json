@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:owaline_from_owaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:owaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:owaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

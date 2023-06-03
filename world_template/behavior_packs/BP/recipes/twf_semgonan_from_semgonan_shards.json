@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:semgonan_from_semgonan_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 2, 
+                "item": "twf:semgonan_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:semgonan"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

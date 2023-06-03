@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ietcra_from_ietcra_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:ietcra_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ietcra"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

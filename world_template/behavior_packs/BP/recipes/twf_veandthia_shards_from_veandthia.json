@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:veandthia_shards_from_veandthia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:veandthia"
+            }
+        ], 
+        "result": {
+            "count": 9, 
+            "item": "twf:veandthia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ecnareian_from_ecnareian_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:ecnareian_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ecnareian"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

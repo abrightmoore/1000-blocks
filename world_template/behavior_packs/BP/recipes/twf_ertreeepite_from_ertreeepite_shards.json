@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:ertreeepite_from_ertreeepite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:ertreeepite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:ertreeepite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

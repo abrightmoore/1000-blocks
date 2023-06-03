@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:chperaline_from_chperaline_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:chperaline_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:chperaline"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

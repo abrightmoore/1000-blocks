@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:errivaline_shards_from_errivaline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:errivaline"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:errivaline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

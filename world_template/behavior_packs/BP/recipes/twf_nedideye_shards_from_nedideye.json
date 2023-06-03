@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:nedideye_shards_from_nedideye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:nedideye"
+            }
+        ], 
+        "result": {
+            "count": 7, 
+            "item": "twf:nedideye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

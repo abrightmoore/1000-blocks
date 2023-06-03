@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eveneepite_from_eveneepite_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:eveneepite_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:eveneepite"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

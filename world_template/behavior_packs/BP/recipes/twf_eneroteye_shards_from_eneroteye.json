@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eneroteye_shards_from_eneroteye"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:eneroteye"
+            }
+        ], 
+        "result": {
+            "count": 2, 
+            "item": "twf:eneroteye_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

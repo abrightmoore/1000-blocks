@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:veedraline_shards_from_veedraline"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:veedraline"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:veedraline_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

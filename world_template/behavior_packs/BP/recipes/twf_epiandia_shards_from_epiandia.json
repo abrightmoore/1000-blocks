@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:epiandia_shards_from_epiandia"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:epiandia"
+            }
+        ], 
+        "result": {
+            "count": 3, 
+            "item": "twf:epiandia_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

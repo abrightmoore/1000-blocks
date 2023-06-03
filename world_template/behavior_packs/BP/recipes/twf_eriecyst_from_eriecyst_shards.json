@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:eriecyst_from_eriecyst_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 8, 
+                "item": "twf:eriecyst_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:eriecyst"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

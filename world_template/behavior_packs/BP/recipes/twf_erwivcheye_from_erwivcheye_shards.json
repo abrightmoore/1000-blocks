@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:erwivcheye_from_erwivcheye_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:erwivcheye_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:erwivcheye"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

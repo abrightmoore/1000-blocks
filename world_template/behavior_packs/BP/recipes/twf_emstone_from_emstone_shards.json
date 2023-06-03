@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:emstone_from_emstone_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 3, 
+                "item": "twf:emstone_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:emstone"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

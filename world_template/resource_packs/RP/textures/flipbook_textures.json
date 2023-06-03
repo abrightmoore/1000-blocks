@@ -1,0 +1,32 @@
+[
+  {
+    "flipbook_texture": "textures/blocks/twf_gloo/a",
+    "atlas_tile": "twf_gloo",
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/twf_floo/a",
+    "atlas_tile": "twf_floo",
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/twf_ploo/a",
+    "atlas_tile": "twf_ploo",
+    "ticks_per_frame": 3
+  },
+  {
+    "flipbook_texture": "textures/blocks/twf_sloo/a",
+    "atlas_tile": "twf_sloo",
+    "ticks_per_frame": 2
+  },
+  {
+    "flipbook_texture": "textures/blocks/twf_spectrumium/a",
+    "atlas_tile": "twf_spectrumium",
+    "ticks_per_frame": 3
+  },  
+  {
+    "flipbook_texture": "textures/blocks/twf_zloo/a",
+    "atlas_tile": "twf_zloo",
+    "ticks_per_frame": 1
+  }
+]

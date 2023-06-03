@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:herperere_from_herperere_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 4, 
+                "item": "twf:herperere_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:herperere"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

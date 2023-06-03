@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:chieman_from_chieman_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:chieman_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:chieman"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

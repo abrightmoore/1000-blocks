@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:manwne_from_manwne_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 5, 
+                "item": "twf:manwne_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:manwne"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

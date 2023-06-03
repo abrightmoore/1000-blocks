@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:piivbro_from_piivbro_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 9, 
+                "item": "twf:piivbro_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:piivbro"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

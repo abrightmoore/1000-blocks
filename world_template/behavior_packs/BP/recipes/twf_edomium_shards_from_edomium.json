@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:edomium_shards_from_edomium"
+        }, 
+        "ingredients": [
+            {
+                "count": 1, 
+                "item": "twf:edomium"
+            }
+        ], 
+        "result": {
+            "count": 5, 
+            "item": "twf:edomium_item"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

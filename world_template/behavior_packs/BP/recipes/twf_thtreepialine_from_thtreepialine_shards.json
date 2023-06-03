@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12", 
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "twf:thtreepialine_from_thtreepialine_shards"
+        }, 
+        "ingredients": [
+            {
+                "count": 7, 
+                "item": "twf:thtreepialine_item"
+            }
+        ], 
+        "result": {
+            "count": 1, 
+            "item": "twf:thtreepialine"
+        }, 
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}
